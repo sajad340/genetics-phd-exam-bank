@@ -1,0 +1,1627 @@
+[
+ [
+  1,
+  "GENE CLONING AND DNA ANALYSIS\n",
+  5
+ ],
+ [
+  2,
+  "Contents",
+  9
+ ],
+ [
+  2,
+  "Preface to the Sixth Edition\n",
+  18
+ ],
+ [
+  2,
+  "PART I. The Basic Principles of Gene Cloning and DNA Analysis",
+  19
+ ],
+ [
+  3,
+  "Chapter 1 Why Gene Cloning and DNA Analysis are Important",
+  21
+ ],
+ [
+  4,
+  "1.1 The early development of genetics",
+  21
+ ],
+ [
+  4,
+  "1.2 The advent of gene cloning and the polymerase chain reaction",
+  22
+ ],
+ [
+  4,
+  "1.3 What is gene cloning?",
+  23
+ ],
+ [
+  4,
+  "1.4 What is PCR?",
+  24
+ ],
+ [
+  4,
+  "1.5 Why gene cloning and PCR are so important",
+  25
+ ],
+ [
+  5,
+  "1.5.1 Obtaining a pure sample of a gene by cloning",
+  25
+ ],
+ [
+  5,
+  "1.5.2 PCR can also be used to purify a gene",
+  27
+ ],
+ [
+  4,
+  "1.6 How to find your way through this book",
+  29
+ ],
+ [
+  3,
+  "Chapter 2 Vectors for Gene Cloning: Plasmids and Bacteriophages",
+  31
+ ],
+ [
+  4,
+  "2.1 Plasmids",
+  31
+ ],
+ [
+  5,
+  "2.1.1 Size and copy number",
+  33
+ ],
+ [
+  5,
+  "2.1.2 Conjugation and compatibility",
+  34
+ ],
+ [
+  5,
+  "2.1.3 Plasmid classification",
+  34
+ ],
+ [
+  5,
+  "2.1.4 Plasmids in organisms other than bacteria",
+  35
+ ],
+ [
+  4,
+  "2.2 Bacteriophages",
+  35
+ ],
+ [
+  5,
+  "2.2.1 The phage infection cycle",
+  36
+ ],
+ [
+  5,
+  "2.2.2 Lysogenic phages",
+  37
+ ],
+ [
+  6,
+  "Gene organization in the &#955; DNA molecule",
+  37
+ ],
+ [
+  6,
+  "The linear and circular forms of &#955; DNA",
+  37
+ ],
+ [
+  6,
+  "M13 - a filamentous phage",
+  40
+ ],
+ [
+  5,
+  "2.2.3 Viruses as cloning vectors for other organisms",
+  42
+ ],
+ [
+  3,
+  "Chapter 3 Purification of DNA from Living Cells",
+  43
+ ],
+ [
+  4,
+  "3.1 Preparation of total cell DNA",
+  43
+ ],
+ [
+  5,
+  "3.1.1 Growing and harvesting a bacterial culture",
+  44
+ ],
+ [
+  5,
+  "3.1.2 Preparation of a cell extract",
+  46
+ ],
+ [
+  5,
+  "3.1.3 Purification of DNA from a cell extract",
+  47
+ ],
+ [
+  6,
+  "Removing contaminants by organic extraction and enzyme digestion",
+  47
+ ],
+ [
+  6,
+  "Using ion-exchange chromatography to purify DNA from a cell extract",
+  48
+ ],
+ [
+  5,
+  "3.1.4 Concentration of DNA samples",
+  48
+ ],
+ [
+  5,
+  "3.1.5 Measurement of DNA concentration",
+  49
+ ],
+ [
+  5,
+  "3.1.6 Other methods for the preparation of total cell DNA",
+  50
+ ],
+ [
+  4,
+  "3.2 Preparation of plasmid DNA",
+  51
+ ],
+ [
+  5,
+  "3.2.1 Separation on the basis of size",
+  53
+ ],
+ [
+  5,
+  "3.2.2 Separation on the basis of conformation",
+  54
+ ],
+ [
+  6,
+  "Alkaline denaturation",
+  54
+ ],
+ [
+  6,
+  "Ethidium bromide-caesium chloride density gradient centrifugation",
+  54
+ ],
+ [
+  5,
+  "3.2.3 Plasmid amplification",
+  57
+ ],
+ [
+  4,
+  "3.3 Preparation of bacteriophage DNA",
+  57
+ ],
+ [
+  5,
+  "3.3.1 Growth of cultures to obtain a high &#955; titer",
+  58
+ ],
+ [
+  5,
+  "3.3.2 Preparation of non-lysogenic &#955; phages",
+  58
+ ],
+ [
+  5,
+  "3.3.3 Collection of phages from an infected culture",
+  60
+ ],
+ [
+  5,
+  "3.3.4 Purification of DNA from &#955; phage particles",
+  60
+ ],
+ [
+  5,
+  "3.3.5 Purification of M13 DNA causes few problems",
+  61
+ ],
+ [
+  3,
+  "Chapter 4 Manipulation of Purified DNA",
+  63
+ ],
+ [
+  4,
+  "4.1 The range of DNA manipulative enzymes",
+  64
+ ],
+ [
+  5,
+  "4.1.1 Nucleases",
+  64
+ ],
+ [
+  5,
+  "4.1.2 Ligases",
+  65
+ ],
+ [
+  5,
+  "4.1.3 Polymerases",
+  66
+ ],
+ [
+  5,
+  "4.1.4 DNA modifying enzymes",
+  67
+ ],
+ [
+  4,
+  "4.2 Enzymes for cutting DNA - restriction endonucleases",
+  68
+ ],
+ [
+  5,
+  "4.2.1 The discovery and function of restriction endonucleases",
+  69
+ ],
+ [
+  5,
+  "4.2.2 Type II restriction endonucleases cut DNA at specific nucleotide sequences",
+  70
+ ],
+ [
+  5,
+  "4.2.3 Blunt ends and sticky ends",
+  71
+ ],
+ [
+  5,
+  "4.2.4 The frequency of recognition sequences in a DNA molecule",
+  71
+ ],
+ [
+  5,
+  "4.2.5 Performing a restriction digest in the laboratory",
+  72
+ ],
+ [
+  5,
+  "4.2.6 Analyzing the result of restriction endonuclease cleavage",
+  74
+ ],
+ [
+  6,
+  "Separation of molecules by gel electrophoresis",
+  75
+ ],
+ [
+  6,
+  "Visualizing DNA molecules in an agarose gel",
+  76
+ ],
+ [
+  5,
+  "4.2.7 Estimation of the sizes of DNA molecules",
+  76
+ ],
+ [
+  5,
+  "4.2.8 Mapping the positions of different restriction sites in a DNA molecule",
+  77
+ ],
+ [
+  5,
+  "4.2.9 Special gel electrophoresis methods for separating larger molecules",
+  78
+ ],
+ [
+  4,
+  "4.3 Ligation - joining DNA molecules together",
+  81
+ ],
+ [
+  5,
+  "4.3.1 The mode of action of DNA ligase",
+  81
+ ],
+ [
+  5,
+  "4.3.2 Sticky ends increase the efficiency of ligation",
+  82
+ ],
+ [
+  5,
+  "4.3.3 Putting sticky ends onto a blunt-ended molecule",
+  82
+ ],
+ [
+  6,
+  "Linkers",
+  82
+ ],
+ [
+  6,
+  "Adaptors",
+  83
+ ],
+ [
+  6,
+  "Producing sticky ends by homopolymer tailing",
+  85
+ ],
+ [
+  5,
+  "4.3.4 Blunt end ligation with a DNA topoisomerase",
+  87
+ ],
+ [
+  3,
+  "Chapter 5 Introduction of DNA into Living Cells",
+  90
+ ],
+ [
+  4,
+  "5.1 Transformation - the uptake of DNA by bacterial cells",
+  92
+ ],
+ [
+  5,
+  "5.1.1 Not all species of bacteria are equally efficient at DNA uptake",
+  92
+ ],
+ [
+  5,
+  "5.1.2 Preparation of competent E.coli cells",
+  93
+ ],
+ [
+  5,
+  "5.1.3 Selection for transformed cells",
+  93
+ ],
+ [
+  4,
+  "5.2 Identification of recombinants",
+  94
+ ],
+ [
+  5,
+  "5.2.1 Recombinant selection with pBR322 - insertional inactivation of an antibiotic resistance gene",
+  95
+ ],
+ [
+  5,
+  "5.2.2 Insertional inactivation does not always involve antibiotic resistance",
+  97
+ ],
+ [
+  4,
+  "5.3 Introduction of phage DNA into bacterial cells",
+  99
+ ],
+ [
+  5,
+  "5.3.1 Transfection",
+  99
+ ],
+ [
+  5,
+  "5.3.2 In vitro packaging of &#955; cloning vectors",
+  99
+ ],
+ [
+  5,
+  "5.3.3 Phage infection is visualized as plaques on an agar medium",
+  99
+ ],
+ [
+  4,
+  "5.4 Identification of recombinant phages",
+  101
+ ],
+ [
+  5,
+  "5.4.1 Insertional inactivation of a lacZ' gene carried by the phage vector\n",
+  101
+ ],
+ [
+  5,
+  "5.4.2 Insertional inactivation of the &#955; cI gene",
+  101
+ ],
+ [
+  5,
+  "5.4.3 Selection using the Spi phenotype",
+  101
+ ],
+ [
+  5,
+  "5.4.4 Selection on the basis of &#955; genome size",
+  102
+ ],
+ [
+  4,
+  "5.5 Introduction of DNA into non-bacterial cells",
+  103
+ ],
+ [
+  5,
+  "5.5.1 Transformation of individual cells",
+  103
+ ],
+ [
+  5,
+  "5.5.2 Transformation of whole organisms",
+  103
+ ],
+ [
+  3,
+  "Chapter 6 Cloning Vectors for E.coli",
+  106
+ ],
+ [
+  4,
+  "6.1 Cloning vectors based on E.coli plasmids",
+  107
+ ],
+ [
+  5,
+  "6.1.1 The nomenclature of plasmid cloning vectors",
+  107
+ ],
+ [
+  5,
+  "6.1.2 The useful properties of pBR322",
+  107
+ ],
+ [
+  5,
+  "6.1.3 The pedigree of pBR322",
+  108
+ ],
+ [
+  5,
+  "6.1.4 More sophisticated E.coli plasmid cloning vectors",
+  108
+ ],
+ [
+  6,
+  "pUC8 - a Lac selection plasmid",
+  110
+ ],
+ [
+  6,
+  "pGEM3Z - in vitro transcription of cloned DNA",
+  111
+ ],
+ [
+  4,
+  "6.2 Cloning vectors based on M13 bacteriophage",
+  112
+ ],
+ [
+  5,
+  "6.2.1 How to construct a phage cloning vector",
+  112
+ ],
+ [
+  5,
+  "6.2.2 Hybrid plasmid–M13 vectors",
+  114
+ ],
+ [
+  4,
+  "6.3 Cloning vectors based on &#955; bacteriophage",
+  115
+ ],
+ [
+  5,
+  "6.3.1 Segments of the &#955; genome can impairing viability",
+  116
+ ],
+ [
+  5,
+  "6.3.2 Natural selection can be used to isolate modified &#955; that lack certain restriction sites",
+  116
+ ],
+ [
+  5,
+  "6.3.3 Insertion and replacement vectors",
+  116
+ ],
+ [
+  6,
+  "Insertion vectors",
+  117
+ ],
+ [
+  6,
+  "Replacement vectors",
+  118
+ ],
+ [
+  5,
+  "6.3.4 Cloning experiments with &#955; insertion or replacement vectors",
+  118
+ ],
+ [
+  5,
+  "6.3.5 Long DNA fragments can be cloned using a cosmid",
+  119
+ ],
+ [
+  4,
+  "6.4 8 and other high-capacity vectors enable genomic libraries to be constructed",
+  120
+ ],
+ [
+  4,
+  "6.5 Vectors for other bacteria",
+  122
+ ],
+ [
+  3,
+  "Chapter 7 Cloning Vectors for Eukaryotes",
+  123
+ ],
+ [
+  4,
+  "7.1 Vectors for yeast and other fungi",
+  123
+ ],
+ [
+  5,
+  "7.1.1 Selectable markers for the 2 (&#956;m plasmid",
+  124
+ ],
+ [
+  5,
+  "7.1.2 Vectors based on the 2 (&#956;m plasmid - yeast episomal \nplasmids",
+  124
+ ],
+ [
+  5,
+  "7.1.3 A YEp may insert into yeast chromosomal DNA",
+  125
+ ],
+ [
+  5,
+  "7.1.4 Other types of yeast cloning vector",
+  126
+ ],
+ [
+  5,
+  "7.1.5 Artificial chromosomes can be used to clone long pieces of DNA in yeast",
+  128
+ ],
+ [
+  6,
+  "The structure and use of a YAC vector",
+  128
+ ],
+ [
+  6,
+  "Applications for YAC vectors",
+  129
+ ],
+ [
+  5,
+  "7.1.6 Vectors for other yeasts and fungi",
+  130
+ ],
+ [
+  4,
+  "7.2 Cloning vectors for higher plants",
+  130
+ ],
+ [
+  5,
+  "7.2.1 Agrobacterium tumefaciens - nature ’s smallest genetic engineer",
+  131
+ ],
+ [
+  6,
+  "Using the Ti plasmid to introduce new genes into a plant cell",
+  131
+ ],
+ [
+  6,
+  "Production of transformed plants with the Ti plasmid",
+  133
+ ],
+ [
+  6,
+  "The Ri plasmid",
+  135
+ ],
+ [
+  6,
+  "Limitations of cloning with Agrobacterium plasmids",
+  135
+ ],
+ [
+  5,
+  "7.2.2 Cloning genes in plants by direct gene transfer",
+  136
+ ],
+ [
+  6,
+  "Direct gene transfer into the nucleus",
+  136
+ ],
+ [
+  6,
+  "Transfer of genes into the chloroplast genome",
+  137
+ ],
+ [
+  5,
+  "7.2.3 Attempts to use plant viruses as cloning vectors",
+  137
+ ],
+ [
+  6,
+  "Caulimovirus vectors",
+  138
+ ],
+ [
+  6,
+  "Geminivirus vectors",
+  138
+ ],
+ [
+  4,
+  "7.3 Cloning vectors for animals",
+  138
+ ],
+ [
+  5,
+  "7.3.1 Cloning vectors for insects",
+  139
+ ],
+ [
+  6,
+  "P elements as cloning vectors for Drosophila",
+  139
+ ],
+ [
+  6,
+  "Cloning vectors based on insect viruses",
+  140
+ ],
+ [
+  5,
+  "7.3.2 Cloning in mammals",
+  140
+ ],
+ [
+  6,
+  "Viruses as cloning vectors for mammals",
+  141
+ ],
+ [
+  6,
+  "Gene cloning without a vector",
+  142
+ ],
+ [
+  3,
+  "Chapter 8 How to Obtain a Clone of a Specific Gene",
+  144
+ ],
+ [
+  4,
+  "8.1 The problem of selection",
+  144
+ ],
+ [
+  5,
+  "8.1.1 There are two basic strategies for obtaining the clone\n\nyou want",
+  145
+ ],
+ [
+  4,
+  "8.2 Direct selection",
+  146
+ ],
+ [
+  5,
+  "8.2.1 Marker rescue extends the scope of direct selection",
+  147
+ ],
+ [
+  5,
+  "8.2.2 The scope and limitations of marker rescue",
+  148
+ ],
+ [
+  4,
+  "8.3 Identi .cation of a clone from a gene library",
+  149
+ ],
+ [
+  5,
+  "8.3.1 Gene libraries",
+  149
+ ],
+ [
+  5,
+  "8.3.2 Not all genes are expressed at the same time",
+  149
+ ],
+ [
+  5,
+  "8.3.3 mRNA can be cloned as complementary DNA",
+  151
+ ],
+ [
+  4,
+  "8.4 Methods for clone identification",
+  151
+ ],
+ [
+  5,
+  "8.4.1 Complementary nucleic acid strands hybridize to each other",
+  151
+ ],
+ [
+  5,
+  "8.4.2 Colony and plaque hybridization probing",
+  151
+ ],
+ [
+  6,
+  "Labeling with a radioactive marker",
+  154
+ ],
+ [
+  6,
+  "Non-radioactive labeling",
+  155
+ ],
+ [
+  5,
+  "8.4.3 Examples of the practical use of hybridization probing",
+  155
+ ],
+ [
+  6,
+  "Abundancy probing to analyze a cDNA library",
+  155
+ ],
+ [
+  6,
+  "Oligonucleotide probes for genes whose translation products have been characterized",
+  156
+ ],
+ [
+  6,
+  "Heterologous probing allows related genes to be identified",
+  159
+ ],
+ [
+  6,
+  "Southern hybridization enables a specific restriction fragment containing a gene to be identified",
+  160
+ ],
+ [
+  5,
+  "8.4.4 Identification methods based on detection of the translation product of the cloned gene",
+  162
+ ],
+ [
+  6,
+  "Antibodies are required for immunological detection methods",
+  162
+ ],
+ [
+  6,
+  "Using a purified antibody to detect protein in recombinant colonies",
+  163
+ ],
+ [
+  6,
+  "The problem of gene expression",
+  164
+ ],
+ [
+  3,
+  "Chapter 9 The Polymerase Chain Reaction",
+  165
+ ],
+ [
+  4,
+  "9.1 The polymerase chain reaction in outline",
+  165
+ ],
+ [
+  4,
+  "9.2 PCR in more detail",
+  167
+ ],
+ [
+  5,
+  "9.2.1 Designing the oligonucleotide primers for a PCR",
+  167
+ ],
+ [
+  5,
+  "9.2.2 Working out the correct temperatures to use",
+  170
+ ],
+ [
+  4,
+  "9.3 After the PCR: studying PCR products",
+  171
+ ],
+ [
+  5,
+  "9.3.1 Gel electrophoresis of PCR products",
+  172
+ ],
+ [
+  5,
+  "9.3.2 Cloning PCR products",
+  172
+ ],
+ [
+  5,
+  "9.3.3 Problems with the error rate of Taq polymerase",
+  175
+ ],
+ [
+  4,
+  "9.4 Real-time PCR enables the amount of starting material to be quantified",
+  176
+ ],
+ [
+  5,
+  "9.4.1 Carrying out a quantitative PCR experiment",
+  177
+ ],
+ [
+  5,
+  "9.4.2 Real-time PCR can also quantify RNA",
+  178
+ ],
+ [
+  2,
+  "PART II The Applications of Gene Cloning and DNA Analysis in Research",
+  181
+ ],
+ [
+  3,
+  "Chapter 10 Sequencing Genes and Genomes",
+  183
+ ],
+ [
+  4,
+  "10.1 The methodology for DNA sequencing",
+  183
+ ],
+ [
+  5,
+  "10.1.1 Chain termination DNA sequencing",
+  184
+ ],
+ [
+  6,
+  "Chain termination sequencing in outline",
+  184
+ ],
+ [
+  6,
+  "Not all DNA polymerases can be used for sequencing",
+  186
+ ],
+ [
+  6,
+  "Chain termination sequencing requires a single-stranded DNA template",
+  187
+ ],
+ [
+  6,
+  "The primer determines the region of the template DNA that will be sequenced",
+  187
+ ],
+ [
+  5,
+  "10.1.2 Pyrosequencing",
+  189
+ ],
+ [
+  6,
+  "Pyrosequencing involves detection of pulses of chemiluminescence",
+  189
+ ],
+ [
+  6,
+  "Massively parallel pyrosequencing",
+  189
+ ],
+ [
+  4,
+  "10.2 How to sequence a genome",
+  191
+ ],
+ [
+  5,
+  "10.2.1 The shotgun approach to genome sequencing",
+  192
+ ],
+ [
+  6,
+  "The Haemophilus influenzae genome sequencing project",
+  192
+ ],
+ [
+  6,
+  "Problems with shotgun sequencing",
+  194
+ ],
+ [
+  5,
+  "10.2.2 The clone contig approach",
+  195
+ ],
+ [
+  6,
+  "Clone contig assembly by chromosome walking",
+  195
+ ],
+ [
+  6,
+  "Rapid methods for clone contig assembly",
+  196
+ ],
+ [
+  6,
+  "Clone contig assembly by sequence tagged site content analysis",
+  197
+ ],
+ [
+  5,
+  "10.2.3 Using a map to aid sequence assembly",
+  198
+ ],
+ [
+  6,
+  "Genetic maps",
+  198
+ ],
+ [
+  6,
+  "Physical maps",
+  199
+ ],
+ [
+  6,
+  "The importance of a map in sequence assembly",
+  201
+ ],
+ [
+  3,
+  "Chapter 11 Studying Gene Expression and \nFunction",
+  203
+ ],
+ [
+  4,
+  "11.1 Studying the RNA transcript of a gene",
+  204
+ ],
+ [
+  5,
+  "11.1.1 Detecting the presence of a transcript and determining its nucleotide sequence",
+  204
+ ],
+ [
+  5,
+  "11.1.2 Transcript mapping by hybridization between gene and RNA",
+  206
+ ],
+ [
+  5,
+  "11.1.3 Transcript analysis by primer extension",
+  208
+ ],
+ [
+  5,
+  "11.1.4 Transcript analysis by PCR",
+  209
+ ],
+ [
+  4,
+  "11.2 Studying the regulation of gene expression",
+  210
+ ],
+ [
+  5,
+  "11.2.1 Identifying protein binding sites on a DNA molecule",
+  211
+ ],
+ [
+  6,
+  "Footprinting with DNase I",
+  212
+ ],
+ [
+  6,
+  "Modification interference assays",
+  212
+ ],
+ [
+  5,
+  "11.2.2 Identifying control sequences by deletion analysis",
+  215
+ ],
+ [
+  6,
+  "Reporter genes",
+  215
+ ],
+ [
+  6,
+  "Carrying out a deletion analysis",
+  216
+ ],
+ [
+  4,
+  "11.3 Identifying and studying the translation product of a cloned gene",
+  217
+ ],
+ [
+  5,
+  "11.3.1 HRT and HART can identify the translation product of a cloned gene",
+  217
+ ],
+ [
+  5,
+  "11.3.2 Analysis of proteins by in vitro mutagenesis",
+  218
+ ],
+ [
+  6,
+  "Different types of in vitro mutagenesis techniques",
+  220
+ ],
+ [
+  6,
+  "Using an oligonucleotide to create a point mutation in a cloned gene",
+  221
+ ],
+ [
+  6,
+  "Other methods of creating a point mutation in a cloned gene",
+  222
+ ],
+ [
+  6,
+  "The potential of in vitro mutagenesis",
+  223
+ ],
+ [
+  3,
+  "Chapter 12 Studying Genomes",
+  225
+ ],
+ [
+  4,
+  "12.1 Genome annotation",
+  225
+ ],
+ [
+  5,
+  "12.1.1 Identifying the genes in a genome sequence",
+  226
+ ],
+ [
+  6,
+  "Searching for open reading frames",
+  226
+ ],
+ [
+  6,
+  "Simple ORF scans are less effective at locating genes in eukaryotic genomes",
+  227
+ ],
+ [
+  6,
+  "Gene location is aided by homology searching",
+  228
+ ],
+ [
+  6,
+  "Comparing the sequences of related genomes",
+  229
+ ],
+ [
+  5,
+  "12.1.2 Determining the function of an unknown gene",
+  230
+ ],
+ [
+  6,
+  "Assigning gene function by experimental analysis requires a reverse approach to genetics",
+  230
+ ],
+ [
+  6,
+  "Specific genes can be inactivated by homologous recombination",
+  231
+ ],
+ [
+  4,
+  "12.2 Studies of the transcriptome and proteome",
+  232
+ ],
+ [
+  5,
+  "12.2.1 Studying the transcriptome",
+  233
+ ],
+ [
+  6,
+  "Studying a transcriptome by sequence analysis",
+  233
+ ],
+ [
+  6,
+  "Studying transcriptomes by microarray or chip analysis",
+  233
+ ],
+ [
+  5,
+  "12.2.2 Studying the proteome",
+  235
+ ],
+ [
+  6,
+  "Separating the proteins in a proteome",
+  235
+ ],
+ [
+  6,
+  "Identifying the individual proteins after separation",
+  236
+ ],
+ [
+  5,
+  "12.2.3 Studying protein-protein interactions",
+  238
+ ],
+ [
+  6,
+  "Phage display",
+  238
+ ],
+ [
+  6,
+  "The yeast two hybrid system",
+  238
+ ],
+ [
+  2,
+  "PART III The Applications of Gene Cloning and DNA Analysis in Biotechnology",
+  241
+ ],
+ [
+  3,
+  "Chapter 13 Production of Protein from Cloned Genes",
+  243
+ ],
+ [
+  4,
+  "13.1 Special vectors for expression of foreign genes in E.coli",
+  245
+ ],
+ [
+  5,
+  "13.1.1 The promoter is the critical component of an expression vector",
+  246
+ ],
+ [
+  6,
+  "The promoter must be chosen with care",
+  246
+ ],
+ [
+  6,
+  "Examples of promoters used in expression vectors",
+  249
+ ],
+ [
+  5,
+  "13.1.2 Cassettes and gene fusions",
+  250
+ ],
+ [
+  4,
+  "13.2 General problems with the production of recombinant protein in E.coli",
+  252
+ ],
+ [
+  5,
+  "13.2.1 Problems resulting from the sequence of the foreign gene",
+  253
+ ],
+ [
+  5,
+  "13.2.2 Problems caused by E.coli",
+  254
+ ],
+ [
+  4,
+  "13.3 Production of recombinant protein by eukaryotic cells",
+  255
+ ],
+ [
+  5,
+  "13.3.1 Recombinant protein from yeast and filamentous fungi",
+  255
+ ],
+ [
+  6,
+  "Saccharomyces cerevisiae as the host for recombinant protein synthesis",
+  255
+ ],
+ [
+  6,
+  "Other yeasts and fungi",
+  256
+ ],
+ [
+  5,
+  "13.3.2 Using animal cells for recombinant protein production",
+  257
+ ],
+ [
+  6,
+  "Protein production in mammalian cells",
+  257
+ ],
+ [
+  6,
+  "Protein production in insect cells",
+  258
+ ],
+ [
+  5,
+  "13.3.3 Pharming - recombinant protein from live animals and plants",
+  259
+ ],
+ [
+  6,
+  "Pharming in animals",
+  259
+ ],
+ [
+  6,
+  "Recombinant proteins from plants",
+  260
+ ],
+ [
+  6,
+  "Ethical concerns raised by pharming",
+  261
+ ],
+ [
+  3,
+  "Chapter 14 Gene Cloning and DNA Analysis in Medicine",
+  263
+ ],
+ [
+  4,
+  "14.1 Production of recombinant pharmaceuticals",
+  263
+ ],
+ [
+  5,
+  "14.1.1 Recombinant insulin",
+  264
+ ],
+ [
+  6,
+  "Synthesis and expression of artificial insulin genes",
+  265
+ ],
+ [
+  5,
+  "14.1.2 Synthesis of human growth hormones in E.coli",
+  265
+ ],
+ [
+  5,
+  "14.1.3 Recombinant factor VIII",
+  267
+ ],
+ [
+  5,
+  "14.1.4 Synthesis of other recombinant human proteins",
+  269
+ ],
+ [
+  5,
+  "14.1.5 Recombinant vaccines",
+  270
+ ],
+ [
+  6,
+  "Producing vaccines as recombinant proteins",
+  270
+ ],
+ [
+  6,
+  "Recombinant vaccines in transgenic plants",
+  271
+ ],
+ [
+  6,
+  "Live recombinant virus vaccines",
+  271
+ ],
+ [
+  4,
+  "14.2 Identification of genes responsible for human diseases",
+  273
+ ],
+ [
+  5,
+  "14.2.1 How to identify a gene for a genetic disease",
+  274
+ ],
+ [
+  6,
+  "Locating the approximate position of the gene in the human genome",
+  274
+ ],
+ [
+  6,
+  "Identification of candidates for the disease gene",
+  276
+ ],
+ [
+  4,
+  "14.3 Gene therapy",
+  277
+ ],
+ [
+  5,
+  "14.3.1 Gene therapy for inherited diseases",
+  277
+ ],
+ [
+  5,
+  "14.3.2 Gene therapy and cancer",
+  278
+ ],
+ [
+  5,
+  "14.3.3 The ethical issues raised by gene therapy",
+  280
+ ],
+ [
+  3,
+  "Chapter 15 Gene Cloning and DNA Analysis in Agriculture",
+  282
+ ],
+ [
+  4,
+  "15.1 The gene addition approach to plant genetic engineering",
+  283
+ ],
+ [
+  5,
+  "15.1.1 Plants that make their own insecticides",
+  283
+ ],
+ [
+  6,
+  "The &#948;-endotoxins of Bacillus thuringiensis",
+  283
+ ],
+ [
+  6,
+  "Cloning a &#948;-endotoxin gene in maize",
+  284
+ ],
+ [
+  6,
+  "Cloning &#948;-endotoxin genes in chloroplasts",
+  286
+ ],
+ [
+  6,
+  "Countering insect resistance to &#948;-endotoxin crops",
+  287
+ ],
+ [
+  5,
+  "15.1.2 Herbicide resistant crops",
+  288
+ ],
+ [
+  6,
+  "“Roundup Ready” crops",
+  289
+ ],
+ [
+  6,
+  "A new generation of glyphosate resistant crops",
+  290
+ ],
+ [
+  5,
+  "15.1.3 Other gene addition projects",
+  291
+ ],
+ [
+  4,
+  "15.2 Gene subtraction",
+  292
+ ],
+ [
+  5,
+  "15.2.1 Antisense RNA and the engineering of fruit ripening in\n\ntomato",
+  292
+ ],
+ [
+  6,
+  "Using antisense RNA to inactivate the polygalacturonase gene",
+  292
+ ],
+ [
+  6,
+  "Using antisense RNA to inactivate ethylene synthesis",
+  294
+ ],
+ [
+  5,
+  "15.2.2 Other examples of the use of antisense RNA in plant\n\ngenetic engineering",
+  294
+ ],
+ [
+  4,
+  "15.3 Problems with genetically modified plants",
+  295
+ ],
+ [
+  5,
+  "15.3.1 Safety concerns with selectable markers",
+  295
+ ],
+ [
+  5,
+  "15.3.2 The terminator technology",
+  296
+ ],
+ [
+  5,
+  "15.3.3 The possibility of harmful effects on the environment",
+  297
+ ],
+ [
+  3,
+  "Chapter 16 Gene Cloning and DNA Analysis in Forensic Science and Archaeology",
+  300
+ ],
+ [
+  4,
+  "16.1 DNA analysis in the identification of crime suspects",
+  301
+ ],
+ [
+  5,
+  "16.1.1 Genetic fingerprinting by hybridization probing",
+  301
+ ],
+ [
+  5,
+  "16.1.2 DNA profiling by PCR of short tandem repeats",
+  301
+ ],
+ [
+  4,
+  "16.2 Studying kinship by DNA profiling",
+  304
+ ],
+ [
+  5,
+  "16.2.1 Related individuals have similar DNA profiles",
+  304
+ ],
+ [
+  5,
+  "16.2.2 DNA profiling and the remains of the Romanovs",
+  304
+ ],
+ [
+  6,
+  "STR analysis of the Romanov bones",
+  304
+ ],
+ [
+  6,
+  "Mitochondrial DNA was used to link the Romanov skeletons with living relatives",
+  305
+ ],
+ [
+  6,
+  "The missing children",
+  307
+ ],
+ [
+  4,
+  "16.3 Sex identification by DNA analysis",
+  307
+ ],
+ [
+  5,
+  "16.3.1 PCRs directed at Y chromosome-specific sequences",
+  307
+ ],
+ [
+  5,
+  "16.3.2 PCR of the amelogenin gene",
+  308
+ ],
+ [
+  4,
+  "16.4 Archaeogenetics - using DNA to study human prehistory",
+  309
+ ],
+ [
+  5,
+  "16.4.1 The origins of modern humans",
+  309
+ ],
+ [
+  6,
+  "DNA analysis has challenged the multiregional hypothesis",
+  309
+ ],
+ [
+  6,
+  "DNA analysis shows that Neanderthals are not the ancestors of modern Europeans",
+  311
+ ],
+ [
+  5,
+  "16.4.2 DNA can also be used to study prehistoric human migrations",
+  312
+ ],
+ [
+  6,
+  "The spread of agriculture into Europe",
+  312
+ ],
+ [
+  6,
+  "Using mitochondrial DNA to study past human migrations into Europe",
+  312
+ ],
+ [
+  2,
+  "Glossary",
+  316
+ ],
+ [
+  2,
+  "Index",
+  330
+ ]
+]

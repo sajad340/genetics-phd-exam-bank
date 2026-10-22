@@ -1,0 +1,382 @@
+[
+ [
+  1,
+  "Cover",
+  1
+ ],
+ [
+  1,
+  "Harper's Illustrated Biochemistry",
+  2
+ ],
+ [
+  1,
+  "Copyright",
+  3
+ ],
+ [
+  1,
+  "Co-Authors",
+  4
+ ],
+ [
+  1,
+  "Contents",
+  6
+ ],
+ [
+  1,
+  "Preface",
+  10
+ ],
+ [
+  1,
+  "Section I Structures & Functions of Proteins & Enzymes",
+  12
+ ],
+ [
+  2,
+  "1 Biochemistry & Medicine",
+  12
+ ],
+ [
+  2,
+  "2 Water & pH",
+  17
+ ],
+ [
+  2,
+  "3 Amino Acids & Peptides",
+  26
+ ],
+ [
+  2,
+  "4 Proteins: Determination of Primary Structure",
+  35
+ ],
+ [
+  2,
+  "5 Proteins: Higher Orders of Structure",
+  45
+ ],
+ [
+  1,
+  "Section II Enzymes: Kinetics, Mechanism, Regulation, & Role of Transition Metals",
+  60
+ ],
+ [
+  2,
+  "6 Proteins: Myoglobin & Hemoglobin",
+  60
+ ],
+ [
+  2,
+  "7 Enzymes: Mechanism of Action",
+  70
+ ],
+ [
+  2,
+  "8 Enzymes: Kinetics",
+  82
+ ],
+ [
+  2,
+  "9 Enzymes: Regulation of Activities",
+  96
+ ],
+ [
+  2,
+  "10 The Biochemical Roles of Transition Metals",
+  107
+ ],
+ [
+  1,
+  "Section III Bioenergetics",
+  120
+ ],
+ [
+  2,
+  "11 Bioenergetics: The Role of ATP",
+  120
+ ],
+ [
+  2,
+  "12 Biologic Oxidation",
+  126
+ ],
+ [
+  2,
+  "13 The Respiratory Chain & Oxidative Phosphorylation",
+  132
+ ],
+ [
+  1,
+  "Section IV Metabolism of Carbohydrates",
+  144
+ ],
+ [
+  2,
+  "14 Overview of Metabolism & the Provision of Metabolic Fuels",
+  144
+ ],
+ [
+  2,
+  "15 Saccharides (ie, Carbohydrates) of Physiological Significance",
+  158
+ ],
+ [
+  2,
+  "16 The Citric Acid Cycle: A Pathway Central to Carbohydrate, Lipid, & Amino Acid Metabolism",
+  167
+ ],
+ [
+  2,
+  "17 Glycolysis & the Oxidation of Pyruvate",
+  174
+ ],
+ [
+  2,
+  "18 Metabolism of Glycogen",
+  182
+ ],
+ [
+  2,
+  "19 Gluconeogenesis & the Control of Blood Glucose",
+  191
+ ],
+ [
+  2,
+  "20 The Pentose Phosphate Pathway & Other Pathways of Hexose Metabolism",
+  202
+ ],
+ [
+  1,
+  "Section V Metabolism of Lipids",
+  216
+ ],
+ [
+  2,
+  "21 Lipids of Physiologic Significance",
+  216
+ ],
+ [
+  2,
+  "22 Oxidation of Fatty Acids: Ketogenesis",
+  228
+ ],
+ [
+  2,
+  "23 Biosynthesis of Fatty Acids & Eicosanoids",
+  237
+ ],
+ [
+  2,
+  "24 Metabolism of Acylglycerols & Sphingolipids",
+  250
+ ],
+ [
+  2,
+  "25 Lipid Transport & Storage",
+  258
+ ],
+ [
+  2,
+  "26 Cholesterol Synthesis, Transport, & Excretion",
+  270
+ ],
+ [
+  1,
+  "Section VI Metabolism of Proteins & Amino Acids",
+  284
+ ],
+ [
+  2,
+  "27 Biosynthesis of the Nutritionally Nonessential Amino Acids",
+  284
+ ],
+ [
+  2,
+  "28 Catabolism of Proteins & of Amino Acid Nitrogen",
+  290
+ ],
+ [
+  2,
+  "29 Catabolism of the Carbon skeletons of Amino Acids",
+  301
+ ],
+ [
+  2,
+  "30 Conversion of Amino Acids to Specialized Products",
+  317
+ ],
+ [
+  2,
+  "31 Porphyrins & Bile Pigments",
+  326
+ ],
+ [
+  1,
+  "Section VII Structure, Function, & Replication of Informational Macromolecules",
+  340
+ ],
+ [
+  2,
+  "32 Nucleotides",
+  340
+ ],
+ [
+  2,
+  "33 Metabolism of Purine & Pyrimidine Nucleotides",
+  348
+ ],
+ [
+  2,
+  "34 Nucleic Acid Structure & Function",
+  359
+ ],
+ [
+  2,
+  "35 DNA Organization, Replication, & Repair",
+  371
+ ],
+ [
+  2,
+  "36 RNA Synthesis, Processing, & Modification",
+  395
+ ],
+ [
+  2,
+  "37 Protein Synthesis & the Genetic Code",
+  415
+ ],
+ [
+  2,
+  "38 Regulation of Gene Expression",
+  431
+ ],
+ [
+  2,
+  "39 Molecular Genetics, Recombinant DNA, & Genomic Technology",
+  455
+ ],
+ [
+  1,
+  "Section VIII Biochemistry of Extracellular & Intracellular Communication",
+  478
+ ],
+ [
+  2,
+  "40 Membranes: Structure & Function",
+  478
+ ],
+ [
+  2,
+  "41 The Diversity of the Endocrine System",
+  499
+ ],
+ [
+  2,
+  "42 Hormone Action & Signal Transduction",
+  519
+ ],
+ [
+  1,
+  "Section IX Special Topics (A)",
+  538
+ ],
+ [
+  2,
+  "43 Nutrition, Digestion, & Absorption",
+  538
+ ],
+ [
+  2,
+  "44 Micronutrients: Vitamins & Minerals",
+  546
+ ],
+ [
+  2,
+  "45 Free Radicals & Antioxidant Nutrients",
+  560
+ ],
+ [
+  2,
+  "46 Glycoproteins",
+  565
+ ],
+ [
+  2,
+  "47 Metabolism of Xenobiotics",
+  575
+ ],
+ [
+  2,
+  "48 Clinical Biochemistry",
+  579
+ ],
+ [
+  1,
+  "Section X Special Topics (B)",
+  592
+ ],
+ [
+  2,
+  "49 Intracellular Traffic & Sorting of Proteins",
+  592
+ ],
+ [
+  2,
+  "50 The Extracellular Matrix",
+  610
+ ],
+ [
+  2,
+  "51 Muscle & the Cytoskeleton",
+  629
+ ],
+ [
+  2,
+  "52 Plasma Proteins & Immunoglobulins",
+  645
+ ],
+ [
+  2,
+  "53 Red Blood Cells",
+  664
+ ],
+ [
+  2,
+  "54 White Blood Cells",
+  675
+ ],
+ [
+  1,
+  "Section XI Special Topics (C)",
+  688
+ ],
+ [
+  2,
+  "55 Hemostasis & Thrombosis",
+  688
+ ],
+ [
+  2,
+  "56 Cancer: An Overview",
+  700
+ ],
+ [
+  2,
+  "57 The Biochemistry of Aging",
+  728
+ ],
+ [
+  2,
+  "58 Biochemical Case Histories",
+  740
+ ],
+ [
+  1,
+  "Index",
+  756
+ ]
+]

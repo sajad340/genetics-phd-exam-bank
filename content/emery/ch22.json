@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 22,
+  "chapter_title_en": "Ethical and Legal Issues in Medical Genetics",
+  "chapter_title_fa": "فصل ۲۲: مسائل اخلاقی و قانونی در ژنتیک پزشکی", "exam_weight": 2,
+  "questions": [
+    {
+      "id": "em22-1", "topic": "اصول چهارگانه", "difficulty": "easy",
+      "stem": "مخالفت خانواده با اعلام نتیجه حامل‌گری DMD دخترشان به خود دختر (۱۷ ساله) بیشتر با کدام اصل تعارض دارد؟",
+      "options": ["Autonomy (خودمختاری دختر)", "Beneficence", "Non-maleficence", "Justice"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. پنهان‌کردن اطلاعات بهداشتی از فرد نزدیک به بلوغ/بالغ با خودمختاری او تعارض دارد؛ رویکرد: گفتگوی خانوادگی، ارزیابی بلوغ شناختی (assent)، در ۱۸ سالگی حق کامل.",
+      "level2": "درسنامه: چهار اصل بیومدیکال (Beauchamp & Childress) در ژنتیک (مرور آزمونی): — Autonomy: رضایت آگاهانه؛ حق ندانستن؛ محرمانگی؛ — Beneficence/Non-maleficence: بازگشت نتایج ثانویه بالینی مفید؛ عدم آزمون‌های بی‌فایده (APOE)؛ psyc harm؛ — Justice: عدالت دسترسی (هزینه‌های ژن‌درمانی)؛ توزیع منابع غربالگری؛ non-discrimination؛ — گاهی اضافه: fidelity/veracity؛ — سوالات معمولاً سناریو می‌دهند و «کدام اصل در تعارض است» می‌پرسند."
+    },
+    {
+      "id": "em22-2", "topic": "هیان‌کوی", "difficulty": "medium",
+      "stem": "پرونده هیان‌کوی ۲۰۱۸ (ویرایش CCR5 در جنین) چه نقض‌هایی داشت؟",
+      "options": ["هیچ نقضی؛ پیشرفت علمی", "اجرا بدون رضایت آگاهانه واقعی، عدم نیاز پزشکی (HIV قابل‌پیشگیری)، انحراف فرآیند نظارتی، ریسک‌های نامعلوم off-target و پیامدهای ایمنی CCR5 (مقاومت WNV/سرطان؟)، و نقص پیگیری بلندمدت — موضع جهانی: ممنوعیت ویرایش خط ژرمی بالینی", "فقط ماده ۳۹", "نقض حق ناشنوایی"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. موارد: رضایت ناقص؛ اندیکاسیون غیرپزشکی؛ bypassing ethics؛ off-target/mosaicism ریسک؛ CCR5 deletion پیامدهای ایمنی؛ محکومیت قانونی (۳ سال زندان چین)؛ اجماع جهانی (WHO 2021 recommendations) ممنوعیت germline editing بالینی.",
+      "level2": "درسنامه: ویرایش ژرم‌لاین — وضعیت حکمرانی (مرور آزمونی): — تفکیک: somatic editing (مجاز؛ Casgevy) vs germline/embryo (ممنوع بالینی؛ تحقیقات محدود مجاز با نظارت سخت در برخی کشورها مانند UK زایگوت‌های پژوهشی)؛ — استدلال‌های مخالف: safety (off-target، mosaicism، unintended)، heritability، slippery slope/enhancement، consent نسل‌های آینده، عدالت؛ موافق‌های محدود آتی: موارد بدترین‌ها (Huntington homozygous؟) بحثی؛ — اسناد: WHO 2021 (registry، governance)؛ NAS 2017؛ Hartford؟؛ He Jiankui timeline؛ — قیاس با mitochondrial replacement (تأیید UK 2015؛ دو-مادری؛ آمریکا ممنوع) — «قانونی اما پربحث»؛ — سوال طرح: «کدام نوع ویرایش اکنون بالین است؟» somatic."
+    },
+    {
+      "id": "em22-3", "topic": "تبعیض ژنتیکی", "difficulty": "easy",
+      "stem": "قانون GINA (آمریکا) چه چیزی را ممنوع می‌کند و پوشش نمی‌دهد؟",
+      "options": ["ممنوع تبعیض بیمه سلامت و اشتغال بر اساس اطلاعات ژنتیکی؛ اما بیمه عمر/ماهانه ناتوانی/بلندمدت را پوشش نمی‌دهد", "همه بیمه‌ها", "فقط اشتغال", "هیچ"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. GINA 2008: health insurance + employment را ممنوع؛ life/disability/long-term care مستثنا؛ در سایر کشورها قوانین متفاوت؛ ایران: چارچوب خاص GINA ندارد؛ اصول محرمانگی عمومی.",
+      "level2": "درسنامه: تبعیض و بیمه (مرور آزمونی): — انواع: employment (screening پیش از استخدام؛ exceptions BFOQ مثل آزمایشگاه شیمی‌درمانی handlers)؛ insurance (underwriting)؛ — چالشه‌ها: نتایج خانوادگی هم اطلاعات ژنتیکی‌اند؛ DTC داده فروش ثالث؛ — قوانین: EU GDPR ژنتیک sensitive؛ UK Concordat؛ ایران ماده ۸ قانون حمایت حقوق بیماران؛ — نکته آزمونی: GINA را «بیمه سلامت+کار» به‌خاطر بسپارید نه «همه»."
+    },
+    {
+      "id": "em22-4", "topic": "بازگشت نتایج ثانوی", "difficulty": "medium",
+      "stem": "طبق توصیه ACMG، در توالی‌یابی بالینی (WES/WGS) بازگشت یافته‌های ثانویه در کدام دسته‌ها «توصیه» می‌شود؟",
+      "options": ["همه ژن‌ها گزارش شوند", "فقط ژن‌های SF با actionable بالا (مداخله/پیشگیری؛ v3.2: 81+ ژن شامل BRCA1/2، Lynch، RET، APC، LDLR، RYR1... ) به‌صورت اختیاری برای بالغین؛ کودکان فقط شرایط مداخله کودکی؛ حق نه‌دانستن محترم", "هیچ بازگشتی", "فقط درخواست بیمار"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. ACMG SF v3.x: لیست ژن‌های medically actionable؛ گزارش اختیاری بالغین (opt-in/out)؛ کودکان: فقط conditions با مداخله childhood؛ قابلیت بروزرسانی (recontact)؛ نیازمند رضایت پیش از آزمون.",
+      "level2": "درسنامه: incidental/secondary findings (مرور آزمونی): — تعاریف: primary vs secondary (actively searched) vs incidental (unsought discovery)؛ — مدیریت WES نوزاد ICU: SF تاخیری؛ — reanalysis دوره‌ای (قابل تکرار؛ تغییر طبقه‌بندی ~۱۰٪/۳ سال)؛ recontact obligation بحث؛ — روانی/هزینه: شواهد آسیب کم اما نگرانی بیمه/خانواده؛ — در تومور: germline incidental از tumor-normal؛ (چند درصد اورژانس؛ مثلاً ۲-۸٪)؛ — سوال طرح: «بهترین سیاست = opt-out بالغ + مشاوره»."
+    },
+    {
+      "id": "em22-5", "topic": "بیوبانک و رضایت", "difficulty": "medium",
+      "stem": "مدل رضایت مناسب بیوبانک‌های ژنومیک کدام است؟",
+      "options": ["فقط رضایت اختصاصی تک‌پروژه", "رضایت گسترده/چندلایه (broad/layered) با شفافیت درباره پژوهش‌های آینده، حق انصراف، حکمرانی (دسترسی/اشتراک) و گزینه‌های بازگشت یافته‌ها", "بدون رضایت", "فقط رضایت شفاهی"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. broad consent با governance شفاف استاندارد پذیرفته (ISBER/WMA؛ GDPR rec.ummer)؛ شامل: اهداف، دسترسی third party، de-identification، بازگشت SF policy، withdrawal، data sharing (GA4GH)؛",
+      "level2": "درسنامه: بیوبانک (مرور آزمونی): — انواع: population (UK Biobank 500k؛ All of Us؛ ایران‌ژنوم)؛ disease-based؛ residual clinical samples؛ — مسائل: ownership vs stewardship؛ benefit sharing؛ indigenous data sovereignty (Havasupai case؛ SANs)؛ commercialization؛ — data sharing controlled access (dbGaP/EGA)؛ — Certificate of Confidentiality؛ — نکته: سوال مفهومی «چه رضایتی برای نمونه‌های آینده» → broad/layered."
+    },
+    {
+      "id": "em22-6", "topic": "دسترسی عادلانه", "difficulty": "easy",
+      "stem": "بزرگ‌ترین ملاحظه عدالت در ژن‌درمانی‌های یک‌باره گران (مثل ۲ میلیون دلار) چیست؟",
+      "options": ["هیچ", "تخصیص منابع محدود در برابر نیاز عمومی؛ عدم توان پرداخت نظام‌های سلامت LMIC؛ نیاز مدل‌های پرداخت نو (قسط/پیش‌شرط پیامد) و اولویت‌گذاری شفاف؛ پایداری نظام بیمه", "فقط ثبت اختراع", "مما کیفیت"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. عدالت توزیعی: هزینه بالا → تصمیم‌های پوشش دشوار؛ راهکارها: outcomes-based annuity؛ Medicaid deals؛ ارزش‌گذاری (ICER thresholds)؛ تولید regional؛ بارویی؟؛",
+      "level2": "درسنامه: اقتصاد ژن‌درمانی (مرور روزآورد): — قیمت‌گذاری: cost-based vs value-based؛ QALY؛ discounting کودکان؛ — مدل‌ها: annuity (Spark Luxturna Medicaid؛ «پرداخت فقط اگر اثر»)؛ subscription (Louisiana hep C)؛ — LMIC: TDT در ایران: HSCT ارزان‌تر؛ دسترسی ژن‌درمانی فعلاً صفر؛ پژوهش‌های بومی؛ — نکته طرح سوال: پاسخ صحیح شامل «عدالت + مدل‌های پرداخت + اولویت‌گذاری»."
+    },
+    {
+      "id": "em22-7", "topic": "DTC testing", "difficulty": "medium",
+      "stem": "زنی نتیجه DTC (23andMe) خود را آورده که «ریسک بالای BRCA» نشان می‌دهد؛ اقدام بالینی درست؟",
+      "options": ["جراحی پروفیلاکتیک فوری", "تأیید بالینی: مشاوره ژنتیک + تست تأییدی آزمایشگاه معتبر (variantهای DDC مانند 3 mutations قدیمی 23andMe منفی کاذب محتمل؛ گزارش raw data حاوی VUS/خطا)؛ تصمیم فقط پس از تأیید", "نادیده گرفتن کامل", "تکرار همان DTC"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. نتایج DTC مبنای اقدام بالینی نیستند؛ تأیید در آزمایشگاه CLIA/معتبر الزامی؛ اکثر variantهای گزارش‌شده raw قابل‌اقدام نیستند؛ مشاوره برای تفسیر.",
+      "level2": "درسنامه: DTC (مرور آزمونی): — مدل‌ها: health (FDA-cleared محدود: BRCA 3 variant؛ carrier CF و ...؛ pharmacogenetic CYP2C19)، ancestry/raw؛ — ریسک‌ها: misinterpretation؛ VUS؛ anxiety؛ false reassurance؛ privacy/TOS؛ ancestry emotional؛ non-paternity incidental؛ — regulation: FDA (US)؛ محدودیت در برخی کشورها (فرانسه ممنوع)؛ ایران: دسترسی خاکستری؛ — سوال طرح: «اقدام پس از DTC مثبت = تأیید بالینی» همیشه."
+    },
+    {
+      "id": "em22-8", "topic": "پزشکی قانونی ژنتیک", "difficulty": "easy",
+      "stem": "در آزمون پدری، پیوستگی ژنتیکی (Paternity Index) بالاتر از چه حدی معمولاً «paternity را تأیید» تلقی می‌شود؟",
+      "options": ["PI > 1", "PI بالای صدها/هزاران (کumulativ PI معمولاً >100-1000؛ احتمال >99.9٪) با مجموعه STR استاندارد (تا 20+ لوکوس)", "PI < 0", "فقط ABO"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. با پنل‌های STR امروزی، CPI بسیار بالا (اغلب >۱۰۰٬۰۰۰) و probability >99.99٪؛ مبنای حقوقی؛ گزارش‌های آزمایشگاه معتبر با زنجیره حفاظت (chain of custody) برای اعتبار قانونی.",
+      "level2": "درسنامه: پزشکی قانونی (مرور آزمونی): — انواع: paternity؛ identification (فاجعه/جرم؛ CODIS 20 locus)؛ kinship مهاجرتی؛ archaeology؛ — مبانی: STR غیر‌کدکننده؛ Mendelian؛ mutation rate ~۰.۱-۰.۲٪/لوکوس/نسل (توضیح عدم‌تطابق منفرد)؛ — ابزار: globalfiler؛ CE/NGS؛ phenotyping (HIrisPex؛ مقررات)؛ — نکته ایران: آزمایشگاه‌های معتبر پزشکی قانونی؛ اینستاگرام‌های غیرمعتبر خطر."
+    },
+    {
+      "id": "em22-9", "topic": "اخلاق AI در ژنتیک", "difficulty": "medium",
+      "stem": "چالش اصلی هوش مصنوعی در تفسیر واریانت‌ها (مثل AlphaMissense) چیست؟",
+      "options": ["سرعت کم", "عدم شفافیت/تعمیم‌پذیری (جعبه سیاه؛ تحت‌نمونه گیری جمعیت‌ها؛ داده‌های آموزش ناکافی برای non-European)، و مسئولیت حقوقی تفسیر؛ ابزارها predictor کمکی‌اند نه جانشین معیارهای ACMG/شواهد عملکردی", "هیچ", "قیمت سخت‌افزار"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. AI tools: کمکی در prioritiization؛ چالش‌ها: بایاس جمعیتی (gnomAD/اسنادمونت)، توضیح‌پذیری (XAI)، اعتبارسنجی بالینی، مسئولیت (regulatory SaMD)؛",
+      "level2": "درسنامه: AI ژنتیک (مبحث نو آزمونی): — کاربردها: variant prioritization (AlphaMissense/PrimateAI؛ face recognition dysmorphology؛ NGS pipeline automation؛ PRS تعمیم)؛ — هدایت临床: همچنان تست عملکردی/سگروگاسیون ملاک؛ FDA framework AI/ML SaMD (predetermined change control)؛ — ethics: fairness؛ consent برای آموزش؛ data sovereignty؛ — نکته: گزینه‌های سوال معمولاً «ابزار کمکی نه جایگزین» را درست می‌گذارند."
+    },
+    {
+      "id": "em22-10", "topic": "محرمانگی در عصر ژنوم", "difficulty": "hard",
+      "stem": "پدیده «identifiability» داده‌های ژنومیک یعنی چه و مهم‌ترین پیامد آن چیست؟",
+      "options": ["ژنوم ناشناس‌پذیر مطلق است پس اشتراک آزاد", "حتی داده‌های «ناشناس‌شده» با ترکیب با پایگاه‌ها (GWAS SNP؛ شجره؛ ancestry) قابل بازشناسی فرد/خانواده‌اند (مثل事件的 Golden State Killer با شجره عمومی)؛ لزوم controlled-access، سیاست‌های اشتراک، و آموزش شرکت‌کنندگان درباره ریسک ذاتی بازشناسی", "فقط نام", "مربوط به پروتئین"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. ژنوم شناسه‌آور ذاتی است (منحصربه‌فرد + خویشاوندی قابل‌ردیابی)؛ پیامد: سیاست‌های Controlled Access (dbGaP)، دانش re-identification، اخلاق forensic searches؛ شواهد: Erlich 2018 (GEDmatch)؛",
+      "level2": "درسنامه: محرمانگی ژنومیک (مرور آزمونی): — منابع ریسک: aggregate statistics (Homer attack 2008 → NIH pull-out)، long-range familial search، Y-STR surname؛ — forensic: genetic genealogy (پرونده‌های حل‌شده؛ ممنوعیت‌های اروپا)؛ به‌روزرسانی Terms سرویس‌ها (GEDmatch opt-in)؛ — داده کودکان: عمر طولانی ریسک؛ — راهکار: dynamic consent؛ encryption؛ federated analysis؛ — نکته آزمونی: «ژنوم هرگز کاملاً ناشناس نیست» گزینه کلیدی."
+    }
+  ]
+}

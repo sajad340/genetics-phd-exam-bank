@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 13,
+  "chapter_title_en": "Immunogenetics",
+  "chapter_title_fa": "فصل ۱۳: ایمونوژنتیک", "exam_weight": 4,
+  "questions": [
+    {
+      "id": "em13-1", "topic": "V(D)J نوترکیبی", "difficulty": "hard",
+      "stem": "تنوع پادتن‌ها (تخمین >10⁹ ترکیب) عمدتاً از کدام مکانیسم منشأ می‌گیرد؟",
+      "options": ["جهش نقطه‌ای سوماتیک در ژن ثابت", "نوترکیبی V(D)J با انتخاب تصادفی ژن‌های V، D، J + افزودن نوکلئوتیدهای N/P + هایپرجهش سوماتیک", "متیلاسیویینتفوئیدی", "ترانس‌لوکیشن کروموزومی"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. تنوع پادتن از: ترکیب تصادفی ژن‌های V(D)J (کلاس I: V+J؛ کلاس II و H: V+D+J)، اتصال غیردقیق و نوکلئوتیدهای N (TdT)، و هایپرجهش سوماتیک (SHM؛ در مرکز ژرمینال؛ AID) + تبدیل کلاس (CSR؛ AID) حاصل می‌شود.",
+      "level2": "درسنامه: V(D)J recombination — جزئیات آزمونی: — ساختار: زنجیره H: IGH در 14q32 (V~45-65، D~23، J~6)؛ زنجیره κ در 2p11 (V~40، J~5)؛ λ در 22q11؛ ژن‌های C برای کلاس‌ها (μ، δ، γ3...ε، α). — RSS (Recombination Signal Sequence): هیپادروم ۱۲/۲۳ spacer — قاعده 12/23؛ آنزیم‌های RAG1/2 (برش hairpin؛ نقص → SCID T-B+ یا Omenn)؛ Artemis (hairpin opening؛ نقص → RS-SCID)؛ TdT (N-nucleotides؛ فقط lymphoid early)؛ DNA-PKcs/Ku70/80، XRCC4/Ligase IV (نقص‌ها → SCID/radiation sensitivity). — پس از آنتی‌ژن: در مرکز ژرمینال AID (Activation-Induced cytidine Deaminase؛ نقص → Hyper-IgM type2 بدون CSR/SHM) SHM در V؛ CSR با سویچ نواحی S → تغییر کلاس بدون تغییر اختصاصیت؛ AID off-target → ترانس‌لوکیشن MYC-Ig در لنفوم برکیت (نکته تلفیقی سرطان). — نقص‌ها: RAG → SCID T−B+ (تنها B نابالغ)؛ Omenn (RAG hypomorphic؛ الرژی + T oligoclonal)؛ AID → Hyper-IgM (IgG/A پایین، IgM بالا)؛ CD40L (X-linked HIGM؛ T-B گفتگو نقص). — سوال نمونه: «پسر با عفونت مکرر، IgM بسیار بالا و IgG/A پایین؛ ترتیب اول؟» CD40L یا AID."
+    },
+    {
+      "id": "em13-2", "topic": "ساختار HLA", "difficulty": "hard",
+      "stem": "کدام گزینه درباره HLA صحیح است؟",
+      "options": ["HLA کلاس I (A، B، C) پپتیدهای درون‌سلولی را با β2-microglobulin به CD8 ارائه می‌دهند و در همه سلول‌های هسته‌دار بیان می‌شوند", "کلاس II فقط در گلبول‌های قرمز", "کلاس I به CD4 پاسخ می‌دهد", "کلاس II زنجیره β2m دارد"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. کلاس I (HLA-A/B/C؛ زنجیره سنگین + β2-microglobulin در 15q21) همه سلول‌های هسته‌دار را می‌پوشاند و به CD8+ T ارائه می‌کند (پپتید اندونژنوز)؛ کلاس II (DR/DQ/DP؛ αβ هترودایمر) فقط در APC حرفه‌ای (B، مونوسیت، DC؛ القایی در سایر) و ارائه به CD4+.",
+      "level2": "درسنامه: MHC/HLA — مفاهیم آزمونی: — کروموزوم 6p21.3؛ ~4Mb؛ مناطق I (A،B,C)، II (DR،DQ،DP)، III (کمپلمان C2/C4/BF، TNF). — کلاس I: پردازش پروتئوزوم → TAP → ER → بارگذاری؛ کلاس II: لیپوزوم/اندوزوم → cathepsin → CLIP→DM جایگزینی. — بیان کلاس I در سلول‌های بدون هسته؟ RBC فاقد → ترجیح viral immune evasion؛ تومورها HLA-I پایین ( NK 'missing self' فعال — نکته NK KIR/HLA-C). — HLA typing: از سرم (کلاسیک) به NGS/SBT امروزی؛ کاربردها: پیوند (تطابق donor-recipient؛ هaplotype مادری/پدری؛ فرزندان siblings ¼ دوهاپلوتایپ match)؛ دارو (HLA-B*57:01→abacavir؛ B*15:02→carbamazepine SJS در آسیایی‌ها؛ B*58:01→allopurinol)؛ بیماری (DQ2/DQ8→celiac؛ B*27→AS؛ DR4→RA؛ DR3/4→T1D؛ B*51→Behçet — نکته آزمونی ایرانی). — تتراد پیوند: HLA-A/B/C/DRB1 matching؛ GVHD در جهت allogeneic T؛ haploidentical با post-Cy. — نکته co-dominant expression؛ pollymorphism بالا (balancing selection؛ بارگذاری پپتید عرضه)."
+    },
+    {
+      "id": "em13-3", "topic": "SCID", "difficulty": "hard",
+      "stem": "نوزاد پسر با عفونت فرصت‌طلب شدید (PCP، Candida)، اسهال مزمن و لنفوسیتوز بسیار پایین؛ تراکم T و B هر دو پایین (T−B−)؛ محتمل‌ترین نقص کدام است؟",
+      "options": ["X-linked IL2RG (γc chain؛ معمولاً T−B+)", "RAG1/2 نقص (T−B+)", "ADA نقص (T−B−؛ شایع‌ترین SCID AR)", "HLA کلاس II نقص (bare lymphocyte)"],
+      "answer_idx": 2,
+      "level1": "گزینه ۳ صحیح است. نقص ADA (آدنوزین دآمیناز؛ 20q) → تجمع dATP سمی → تخریب پیش‌لنفوسیت‌ها؛ الگوی T−B−NK−؛ شایع‌ترین SCID اتوزومال (~۱۵-۲۰٪ کل SCID)؛ نشانه‌های کمکی: ناقص‌بودن غضروف-استخوان (flared ribs)، تجمع deoxyadenosine؛ درمان:置换 آنزیم PEG-ADA، HSCT، ژن‌درمانی (Strimvelis/autologous γ-retroviral؛ اولین ژن‌درمانی تأییدی 2016).",
+      "level2": "درسنامه: SCID — فهرست تشخیصی تفکیکی که باید حفظ شود: — X-linked γc (IL2RG؛ شایع‌ترین کل ~۴۰٪): T−B+NK−؛ وراثت XL؛ پاسخ به IL-2/4/7/9/15 قطع؛ درمان: HSCT/ژن‌درمانی. — ADA (AR): T−B−NK−؛ ↑dATP؛ درمان: ERT/HSCT/gene (Strimvelis). — RAG1/2 (AR): T−B+NK+ (B هم نابالغ)؛ Omenn hypomorphic. — JAK3 (AR؛ همان فنوتیپ γc). — IL-7Rα: T−B+NK+. — CD3δ/ε/ζ. — Artemis (RS-SCID؛ رادیو sens). — Reticular dysgenesis (AK2). — X-linked agammaglobulinemia (BTK): فقط B (پس از ۶ ماه عفونت باکتری، کلیشه‌ای؛ tonsil ندارند؛ بروتون تیروزین کیناز). — Hyper-IgM (CD40L): T-helper نقص؛ IgM↑. — Wiskott-Aldrich (WAS؛ XL؛ اگزوما/ترومبوسیتوپنی کوچک-کوچک، اگزما، ایمنی ترکیبی؛ WASp). — AT (ATM؛ انیژاتا-تلانژکتازی). — MHC II def (bare lymphocyte؛ RFX5/ANKT...؛ T CD4↓). — CHH؟ — تشخیص: TREC (غربالگری نوزادی SCID — نکته جدید ملی‌ها)؛ فلوسیتومتری؛ ایمونوگلوبولین‌ها. — درمان بنیادی: HSCT (زودتر بهتر؛ <3.5 ماه بدون عفونت بهترین)؛ ژن‌درمانی برای ADA/IL2RG/XL-WAS."
+    },
+    {
+      "id": "em13-4", "topic": "گروه‌های خونی", "difficulty": "medium",
+      "stem": "ساختار ژنی سیستم ABO و توضیح گروه O کدام است؟",
+      "options": ["ABO یک لوکوس با سه آلل اصلی؛ A و B کد‌کننده گلیکوزیل‌ترانسفرازهای مختلف و O آلل غیرفعال (حذف G نولئوتید ۲۶۱ → آنزیم بی‌اثر؛ آنتی‌ژن H بدون تغییر باقی می‌ماند)", "سه لوکوس مستقل", "O = فقدان آنتی‌ژن H (h/h)", "ABO روی کروموزوم ۹ با دو ژن"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ABO: ژن ABO در 9q34؛ آلل‌های A (α3-GalNAc ترانسفراز) و B (α3-Gal ترانسفراز؛ تفاوت ۴ اسیدآمینه) و O (frameshift 261delG؛ آنزیم بی‌فعال)؛ آنتی‌ژن H پیش‌ساز مشترک (FUT1/H locus در 19q13). Bombay (hh در FUT1): بدون H → فنوتیپ O واقعی با آنتی‌بادی anti-H.",
+      "level2": "درسنامه: ژنتیک گروه‌های خونی (نکات پرتکرار): — Epistasis کلاسیک: Bombay phenotype (hh مهار بیان A/B → تایپ کاذب O؛ حل: anti-H testing/مولکولی)؛ — Lewis (FUT3؛ پلاسمای منشأ؛ Le(a/b))؛ — Rh: D antigen (RHD/RHCE در 1p36؛ D+/D−؛ D ناقلان زن RhD− با جنین RhD+ → anti-D؛ پیشگیری: anti-D immunoglobulin (Rhogam) هفته ۲۸ + پس از زایمان؛ نکته عمیق: فناوری NIPT RhD جنین (cffDNA) → پرهیز از تزریق بی‌مورد)؛ HDN: آنمی همولیتیک، bilirubin، kernicterus؛ کومبز مستقیم مثبت. — MNS/Kell/Duffy (Duffy null Fy(a−b−) مقاومت به vivax — نمونه انتخاب طبیعی)؛ Kidd (همولیز تأخیری ترانسفوزیون). — گروه خونی و بیماری: O → vWF پایین‌تر (کم‌خونی فون‌ویلبراند نوع خفیف‌تر؟) و non-O → ترومبوز VTE بالاتر؛ A؟ گاستریک؟ مطالعات متضاد؛ ABO incompatible transplantation (جرایم اعضا ممکن با پلاسمافerez/آگان)؛ -- نکته تایپینگ مولکولی: در transfusion-refractory، fetal RhD (cffDNA)، RBC antigen typing در پیوند/بیماری همولیتیک auto؟."
+    },
+    {
+      "id": "em13-5", "topic": "HLA و بیماری‌های خودایمن", "difficulty": "medium",
+      "stem": "کدام جفت «HLA–بیماری» صحیح است؟",
+      "options": ["B*27 – اسپوندیلیت آنکیلوزان", "DQ2/DQ8 – کرون", "DR2 – دیابت نوع ۱", "B*51 – سلیاک"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. B*27 با AS (و یوارتریت واکنشی/IRI) مرتبط است (~۹۰٪ بیماران)؛ سلیاک با DQ2/DQ8؛ T1D با DR3/DR4 (و DQ β chain Asp57 حفاظتی)؛ B*51 با بچه‌ت (Behçet) — که در ایران نیز شایع و نکته آزمونی بومی.",
+      "level2": "درسنامه: جدول HLA–بیماری (پرتکرار در آزمون): — قوی‌ترین: B*27~AS (RR~100)؛ DQ2~celiac (RR~70؛ ارائه gliadin deamidated)؛ DRB1*0401/04:04~RA؛ DR3-DQ2/DR4-DQ8~T1D؛ DRB1*1501~MS؛ DQ6~narcolepsy (بالاترین RR شناخته‌شده~200 با hypocretin)؛ C*06~psoriasis؛ DRB1*07/ين؟ ITP؟ — B*51~Behçet (RR~5-8؛ ایرانی/ترک/ژاپنی؛ مسیر IL-17/IL-23)؛ A*29~birdshot chorioretinopathy؛ DRB1*13~HBV clearance. — مکانیسم‌ها: ارائه پپتید خودی؛ مولکولی mimicry؛ تنظیم T؛ کمپلمان (C4 null → SLE). — نکته آزمونی: HLA-testing تشخیصی نیست (RR≠diagnosis؛ اکثر B*27+ افراد سالم)؛ کاربرد بالینی: AS در بیم مشکوک، celiac نوعی، T1D trial prevention (teplizumab در relatives IAA+). — پیوند و GVHD؛ دارو-هایپرSENS (فصل فارما). — نکته: در خودایمنی polygenic، HLA قوی‌ترین یک‌لوکوس اما نه تنها."
+    },
+    {
+      "id": "em13-6", "topic": "کمپلمان", "difficulty": "medium",
+      "stem": "نقص کلاسیک C1q/C2/C4 با کدام تظاهر شاخص همراه است؟",
+      "options": ["عفونت مکرر نایسریا", "لوبوس شبه‌سندرم (SLE-like) و عفونت‌های پیوسته‌زخم", "آنگیوادم ارثی", "هموگلوبینوری شبانه PNH"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. نقص زودگذر کمپلمان (C1q، C1r/s، C2، C4) با SLE-مانند و عفونت پیوسته (استرپتوکوک/استاف) همراه است (نقش پاک‌سازی ایمون‌کمپلکس و آپوپتوز)؛ نایسریا با C5-C9 (MAC)؛ آنژیوادم با C1-inhibitor؛ PNH با GPI-anchor (DAF/CD59) به‌دلیل نقص PIGA در کلون هماتوپویتیک.",
+      "level2": "درسنامه: نقص‌های کمپلمان (جدول آزمونی): — کلاسیک زودگذر (C1q/C2/C4): SLE-like (۹۰٪ C1q، ~۱۰-۲۰٪ C2 hetero؟) + عفونت کپسولی؛ — C3: عفونت شدید پیوسته + گنومرولونفریت؛ — C5-C8 (MAC): نایسریا مکرر (مننگوکوک/گونوکوک) — واکسیناسیون؛ C9 خفیف‌تر؛ — Properdin (XLR): مننگوکوک؛ — C1-INH (AD؛ C4 پایین، C3 نرمال): آنژیوادم بدون خارش با تروما؛ درمان: icatibant/بریکانت، دانازول پیشگیرانه، lmwh?؛ — MBL: عفونت کودکی خفیف؛ — Factor H/I: HUS atypical + AMD؛ — تشخیص: CH50 (کلاسیک)، AH50 (جایگزین)، الکتروفورز؛ C3/C4 سطحی. — تلفیق: eculizumab (anti-C5) در PNH/aHUS؛ ravulizumab (طولانی‌اثر). — نکته سوال‌سازی: «جوان با مننژیت مکرر؛ کدام مسیر؟» MAC/properdin؛ «کودک با SLE-like؛ کدام؟» زودگذر کلاسیک."
+    },
+    {
+      "id": "em13-7", "topic": "TCR و تنوع T", "difficulty": "medium",
+      "stem": "تنوع گیرنده‌های T (TCR) در مقایسه با پادتن چه تفاوت کلیدی دارد؟",
+      "options": ["TCR تنوع ندارد", "TCR از V(D)J ساخته می‌شود اما هایپرجهش سوماتیک و تبدیل کلاس ندارد؛ اختصاصیت به پپتید-MHC محدود است", "TCR تبدیل کلاس دارد", "TCR بدون RAG ساخته می‌شود"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. TCR (αβ یا γδ) با نوترکیبی V(D)J و TdT ساخته می‌شود اما SHM/CSR ندارد؛ پپتید را فقط در بستر MHC می‌شناسد (محدودیت MHC؛ آموزش مثبت/منفی در تیموس).",
+      "level2": "درسنامه: — ژن‌ها: TRA/TRD در 14q11؛ TRB در 7q34؛ TRG در 7p14؛ دقت: TCRδ استفاده از D دوتایی؛ — توسعه: β→TCRβ انتخاب در DN (pre-TCR)؛ DP: انتخاب مثبت (MHC interaction؛ آلفاβ روی CD4/CD8 خط) و منفی (AIRE در مدولار؛ حذف خود-واکنش)؛ AIRE نقص → APECED/APSID (mucocutaneous candidiasis، hypoparathyroid، آدرنال؛ AR)؛ FOXN1 نقص → دی‌جورج کامل (بدون تیموس/مو؛ nude SCID)؛ — γδ T (بافت-محدود؛ شناسایی غیر-MHC)؛ NKT/MAIT؛ — سطحی: CD3 (سیگنال؛ هدف mAbs مثل otelixizumab?)، CD4/CD8؛ — بالینی: TCR sequencing (MRD در ALL؛ clonality)؛ CAR-T (sf9؟ نه: وکتور lentiviral scFv-CD3ζ-CD28/4-1BB؛ تیساژلکلئوسل/بریانکاژل CD19؛ ایبریتون؟)؛ GREB؟ TCRR؟ — نکته آزمونی: «کدام در TCR وجود ندارد؟» SHM/CSR."
+    },
+    {
+      "id": "em13-8", "topic": "ایمونوتراپی مولکولی", "difficulty": "hard",
+      "stem": "کدام جفت «دارو–هدف مولکولی» در ایمونوتراپی صحیح است؟",
+      "options": ["Pembrolizumab – PD-1", "Ipilimumab – PD-L1", "Nivolumab – CTLA-4", "Atezolizumab – PD-1"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Pembrolizumab و nivolumab ضد PD-1؛ ipilimumab ضد CTLA-4؛ atezolizumab/durvalumab/avelumab ضد PD-L1. کارایی بالا در تومورهای MSI-high (Lynch sporadic) — پیوند مستقیم ژنتیک-سرطان-ایمنی.",
+      "level2": "درسنامه: چک‌پوینت‌ها و پیوند با ژنتیک (روزآورد آزمونی): — زیست‌شناسی: CTLA-4 در T-cell priming (نقش Treg)؛ PD-1 در بافت‌محور exhaustion (لیگندهای PD-L1 تومور)؛ مهار → reactivation. — کاربردهای ژنتیکی مرتبط: pembrolizumab اولین داروی tissue-agnostic تأییدشده برای MSI-H/dMMR sólids (2017) — از منظر آزمونی: هر تومور MSI-high (لنش/عرقی) کاندید؛ TMB-high (>10 mut/Mb) پاسخ بهتر؛ کلاد جهش POLE/POLD1 ultra-mutated؛ — biomarkers: PD-L1 IHC (TPS/CPS)، MSI (IHC/PCR/NGS)، TMB (NGS)؛ — عوارض: immune-related adverse (کولیت، تیروئید، هیپوفیزیت، پنومونیت)؛ — CAR-T: CD19 (تیساژل سل in B-ALL/DLBCL؛ آکسیاب‌تاژن)؛ BCMA (ایدِکاب‌تاژن؛ مایلوما)؛ سمی‌تهای CRS/ICANS (توسیلیزوماب/استروئید)؛ ساخت scFv+ hinge+ costim (4-1BB/CD28)+CD3ζ — سوال طراحی ساختاری CAR. — bispecifics: blinatumomab (CD19×CD3؛ بی‌تئو). — نکته: piyel مونوکلونال‌ها: اسم‌های -mab؛ انسان‌سازی: -zumab؛ هدف در پیشوند (nivo-؟, pembr-؟)."
+    },
+    {
+      "id": "em13-9", "topic": "نقص‌های ایمنی سندرومیک", "difficulty": "medium",
+      "stem": "کودکی با آتاکسی پیشرونده، تلانژکتازی‌های کونژنکتیوال، عفونت‌های سینوپولموناری و IgA پایین؛ حساسیت به یونیزاسیون؛ ژن مسئول کدام است؟",
+      "options": ["ATM (اتاکسی-تلانژکتازی)", "BTK", "WAS", "RAG1"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آتاکسی-تلانژکتازی (AT؛ AR؛ 11q22؛ ATM=کیناز سیگنال شکست DSB) → تلفات رادیو حساس، ایمنی ترکیبی متغیر (IgA/IgG2↓، عفونت سینوپولموناری)، آتاکسی مخچه‌ای، تلانژکتازی، ریسک بالای لنفوم/لوکمی (به‌ویابی T-cell) و سرطان پستان حاملان؛ AFP بالا؛ درمان: HSCT محدود، پرهیز رادیولوژی.",
+      "level2": "درسنامه: سندرم‌های نقص ترمیم DNA با ایمونودیفیسیانسی (خانواده unstable/شبه‌آتاکسی): — AT (ATM؛ DSB sensor؛ V(D)J و CSR مختل؛ AFP↑؛ nosocomial)؛ — Nijmegen breakage (NBN؛ microcephaly + bird face + لنفوم)؛ — AT-like (MRE11)؛ — Bloom (BLM helicase؛ Sister chromatid exchange↑؛ کوتاه‌قدی، malar rash، عفونت خفیف، سرطان‌های زودرس)؛ — Fanconi anemia (FANC pathway؛ ICL repair؛ aplastic anemia، radial rays، VACTERL-H، سرطان MDS/AML/HSCT؛ تست DEB/mitomycin)؛ — Ligase IV syndrome؛ — XP (NER؛ پوست-سرطان؛ XP-V variant pol eta؛ XP-A neurological؛ XPG؟)؛ — بالینی مشترک: چهره خاص + آتاکسی/میکروسفالی + عفونت + سرطان + sensitivity یونیزان/UV → تست‌های پرامنه (chromosome breakage؛ SCE؛ survival after irradiation) — نکته آزمونی: کدام تست افتراقی؟ AT vs Fanconi: DEB = Fanconi؛radiation sensitivity = AT؛ UV = XP. — پیوند به سرطان‌شناسی: HR نقص‌ها (BRCA1/2, PALB2=FANCN) → PARP حساسیت — synthetic lethality."
+    },
+    {
+      "id": "em13-10", "topic": "تایپینگ پیوند", "difficulty": "medium",
+      "stem": "در پیوند سلول‌های هماتوپویتیک (HSCT)، منشأ GVHD و راهکارهای کاهش آن کدام است؟",
+      "options": ["سلول‌های T گیرنده به graft؛ کاهش با رادیوتراپی گیرنده", "سلول‌های T دهنده به بافت‌های گیرنده؛ کاهش با تطابق HLA، حذف/کاهش T-cell graft، و مهار ایمنی (مثل post-CY در haplo)", "آنتی‌بادی مادر؛ کاهش با IVIG", "NK گیرنده؛ کاهش با IL-2"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. GVHD توسط T نابالغ/بالغ graft علیه آنتی‌ژن‌های گیرنده (mHA) ایجاد می‌شود؛ پیشگیری: تطابق HLA بالا (بهترین sibling identical)، T-cell depletion، مهار (سیکلوسپورین/متوترکسات/پوست-سیکلوفسفامید در haploidentical)؛ اثر مفید GVHL (گرفت تومور) در لوسمی.",
+      "level2": "درسنامه: ژنتیک پیوند — نکات آزمونی: — تطابق: دوقلو > sibling 6/6 (۲۵٪ فرصت هر فرزند) > unrelated matched (ریجستری؛ به‌کارگیری NGS high-res) > haplo (والدین/فرزندان؛ post-CY موفق) > cord (کم GVHD، دوز سلول کم، HLA tolerant)؛ — مولکولی: HLA haplotype وراثت؛ مادهان/پدران؛ فرزندان siblings: ۲۵٪ فول مچ، ۵۰٪ هاپلو، ۲۵٪ دو هاپلوتایپ متفاوت؛ — GVHD: acute (پوست-گوارش-کبد؛ HLA mismatch، سن، گندزدا)؛ chronic؛ prevention: ATG، اگزا کورتیکو؟؛ TCD → افزایش relapse/gref failure (فقدان GVL)؛ — graft failure/rejection: Host vs Graft (آرگ↔میس‌مچ، alloimune)؛ — CIBMTR outcomes؛ — HSCT در ژنتیک: indications: SCID (زودهنگام)، Wiskott، LAD، CGD، osteopetrosis، adrenoleukodystrophy (ALD؛ لنتژنو؟ no — HSCT)، Hurler (MPS-I)، β-tal major، sickle (فقط در اختلال اندام)، متناقض familial hemophagocytic (سریع)؛ — نکته طرح سوال: «بهترین donor در SCID با برادر ۲ ساله سالم ناقل؟» — sibling HLA-identical (حامل بودن مهم نیست برای SCID XL؛ اما در Wiskott/X-CGD بهتر non-carrier)."
+    }
+  ]
+}

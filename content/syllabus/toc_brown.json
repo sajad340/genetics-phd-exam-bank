@@ -1,0 +1,371 @@
+{
+ "Faculty of Life Sciences University of Manchester Manchester Sixth Edition": [
+  "Faculty of Life Sciences University of Manchester Manchester Sixth Edition | Part I The Basic Principles of Gene Cloning and DNA Analysis 1 | Part II The Applications of Gene Cloning and DNA Analysis in Research 163 | Part III The Applications of Gene Cloning and DNA Analysis in Biotechnology 223"
+ ],
+ "BRIEF CONTENTS Brief Contents": [
+  "BRIEF CONTENTS Brief Contents"
+ ],
+ "Part I The Basic Principles of Gene Cloning and DNA Analysis 1": [
+  "1 Why Gene Cloning and DNA Analysis are Important 3 | 2 Vectors for Gene Cloning: Plasmids and Bacteriophages 13"
+ ],
+ "CONTENTS Contents": [
+  "3 Purification of DNA from Living Cells 25 | 4 Manipulation of Purified DNA 45 | 5 Introduction of DNA into Living Cells 72",
+  "6 Cloning Vectors for E. coli 88 | 8 How to Obtain a Clone of a Specific Gene 126 | 9 The Polymerase Chain Reaction 147"
+ ],
+ "Part II The Applications of Gene Cloning and DNA Analysis in Research 163": [
+  "10 Sequencing Genes and Genomes 165 | 11 Studying Gene Expression and Function 185 | 12 Studying Genomes 207"
+ ],
+ "Part III The Applications of Gene Cloning and DNA Analysis in Biotechnology 223": [
+  "13 Production of Protein from Cloned Genes 225 | 14 Gene Cloning and DNA Analysis in Medicine 245 | 15 Gene Cloning and DNA Analysis in Agriculture 264 | 16 Gene Cloning and DNA Analysis in Forensic Science and Archaeology 282"
+ ],
+ "D": [
+  "D"
+ ],
+ "The Basic Principles of Gene Cloning and DNA Analysis": [
+  "The Basic Principles of Gene Cloning and DNA Analysis | CHAPTER CONTENTS | Chapter contents"
+ ],
+ "Why Gene Cloning and DNA Analysis are Important": [
+  "Why Gene Cloning and DNA Analysis are Important"
+ ],
+ "1.1 The early development of genetics": [
+  "1.1 The early development of genetics"
+ ],
+ "1.2 The advent of gene cloning and the polymerase chain reaction": [
+  "1.2 The advent of gene cloning and the polymerase chain reaction"
+ ],
+ "1.3 What is gene cloning?": [
+  "1.3 What is gene cloning?"
+ ],
+ "1.4 What is PCR?": [
+  "1.4 What is PCR?"
+ ],
+ "1.5 Why gene cloning and PCR are so important": [
+  "1.5 Why gene cloning and PCR are so important",
+  "1.5.1 Obtaining a pure sample of a gene by cloning",
+  "1.5.2 PCR can also be used to purify a gene"
+ ],
+ "1.6 How to find your way through this book": [
+  "1.6 How to find your way through this book"
+ ],
+ "Further reading": [
+  "Further reading | CHAPTER CONTENTS | Chapter contents",
+  "Further reading",
+  "Further reading | s | s | CHAPTER CONTENTS | Chapter contents",
+  "s | s | CHAPTER CONTENTS | Chapter contents",
+  "14.3.3 The ethical issues raised by gene therapy | CHAPTER CONTENTS | Chapter contents"
+ ],
+ "Vectors for Gene Cloning: Plasmids and Bacteriophages": [
+  "Vectors for Gene Cloning: Plasmids and Bacteriophages"
+ ],
+ "2.1 Plasmids": [
+  "2.1 Plasmids | 2.1.1 Size and copy number | 2.1.2 Conjugation and compatibility | 2.1.3 Plasmid classification | 2.1.4 Plasmids in organisms other than bacteria"
+ ],
+ "2.2 Bacteriophages": [
+  "2.2 Bacteriophages | 2.2.1 The phage infection cycle",
+  "2.2.2 Lysogenic phages (۱)",
+  "2.2.2 Lysogenic phages (۲) | 2.2.3 Viruses as cloning vectors for other organisms"
+ ],
+ "Purification of DNA from Living Cells": [
+  "Purification of DNA from Living Cells"
+ ],
+ "3.1 Preparation of total cell DNA": [
+  "3.1 Preparation of total cell DNA",
+  "3.1.1 Growing and harvesting a bacterial culture",
+  "3.1.2 Preparation of a cell extract",
+  "3.1.3 Purification of DNA from a cell extract | 3.1.4 Concentration of DNA samples | 3.1.5 Measurement of DNA concentration",
+  "3.1.6 Other methods for the preparation of total cell DNA"
+ ],
+ "3.2 Preparation of plasmid DNA": [
+  "3.2 Preparation of plasmid DNA | 3.2.1 Separation on the basis of size",
+  "3.2.2 Separation on the basis of conformation | 3.2.3 Plasmid amplification"
+ ],
+ "3.3 Preparation of bacteriophage DNA": [
+  "3.3 Preparation of bacteriophage DNA | 3.3.1 Growth of cultures to obtain a high * titer",
+  "3.3.2 Preparation of non-lysogenic * phages | 3.3.3 Collection of phages from an infected culture | 3.3.4 Purification of DNA from * phage particles | 3.3.5 Purification of M13 DNA causes few problems"
+ ],
+ "Manipulation of Purified DNA": [
+  "Manipulation of Purified DNA"
+ ],
+ "4.1 The range of DNA manipulative enzymes": [
+  "4.1 The range of DNA manipulative enzymes",
+  "4.1.1 Nucleases | 4.1.2 Ligases",
+  "4.1.3 Polymerases | 4.1.4 DNA modifying enzymes"
+ ],
+ "4.2 Enzymes for cutting DNA—restriction endonucleases": [
+  "4.2 Enzymes for cutting DNA—restriction endonucleases | 4.2.1 The discovery and function of restriction endonucleases",
+  "4.2.2 Type II restriction endonucleases cut DNA at specific nucleotide sequences | 4.2.3 Blunt ends and sticky ends",
+  "4.2.4 The frequency of recognition sequences in a DNA molecule",
+  "4.2.5 Performing a restriction digest in the laboratory",
+  "4.2.6 Analyzing the result of restriction endonuclease cleavage",
+  "4.2.7 Estimation of the sizes of DNA molecules",
+  "4.2.8 Mapping the positions of different restriction sites in a DNA molecule",
+  "4.2.9 Special gel electrophoresis methods for separating larger molecules"
+ ],
+ "4.3 Ligation – joining DNA molecules together": [
+  "4.3 Ligation – joining DNA molecules together | 4.3.1 The mode of action of DNA ligase | 4.3.2 Sticky ends increase the efficiency of ligation",
+  "4.3.3 Putting sticky ends onto a blunt-ended molecule (۱)",
+  "4.3.3 Putting sticky ends onto a blunt-ended molecule (۲)",
+  "4.3.4 Blunt end ligation with a DNA topoisomerase"
+ ],
+ "Introduction of DNA into Living Cells": [
+  "Introduction of DNA into Living Cells"
+ ],
+ "5.1 Transformation—the uptake of DNA by bacterial cells": [
+  "5.1 Transformation—the uptake of DNA by bacterial cells | 5.1.1 Not all species of bacteria are equally efficient at DNA uptake | 5.1.2 Preparation of competent E. coli cells",
+  "5.1.3 Selection for transformed cells"
+ ],
+ "5.2 Identification of recombinants": [
+  "5.2 Identification of recombinants",
+  "5.2.1 Recombinant selection with pBR322—insertional inactivation of an antibiotic resistance gene",
+  "5.2.2 Insertional inactivation does not always involve antibiotic resistance"
+ ],
+ "5.3 Introduction of phage DNA into bacterial cells": [
+  "5.3 Introduction of phage DNA into bacterial cells | 5.3.1 Transfection",
+  "5.3.2 In vitro packaging of * cloning vectors",
+  "5.3.3 Phage infection is visualized as plaques on an agar medium"
+ ],
+ "5.4 Identification of recombinant phages": [
+  "5.4 Identification of recombinant phages | 5.4.1 Insertional inactivation of a lacZ′ gene carried by the phage vector | 5.4.2 Insertional inactivation of the * cI gene | 5.4.3 Selection using the Spi phenotype | 5.4.4 Selection on the basis of * genome size"
+ ],
+ "5.5 Introduction of DNA into non-bacterial cells": [
+  "5.5 Introduction of DNA into non-bacterial cells | 5.5.1 Transformation of individual cells | 5.5.2 Transformation of whole organisms"
+ ],
+ "Cloning Vectors for E. coli": [
+  "Cloning Vectors for E. coli"
+ ],
+ "6.1 Cloning vectors based on E. coli plasmids": [
+  "6.1 Cloning vectors based on E. coli plasmids | 6.1.1 The nomenclature of plasmid cloning vectors | 6.1.2 The useful properties of pBR322 | 6.1.3 The pedigree of pBR322",
+  "6.1.4 More sophisticated E. coli plasmid cloning vectors"
+ ],
+ "6.2 Cloning vectors based on M13 bacteriophage": [
+  "6.2 Cloning vectors based on M13 bacteriophage",
+  "6.2.1 How to construct a phage cloning vector",
+  "6.2.2 Hybrid plasmid–M13 vectors"
+ ],
+ "6.3 Cloning vectors based on 8 bacteriophage": [
+  "6.3 Cloning vectors based on 8 bacteriophage | 6.3.1 Segments of the * genome can be deleted without impairing viability | 6.3.2 Natural selection can be used to isolate modified * that lack certain restriction sites",
+  "6.3.3 Insertion and replacement vectors",
+  "6.3.4 Cloning experiments with * insertion or replacement vectors",
+  "6.3.5 Long DNA fragments can be cloned using a cosmid"
+ ],
+ "6.4 8 and other high-capacity vectors enable genomic libraries to be constructed": [
+  "6.4 8 and other high-capacity vectors enable genomic libraries to be constructed"
+ ],
+ "6.5 Vectors for other bacteria": [
+  "6.5 Vectors for other bacteria | CHAPTER CONTENTS | Chapter contents"
+ ],
+ "Cloning Vectors for Eukaryotes": [
+  "Cloning Vectors for Eukaryotes"
+ ],
+ "7.1 Vectors for yeast and other fungi": [
+  "7.1 Vectors for yeast and other fungi | 7.1.1 Selectable markers for the 2 (m plasmid",
+  "7.1.2 Vectors based on the 2 (m plasmid—yeast episomal plasmids | 7.1.3 A YEp may insert into yeast chromosomal DNA",
+  "7.1.4 Other types of yeast cloning vector",
+  "7.1.5 Artificial chromosomes can be used to clone long pieces of DNA in yeast | 7.1.6 Vectors for other yeasts and fungi"
+ ],
+ "7.2 Cloning vectors for higher plants": [
+  "7.2 Cloning vectors for higher plants",
+  "7.2.1 Agrobacterium tumefaciens—nature’s smallest genetic engineer (۱)",
+  "7.2.1 Agrobacterium tumefaciens—nature’s smallest genetic engineer (۲)",
+  "7.2.2 Cloning genes in plants by direct gene transfer",
+  "7.2.3 Attempts to use plant viruses as cloning vectors"
+ ],
+ "7.3 Cloning vectors for animals": [
+  "7.3 Cloning vectors for animals",
+  "7.3.1 Cloning vectors for insects",
+  "7.3.2 Cloning in mammals"
+ ],
+ "How to Obtain a Clone of a Specific Gene": [
+  "How to Obtain a Clone of a Specific Gene"
+ ],
+ "8.1 The problem of selection": [
+  "8.1 The problem of selection | 8.1.1 There are two basic strategies for obtaining the clone you want"
+ ],
+ "8.2 Direct selection": [
+  "8.2 Direct selection",
+  "8.2.1 Marker rescue extends the scope of direct selection | 8.2.2 The scope and limitations of marker rescue"
+ ],
+ "8.3 Identiﬁcation of a clone from a gene library": [
+  "8.3 Identiﬁcation of a clone from a gene library | 8.3.1 Gene libraries",
+  "8.3.2 Not all genes are expressed at the same time | 8.3.3 mRNA can be cloned as complementary DNA"
+ ],
+ "8.4 Methods for clone identification": [
+  "8.4 Methods for clone identification | 8.4.1 Complementary nucleic acid strands hybridize to each other",
+  "8.4.2 Colony and plaque hybridization probing",
+  "8.4.3 Examples of the practical use of hybridization probing (۱)",
+  "8.4.3 Examples of the practical use of hybridization probing (۲)",
+  "8.4.4 Identification methods based on detection of the translation product of the cloned gene"
+ ],
+ "The Polymerase Chain Reaction": [
+  "The Polymerase Chain Reaction"
+ ],
+ "9.1 The polymerase chain reaction in outline": [
+  "9.1 The polymerase chain reaction in outline"
+ ],
+ "9.2 PCR in more detail": [
+  "9.2 PCR in more detail",
+  "9.2.1 Designing the oligonucleotide primers for a PCR",
+  "9.2.2 Working out the correct temperatures to use"
+ ],
+ "9.3 After the PCR: studying PCR products": [
+  "9.3 After the PCR: studying PCR products",
+  "9.3.1 Gel electrophoresis of PCR products",
+  "9.3.2 Cloning PCR products",
+  "9.3.3 Problems with the error rate of Taq polymerase"
+ ],
+ "9.4 Real-time PCR enables the amount of starting material to be quantified": [
+  "9.4 Real-time PCR enables the amount of starting material to be quantified",
+  "9.4.1 Carrying out a quantitative PCR experiment | 9.4.2 Real-time PCR can also quantify RNA"
+ ],
+ "The Applications of Gene Cloning and DNA Analysis in Research": [
+  "CHAPTER CONTENTS | Chapter contents"
+ ],
+ "Sequencing Genes and Genomes": [
+  "Sequencing Genes and Genomes"
+ ],
+ "10.1 The methodology for DNA sequencing": [
+  "10.1 The methodology for DNA sequencing",
+  "10.1.1 Chain termination DNA sequencing"
+ ],
+ "*": [
+  "* (۱)",
+  "* (۲)",
+  "10.1.2 Pyrosequencing"
+ ],
+ "10.2 How to sequence a genome": [
+  "10.2 How to sequence a genome",
+  "10.2.1 The shotgun approach to genome sequencing",
+  "10.2.2 The clone contig approach",
+  "10.2.3 Using a map to aid sequence assembly"
+ ],
+ "Studying Gene Expression and Function": [
+  "Studying Gene Expression and Function"
+ ],
+ "11.1 Studying the RNA transcript of a gene": [
+  "11.1 Studying the RNA transcript of a gene",
+  "11.1.1 Detecting the presence of a transcript and determining its nucleotide sequence",
+  "11.1.2 Transcript mapping by hybridization between gene and RNA | 11.1.3 Transcript analysis by primer extension | 11.1.4 Transcript analysis by PCR"
+ ],
+ "11.2 Studying the regulation of gene expression": [
+  "11.2 Studying the regulation of gene expression",
+  "11.2.1 Identifying protein binding sites on a DNA molecule",
+  "11.2.2 Identifying control sequences by deletion analysis"
+ ],
+ "11.3 Identifying and studying the translation product of a cloned gene": [
+  "11.3 Identifying and studying the translation product of a cloned gene",
+  "11.3.1 HRT and HART can identify the translation product of a cloned gene | 11.3.2 Analysis of proteins by in vitro mutagenesis | * Gene",
+  "Mutation, e.g. ile leu *"
+ ],
+ "Studying Genomes": [
+  "Studying Genomes"
+ ],
+ "12.1 Genome annotation": [
+  "12.1 Genome annotation",
+  "12.1.1 Identifying the genes in a genome sequence (۱)",
+  "12.1.1 Identifying the genes in a genome sequence (۲)",
+  "12.1.2 Determining the function of an unknown gene"
+ ],
+ "12.2 Studies of the transcriptome and proteome": [
+  "12.2 Studies of the transcriptome and proteome",
+  "12.2.1 Studying the transcriptome",
+  "12.2.2 Studying the proteome",
+  "12.2.3 Studying protein–protein interactions"
+ ],
+ "The Applications of Gene Cloning and DNA Analysis in Biotechnology": [
+  "The Applications of Gene Cloning and DNA Analysis in Biotechnology | CHAPTER CONTENTS | Chapter contents"
+ ],
+ "Production of Protein from Cloned Genes": [
+  "Production of Protein from Cloned Genes"
+ ],
+ "13.1 Special vectors for expression of foreign genes in E. coli": [
+  "13.1 Special vectors for expression of foreign genes in E. coli",
+  "13.1.1 The promoter is the critical component of an expression vector",
+  "13.1.2 Cassettes and gene fusions"
+ ],
+ "13.2 General problems with the production of recombinant protein in E. coli": [
+  "13.2 General problems with the production of recombinant protein in E. coli",
+  "13.2.1 Problems resulting from the sequence of the foreign gene",
+  "13.2.2 Problems caused by E. coli"
+ ],
+ "13.3 Production of recombinant protein by eukaryotic cells": [
+  "13.3 Production of recombinant protein by eukaryotic cells",
+  "13.3.1 Recombinant protein from yeast and filamentous fungi",
+  "13.3.2 Using animal cells for recombinant protein production",
+  "13.3.3 Pharming—recombinant protein from live animals and plants"
+ ],
+ "Gene Cloning and DNA Analysis in Medicine": [
+  "Gene Cloning and DNA Analysis in Medicine"
+ ],
+ "14.1 Production of recombinant pharmaceuticals": [
+  "14.1 Production of recombinant pharmaceuticals",
+  "14.1.1 Recombinant insulin",
+  "14.1.2 Synthesis of human growth hormones in E. coli",
+  "14.1.3 Recombinant factor VIII | 14.1.4 Synthesis of other recombinant human proteins",
+  "14.1.5 Recombinant vaccines"
+ ],
+ "14.2 Identification of genes responsible for human diseases": [
+  "14.2 Identification of genes responsible for human diseases",
+  "14.2.1 How to identify a gene for a genetic disease"
+ ],
+ "14.3 Gene therapy": [
+  "14.3 Gene therapy",
+  "14.3.1 Gene therapy for inherited diseases",
+  "14.3.2 Gene therapy and cancer"
+ ],
+ "Gene Cloning and DNA Analysis in Agriculture": [
+  "Gene Cloning and DNA Analysis in Agriculture"
+ ],
+ "15.1 The gene addition approach to plant genetic engineering": [
+  "15.1 The gene addition approach to plant genetic engineering",
+  "15.1.1 Plants that make their own insecticides (۱)",
+  "15.1.1 Plants that make their own insecticides (۲)",
+  "15.1.2 Herbicide resistant crops | 15.1.3 Other gene addition projects"
+ ],
+ "15.2 Gene subtraction": [
+  "15.2 Gene subtraction",
+  "15.2.1 Antisense RNA and the engineering of fruit ripening in tomato | 15.2.2 Other examples of the use of antisense RNA in plant genetic engineering"
+ ],
+ "15.3 Problems with genetically modified plants": [
+  "15.3 Problems with genetically modified plants",
+  "15.3.1 Safety concerns with selectable markers",
+  "15.3.2 The terminator technology | 15.3.3 The possibility of harmful effects on the environment"
+ ],
+ "Gene Cloning and DNA Analysis in Forensic Science and Archaeology": [
+  "Gene Cloning and DNA Analysis in Forensic Science and Archaeology"
+ ],
+ "16.1 DNA analysis in the identification of crime suspects": [
+  "16.1 DNA analysis in the identification of crime suspects | 16.1.1 Genetic fingerprinting by hybridization probing",
+  "16.1.2 DNA profiling by PCR of short tandem repeats"
+ ],
+ "16.2 Studying kinship by DNA profiling": [
+  "16.2 Studying kinship by DNA profiling | 16.2.1 Related individuals have similar DNA profiles",
+  "16.2.2 DNA profiling and the remains of the Romanovs"
+ ],
+ "16.3 Sex identification by DNA analysis": [
+  "16.3 Sex identification by DNA analysis",
+  "16.3.1 PCRs directed at Y chromosome-specific sequences",
+  "16.3.2 PCR of the amelogenin gene"
+ ],
+ "16.4 Archaeogenetics—using DNA to study human prehistory": [
+  "16.4 Archaeogenetics—using DNA to study human prehistory",
+  "16.4.1 The origins of modern humans",
+  "16.4.2 DNA can also be used to study prehistoric human migrations (۱)",
+  "16.4.2 DNA can also be used to study prehistoric human migrations (۲)"
+ ],
+ "GLOSSARY Glossary": [
+  "GLOSSARY Glossary (۱) (۱) (۱)",
+  "GLOSSARY Glossary (۱) (۱) (۲)",
+  "GLOSSARY Glossary (۱) (۲) (۱)",
+  "GLOSSARY Glossary (۱) (۲) (۲)",
+  "GLOSSARY Glossary (۲) (۱) (۱)",
+  "GLOSSARY Glossary (۲) (۱) (۲)",
+  "GLOSSARY Glossary (۲) (۲) (۱)",
+  "GLOSSARY Glossary (۲) (۲) (۲)"
+ ],
+ "INDEXIndex": [
+  "INDEXIndex (۱) (۱)",
+  "INDEXIndex (۱) (۲)",
+  "INDEXIndex (۲) (۱)",
+  "INDEXIndex (۲) (۲)"
+ ]
+}

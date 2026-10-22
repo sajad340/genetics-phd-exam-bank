@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 14,
+  "chapter_title_en": "The Genetics of Cancer … and Cancer Genetics",
+  "chapter_title_fa": "فصل ۱۴: ژنتیک سرطان و ژنتیک‌شناسی سرطان", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "em14-1", "topic": "دوضربه‌ای", "difficulty": "medium",
+      "stem": "کدام تومور نمونه کلاسیک فرضیه دوضربه‌ای Knudson است و توضیح مولکولی آن کدام است؟",
+      "options": ["رتینوبلاستوما؛ حذف/جهش هر دو آلل RB1 (ارثی: یک ضربه ژرم‌لاین + یک سوماتیک؛ اسپورادیک: دو ضربه سوماتیک)", "ویلمز؛ نقص WT1 سه‌ضربه", "نوروفیبروماتوز؛ uma ضربه", "تراتوما؛ بدون ضربه"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. رتینوبلاستوما الگوی «دو ضربه» را تثبیت کرد: وراثت AD با ژرم‌لاین RB1+/− نیازمند یک رویداد سوماتیک دوم (LOH) است → بilareral/multifocal/زودهنگام؛ اسپورادیک نیاز به دو رویداد مستقل در همان سلول → تک‌کانونی/دیرتر. RB1 سرکوب‌گر چرخه سلول در نقطه G1/S (مهار E2F).",
+      "level2": "درسنامه: فرضیه دوضربه و ژن‌های سرکوب‌گر — مفاهیم آزمونی: — ژن‌های سرکوب‌گر «متنقّح» (recessive در سطح سلول) اما وراثت غالب: حامل ژرم‌لاین یک آلل معیوب → شروع تومور با second hit (LOH، حذف، جهش، متیلاسیون پروموتر). — مسیرهای second hit: mitotic recombination، chromosome loss (LOH با مارکرها)، deletion، hypermethylation؛ نکته: LOH 13q14 در رتینوبلاستوما اسپورادیک؛ — مثال‌های دوضربه: RB1، VHL (نورو؟ خون-عروق؛ VHL−/+ → HIF ثبتایف؛ downstream VEGF/EPO → درمان با سونیتینیب؟ bevacizumab)، WT1 (ویلمز؛ با WAGR 11p13 del؛ Denys-Drash؛ aniridia)، NF1/2، APC (ضربه دوم اغلب LOH یا APC دوم؛ allelic loss 5q)، TSC1/2 (second hit در angiofibroma/rhabdomyoma؛ mTOR inhibitors)، BRCA1/2 (LOH + جهش دوم؛ HR نقص)، TP53 (Li-Fraumeni؛ early multiple primaries؛ تنها ژنی که اکثراً «dominant negative» در تترامر هم دیده می‌شود). — تفاوت با آنکوژن‌ها: آنکوژن یک ضربه activating (GOF؛ RAS، FGFR3...)؛ مسیر در سرطان: amplification (HER2 双스لی؟ dual probe ISH)، نقاط داغ جهش (BRAF V600E؛ EGFR L858R؛ KIT exon 11؛ FLT3-ITD؛ JAK2 V617F MPN؛ DNMT3A؟) — ترفند حفظ: «آنکوژن گازی است (پدال)، سرکوب‌گر ترمز؛ دو گاز لازم نیست، دو ترمز خرابی = دوضربه»."
+    },
+    {
+      "id": "em14-2", "topic": "سرطان‌های ارثی پستان", "difficulty": "hard",
+      "stem": "زن ۳۸ ساله با سرطان پستان سه‌منفی، مادرش سرطان تخمدان در ۵۰ سالگی؛ محتمل‌ترین ژن و مبنای درمان هدفمند مرتبط کدام است؟",
+      "options": ["TP53؛ پیکوپارلیب", "BRCA1؛ مهارکننده PARP (اولاپاریب) بر پایه synthetic lethality در نقص HR", "CHEK2؛ تراستوزوماب", "PALB2؛ اوران؟"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. تابلوی «سه‌منفی + سابقه تخمدان + سن کم» → BRCA1 (بیش از BRCA2)؛ نقص ترمیم نوترکیبی همولوگ (HR) → حساسیت به مهار PARP (اولاپاریب/نیراپاریب/تالازوپاریب): با مهار BER و شکست‌های تبدیل‌شده به DSB در سلول HR-deficient → مرگ سلول (synthetic lethality).",
+      "level2": "درسنامه: BRCA1/2 و اکثر ژن‌های پستان-تخمدان (مرور آزمونی): — BRCA1 (17q21): پستان سه‌منفی، تخمدان، پروستات، پانکراس؛ BRCA2 (13q12): همه انواع پستان + پانکراس + پروستات + ملانوما + male breast؛ ریسک تجمعی تا ۷۰-۸۰٪ پستان؛ ۴۰-۶۰٪ تخمدان BRCA1. — ژن‌های دیگر: PALB2 (partner BRCA2؛ ریسک بالا)، CHEK2، ATM (متوسط)، TP53 (Li-Fraumeni؛ سارکوما/ادrena/پستان جوان/ALL/چندگانه؛ تشخيص NCCN: CHOMP)، PTEN (Cowden)، CDH1 (لوبولار+گاستریک؛ ماستکتومی/گاسترکتومی پروفیلاکتیک)، STK11 (Peutz-Jeghers)، NF1. — مدیریت حامل: غربالگری (MRI+ماموگرافی ۲۵-۳۰y)، ریسک-کاهش: RRM/RRSO (تخمدان-لوله 35-40؛ BRCA2 می‌تواند 40-45؛ کاهش mortality اثبات‌شده)، شیمی‌پیشگیری (تاموکسیفن ER+)، پرهیز HT. — درمان: PARPi در HER2- متاستاتیک با ژرم‌لاین/somatic HRD (تست ژنومی تومور)؛ platinum حساسیت؛ immunotherapy اگر MSI/TMB (نادر). — پارادوکس: BRCA نقص → tumorigenesis اما پاسخ به درمان بهتر (این حالت در سوالات «چرا» می‌آید). — تست: چندژنی پنل NGS؛ VUS بالا؛ cascade testing خانواده."
+    },
+    {
+      "id": "em14-3", "topic": "مسیرهای سیگنالینگ", "difficulty": "hard",
+      "stem": "جهش activating BRAF V600E در ملانوما هدف کدام داروهاست و مقاومت معمولاً از کجا می‌آید؟",
+      "options": ["تراستوزوماب؛ مقاومت از PTEN", "ویمورافنیب/دابرافنیب (مهار BRAF) ± ترامتنب (MEK)؛ مقاومت با فعال‌سازی مجدد مسیر (RAS، NRAS، BRAF amplification، MEK mutation) و مسیرهای موازی (PI3K)", "ایماتینیب؛ مقاومت T315I", "اولاپاریب؛ مقاومت BRCA reverse"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. مهار BRAF (vemurafenib/dabrafenib) + MEK (trametinib) استاندارد ملانومای BRAF V600-mut؛ مقاومت با reactivation مسیر MAPK (جهش NRAS/KRAS، MEK1، BRAF splice/amplification، RAC1؟) و bypass PI3K؛ ترکیب BRAF+MEK تأخیر مقاومت.",
+      "level2": "درسنامه: مسیر RTK-RAS-MAPK و PI3K در سرطان (محور آزمونی): — اجزا: RTK (EGFR/HER2/FGFR/ALK/MET) → GRB2-SOS → RAS (GDP/GTP؛ GAP=NF1، GEF) → RAF (ARAF/BRAF/CRAF) → MEK → ERK → رونویسی تکثیر؛ شاخه PI3K (p110؛ PIK3CA جهش‌ها E542/545/H1047) → AKT → mTOR؛ تنظیم منفی: PTEN؛ — داروها-جهش‌ها (جفت‌های حفظی): EGFR ex19del/L858R → osimertinib (T790M مقاومت نسل قدیم؛ امریز؟)؛ HER2 amp → trastuzumab/pertuzumab/T-DXd؛ ALK/EML4 → crizotinib/alectinib؛ ROS1؛ MET ex14؛ BRAF V600E → B-Raf/MEK (و در CRC باید + EGFR抑制剂 چون feedback EGFR؛ نکته دقیق آزمونی!)؛ KRAS G12C (سوتاس؛ lung) → sotorasib/adagrasib؛ MEK → trametinib؛ — مقاومت‌ها: gatekeeper (T315I BCR-ABL→ponatinib؛ T790M→osimertinib)، bypass track (HER3/IGF1R)، phenotype switch (EMT)، loss target؛ — در ژنتیک: RASopathies (NF1، Noonan...) = ژرم‌لاین همان مسیر با اثر developmental mild؛ تومور: نقص NF1 → RAS active (neurofibroma→MPNST). — مفهوم collaterai sensitivity و synthetic lethality (PARP-HRD؛ انحصار متقابل BRCA2-PARP)."
+    },
+    {
+      "id": "em14-4", "topic": "سایر سرطان‌های ارثی گوارش", "difficulty": "medium",
+      "stem": "کدام مورد درباره سندرم لینچ صحیح نیست؟",
+      "options": ["وراثت اتوزومال غالب با جهش ژرم‌لاین ژن‌های MMR (MLH1، MSH2، MSH6، PMS2) یا حذف EPCAM", "تومورها معمولاً MSI-high با فقدان IHC پروتئین MMR مربوط", "ریسک کولون راست‌گرا و زودهنگام و آندومتر بالا است", "جهش ژرم‌لاین APC علت آن است"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ صحیح است (نادرست). APC علت FAP است نه Lynch؛ Lynch = ژن‌های MMR (نقص ترمیم بادن‌جفت) → MSI-H؛ سه گزینه دیگر صحیح‌اند.",
+      "level2": "درسنامه: Lynch در برابر FAP (جدول تفکیکی حفظی): — Lynch: AD؛ MMR؛ CRC راست، adenoma-carcinoma سریع‌تر (۲-۳ سال)، synchronous/metachronous؛ سرطان‌های اکسترا: آندومتر (شایع‌ترین بعد CRC)، تخمدان، معده، biliary، urothelial (به‌ویژه MSH2)، مغز (Turcot؛ GBM)، sebaceous (Muir-Torre)؛ تشخیص: IHC (MLH1 loss → بررسی BRAF V600E/MLH1 promoter methylation → sporadic؛ PMS2 منفرد=MLH1؛ MSH6؛ MSH2+MSH6)؛ MSI (Bethesda panel NR-21/BAT25/26/MONO27)؛ سپس تست ژرم‌لاین؛ مدیریت: کولونوسکوپی ۱-۲ ساله از ۲۰-۲۵؛ در CRC: subtotal colectomy； asymptomatic carriers: آسپرین شیمی‌پیشگیری (CAPP2)؛ ایمونوتراپی MSI-H حساس (pembro/dostarlimab — حتی organ-sparing در dMMR CRC locally advanced 2022 NEJM پاتریک دوم؟). — FAP: APC؛ صدها پولیپ از نوجوانی؛ CRC تا ۴۰ سالگی اگر معالجه نشود؛ variants: AFAP، Gardner (desmoid/OSTeoma/epidermoid)، Turcot (APC→medulloblastoma)؛ attenuated/MUTYH-associated (AR؛ bi-allelic؛ ۱۵-۱۰۰ پولیپ؛ پولیپ‌شناسی)؛ مدیریت: پروفیلاکتیک proctocolectomy late teens؛ سوروئیلانس upper GI؛ NSAAA/sulindac؟ cel؟ celecoxib کاهش پولیپ موقت؛ desmoid risk بعد از جراحی. — سایر hamartomatous: Peutz-Jeghers (STK11؛ پولیپ هامارتوماتیک + pigmentaion؛ ریسک بالای GI/پستان/پانکراس/تخمدان SCTAT)، Juvenile polyposis (BMPR1A/SMAD4؛ در SMAD4 + HHT)، Cowden (PTEN)."
+    },
+    {
+      "id": "em14-5", "topic": "mutational signatures", "difficulty": "hard",
+      "stem": "«امضای جهشی SBS2/13 (APOBEC)» و «SBS4 (تنباکو)» چه چیزی را نشان می‌دهند و مفهوم TMB چیست؟",
+      "options": ["امضاها الگوهای جهش مشخص مرتبط با فرآیندهای داخل/خارج سلولی‌اند؛ TMB = تعداد جهش‌های سوماتیک در هر مگاباز؛ هر دو تابع biomarker در انتخاب ایمونوتراپی و درک کارسینوژنز", "امضاها ژرم‌لاین‌اند؛ TMB اندازه تومور", "امضاها فقط در AR؛ TMB تعداد سلول", "TMB تعداد کپی ژن"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Mutational signatures (الگوی سه‌تایی بازها؛ COSMIC) عامل جهش‌زایی را لو می‌دهند: SBS4=تنباکو (C>A در سرطان ریه)، SBS2/13=APOBEC، SBS7=UV (C>T/CC dinucleotide)، SBS1=5mC deamination، SBS3=HRD (indel signatures ID6)، SBS17=؟؛ TMB≥10 mut/Mb معیار پاسخ به checkpoint inhibitors.",
+      "level2": "درسنامه: ژنومیکس مقایسه‌ای سرطان — مفاهیم روزآورد آزمونی: — خودِ فرآیندهای endogenous: deamination spontaneous (SBS1 clock-like؛ SBS5 age)؛ APOBEC3B (پستان/سرطان‌های epithelial)؛ MMRd → SBS6/15/20/26/44 (کوچک indel repeats)؛ POLE ultramutation (SBS10؛ funnel proofreading؛ پاسخ عالی ICI)؛ HRD → SBS3 + LOH + genomic scars (HRD score؛ myChoice؛ garlic qPCR؟) → PARP/platinum. — عوامل خارجی: UV (SBS7؛ CC>TT)؛ tobacco (SBS4)؛ aristolochic acid (SBS22؛ RT؛ hepatocellular در آسیا)؛ platinum (SBS31/35)؛ temozolomide (SBS11)؛ radiation (indel بدون الگو). — TMB و ICI: MSI-H/dMMR و TMB-high و POLE → pembrolizumab tissue-agnostic؛ TMB tumefacient؟ TMB measured by WES/panel500؛ pitfalls: germline filtering، clonality. — ctDNA/MRD: پس از جراحی، ctDNA+ → عود بالا؛ ctDNA-guided stopping (DYNAMIC). — Therapy resistance clones: branching evolution؛ phylogenetic؛ — نکته سوال‌ساز: «کدام امضا با نقص MMR؟» و «کدام با UV؟» حفظ کنید."
+    },
+    {
+      "id": "em14-6", "topic": "اپی‌ژنتیک سرطان", "difficulty": "medium",
+      "stem": "هایپرمتیلاسیون گسترده پروموترهای جزیره CpG (CIMP) و جهش IDH1/2 در گلیوما چه ارتباطی دارد؟",
+      "options": ["بی‌ارتباط", "IDH1/2 mutant → تولید 2-HG → مهار TET2 و هیستون دمتیلازها → CIMP (G-CIMP) و تمایز مسدود", "IDH متیلاسیون را کاهش می‌دهد", "2-HG عاملاز تنباکو"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. جهش IDH1 (R132H شایع) / IDH2 → نئوانزیم ۲-هیدروکسی‌گلوتارات (2-HG) → مهار α-KG-dependent dioxygenases شامل TET و هیستون‌دمتیلازها → هایپرمتیلاسیون سراسری (G-CIMP)؛ در AML هم IDH و TET2 mutual exclusive؛ دارو: ivosidenib/enasidenib (مهار IDH mutant).",
+      "level2": "درسنامه: اپی‌ژنتیک سرطان (مرور ساختاریافته): — سطح DNA: global hypomethylation (instability) + focal CpG island hypermethylation (TSG silencing: MLH1 در sporadic MSI CRC ~15٪؛ BRCA1 در triple-negative sporadic؛ MGMT متیلاسیون → پاسخ به تموزولوماید در گلیوبلاستوما — کاربرد بالینی مستقیم آزمونی؛ CDKN2A)؛ — هیستون: EZH2 (H3K27me3؛ لنفوم؛ tazemetostat)، NSD1/NUT carcinoma؛ SWI/SNF (SMARCB1/INI1 rhabdoid؛ ARID1A؛ PBRM1) — از دست رفتن سرکوب اپی؛ — miRNA: miR-15/16 (del13q14 CLL)، let-7/RAS؛ miR-21 onco؛ — تغییرات 3D: TAD disruption در enhancer hijacking (مثال: IDH؟؛ medulloblastoma TAD، AML KMT2A)؛ — داروها: DNMTi (azacitidine/decitabine در MDS)، HDACi (vorinostat/romidepsin در CTCL؛ belinostat/panobinostat MM)، EZH2i، IDH1/2i، و تلفیق با ICI (اختلال epigenetic → neoantigen) — نکته آزمونی: MGMT methylation تست بالینی GBM قبل TMZ؛ MLH1 methylation تفکیک sporadic از Lynch."
+    },
+    {
+      "id": "em14-7", "topic": "بیوپسی مایع", "difficulty": "medium",
+      "stem": "بیوپسی مایع مبتنی بر ctDNA برای کدام کاربرد «هم‌اکنون» در بالین پذیرفته شده است؟",
+      "options": ["غربالگری عمومی سرطان در افراد سالم (Galleri) — قطعی", "انتخاب/پایش درمان در تومورهای متاستاتیک (پنل‌های ctDNA مثل Guardant360)، تشخیص مقاومت (مثل T790M) و ارزیابی MRD پس از درمان قطعی", "تشخیص اولیه هر سرطان با حساسیت ۱۰۰٪", "تعیین مرحله تومور دقیق"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. کاربردهای بالینی تثبیت‌شده ctDNA: پنل ژنومی در بیماران متاستاتیک (جایگزین بیوپسی بافتی در شرایط خاص)، شناسایی مقاومت (EGFR T790M)، MRD در CRC (guardant Reveal؛ colonguard؟ no: Shield)، انتخاب دارو؛ غربالگری چندسرطانی (Galleri) هنوز در ارزیابی PATHFINDER/NHS و نه استاندارد قطعی.",
+      "level2": "درسنامه: بیوپسی مایع — چارچوب آزمونی: — اجزا: ctDNA (شکت‌های ~۱۶۰bp تروفوبلاست/نکروزیس/آپوپتوز)، CTC (سلول کامل؛ CellSearch در پستان/پروستات/کولون prognostic)، exosomes، پروتئین‌ها (HE4 و …). — کاربردها: (۱) genotyping در متاستاتیک وقتی بافت محدود/غیرقابل‌دسترس؛ (۲) مقاومت: EGFR T790M (تست خون قبل از osimertinib)، KRAS در CRC anti-EGFR resistance، ESR1 در پستان HR+؛ (۳) MRD post-surgery: ctDNA+ → عود تقریباً قطعی؛ راهنمای adjuvant (DYNAMIC CRC: کاهش chemo بی‌خطر در ctDNA−)؛ (۴)/screening: نرخ مثبت کاذب، overdiagnosis، هزینه؛ مدل NHS-Galleri؛ (۵) بیماری‌های غیرسرطانی (پیوند اعضا donor-DNA؛ حاملگی fetal fraction؛ ضربه/آپوپتوز). — NIPT و سرطان: incidental (false positive NIPT → کشف mom's neoplasm؛ CPP CNVs). — فناوری: dPCR، NGS panel، methylation panels (Shield)، fragmentomics؛ sensitivity limitations: early-stage/low-shedding تومورها؛ — نکته آزمونی: «عکس مادر ۴۸ ساله با NIPT مثبت متعدد، جنین سالم؛ بعد؟» → بررسی مادر برای بدخیمی (choriocarcinoma/cancer)."
+    },
+    {
+      "id": "em14-8", "topic": "کارسینوژنز چندمرحله‌ای", "difficulty": "medium",
+      "stem": "در مدل Vogelstein سرطان کولون، ترتیب شاخص رویدادها کدام است؟",
+      "options": ["APC حذف → KRAS جهش → 18q LOH (SMAD4) → TP53 جهش → کارسینوما", "TP53 اول → APC آخر", "KRAS اول → MSH2 آخر", "ترتیب تصادفی و بی‌اهمیت"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. توالی کلاسیک adenoma-carcinoma: از دست رفتن APC (شروع، hyperplasia/adenoma اولیه) → جهش KRAS (adenoma متوسط) → LOH 18q/SMAD/DCC (adenoma پیشرفته) → TP53 (کارسینوما)؛ در مسیر جایگزین serrated: BRAF → CIMP → MLH1 methylation/MSI.",
+      "level2": "درسنامه: کارسینوژنز چندمرحله‌ای — مثال‌های آزمونی: — CRC conventional (chromosomal instability ~70-80٪): APC→KRAS→18q→TP53؛ FAP شروع از ژرم‌لاین APC (فقط یک ضربه سوماتیک لازم)؛ — serrated pathway (10-15٪): BRAF V600E → CpG island methylation (serrated sessile adenoma) → MLH1 silencing → MSI-H sporadic؛ — IBD-associated: p53 اولیه + aneuploidy، COX-2؛ — پانکراس: KRAS>90٪ → CDKN2A → SMAD4 → BRCA2 subset؛ PanIN progression؛ — معده: H. pylori (رایش p53؛ CDH1 در دیفیوز ارثی)؛ — پستان: تکامل ductal hyperplasia→DCIS→IDC؛ ER/PR/HER2 subtypes؛ هم‌زمانی基因组: PIK3CA/KMT2C/GATA3؛ — کبد: cirrhosis→dysplasia→HCC؛ aflatoxin→TP53 R249S (سوال امضایی)؛ — ملانوما: UV دینوکلئوتیدی؛ TERT promoter زود؛ — مفهوم clonal evolution (Nowell): driver → clonal expansion → بیشتر drivers → شاخه‌ای؛ مدل neutral vs. selection (کلون بزرگ‌شونده)؛ driver vs passenger (تست dN/dN؛ recurrence)؛ — hallmarks обновление (Hanahan 2022: 14 hallmark؛ undoing phenotypes؛ epigenetic؛ polymorphic microbiome — نکته روزآورد)."
+    },
+    {
+      "id": "em14-9", "topic": "تومورهای ارثی غدد درون‌ریز", "difficulty": "hard",
+      "stem": "جفت‌کردن صحیح کدام است؟",
+      "options": ["MEN1 – پاراتیروئید/پانکراس neuroendocrine/هیپوفیز – ژن MEN1 (menin؛ LOH 11q13)", "MEN2 – هایپرپاراتیروئید اصلی – RET loss", "VHL – فئوکروموسیتوما بدون هموژیوبلاستوما", "Carney complex – PRKAR1A بدون پوست"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. MEN1: AD؛ ژن MEN1 (11q13؛ سرکوب‌گر)؛ سه‌گانه: پاراتیروئید (~۹۰٪)، پانکراس NET (گاسترینوما/انسولینوما)، هیپوفیز (پرولاکتینوما)؛ کارسینوئید، ادرنال. MEN2 = RET activating (نه loss)؛ medullary thyroid + فئوکروموسیتوما + پاراتیروئید (2A)؛ mucosal neuroma (2B).",
+      "level2": "درسنامه: سندرم‌های эндوکرین ارثی — جدول حفظی: — MEN1 (menin): PHPT اول؛ gastrinoma → Zollinger-Ellison؛ تشخیص: کلسیم/گاسترین/پرولاکتین؛ ژنتیک MEN1؛ مدیریت جراحی + پایش؛ — MEN2A (RET C634): MTC تقریباً ۱۰۰٪ (پروفیلاکتیک تیروئیدکتومی کودکی بر اساس ATA سطح جهش)، فئوکروموسیتوما (~۵۰٪؛ قبل از جراحی رد کردن!), PHPT؛ MEN2B (M918T): زودترین MTC + مارفانوئید + mucosal neuroma + ganglioneuromatosis؛ بدون PHPT؛ — FMTC خانوادگی MTC تنها؛ — VHL (3q25؛ HIF pathway): RCC، hemangioblastoma (CNS/retina)، فئوکروموسیتوما/پاراگانگلیوما (خانوادگی SDH نیز)، endolymphatic sac، پانکراس NET/cyst؛ رده‌بندی risk: type1 (بدون فئو) 2A/2B؛ سوروئیلانس سالانه؛ — SDHx (paraganglioma-فئو؛ succinate dehydrogenase؛ SDHD والد-منشأ imprinting)، MAX/TMEM127؛ — Carney complex (PRKAR1A؛ 17q): PPNAD/کوشینگ، myxoma قلبی، لکه‌های پوستی، acromegaly؛ — Cowden (PTEN؛ MTCR? hamartoma؛ تیروئید/پستان/آندومتر)؛ McCune-Albright (GNAS mosaic؛ پلی‌اوستوئیتک فیبروز، precocious puberty، cafe L123)؛ DICER1 (پلئوموناری بلاستوما/کیست سارکوماتوئید/Sertoli)؛ — قاعده آزمونی: «فئوکروموسیتوما/پاراگانگلیوما → بررسی RET/VHL/SDHx/NF1/TMEM127/MAX»."
+    },
+    {
+      "id": "em14-10", "topic": "هتروژنیتی تومور و تکامل کلونال", "difficulty": "hard",
+      "stem": "مفهوم «تکامل شاخه‌ای (branching evolution)» تومور چه پیامدی درمانی دارد؟",
+      "options": ["نمونه‌گیری تک‌نقطه‌ای تمام تنوع ژنومی تومور را نشان می‌دهد", "ناهمگونی فضایی/زمانی کلون‌ها → نمونه واحد ممکن است drivers مقاومت را جا بیندازد؛ توالی‌یابی چندناحیه‌ای/ctDNA و درمان‌های ترکیبی لازم است", "همه کلون‌ها یکسان پاسخ می‌دهند", "تکامل کلونال فقط در بیماری‌های خون است"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. تومورها mosaic کلون‌های متمایزند؛ کلون‌های فرعی با drivers مقاومت ممکن در نمونه اصلی غایب باشند (heterogeneity spatial) و با فشار درمانی انتخاب شوند (temporal)؛ راهکارها: multi-region sequencing، ctDNA longitudinal، ترکیب درمان هدفمند با ICI/شیمی برای کاهش کلون‌های فرار.",
+      "level2": "درسنامه: هتروژنیتی و تکامل (مفاهیم آزمونی): — انواع: inter-patient؛ intra-tumoral (spatial)؛ inter-metastatic؛ intra-metastatic؛ temporal (پس از درمان)؛ — مدل‌ها: linear vs branching؛ punctuated equilibrium/chromothripsis (کاتاستروف یک‌رویدادی؛ shattering و بازچینی؛ ring chromosomes؛ double minutes)؛ — پیامدها: مقاومت (کلون‌های از پیش موجود: EGFR T790M؛ نئو emergence)، درک biopsies (single-cell، multi-region)، طراحی临床试验 (adbances تلفیقی)؛ — مثال‌ها: RCC (Fuhrman؛ VHL مختصات)، CRC (KRAS/GNAS subclones)، NSCLC (T790M/EGFR C797S؛ histologic transformation SCLC)، پستان (ESR1، HER2 heterogeneity)، پلئوموناری؟؛ — phylogenetics و MRD؛ — نکته‌ها: «دو زیرکلون در یک تومور با دو جهش متفاوت RAS از دو شاخه»؛ «کدام تست مقاومت را زودتر می‌بیند؟» ctDNA. — ITH metrics: ENTROPY/MATH؛ ارتباط با prognosis/ICI."
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "section_id": "english_readings_1",
+  "section_title_fa": "زبان تخصصی — بخش اول: میکروRNA، اگزوزوم و زیست‌شناسی سرطان پستان",
+  "strategy_note": "راهنمای کلی پاسخ‌دهی ریدینگ: (۱) ابتدا سوالات را ۳۰ ثانیه مرور کنید تا بدانید دنبال چه هستید (targeted reading)؛ (۲) پاساژ را یک‌بار سریع بخوانید (skimming) و ایده اصلی هر پاراگراف را بیابید؛ (۳) برای سوالات جزئیاتی، کلیدواژه سوال را در متن پیدا کنید و فقط همان جمله و قبل/بعدش را بخوانید (scanning)؛ (۴) در سوالات واژگان، جمله را کامل بخوانید؛ واژه ناشناخته معمولاً همان‌جا تعریف یا با in other words/that is توضیح داده می‌شود؛ (۵) در سوالات استنباط (inference)، فقط از اطلاعات متن استفاده کنید — دانش قبلی شما ملاک نیست؛ گزینه‌های غلط معمولاً یا اطلاعاتی خارج از متن دارند یا با متن تناقض دارند (NOT TRUE) یا بیش‌ازحد عمومی‌اند (overgeneralization با کلمات all/never/always).",
+  "readings": [
+    {
+      "id": "eng01",
+      "title": "Exosomal microRNAs and Chemoresistance in Breast Cancer",
+      "source": "بر اساس مقاله: Exosomal-microRNA transcriptome profiling of Parental and CSC-like MDA-MB-231 cells in response to cisplatin treatment (Pathology - Research and Practice, 2022)",
+      "passage": "Chemotherapy resistance remains a major obstacle in the treatment of triple-negative breast cancer (TNBC). Growing evidence suggests that cancer stem cells (CSCs), a small subpopulation of tumor cells capable of self-renewal and differentiation, contribute significantly to relapse and therapeutic failure. Exosomes, membrane-bound extracellular vesicles ranging from 30 to 150 nanometers in diameter, have emerged as key mediators of intercellular communication. These vesicles carry molecular cargo—including microRNAs (miRNAs), small non-coding RNAs of approximately 18–24 nucleotides that regulate gene expression post-transcriptionally—between cells. In a recent study, researchers profiled the exosomal miRNA transcriptome of parental MDA-MB-231 breast cancer cells and their CSC-like derivatives following cisplatin treatment. They found that cisplatin altered the composition of exosomal miRNAs in a cell-type-specific manner: CSC-like cells packaged a distinct set of miRNAs into their exosomes compared with parental cells. Notably, several differentially expressed miRNAs were predicted to target genes involved in apoptosis, DNA damage repair, and drug efflux pathways. These findings imply that CSC-derived exosomes may transfer resistance-associated signals to neighboring cells, thereby spreading chemoresistant phenotypes throughout the tumor. Consequently, exosomal miRNAs are increasingly viewed not merely as passive biomarkers but as functional players in tumor biology and as promising therapeutic targets.",
+      "vocab": [
+        ["chemoresistance", "مقاومت شیمی‌درمانی؛ مقاومت سلول تومور به داروهای ضدسرطان"],
+        ["cancer stem cells (CSCs)", "سلول‌های بنیادی سرطان؛ زیرجمعیت کوچک با توان خودنوزایی و تمایز"],
+        ["exosomes", "اگزوزوم‌ها؛ وزیکول‌های خارج‌سلولی غشادار ۳۰-۱۵۰ نانومتری"],
+        ["cargo", "بار مولکولی؛ محتوای حمل‌شده توسط وزیکول"],
+        ["miRNA", "میکروRNA؛ RNA غیرکدکننده ~۱۸-۲۴ نوکلئوتیدی با تنظیم پس از ترجمه"],
+        ["post-transcriptionally", "پس از رونویسی؛ بعد از ساخت mRNA"],
+        ["differentially expressed", "بیان تفاضلی؛ با سطح بیان متفاوت بین دو شرایط"],
+        ["drug efflux", "خروج دارو از سلول (پمپ‌های ترانهاده)؛ از سازوکارهای مقاومت"]
+      ],
+      "questions": [
+        {
+          "q": "1. What is the main idea of the passage?",
+          "options": [
+            "Cisplatin is an ineffective drug against triple-negative breast cancer.",
+            "CSC-derived exosomal miRNAs may actively contribute to the spread of chemoresistance in breast tumors.",
+            "Exosomes are larger than most extracellular vesicles.",
+            "All breast cancer cells respond identically to cisplatin."
+          ],
+          "answer_idx": 1,
+          "explanation": "ایده اصلی در جمله‌های پایانی آمده: «exosomal miRNAs ... not merely as passive biomarkers but as functional players» — گزینه ۱ با متن تناقض دارد (اثربخشی cisplatin رد نشده)، گزینه ۳ جزئیات اشتباه و فرعی است، گزینه ۴ با «cell-type-specific manner» تناقض دارد.",
+          "tip": "ایده اصلی معمولاً در جمله concluding آخرین پاراگراف یا جمله اول پاراگراف اول است. گزینه‌های جزئی (مثل عدد و اندازه) هرگز ایده اصلی نیستند."
+        },
+        {
+          "q": "2. According to the passage, what is the approximate size range of exosomes?",
+          "options": ["18–24 nanometers", "30–150 nanometers", "150–300 nanometers", "30–150 micrometers"],
+          "answer_idx": 1,
+          "explanation": "جمله دوم پاراگراف دوم: «ranging from 30 to 150 nanometers in diameter». گزینه ۱ عدد مربوط به اندازه miRNA (نوکلئوتید) است — تله رایج جابه‌جایی اعداد.",
+          "tip": "سوالات عددی: عدد را با واحدش دقیق چک کنید؛ طراحان معمولاً اعداد دو مفهوم مختلف را جابه‌جا می‌کنند."
+        },
+        {
+          "q": "3. The word \"cargo\" in paragraph 2 is closest in meaning to:",
+          "options": ["waste products", "protective coating", "transported content", "membrane receptor"],
+          "answer_idx": 2,
+          "explanation": "بعد از cargo یک dash توضیحی آمده: «—including microRNAs...— between cells» یعنی محتوایی که بین سلول‌ها حمل می‌شود. واژه‌شناسی از بافت (context clues).",
+          "tip": "هرگاه بعد از واژه علامت — یا such as/including آمد، خود متن دارد واژه را تعریف می‌کند."
+        },
+        {
+          "q": "4. It can be inferred from the passage that:",
+          "options": [
+            "parental and CSC-like cells package identical miRNAs into exosomes",
+            "intercellular communication may play a role in treatment failure",
+            "miRNAs regulate gene expression at the transcriptional level",
+            "exosomal miRNAs have no clinical potential"
+          ],
+          "answer_idx": 1,
+          "explanation": "استنباط صحیح از ارتباط «intercellular communication» با «therapeutic failure» در جمله‌های اول. گزینه ۱ مستقیماً با متن تناقض دارد (a distinct set)، گزینه ۳ با post-transcriptionally تناقض دارد، گزینه ۴ با promising therapeutic targets تناقض دارد.",
+          "tip": "در سوالات inference، گزینه‌ای که «مستقیماً با یک جمله متن تناقض دارد» فوراً حذف می‌شود."
+        },
+        {
+          "q": "5. Which of the following is NOT stated in the passage?",
+          "options": [
+            "CSCs are capable of self-renewal.",
+            "Cisplatin changed the exosomal miRNA profile in a cell-type-specific manner.",
+            "Differentially expressed miRNAs were predicted to target genes of apoptosis and DNA repair.",
+            "Exosomal miRNAs have already been approved as therapeutic agents in clinics."
+          ],
+          "answer_idx": 3,
+          "explanation": "متن فقط می‌گوید «promising therapeutic targets» (آینده‌نگر)؛ تأیید بالینی و approv ادعا نشده. سه گزینه دیگر عیناً در متن آمده‌اند. واژه‌های already approved/approved کلید تشخیص NOT stated است.",
+          "tip": "در سوالات NOT stated، گزینه‌ای با ادعای قوی‌تر از متن (تأیید شده، درمان قطعی، اثبات کامل) معمولاً جواب است."
+        }
+      ]
+    },
+    {
+      "id": "eng02",
+      "title": "The ceRNA Hypothesis: lncRNA–miRNA–mRNA Networks in Breast Cancer",
+      "source": "بر اساس مقاله: Datasets exploring putative lncRNA-miRNA-mRNA axes in breast cancer cell lines (Data in Brief, 2021)",
+      "passage": "For decades, molecular biology focused on protein-coding genes, which constitute less than two percent of the human genome. The advent of high-throughput transcriptomics, however, revealed that the majority of the genome is transcribed into non-coding RNAs. Among these, long non-coding RNAs (lncRNAs), defined as transcripts longer than 200 nucleotides lacking protein-coding potential, have attracted considerable attention in cancer research. A influential model proposed to explain their function is the competing endogenous RNA (ceRNA) hypothesis. According to this framework, lncRNAs possess miRNA response elements (MREs)—short sequences complementary to microRNAs—and can therefore act as molecular sponges, sequestering miRNAs away from their natural mRNA targets. When an lncRNA absorbs a miRNA that would ordinarily suppress an oncogenic mRNA, the expression of that mRNA is effectively de-repressed. In breast cancer cell lines, computational analyses have mapped thousands of putative lncRNA–miRNA–mRNA axes, many of which converge on key pathways such as PI3K-AKT signaling, epithelial–mesenchymal transition (EMT), and apoptosis. Experimental validation, however, lags far behind bioinformatic prediction, and researchers caution that sponge effects require specific abundance ratios that may exist only in certain cellular contexts. Nevertheless, the ceRNA model provides a unifying language for describing cross-talk among transcript classes and continues to guide the discovery of diagnostic biomarkers and therapeutic candidates.",
+      "vocab": [
+        ["high-throughput", "توان‌بالا؛ فناوری‌های پردازش موازی انبوه نمونه‌ها"],
+        ["lncRNA", "RNA بلند غیرکدکننده؛ رونوشت >۲۰۰ نوکلئوتید بدون ساخت پروتئین"],
+        ["ceRNA (competing endogenous RNA)", "RNA درون‌زاد رقیب؛ مدل اسفنجی رقابت بر سر miRNA"],
+        ["molecular sponge", "اسفنج مولکولی؛ مولکولی که miRNA را به خود می‌گیرد"],
+        ["sequester", "جداسازی/به‌دام‌انداختن؛ جذب و نگه‌داشتن miRNA"],
+        ["de-repressed", "آزاد از سرکوب؛ بیان مجدد پس از رفع مهار"],
+        ["EMT", "گذار اپیتلیال-مزانشیمی؛ گام کلیدی تهاجم و متاستاز"],
+        ["putative", "احتمالی/فرضی؛ پیشنهادشده اما تأییدنشده"]
+      ],
+      "questions": [
+        {
+          "q": "1. The primary purpose of the passage is to:",
+          "options": [
+            "prove that lncRNAs are translated into proteins",
+            "introduce the ceRNA hypothesis and describe its relevance and limitations in breast cancer research",
+            "criticize high-throughput methods as unreliable",
+            "list all miRNAs expressed in breast cancer"
+          ],
+          "answer_idx": 1,
+          "explanation": "ساختار متن: معرفی lncRNA → توضیح مدل ceRNA → داده‌های سرطان پستان → محدودیت‌ها → جمع‌بندی. هدفِ «معرفی + نقش + محدودیت» در گزینه ۲ بازتاب کامل دارد.",
+          "tip": "سوال purpose/ساختار: پاسخ باید «کل» متن را پوشش دهد؛ گزینه‌هایی که فقط یک پاراگراف را می‌پوشانند یا با متن تناقض دارند حذف می‌شوند."
+        },
+        {
+          "q": "2. According to the ceRNA hypothesis, an oncogenic mRNA is de-repressed when:",
+          "options": [
+            "the miRNA that targets it is sequestered by a competing lncRNA",
+            "the lncRNA is degraded by the miRNA",
+            "the mRNA acquires new miRNA response elements",
+            "the PI3K-AKT pathway is inhibited"
+          ],
+          "answer_idx": 0,
+          "explanation": "جمله کلیدی: «lncRNAs ... act as molecular sponges, sequestering miRNAs away from their natural mRNA targets» → miRNA که سرکوب‌کننده mRNA انکوژنیک بود، توسط lncRNA به دام می‌افتد و mRNA آزاد می‌شود.",
+          "tip": "سوالات مکانیسم/علت-مععلول: زنجیره رویداد را با فلش در حاشیه بنویسید: lncRNA ← miRNA ← mRNA آزاد."
+        },
+        {
+          "q": "3. The phrase \"lags far behind\" in the last paragraph suggests that:",
+          "options": [
+            "bioinformatic predictions are rarely published",
+            "experimental confirmation is much less advanced than computational prediction",
+            "researchers refuse to validate the hypothesis",
+            "breast cancer research is underfunded"
+          ],
+          "explanation": "lag behind = عقب‌ماندن؛ بین prediction (انبوه) و validation (کم) شکاف وجود دارد. گزینه ۳ و ۴ اطلاعات خارج از متن‌اند.",
+          "answer_idx": 1,
+          "tip": "عبارات مقایسه‌ای (lag behind, far behind) معمولاً مقایسه دو چیز در متن را می‌سنجند — دو طرف مقایسه را پیدا کنید."
+        },
+        {
+          "q": "4. The author mentions the requirement of \"specific abundance ratios\" in order to:",
+          "options": [
+            "strengthen the claim that all ceRNA interactions are universal",
+            "qualify the ceRNA hypothesis by noting context-dependent limitations",
+            "introduce a new drug target",
+            "dismiss the ceRNA hypothesis entirely"
+          ],
+          "answer_idx": 1,
+          "explanation": "این جمله در دل «researchers caution that...» آمده → کارکرد محدودسازی/احتیاط علمی (qualification). گزینه ۱ واژه universal را اضافه می‌کند و گزینه ۴ با ادامه متن (continues to guide) تناقض دارد.",
+          "tip": "دقت کنید جمله‌های حاوی caution/however/nevertheless معمولاً «محدودیت» اضافه می‌کنند؛ طراح سوال می‌پرسد چرا نویسنده این را آورده."
+        },
+        {
+          "q": "5. Which pathway is explicitly named as a convergence point of the predicted axes?",
+          "options": ["Wnt signaling", "PI3K-AKT signaling", "MAPK signaling", "JAK-STAT signaling"],
+          "answer_idx": 1,
+          "explanation": "«converge on key pathways such as PI3K-AKT signaling, EMT, and apoptosis». سه گزینه دیگر مسیرهای معتبر دیگرند اما در متن ذکر نشده‌اند — تله دانش قبلی.",
+          "tip": "در سوالات explicitly named/stated، فقط به متن رجوع کنید؛ دانش قبلی شما درباره مسیرهای دیگر منشأ خطاست."
+        }
+      ]
+    },
+    {
+      "id": "eng03",
+      "title": "Functional Analysis of miRNA Data: Bioinformatic Tools",
+      "source": "بر اساس مقاله: Computational Methods and Software Tools for Functional Analysis of miRNA Data (Biomolecules, 2020)",
+      "passage": "Because a single microRNA can regulate hundreds of target genes, and a single gene may be regulated by dozens of microRNAs, interpreting miRNA expression data poses a formidable analytical challenge. MicroRNAs rarely act in isolation; instead, they operate within coordinated regulatory networks. To extract biological meaning from lists of differentially expressed miRNAs, researchers rely heavily on enrichment analysis. This family of methods asks whether genes associated with a particular biological term—such as a pathway, molecular function, or disease—are over-represented among the targets of the observed miRNAs compared with what would be expected by chance. The statistical foundation of most enrichment tools is the hypergeometric distribution, often coupled with correction for multiple hypothesis testing, such as the Benjamini–Hochberg procedure, which controls the false discovery rate. Despite their utility, target-prediction algorithms suffer from high false-positive rates, since miRNA targeting depends not only on seed complementarity but also on target-site accessibility, RNA-binding proteins, and cellular context. Consequently, integrated platforms now combine several prediction databases, incorporate experimentally validated interactions from resources such as TarBase, and allow users to filter results by expression consistency. Reviewers of these tools emphasize that the choice of background gene set—the universe of genes against which enrichment is computed—profoundly influences the outcome, and that an inappropriate background can generate entirely spurious conclusions. Careful experimental design and domain knowledge therefore remain indispensable even in the era of one-click bioinformatics.",
+      "vocab": [
+        ["over-represented", "بیش‌نمایی‌شده؛ فراوان‌تر از انتظار تصادفی"],
+        ["enrichment analysis", "آنالیز غنای ژنی؛ آزمون فراوانی غیرتصادفی مقوله‌های بیولوژیک"],
+        ["hypergeometric distribution", "توزیع فوق‌هندسی؛ مبنای آماری آزمون غنا"],
+        ["false discovery rate (FDR)", "نرخ کشف کاذب؛ کنترل خطای آزمون‌های متعدد"],
+        ["seed complementarity", "مکمل‌بودن ناحیه seed میکروRNA با هدف"],
+        ["target-site accessibility", "دسترسی‌پذیری جایگاه هدف روی mRNA"],
+        ["background gene set", "مجموعه ژن‌های زمینه برای مقایسه در آزمون غنا"],
+        ["spurious", "کاذب/بی‌اعتبار؛ ظاهراً معتبر اما غلط"]
+      ],
+      "questions": [
+        {
+          "q": "1. Why is interpreting miRNA data described as a \"formidable challenge\"?",
+          "options": [
+            "because miRNAs act completely independently of each other",
+            "because of the many-to-many relationship between miRNAs and their target genes",
+            "because miRNAs are too long to sequence",
+            "because expression data cannot be measured"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله اول: یک miRNA صدها هدف و یک ژن ده‌ها miRNA دارد → رابطه many-to-many. گزینه ۱ دقیقاً برعکس متن (in isolation را متن رد می‌کند) است.",
+          "tip": "صفت‌های قوی مثل formidable همیشه با دلیل در جمله بعدی همراه‌اند — دلیل را پیدا کنید."
+        },
+        {
+          "q": "2. The Benjamini–Hochberg procedure is mentioned as a method for:",
+          "options": ["sequencing miRNAs", "controlling the false discovery rate", "validating target sites experimentally", "normalizing expression values"],
+          "answer_idx": 1,
+          "explanation": "«...correction for multiple hypothesis testing, such as the Benjamini–Hochberg procedure, which controls the false discovery rate» — همان جمله تعریف را می‌دهد.",
+          "tip": "اسامی خاص (روش/دانشمند) معمولاً در سوال با کارکردشان پرسیده می‌شوند؛ جمله حاوی نام را کامل بخوانید."
+        },
+        {
+          "q": "3. According to the passage, target prediction has high false-positive rates because:",
+          "options": [
+            "seed sequences are always incorrect",
+            "targeting also depends on site accessibility, RNA-binding proteins, and cellular context",
+            "hypergeometric tests are unavailable",
+            "miRNAs do not bind to mRNAs"
+          ],
+          "answer_idx": 1,
+          "explanation": "«...since miRNA targeting depends not only on seed complementarity but also on target-site accessibility, RNA-binding proteins, and cellular context» — گزینه ۱ با متن (seed مهم است اما کافی نیست) تناقض دارد.",
+          "tip": "عبارت not only...but also ساختار «دلیل چندبخشی» می‌سازد؛ گزینه درست همه اجزا را دارد، گزینه انحرافی فقط یک جزء مطلق‌سازی‌شده."
+        },
+        {
+          "q": "4. The author's attitude toward \"one-click bioinformatics\" can best be described as:",
+          "options": ["enthusiastically supportive", "cautiously skeptical", "openly hostile", "completely indifferent"],
+          "answer_idx": 1,
+          "explanation": "جمله پایانی: ابزارها مفیدند اما «careful experimental design and domain knowledge ... remain indispensable» → احتیاط همراه با پذیرش فایده (cautiously skeptical). hostile/indifferent با لحن متن نمی‌خوانند.",
+          "tip": "سوالات لحن/نگرش (attitude/tone): به قیدها و جمله آخر توجه کنید؛ واژه‌هایی چون remain indispensable نشان‌دهنده موضع میانه-احتیاطی است."
+        },
+        {
+          "q": "5. All of the following are stated about the background gene set EXCEPT:",
+          "options": [
+            "it influences enrichment results profoundly",
+            "an inappropriate background can lead to spurious conclusions",
+            "it should always include every gene in the genome",
+            "it is the universe of genes used for comparison"
+          ],
+          "answer_idx": 2,
+          "explanation": "متن تعریف و اهمیت پس‌زمینه را گفته اما هرگز گفته «باید همه ژنوم باشد» — این ادعا اضافه‌شده است (EXCEPT).",
+          "tip": "در سوالات EXCEPT، سه گزینه paraphrase مستقیم متن‌اند؛ گزینه دارای قید مطلق (always/every) معمولاً جواب است."
+        }
+      ]
+    },
+    {
+      "id": "eng04",
+      "title": "Early Detection of Breast Cancer: Principles of Screening",
+      "source": "بر اساس کتاب: Early Diagnosis and Treatment of Cancer: Breast Cancer (Saunders/Elsevier)",
+      "passage": "The rationale for early detection of breast cancer rests on a simple observation: tumors confined to the breast are associated with substantially better survival than tumors that have already spread to regional lymph nodes or distant organs. Screening aims to detect a disease in its preclinical phase—that is, before it produces symptoms—through the systematic application of a test to an apparently healthy population. For a screening program to be justified, several criteria should be satisfied: the disease must be an important health problem with a recognizable early stage; early treatment must offer a benefit over late treatment; and the test must be acceptable, safe, affordable, and sufficiently accurate. Mammography, the reference screening modality, reduces breast cancer mortality in women invited to screening by roughly 20 percent, although debate persists regarding overdiagnosis—the detection of indolent tumors that would never have become clinically apparent. Supplemental screening with magnetic resonance imaging is recommended for women at high genetic risk, such as BRCA mutation carriers, whose dense breast tissue and earlier disease onset reduce mammographic sensitivity. Clinical breast examination and breast self-examination, once promoted widely, now play a limited role because randomized trials failed to demonstrate a mortality reduction. Risk-stratified screening, in which the intensity and modality of surveillance are tailored to individual risk profiles—incorporating polygenic scores, mammographic density, and family history—represents the emerging paradigm, shifting the field from a one-size-fits-all approach toward personalized detection strategies.",
+      "vocab": [
+        ["preclinical phase", "فاز پیش‌بالینی؛ مرحله قبل از بروز علائم"],
+        ["prevalence vs. incidence", "شیوع vs. بروز (تعداد کل موارد در مقابل موارد جدید)"],
+        ["overdiagnosis", "تشخیص بیش‌ازحد؛ کشف تومورهای کم‌خطر که هرگز علامت‌دار نمی‌شدند"],
+        ["indolent", "کم‌خطر/آهسته؛ تومور با رشد کند"],
+        ["mammographic density", "تراکم ماموگرافی؛ بافت پستانی که حساسیت تصویربرداری را کم می‌کند"],
+        ["mortality reduction", "کاهش مرگ‌ومیر؛ معیار اصلی موفقیت غربالگری"],
+        ["risk-stratified", "طبقه‌بندی‌شده بر اساس ریسک"],
+        ["polygenic score", "امتیاز پلی‌ژنیک؛ مجموع وزن‌دار واریانت‌های ریسک"]
+      ],
+      "questions": [
+        {
+          "q": "1. According to the passage, the fundamental justification for early detection is that:",
+          "options": [
+            "all tumors eventually metastasize",
+            "localized tumors have considerably better outcomes than disseminated ones",
+            "screening eliminates the need for treatment",
+            "mammography has no limitations"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله اول: «tumors confined to the breast are associated with substantially better survival...» — گزینه‌های مطلق‌سازی‌شده (all/eliminates/no) با متن نمی‌خوانند.",
+          "tip": "گزینه‌های دارای all/never/no/eliminate تقریباً همیشه غلط‌اند مگر متن صریحاً بگوید."
+        },
+        {
+          "q": "2. The word \"indolent\" is closest in meaning to:",
+          "options": ["aggressive", "slow-growing", "invisible on imaging", "hormone-sensitive"],
+          "answer_idx": 1,
+          "explanation": "تعریف داخل همان جمله آمده: «tumors that would never have become clinically apparent» → رشد بسیار کند. واژگان overdiagnosis همیشه با indolent همراه است.",
+          "tip": "indolent در متون انکولوژی = کم‌خطر و آهسته؛ این واژه در آزمون‌های قبلی بارها آمده است — حفظ کنید."
+        },
+        {
+          "q": "3. Why is supplemental MRI recommended for BRCA mutation carriers?",
+          "options": [
+            "because MRI is cheaper than mammography",
+            "because dense tissue and earlier onset reduce the sensitivity of mammography in these women",
+            "because BRCA tumors do not appear on mammography at all",
+            "because MRI replaces genetic testing"
+          ],
+          "answer_idx": 1,
+          "explanation": "«whose dense breast tissue and earlier disease onset reduce mammographic sensitivity». گزینه ۳ مطلق‌سازی غلط (کاهش حساسیت ≠ دیده‌نشدن مطلق).",
+          "tip": "پاساژهای غربالگری الگوی ثابت دارند: «در گروه پرخطر، تست مکمل به‌دلیل محدودیت تست اصلی» — این الگو را به خاطر بسپارید."
+        },
+        {
+          "q": "4. It can be inferred that breast self-examination lost prominence because:",
+          "options": [
+            "it is too expensive for public programs",
+            "randomized trials did not show reduced mortality",
+            "women refused to perform it",
+            "imaging replaced all physical examinations"
+          ],
+          "answer_idx": 1,
+          "explanation": "«randomized trials failed to demonstrate a mortality reduction» — عین متن. معیار طلایی ارزش‌گذاری هر آزمون غربالگری = کاهش مرگ‌ومیر در کارآزمایی.",
+          "tip": "در متون غربالگری، جمله «کارآزمایی تصادفی نشان داد/نشان نداد» همیشه سوژه سوال است."
+        },
+        {
+          "q": "5. The emerging paradigm described in the passage is:",
+          "options": [
+            "uniform screening for all women at the same age",
+            "abandoning mammography entirely",
+            "tailoring screening intensity and modality to individual risk",
+            "screening only symptomatic women"
+          ],
+          "answer_idx": 2,
+          "explanation": "پاراگراف پایانی: «Risk-stratified screening ... tailored to individual risk profiles» — گزینه ۱ برعکسِ one-size-fits-all است که متن آن را کنار می‌گذارد.",
+          "tip": "پاساژهای علمی جدید اغلب در جمله آخر «پارادایم نوظهور» را معرفی می‌کنند؛ اگر سوال آخر ریدینگ درباره آینده/روند باشد، جمله پایانی را ببینید."
+        }
+      ]
+    }
+  ]
+}

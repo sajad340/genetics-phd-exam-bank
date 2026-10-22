@@ -1,0 +1,917 @@
+[
+ [
+  1,
+  "Cover",
+  1
+ ],
+ [
+  1,
+  "Title Page",
+  4
+ ],
+ [
+  1,
+  "Copyright Page",
+  5
+ ],
+ [
+  1,
+  "Contents",
+  6
+ ],
+ [
+  1,
+  "Preface",
+  10
+ ],
+ [
+  1,
+  "About the authors",
+  12
+ ],
+ [
+  1,
+  "Contributors",
+  14
+ ],
+ [
+  1,
+  "PART 1: BASICS OF DNA, CHROMOSOMES, CELLS, DEVELOPMENT AND INHERITANCE",
+  16
+ ],
+ [
+  1,
+  "Chapter 1: BASIC PRINCIPLES OF NUCLEIC ACID STRUCTURE AND GENE EXPRESSION",
+  18
+ ],
+ [
+  2,
+  "1.1\tComposition of nucleic acids and polypeptides",
+  19
+ ],
+ [
+  2,
+  "1.2\tBase pairing in DNA and RNA, the double helix, and DNA replication",
+  24
+ ],
+ [
+  2,
+  "1.3\tRNA transcription and gene expression",
+  33
+ ],
+ [
+  2,
+  "1.4\tRNA processing",
+  36
+ ],
+ [
+  2,
+  "1.5\tTranslation, post-translational processing, and protein structure",
+  43
+ ],
+ [
+  2,
+  "Summary",
+  54
+ ],
+ [
+  2,
+  "Further reading",
+  55
+ ],
+ [
+  1,
+  "Chapter 2: FUNDAMENTALS OF CELLS AND CHROMOSOMES",
+  56
+ ],
+ [
+  2,
+  "2.1\tCell structure and diversity, and cell evolution",
+  57
+ ],
+ [
+  2,
+  "2.2\tDNA and chromosome copy number during the cell cycle",
+  66
+ ],
+ [
+  2,
+  "2.3\tCell division and transmission of DNA to daughter cells",
+  68
+ ],
+ [
+  2,
+  "2.4\tStructure and function of chromosomes",
+  74
+ ],
+ [
+  2,
+  "Summary",
+  82
+ ],
+ [
+  2,
+  "Further reading",
+  82
+ ],
+ [
+  1,
+  "Chapter 3: FUNDAMENTALS OF CELL–CELL INTERACTIONS AND IMMUNE SYSTEM BIOLOGY",
+  84
+ ],
+ [
+  2,
+  "3.1\tPrinciples of cell signaling",
+  84
+ ],
+ [
+  2,
+  "3.2\tCell proliferation and programmed cell death",
+  91
+ ],
+ [
+  2,
+  "3.3\tCell adhesion and tissue formation",
+  98
+ ],
+ [
+  2,
+  "3.4\tImmune system biology",
+  103
+ ],
+ [
+  2,
+  "Summary",
+  119
+ ],
+ [
+  2,
+  "Further reading",
+  119
+ ],
+ [
+  1,
+  "Chapter 4: ASPECTS OF EARLY MAMMALIAN DEVELOPMENT, CELL DIFFERENTIATION, AND STEM CELLS",
+  122
+ ],
+ [
+  2,
+  "4.1\tCell lineages and tissue differentiation in early mammalian development",
+  122
+ ],
+ [
+  2,
+  "4.2\tStem cells and cell differentiation",
+  139
+ ],
+ [
+  2,
+  "Summary",
+  149
+ ],
+ [
+  2,
+  "Further reading",
+  150
+ ],
+ [
+  1,
+  "Chapter 5: PATTERNS OF INHERITANCE",
+  152
+ ],
+ [
+  2,
+  "5.1\tMonogenic versus multifactorial inheritance",
+  153
+ ],
+ [
+  2,
+  "5.2\tMendelian pedigree patterns",
+  154
+ ],
+ [
+  2,
+  "5.3\tMosaicism and new mutations",
+  161
+ ],
+ [
+  2,
+  "5.4\tNon-Mendelian characters",
+  165
+ ],
+ [
+  2,
+  "Summary",
+  171
+ ],
+ [
+  2,
+  "Further reading",
+  171
+ ],
+ [
+  1,
+  "PART 2: UNDERSTANDING GENOMES",
+  174
+ ],
+ [
+  1,
+  "Chapter 6: CORE DNA TECHNOLOGIES: AMPLIFYING DNA, NUCLEIC ACID HYBRIDIZATION, AND DNA SEQUENCING",
+  176
+ ],
+ [
+  2,
+  "6.1\tCloning DNA in bacterial cells",
+  177
+ ],
+ [
+  2,
+  "6.2\tAmplifying DNA by in vitro DNA replication",
+  185
+ ],
+ [
+  2,
+  "6.3\tNucleic acid hybridization: principles and uses",
+  189
+ ],
+ [
+  2,
+  "6.4\tDNA sequencing principles and Sanger dideoxy sequencing",
+  198
+ ],
+ [
+  2,
+  "6.5\tMassively-parallel DNA sequencing (next-generation sequencing)",
+  201
+ ],
+ [
+  2,
+  "Summary",
+  215
+ ],
+ [
+  2,
+  "Further reading",
+  216
+ ],
+ [
+  1,
+  "Chapter 7: ANALYZING THE STRUCTURE AND EXPRESSION OF GENES AND GENOMES",
+  218
+ ],
+ [
+  2,
+  "7.1\tGenome structure analysis and genome projects",
+  218
+ ],
+ [
+  2,
+  "7.2\tBasic gene expression analyses",
+  234
+ ],
+ [
+  2,
+  "7.3\tHigh-throughput gene expression analyses",
+  239
+ ],
+ [
+  2,
+  "7.4\tSingle-cell genomics",
+  248
+ ],
+ [
+  2,
+  "Summary",
+  255
+ ],
+ [
+  2,
+  "Further reading",
+  255
+ ],
+ [
+  1,
+  "Chapter 8: PRINCIPLES OF GENETIC MANIPULATION OF MAMMALIAN CELLS",
+  258
+ ],
+ [
+  2,
+  "An overview of genome editing, gene silencing, and germ-line transgenesis",
+  259
+ ],
+ [
+  2,
+  "8.1\tArtificial transfer of genetic material into mammalian cells",
+  261
+ ],
+ [
+  2,
+  "8.2\tPrinciples of transgene expression in mammalian cells",
+  272
+ ],
+ [
+  2,
+  "8.3\tGenome editing using homologous recombination",
+  275
+ ],
+ [
+  2,
+  "8.4\tGenome editing using programmable site-specific endonucleases",
+  278
+ ],
+ [
+  2,
+  "8.5\tGene silencing",
+  283
+ ],
+ [
+  2,
+  "8.6\tGerm-line transgenesis and transgenic animals",
+  286
+ ],
+ [
+  2,
+  "Summary",
+  292
+ ],
+ [
+  2,
+  "Further reading",
+  293
+ ],
+ [
+  1,
+  "Chapter 9: UNCOVERING THE ARCHITECTURE AND WORKINGS OF THE HUMAN GENOME",
+  294
+ ],
+ [
+  2,
+  "9.1\tAn overview of the human genome",
+  294
+ ],
+ [
+  2,
+  "9.2\tGene organization and distribution in the human genome",
+  311
+ ],
+ [
+  2,
+  "9.3\tHeterochromatin DNA and transposon repeats",
+  321
+ ],
+ [
+  2,
+  "9.4\tA start on working out how our genome functions",
+  326
+ ],
+ [
+  2,
+  "Summary",
+  336
+ ],
+ [
+  2,
+  "Further reading",
+  337
+ ],
+ [
+  1,
+  "Chapter 10: GENE REGULATION AND THE EPIGENOME",
+  340
+ ],
+ [
+  2,
+  "10.1\tChromatin accessibility and conformation",
+  341
+ ],
+ [
+  2,
+  "10.2\tHistones and other DNA-binding proteins",
+  343
+ ],
+ [
+  2,
+  "10.3\tRegulation by DNA methylation and noncoding RNAs",
+  347
+ ],
+ [
+  2,
+  "10.4\tX-inactivation, imprinting, and epigenetic memory",
+  352
+ ],
+ [
+  2,
+  "10.5\tMaking the transcript: promoters and enhancers",
+  360
+ ],
+ [
+  2,
+  "10.6\tPost-transcriptional regulation",
+  365
+ ],
+ [
+  2,
+  "Summary",
+  370
+ ],
+ [
+  2,
+  "Further Reading",
+  371
+ ],
+ [
+  1,
+  "PART 3: GENETIC VARIATION BETWEEN INDIVIDUALS AND SPECIES",
+  374
+ ],
+ [
+  1,
+  "Chapter 11: AN OVERVIEW OF HUMAN GENETIC VARIATION",
+  376
+ ],
+ [
+  2,
+  "11.1 Origins of DNA sequence variation",
+  377
+ ],
+ [
+  2,
+  "11.2\tDNA repair",
+  381
+ ],
+ [
+  2,
+  "11.3\tPopulation genomics and the scale of human genetic variation",
+  386
+ ],
+ [
+  2,
+  "11.4\tFunctional genetic variation and protein variation",
+  396
+ ],
+ [
+  2,
+  "11.5\tExtraordinary genetic variation in the adaptive immune system",
+  401
+ ],
+ [
+  2,
+  "Summary",
+  410
+ ],
+ [
+  2,
+  "Further reading",
+  411
+ ],
+ [
+  1,
+  "Chapter 12: HUMAN POPULATION GENETICS",
+  412
+ ],
+ [
+  2,
+  "12.1\tAllele frequencies and genotype frequencies: the Hardy–Weinberg relationship",
+  412
+ ],
+ [
+  2,
+  "12.2\tHaplotype frequencies and linkage disequilibrium",
+  414
+ ],
+ [
+  2,
+  "12.3\tChanging allele frequencies",
+  419
+ ],
+ [
+  2,
+  "12.4\tPopulation structure and inbreeding",
+  426
+ ],
+ [
+  2,
+  "Summary",
+  430
+ ],
+ [
+  2,
+  "Further Reading",
+  431
+ ],
+ [
+  1,
+  "Chapter 13: COMPARATIVE GENOMICS AND GENOME EVOLUTION",
+  434
+ ],
+ [
+  2,
+  "13.1\tComparative genomics",
+  434
+ ],
+ [
+  2,
+  "13.2\tGene duplication, species differences in gene number, and evolutionary advantages of exons",
+  447
+ ],
+ [
+  2,
+  "13.3\tEvolution of mammalian chromosomes",
+  455
+ ],
+ [
+  2,
+  "13.4\tRegulatory sequence evolution and transposon origins of functional sequences",
+  463
+ ],
+ [
+  2,
+  "13.5\tPhylogenetics and our place in the tree of life",
+  469
+ ],
+ [
+  2,
+  "Summary",
+  472
+ ],
+ [
+  2,
+  "Further reading",
+  473
+ ],
+ [
+  1,
+  "Chapter 14: HUMAN EVOLUTION",
+  476
+ ],
+ [
+  2,
+  "14.1\tHuman origins",
+  476
+ ],
+ [
+  2,
+  "14.2\tHuman evolutionary history from genome sequences",
+  482
+ ],
+ [
+  2,
+  "14.3\tInferring female and male histories using mitochondrial DNA and the Y chromosome",
+  491
+ ],
+ [
+  2,
+  "14.4\tHealth consequences of our evolutionary history",
+  495
+ ],
+ [
+  2,
+  "Summary",
+  501
+ ],
+ [
+  2,
+  "Further reading",
+  502
+ ],
+ [
+  1,
+  "PART 4: HUMAN GENETIC DISEASE",
+  504
+ ],
+ [
+  1,
+  "Chapter 15: CHROMOSOMAL ABNORMALITIES AND STRUCTURAL VARIANTS",
+  506
+ ],
+ [
+  2,
+  "15.1\tStudying human chromosomes",
+  506
+ ],
+ [
+  2,
+  "15.2\tGross chromosome abnormalities",
+  512
+ ],
+ [
+  2,
+  "15.3\tStructural variants, microdeletions, and microduplications",
+  519
+ ],
+ [
+  2,
+  "Summary",
+  527
+ ],
+ [
+  2,
+  "Further Reading",
+  528
+ ],
+ [
+  1,
+  "Chapter 16: MOLECULAR PATHOLOGY: CONNECTING PHENOTYPES TO GENOTYPES",
+  530
+ ],
+ [
+  2,
+  "16.1\tLoss of function",
+  531
+ ],
+ [
+  2,
+  "16.2\tGain of function",
+  542
+ ],
+ [
+  2,
+  "16.3\tDynamic mutations: unstable repeat expansions",
+  547
+ ],
+ [
+  2,
+  "16.4\tMolecular pathology of mitochondrial disorders",
+  550
+ ],
+ [
+  2,
+  "16.5\tGenotype–phenotype correlations",
+  553
+ ],
+ [
+  2,
+  "Summary",
+  561
+ ],
+ [
+  2,
+  "Further reading",
+  562
+ ],
+ [
+  1,
+  "Chapter 17: MAPPING AND IDENTIFYING GENES FOR MONOGENIC DISORDERS",
+  564
+ ],
+ [
+  2,
+  "17.1\tPositional cloning seeks to identify disease genes by first mapping them to a precise chromosomal location",
+  565
+ ],
+ [
+  2,
+  "17.2\tHaplotype sharing and autozygosity",
+  571
+ ],
+ [
+  2,
+  "17.3\tWhole-exome and whole-genome sequencing allow an unbiased and hypothesis-free approach to identifying the cause of a monogenic condition",
+  574
+ ],
+ [
+  2,
+  "17.4\tStrategies for exome-based disease-gene identification",
+  577
+ ],
+ [
+  2,
+  "17.5\tConfirming that the candidate gene is the correct one",
+  581
+ ],
+ [
+  2,
+  "Summary",
+  585
+ ],
+ [
+  2,
+  "Further reading",
+  585
+ ],
+ [
+  1,
+  "Chapter 18: COMPLEX DISEASE: IDENTIFYING SUSCEPTIBILITY FACTORS AND UNDERSTANDING PATHOGENESIS",
+  588
+ ],
+ [
+  2,
+  "Introduction",
+  588
+ ],
+ [
+  2,
+  "18.1\tInvestigation of complex disease: epidemiological approaches",
+  589
+ ],
+ [
+  2,
+  "18.2\tInvestigation of complex disease using linkage",
+  592
+ ],
+ [
+  2,
+  "18.3\tInvestigation of complex disease using association",
+  594
+ ],
+ [
+  2,
+  "18.4\tThe limitations of genome-wide association studies",
+  603
+ ],
+ [
+  2,
+  "18.5\tWhat have we learned about the genetics of complex characters?",
+  606
+ ],
+ [
+  2,
+  "Summary",
+  609
+ ],
+ [
+  2,
+  "Further reading",
+  610
+ ],
+ [
+  1,
+  "Chapter 19: CANCER GENETICS AND GENOMICS",
+  612
+ ],
+ [
+  2,
+  "Introduction",
+  612
+ ],
+ [
+  2,
+  "19.1\tOncogenes",
+  614
+ ],
+ [
+  2,
+  "19.2\tTumor suppressor genes",
+  620
+ ],
+ [
+  2,
+  "19.3\tKey oncogenes and tumor suppressor genes work mainly to regulate cell cycle checkpoints and genome maintenance",
+  625
+ ],
+ [
+  2,
+  "19.4\tA genome-wide view of cancer",
+  629
+ ],
+ [
+  2,
+  "19.5\tUsing our new understanding of cancer",
+  638
+ ],
+ [
+  2,
+  "Summary",
+  642
+ ],
+ [
+  2,
+  "Further Reading",
+  642
+ ],
+ [
+  1,
+  "PART 5: APPLIED HUMAN MOLECULAR GENETICS",
+  644
+ ],
+ [
+  1,
+  "Chapter 20: GENETIC TESTING IN HEALTHCARE AND THE LAW",
+  646
+ ],
+ [
+  2,
+  "20.1\tWhat to test and why",
+  647
+ ],
+ [
+  2,
+  "20.2\tTesting for a specific genetic variant",
+  648
+ ],
+ [
+  2,
+  "20.3\tClinical diagnostic testing",
+  652
+ ],
+ [
+  2,
+  "20.4\tPopulation screening",
+  657
+ ],
+ [
+  2,
+  "20.5\tPharmacogenetics and personalized medicine",
+  666
+ ],
+ [
+  2,
+  "20.6\tDNA forensics: identifying individuals and relationships",
+  672
+ ],
+ [
+  2,
+  "Summary",
+  679
+ ],
+ [
+  2,
+  "Further Reading",
+  680
+ ],
+ [
+  1,
+  "Chapter 21: MODEL ORGANISMS AND MODELING DISEASE",
+  682
+ ],
+ [
+  2,
+  "21.1\tAn overview of model organisms",
+  682
+ ],
+ [
+  2,
+  "21.2\tCellular disease models",
+  688
+ ],
+ [
+  2,
+  "21.3\tOrigins of animal models of genetic disorders",
+  693
+ ],
+ [
+  2,
+  "21.4\tHow useful are animal models of genetic disorders?",
+  700
+ ],
+ [
+  2,
+  "Summary",
+  706
+ ],
+ [
+  2,
+  "Further reading",
+  707
+ ],
+ [
+  1,
+  "Chapter 22: GENETIC APPROACHES TO TREATING DISEASE",
+  710
+ ],
+ [
+  2,
+  "22.1\tAn overview of treating genetic disease and of genetic treatment of disease",
+  711
+ ],
+ [
+  2,
+  "22.2\tTreating disease with genetically-engineered therapeutic proteins",
+  714
+ ],
+ [
+  2,
+  "22.3\tBasic principles of gene therapy and RNA therapeutics",
+  718
+ ],
+ [
+  2,
+  "22.4\tThe practice of gene augmentation therapy for treating recessively inherited disorders",
+  725
+ ],
+ [
+  2,
+  "22.5 RNA therapeutics, therapeutic genome editing prospects, and genetic approaches to preventing disease",
+  729
+ ],
+ [
+  2,
+  "Summary",
+  735
+ ],
+ [
+  2,
+  "Further reading",
+  736
+ ],
+ [
+  1,
+  "Glossary",
+  738
+ ],
+ [
+  1,
+  "Index",
+  758
+ ]
+]

@@ -1,0 +1,283 @@
+{
+  "section_id": "english_readings_2",
+  "section_title_fa": "زبان تخصصی — بخش دوم: آناتومی پستان، اپیدمیولوژی و درمان‌های نوین",
+  "readings": [
+    {
+      "id": "eng05",
+      "title": "The Normal Breast and Benign Breast Disease",
+      "source": "بر اساس فصل: The Normal Breast and Benign Diseases of the Breast",
+      "passage": "The functional unit of the female breast is the terminal duct lobular unit (TDLU), which consists of the terminal duct and its associated alveoli. The entire ductal system is lined by two cell layers: an inner layer of epithelial cells responsible for milk secretion and an outer layer of myoepithelial cells whose contractile properties propel secretions toward the nipple. This dual layering has diagnostic significance, because invasive carcinomas are characterized by the loss of myoepithelial cells, whereas benign in situ proliferations retain them. Most benign breast conditions reflect exaggerated responses of the TDLU to hormonal stimulation. Fibroadenomas, the most common benign neoplasms in young women, are composed of both stromal and epithelial components and typically present as mobile, well-circumscribed masses. Sclerosing adenosis, a proliferation of distorted acini within fibrotic stroma, may mimic carcinoma both clinically and radiologically, frequently containing microcalcifications that warrant biopsy. Fat necrosis, often following trauma or surgery, produces a firm irregular mass that can closely resemble malignancy. Similarly, chronic mastitis and inflammatory carcinoma may be indistinguishable on clinical grounds alone, underscoring the essential role of biopsy in the evaluation of any dominant breast mass. Ectopic breast tissue, most commonly in the axilla, may enlarge during pregnancy and raise unfounded concern for metastasis.",
+      "vocab": [
+        ["terminal duct lobular unit (TDLU)", "واحد ترمینال دکتال-لوبولار؛ واحد عملکردی پستان"],
+        ["myoepithelial cells", "سلول‌های میواپیتلیال؛ لایه بیرونی با خاصیت انقباضی"],
+        ["in situ", "درجا؛ محدود به محل خود بدون تهاجم"],
+        ["fibroadenoma", "فیبروآدنوم؛ تومور خوش‌خیم استروم-اپیتلیال جوانان"],
+        ["well-circumscribed", "محصورشده/مرزدار؛ با مرز مشخص (لحظه خوش‌خیمی)"],
+        ["sclerosing adenosis", "اسکلروزانگ آدنوزیس؛ تکثیر آسینی‌های بدشکل با استروم فیبروتیک"],
+        ["microcalcifications", "میکروکلسیفیکاسیون‌ها؛ ریز رسوبات کلسیم در ماموگرافی"],
+        ["fat necrosis", "نکروز چربی؛ پس از تروما، شبیه بدخیمی"]
+      ],
+      "questions": [
+        {
+          "q": "1. Why is the two-cell-layer structure of the ductal system diagnostically important?",
+          "options": [
+            "because myoepithelial cells secrete milk",
+            "because loss of myoepithelial cells marks invasive carcinoma while benign in situ lesions retain them",
+            "because epithelial cells are absent in benign tumors",
+            "because the layers determine the side of the tumor"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله سوم صریحاً: «invasive carcinomas are characterized by the loss of myoepithelial cells, whereas benign in situ proliferations retain them» — نکته هیستوپاتولوژیک کلیدی.",
+          "tip": "عبارت diagnostic significance در متن علامت است که جمله بعد، سوژه سوال است."
+        },
+        {
+          "q": "2. Which benign lesion most likely requires biopsy because of its radiologic appearance?",
+          "options": ["fibroadenoma", "sclerosing adenosis", "ectopic breast tissue", "normal TDLU"],
+          "answer_idx": 1,
+          "explanation": "«Sclerosing adenosis ... may mimic carcinoma both clinically and radiologically, frequently containing microcalcifications that warrant biopsy»؛ mimic carcinoma = شبیه بدخیمی → نیاز به بیوپسی.",
+          "tip": "دو واژه mimic و warrant را بشناسید: mimic = شبیه‌سازی بدخیمی؛ warrant = ایجاب کردن/موجب شدن (اقدام)."
+        },
+        {
+          "q": "3. The word \"propel\" in paragraph 1 is closest in meaning to:",
+          "options": ["inhibit", "push forward", "digest", "transform"],
+          "answer_idx": 1,
+          "explanation": "سلول میواپیتلیال با انقباض ترشحات را به سمت نوک پستان «به جلو می‌راند». ریشه فیزیکی propel = پیش‌رانندگی.",
+          "tip": "همیشه وظیفه بیولوژیک ساختار را در توضیح واژه لحاظ کنید: myo- (عضله) + propel (راندن)."
+        },
+        {
+          "q": "4. It can be inferred that a firm irregular breast mass:",
+          "options": [
+            "is always malignant",
+            "may result from fat necrosis and still require biopsy for clarification",
+            "never warrants imaging",
+            "is exclusive to inflammatory carcinoma"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Fat necrosis ... produces a firm irregular mass that can closely resemble malignancy» + «underscoring the essential role of biopsy» → استنباط: بیوپسی لازم است حتی اگر علت خوش‌خیم محتمل باشد. گزینه always مطلق و غلط.",
+          "tip": "استنباط معکوس: هرچه «همیشه/هرگز» دارد غلط؛ هرچه با منطق احتیاط بالینی (بیوپسی/پیگیری) سازگار است درست."
+        },
+        {
+          "q": "5. Enlarging axillary breast tissue during pregnancy:",
+          "options": [
+            "indicates metastasis and requires mastectomy",
+            "is a typical behavior of ectopic breast tissue and usually benign",
+            "results from chronic mastitis",
+            "represents a fibroadenoma"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله آخر: «Ectopic breast tissue, most commonly in the axilla, may enlarge during pregnancy and raise unfounded concern for metastasis» — unfounded = بی‌پایه؛ یعنی نگرانی بی‌مورد است.",
+          "tip": "واژه unfounded/baseless در متن یعنی متن خودش نگرانی را رد می‌کند — گزینه‌های تشدیدکننده نگرانی غلط‌اند."
+        }
+      ]
+    },
+    {
+      "id": "eng06",
+      "title": "Cancer Epidemiology in Iran: A National Profile",
+      "source": "بر اساس: GLOBOCAN Fact Sheet — Iran (Islamic Republic of), 2022",
+      "passage": "According to the most recent global estimates, approximately 137,000 new cancer cases and 87,000 cancer deaths occur annually in Iran. Cancer of the stomach ranks first in men, followed by prostate and lung cancer, whereas breast cancer is by far the most common malignancy in women, followed by stomach and colorectal cancers. The age-standardized incidence rate in men (about 168 per 100,000) exceeds that in women (about 129 per 100,000), and the cumulative risk of developing cancer before age 75 approaches 18 percent in men. Several features distinguish the Iranian cancer profile from Western patterns. First, the relatively young age structure of the population means that a substantial proportion of patients are diagnosed during their productive years, amplifying the societal burden of disease. Second, infection-related malignancies such as gastric cancer—linked to Helicobacter pylori prevalence—remain prominent, reflecting the epidemiologic transition in which infections and lifestyle-related cancers coexist. Third, hereditary cancer research has gained momentum: population studies of breast cancer have documented a notable frequency of BRCA1 and BRCA2 mutations among high-risk families, and national programs for thalassemia prevention have demonstrated that community-based genetic screening can substantially reduce the birth incidence of a severe hereditary disease. Public health planners therefore confront a dual challenge: expanding early detection infrastructure for common cancers while integrating genetic counseling services into the primary health care system that Iran has long been recognized for.",
+      "vocab": [
+        ["age-standardized rate", "نرخ استانداردشده سنی؛ برای مقایسه بین جمعیت‌ها"],
+        ["cumulative risk", "ریسک تجمعی؛ خطر تجمع تا سن مشخص"],
+        ["incidence", "بروز؛ موارد جدید در واحد زمان"],
+        ["epidemiologic transition", "گذار اپیدمیولوژیک؛ هم‌زمانی بیماری‌های عفونی و مزمن"],
+        ["hereditary", "ارثی؛ خانوادگی با پایه ژنی"],
+        ["momentum", "شتاب/پویایی روبه‌رشد"],
+        ["birth incidence", "شیوع تولد؛ فراوانی تولد نوزادان مبتلا"],
+        ["primary health care (PHC)", "مراقبت‌های اولیه سلامت؛ نقطه قوت نظام سلامت ایران"]
+      ],
+      "questions": [
+        {
+          "q": "1. What is the most common cancer in Iranian women according to the passage?",
+          "options": ["stomach cancer", "breast cancer", "lung cancer", "colorectal cancer"],
+          "answer_idx": 1,
+          "explanation": "«breast cancer is by far the most common malignancy in women» — by far = با اختلاف زیاد. stomach و colorectal رتبه‌های بعدی‌اند.",
+          "tip": "در جداول توصیفی، قیدهای رتبه‌بندی (first, followed by, by far) را زیر خط بکشید؛ سوال رتبه‌بندی بسیار رایج است."
+        },
+        {
+          "q": "2. The passage attributes the prominence of gastric cancer in Iran partly to:",
+          "options": ["tobacco advertising", "Helicobacter pylori prevalence", "BRCA mutations", "iodine deficiency"],
+          "answer_idx": 1,
+          "explanation": "«infection-related malignancies such as gastric cancer—linked to Helicobacter pylori prevalence—remain prominent» — dash دومیکروبی عامل را روشن می‌کند.",
+          "tip": "داش‌های توضیحی (—...—) در ریدینگهای آزمون معمولاً حاوی پاسخ‌اند؛ از آن‌ها نپرید."
+        },
+        {
+          "q": "3. The phrase \"amplifying the societal burden\" suggests that:",
+          "options": [
+            "young patients impose greater indirect costs because illness strikes during productive years",
+            "cancer only affects retired people in Iran",
+            "incidence rates are falling",
+            "the population is aging rapidly"
+          ],
+          "answer_idx": 0,
+          "explanation": "منطق متن: ساختار سنی جوان + تشخیص در سال‌های بارور → بار اجتماعی (اقتصادی/خانوادگی) بزرگ‌تر. گزینه ۲ و ۳ با متن ناسازگار؛ ۴ برعکسِ «relatively young age structure».",
+          "tip": "پیامدهای اجتماعی بیماری در سوالات استنباطی، معمولاً حول بار اقتصادی/کاهش نیروی کار می‌چرخد."
+        },
+        {
+          "q": "4. The thalassemia prevention program is mentioned as evidence that:",
+          "options": [
+            "genetic screening cannot work at the community level",
+            "community-based genetic screening can markedly reduce the birth incidence of a hereditary disease",
+            "Iran lacks primary health care",
+            "cancer screening is impossible"
+          ],
+          "answer_idx": 1,
+          "explanation": "«national programs for thalassemia prevention have demonstrated that community-based genetic screening can substantially reduce the birth incidence» — demonstrate = نشان دادن؛ مثال تاریخی موفقیت ژنتیک عمومی در ایران.",
+          "tip": "هرگاه متن یک برنامه ملی را به‌عنوان «demonstrated that...» بیاورد، دقیقاً همان گزاره بعد از that گزینه صحیح است."
+        },
+        {
+          "q": "5. The \"dual challenge\" faced by planners consists of:",
+          "options": [
+            "reducing the population and banning screening",
+            "expanding early detection for common cancers and integrating genetic counseling into primary care",
+            "treating only infection-related cancers",
+            "importing all genetic services"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله پایانی دو جزء چالش را با while به هم پیوند می‌دهد؛ گزینه صحیح باید هر دو جزء را داشته باشد.",
+          "tip": "در سوالاتی که «دو جزئی» هستند، گزینه‌ای که فقط یک جزء را می‌گوید (مثلاً فقط غربالگری) ناقص و غلط است."
+        }
+      ]
+    },
+    {
+      "id": "eng07",
+      "title": "CRISPR Base Editing: From Bench to Approved Therapy",
+      "source": "بر اساس پیشرفت‌های ۲۰۲۳-۲۰۲۵: تأیید exagamglogene autotemcel و موج ویرایش پایه",
+      "passage": "In late 2023, regulatory authorities approved the first therapy based on CRISPR gene editing, marking a milestone in the treatment of sickle cell disease and transfusion-dependent beta thalassemia. The treatment, known as exagamglogene autotemcel, does not repair the causative mutation directly. Instead, it edits hematopoietic stem cells collected from the patient so that a precisely targeted breakpoint is created in an enhancer of the BCL11A gene specific to erythroid cells. Disrupting this regulatory element reactivates fetal hemoglobin production, which compensates for the defective adult hemoglobin. Because the edited cells are the patient's own, immunological rejection is avoided, although recipients must still undergo conditioning chemotherapy to make room in the marrow. Parallel to nuclease-based editing, a quieter revolution has occurred with base editing, a CRISPR-derived technology that converts one DNA letter directly into another without cutting both strands of the double helix. By avoiding double-strand breaks, base editors substantially reduce the risk of unwanted rearrangements, and investigational therapies have already achieved functional correction of hemoglobinopathies in early trials. Nevertheless, important limitations persist: editing efficiency varies among stem-cell clones, long-term safety data remain limited to a few years of follow-up, off-target effects—though greatly reduced—cannot be excluded entirely, and the current cost places the therapy beyond the reach of most health systems where these diseases are most prevalent. Access, rather than science, is now widely regarded as the principal barrier between gene editing and global equity.",
+      "vocab": [
+        ["gene editing", "ویرایش ژن؛ تغییر هدفمند توالی DNA"],
+        ["enhancer", "افزاینده؛ عنصر تنظیمی افزایش‌دهنده رونویسی"],
+        ["hematopoietic stem cells", "سلول‌های بنیادی خون‌ساز"],
+        ["conditioning chemotherapy", "شیمی‌درمانی آماده‌سازی؛ خالی‌کردن جای مغز استخوان"],
+        ["base editing", "ویرایش پایه؛ تبدیل مستقیم یک نوکلئوتید بدون برش دو‌رشته"],
+        ["double-strand break", "شکست دو‌رشته‌ای DNA"],
+        ["off-target effects", "اثرات خارج از هدف؛ ویرایش ناخواسته جایگاه‌های دیگر"],
+        ["equity", "برابری/انصاف در دسترسی به سلامت"]
+      ],
+      "questions": [
+        {
+          "q": "1. How does exagamglogene autotemcel exert its therapeutic effect?",
+          "options": [
+            "by directly repairing the sickle mutation",
+            "by disrupting a BCL11A erythroid enhancer to reactivate fetal hemoglobin",
+            "by replacing bone marrow with donor cells",
+            "by delivering the editing enzymes intravenously without cell collection"
+          ],
+          "answer_idx": 1,
+          "explanation": "«it edits ... a breakpoint ... in an enhancer of the BCL11A gene specific to erythroid cells. Disrupting this regulatory element reactivates fetal hemoglobin» — هدف غیرمستقیم BCL11A است نه خود جهش.",
+          "tip": "مکانیسم‌های درمانی جدید را با «هدف» و «اثر» دو ستونه یادداشت کنید؛ سوال mechanism معمولاً یکی از این دو را جابه‌جا می‌کند."
+        },
+        {
+          "q": "2. The main advantage of base editing over nuclease editing, as stated, is:",
+          "options": [
+            "lower manufacturing cost",
+            "avoidance of double-strand breaks and thus fewer unwanted rearrangements",
+            "no requirement for a guide RNA",
+            "oral administration"
+          ],
+          "answer_idx": 1,
+          "explanation": "«By avoiding double-strand breaks, base editors substantially reduce the risk of unwanted rearrangements» — گزینه‌های دیگر در متن نیستند.",
+          "tip": "در تکنولوژی‌های نو، جمله‌ای که با By avoiding/By reducing شروع می‌شود معمولاً «مزیت» را می‌سازد و مستقیماً سوال می‌شود."
+        },
+        {
+          "q": "3. The word \"conditioning\" refers to:",
+          "options": ["physical exercise before therapy", "preparative chemotherapy clearing marrow space", "psychological preparation", "repeated blood transfusions"],
+          "answer_idx": 1,
+          "explanation": "«must still undergo conditioning chemotherapy to make room in the marrow» — تعریف داخل جمله آمده است.",
+          "tip": "واژگان تخصصی درمان (conditioning) در پاساژهای ژن‌درمانی همیشه با توضیح همراه می‌آید؛ جمله را تا انتها بخوانید."
+        },
+        {
+          "q": "4. Which limitation is NOT mentioned in the passage?",
+          "options": [
+            "variable editing efficiency among clones",
+            "limited long-term safety follow-up",
+            "residual risk of off-target editing",
+            "complete absence of any therapeutic effect in all patients"
+          ],
+          "answer_idx": 3,
+          "explanation": "سه مورد اول صریحاً ذکر شده‌اند؛ «absence of any therapeutic effect» نه در متن است و نه با تأیید درمان سازگار است — گزینه مطلق و غلط.",
+          "tip": "سوال NOT mentioned: گزینه با ادعای مطلقِ منفی درباره اثربخشی، معمولاً جواب است چون متن درباره کارایی مثبت صحبت می‌کند."
+        },
+        {
+          "q": "5. The final sentence implies that the foremost obstacle to global impact of gene editing is:",
+          "options": ["scientific uncertainty", "access and affordability", "ethical opposition", "regulatory approval delays"],
+          "answer_idx": 1,
+          "explanation": "«Access, rather than science, is now widely regarded as the principal barrier» — ساختار X rather than Y به‌طور مستقیم پاسخ را می‌دهد.",
+          "tip": "ساختار rather than در جمله پایانی = مقایسه مستقیم دو عامل؛ یکی برجسته می‌شود و همان جواب سوال است."
+        }
+      ]
+    },
+    {
+      "id": "eng08",
+      "title": "Synthetic Lethality: PARP Inhibitors and DNA Repair",
+      "source": "بر اساس مباحث روز: PARP inhibition in homologous recombination deficiency",
+      "passage": "The concept of synthetic lethality arises when simultaneous defects in two genes or pathways kill a cell, whereas a defect in either one alone is tolerable. Tumor cells lacking functional BRCA1 or BRCA2 cannot perform homologous recombination, the high-fidelity pathway that repairs double-strand DNA breaks. They survive, however, by leaning on alternative repair mechanisms, particularly the base excision and single-strand break repair pathways in which the enzyme poly(ADP-ribose) polymerase, or PARP, plays a central role. Pharmacological inhibitors of PARP exploit this dependence: by trapping PARP enzymes at sites of single-strand damage, they prevent replication forks from proceeding, converting unrepaired single-strand lesions into lethal double-strand breaks. In homologous recombination-proficient cells, such breaks would be repaired accurately and the cell would survive; in BRCA-deficient tumor cells, they accumulate catastrophically. This mechanism explains the remarkable selectivity of PARP inhibitors for tumors with germline BRCA mutations, while normal tissues are largely spared. Clinical trials established drugs of this class as effective maintenance therapy in ovarian and breast cancers associated with BRCA mutations or other forms of homologous recombination deficiency, and assays that quantify genomic scarring—cumulative signatures of past repair failure—are now used to identify additional patients who may benefit. Resistance, nonetheless, emerges through several routes, including restoration of homologous recombination by secondary BRCA mutations, replication fork protection, and drug efflux, motivating combination strategies that pair PARP inhibitors with agents targeting these escape pathways.",
+      "vocab": [
+        ["synthetic lethality", "مرگ‌ومیری مصنوعی/ترکیبی؛ نقص هم‌زمان دو مسیر"],
+        ["homologous recombination", "نوترکیبی همولوگ؛ ترمیم دقیق شکست‌های دو‌رشته"],
+        ["PARP", "پلی(ADP-ریبوز) پلیمراز؛ ترمیم شکست تک‌رشته"],
+        ["replication fork", "چنگال همانندسازی"],
+        ["trapping", "به‌دام‌انداختن آنزیم روی DNA"],
+        ["genomic scarring", "زخم‌های ژنومی؛ نشانه‌های تجمعی نقص ترمیم"],
+        ["maintenance therapy", "درمان نگهدارنده پس از پاسخ اولیه"],
+        ["drug efflux", "خروج دارو؛ سازوکار مقاومت"]
+      ],
+      "questions": [
+        {
+          "q": "1. Synthetic lethality, as defined in the passage, requires that:",
+          "options": [
+            "each single defect is independently lethal",
+            "only the combination of both defects is lethal",
+            "both genes are on the same chromosome",
+            "the cell lacks all DNA repair pathways"
+          ],
+          "answer_idx": 1,
+          "explanation": "«when simultaneous defects in two genes or pathways kill a cell, whereas a defect in either one alone is tolerable» — گزینه ۱ دقیقاً برعکس تعریف است.",
+          "tip": "تعاریف علمی در جمله اول پاساژ اغلب سوژه سوال تعریف می‌شوند؛ کلمات whereas/while را دقت کنید."
+        },
+        {
+          "q": "2. How do PARP inhibitors kill BRCA-deficient cells specifically?",
+          "options": [
+            "by restoring BRCA protein function",
+            "by trapping PARP at single-strand damage, converting lesions into lethal double-strand breaks the cell cannot repair",
+            "by directly cutting both DNA strands",
+            "by inhibiting transcription of PARP mRNA only"
+          ],
+          "answer_idx": 1,
+          "explanation": "زنجیره مکانیسمی متن: trapping PARP ← fork stalling ← conversion به DSB ← سلول HR-deficient نمی‌ترمیم ← مرگ. سلول نرمال با HR ترمیم می‌کند و زنده می‌ماند → selectivity.",
+          "tip": "پاساژهای فارماکولوژیک مولکولی را به‌صورت زنجیره علت-معلول یادداشت کنید؛ سوال mechanism همیشه یکی از حلقه‌ها را می‌پرسد."
+        },
+        {
+          "q": "3. The term \"genomic scarring\" is used to describe:",
+          "options": [
+            "physical cuts made during biopsy",
+            "cumulative mutational signatures of past homologous recombination failure",
+            "scars remaining after surgery",
+            "sequencing artifacts"
+          ],
+          "answer_idx": 1,
+          "explanation": "داش توضیحی بعد از عبارت تعریف را می‌دهد: «cumulative signatures of past repair failure» — کاربرد: شناسایی بیمارانِ کانداد PARPi حتی بدون جهش BRCA.",
+          "tip": "اصطلاحات بسته‌بندی‌شده (scarring, synthetic lethality, trapping) همیشه در متن تعریف می‌شوند؛ تعریف را حفظ کنید نه فقط واژه را."
+        },
+        {
+          "q": "4. Which mechanism of resistance is mentioned?",
+          "options": [
+            "loss of the drug target's gene",
+            "restoration of homologous recombination through secondary mutations",
+            "increased tumor vascularity",
+            "immune clearance of the drug"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Resistance ... emerges through ... restoration of homologous recombination by secondary BRCA mutations, replication fork protection, and drug efflux» — سه سازوکار ذکر شده؛ گزینه ۱ یکی از آن‌هاست.",
+          "tip": "سوالات مقاومت دارویی: لیست کوتاه سازوکارها در متن را شماره‌گذارید؛ طراح یکی را برمی‌دارد و سه گزینه از خارج متن می‌سازد."
+        },
+        {
+          "q": "5. The overall tone of the passage toward PARP inhibitors is best described as:",
+          "options": ["skeptical of their use", "informative and balanced, acknowledging efficacy and resistance", "promotional and exaggerated", "indifferent"],
+          "answer_idx": 1,
+          "explanation": "متن هم «remarkable selectivity» و اثربخشی را می‌گوید و هم «Resistance, nonetheless, emerges» را — لحن متعادل علمی. گزینه‌های یک‌سویه غلط‌اند.",
+          "tip": "لحن پاساژهای علمی استاندارد تقریباً همیشه «balanced/informative» است؛ در آزمون، گزینه balanced معمولاً صحیح است مگر متن آشکارا تبلیغی باشد."
+        }
+      ]
+    }
+  ]
+}

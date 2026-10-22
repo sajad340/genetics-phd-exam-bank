@@ -1,0 +1,957 @@
+{
+ "Emery’s Elements of Medical Genetics and Genomics": [
+  "Emery’s Elements of Medical Genetics and Genomics"
+ ],
+ "Peter D. Turnpenny, BSc MB ChB FRCP FRCPCH FRCPath FHEA": [
+  "Peter D. Turnpenny, BSc MB ChB FRCP FRCPCH FRCPath FHEA"
+ ],
+ "Sian Ellard, OBE BSc PhD FRCPath": [
+  "Sian Ellard, OBE BSc PhD FRCPath"
+ ],
+ "Ruth Cleaver, BSc MB ChB PGCert MRCP": [
+  "Ruth Cleaver, BSc MB ChB PGCert MRCP | ﻣﺎى رﺷﺘﻪ ﺳﺎﯾﺖ ﺗﺨﺼﺼﻰ در اراﺋﻪ دوره ﻫﺎى آﻣﻮزﺷﻰ و ﮐﺘﺎب ﻫﺎى | ﻣﺮﺟﻊ در رﺷﺘﻪ ﻫﺎى ﻋﻠﻮم زﯾﺴﺘﻰ و ﭘﺰﺷﮑﻰ"
+ ],
+ "Table of Contents": [
+  "Table of Contents"
+ ],
+ "Copyright": [
+  "Copyright"
+ ],
+ "Preface": [
+  "Preface"
+ ],
+ "Acknowledgments": [
+  "Acknowledgments"
+ ],
+ "Dedication": [
+  "Dedication"
+ ],
+ "Abstract": [
+  "Abstract | Keywords",
+  "Abstract",
+  "Keywords"
+ ],
+ "Gregor Mendel and the Laws of Inheritance": [
+  "Early Beginnings | The Law of Uniformity | The Law of Segregation | The Law of Independent Assortment",
+  "The Chromosomal Basis of Inheritance"
+ ],
+ "DNA as the Basis of Inheritance": [
+  "DNA as the Basis of Inheritance"
+ ],
+ "The Fruit Fly": [
+  "The Fruit Fly"
+ ],
+ "The Origins of Medical Genetics": [
+  "The Origins of Medical Genetics | Single-Gene Disorders | Chromosome Abnormalities | Multifactorial Disorders | Acquired Somatic Genetic Disease | DNA Sequencing | The Impact of Genetic Disease | Spontaneous Miscarriages | Newborn Infants | Childhood | Adult Life"
+ ],
+ "Major New Developments": [
+  "Major New Developments",
+  "The Human Genome Project | The Prospects for Treatment"
+ ],
+ "The Societal Impact of Advances in Genetics": [
+  "The Societal Impact of Advances in Genetics"
+ ],
+ "Databases": [
+  "Databases"
+ ],
+ "Further Reading": [
+  "Further Reading",
+  "Further Reading | 11",
+  "Further Reading | 14",
+  "Further Reading | 15",
+  "Further Reading | 17",
+  "Further Reading | 18",
+  "Further Reading | 19",
+  "Further Reading | 20",
+  "Further Reading | 21",
+  "Further Reading | 22"
+ ],
+ "SECTION A The Scientific Basis of Human Genetics": [
+  "SECTION A The Scientific Basis of Human Genetics"
+ ],
+ "The Cell": [
+  "The Cell"
+ ],
+ "DNA: The Hereditary Material": [
+  "Composition",
+  "Structure",
+  "Replication"
+ ],
+ "Chromosome Structure": [
+  "Chromosome Structure"
+ ],
+ "Types of DNA Sequence": [
+  "Types of DNA Sequence",
+  "Nuclear Genes",
+  "Extragenic DNA | Mitochondrial DNA"
+ ],
+ "Transcription": [
+  "Transcription | RNA Processing"
+ ],
+ "Translation": [
+  "Translation | Transfer RNA | Post-translational Modification"
+ ],
+ "The Genetic Code": [
+  "The Genetic Code",
+  "Triplet Codons"
+ ],
+ "Regulation of Gene Expression": [
+  "Regulation of Gene Expression",
+  "Control of Transcription | Transcription Factors | Post-transcriptional Control of Gene Expression | RNA-Mediated Control of Gene Expression | Alternative Isoforms"
+ ],
+ "RNA-Directed DNA Synthesis": [
+  "RNA-Directed DNA Synthesis"
+ ],
+ "Mutations": [
+  "Mutations",
+  "Types of Mutation",
+  "Structural Effects of Mutations on the Protein | Mutations in Non-coding DNA",
+  "Functional Effects of Mutations on the Protein | Genotype–Phenotype Correlation"
+ ],
+ "Mutations and Mutagenesis": [
+  "Mutations and Mutagenesis",
+  "Radiation",
+  "DNA Repair"
+ ],
+ "Human Chromosomes": [
+  "Morphology | Classification | The Sex Chromosomes"
+ ],
+ "Methods of Chromosome Analysis": [
+  "Methods of Chromosome Analysis | Chromosome Preparation | Chromosome Banding | Karyotype Analysis"
+ ],
+ "Molecular Cytogenetics": [
+  "Fluorescence In Situ Hybridization"
+ ],
+ "Chromosome Nomenclature": [
+  "Chromosome Nomenclature"
+ ],
+ "Cell Division": [
+  "Mitosis | The Cell Cycle",
+  "Meiosis"
+ ],
+ "Gametogenesis": [
+  "Gametogenesis | Oogenesis | Spermatogenesis"
+ ],
+ "Chromosome Abnormalities": [
+  "Chromosome Abnormalities",
+  "Numerical Abnormalities",
+  "Structural Abnormalities (۱)",
+  "Structural Abnormalities (۲)",
+  "Mosaicism and Chimerism (Mixoploidy)"
+ ],
+ "Finding the Cause of Monogenic Disorders by Identifying Disease Genes": [
+  "Finding the Cause of Monogenic Disorders by Identifying Disease Genes"
+ ],
+ "Position-Independent Identification of Human Disease Genes": [
+  "Position-Independent Identification of Human Disease Genes | Functional Cloning | Use of Animal Models | Mapping Trinucleotide Repeat Disorders"
+ ],
+ "Positional Cloning": [
+  "Positional Cloning",
+  "Linkage Analysis | Chromosome Abnormalities | Candidate Genes",
+  "Confirmatory Testing That a Candidate Gene is a Disease Gene"
+ ],
+ "The Human Genome Project": [
+  "Beginning of the Human Genome Project | Ethical, Legal, and Social Issues of the Human Genome Project",
+  "Development of Bioinformatics"
+ ],
+ "Identifying the Genetic Etiology of Monogenic Disorders by Next- Generation Sequencing": [
+  "Identifying the Genetic Etiology of Monogenic Disorders by Next- Generation Sequencing",
+  "Exome Sequencing"
+ ],
+ "Polymerase Chain Reaction": [
+  "Polymerase Chain Reaction"
+ ],
+ "Application of DNA Sequence Polymorphisms": [
+  "Application of DNA Sequence Polymorphisms",
+  "Single Nucleotide Polymorphisms | Variable Number Tandem Repeats | Minisatellites | Microsatellites | Clinical Applications of Gene Tracking"
+ ],
+ "Nucleic Acid Hybridization Techniques": [
+  "Nucleic Acid Hybridization Techniques | Nucleic Acid Probes",
+  "Nucleic Acid Hybridization"
+ ],
+ "Mutation Detection": [
+  "Mutation Detection",
+  "PCR-Based Methods"
+ ],
+ "Sequencing-Based Methods": [
+  "Sequencing-Based Methods",
+  "Sanger Sequencing",
+  "Next-Generation Sequencing | Long-Read Next-Generation Sequencing"
+ ],
+ "Dosage Analysis": [
+  "Dosage Analysis | Multiplex Ligation-Dependent Probe Amplification | Quantitative Fluorescent PCR | Microarray Comparative Genomic Hybridization | Next-Generation Sequencing | Droplet Digital PCR | Variant Interpretation"
+ ],
+ "Genome Sequencing as a Clinical Diagnostic Test": [
+  "Genome Sequencing as a Clinical Diagnostic Test"
+ ],
+ "Family Studies": [
+  "Family Studies | Pedigree Drawing and Terminology"
+ ],
+ "Mendelian Inheritance": [
+  "Mendelian Inheritance",
+  "Autosomal Dominant Inheritance",
+  "Autosomal Recessive Inheritance",
+  "Sex-Linked Inheritance (۱)",
+  "Sex-Linked Inheritance (۲)",
+  "Establishing the Mode of Inheritance of a Genetic Disorder"
+ ],
+ "Multiple Alleles and Complex Traits": [
+  "Multiple Alleles and Complex Traits | Digenic Inheritance"
+ ],
+ "Anticipation": [
+  "Anticipation"
+ ],
+ "Mosaicism": [
+  "Mosaicism | Somatic Mosaicism | Gonadal Mosaicism"
+ ],
+ "Uniparental Disomy": [
+  "Uniparental Disomy"
+ ],
+ "Genomic Imprinting": [
+  "Genomic Imprinting",
+  "Prader-Willi Syndrome",
+  "Angelman Syndrome",
+  "Beckwith-Wiedemann Syndrome | Russell-Silver Syndrome"
+ ],
+ "Mitochondrial Inheritance": [
+  "Mitochondrial Inheritance"
+ ],
+ "Allele Frequencies in Populations": [
+  "Allele Frequencies in Populations",
+  "The Hardy-Weinberg Principle",
+  "Factors That Can Disturb Hardy-Weinberg Equilibrium | Validity of Hardy-Weinberg Equilibrium",
+  "Applications of Hardy-Weinberg Equilibrium | Why Are Some Genetic Disorders More Common Than Others?",
+  "Small Populations"
+ ],
+ "Genetic Polymorphism": [
+  "Genetic Polymorphism"
+ ],
+ "Segregation Analysis": [
+  "Segregation Analysis | Autosomal Dominant Inheritance",
+  "Autosomal Recessive Inheritance"
+ ],
+ "Genetic Linkage": [
+  "Genetic Linkage | Recombination Fraction | Centimorgans | Linkage Analysis",
+  "Logarithm of the Odds Scores | Multipoint Linkage Analysis | Autozygosity Mapping",
+  "Linkage Disequilibrium"
+ ],
+ "Medical and Societal Intervention": [
+  "Medical and Societal Intervention | Autosomal Dominant Disorders | Autosomal Recessive Disorders | X-Linked Recessive Disorders"
+ ],
+ "Conclusion": [
+  "Conclusion"
+ ],
+ "Probability Theory": [
+  "Probability Theory | Laws of Addition and Multiplication",
+  "Bayes’ Theorem"
+ ],
+ "Autosomal Dominant Inheritance": [
+  "Autosomal Dominant Inheritance",
+  "Reduced Penetrance",
+  "Delayed Age of Onset"
+ ],
+ "Autosomal Recessive Inheritance": [
+  "Autosomal Recessive Inheritance",
+  "Carrier Risks for the Extended Family | Modifying a Carrier Risk by Mutation Analysis"
+ ],
+ "X-Linked Recessive Inheritance": [
+  "X-Linked Recessive Inheritance",
+  "The Isolated Case | Incorporating Carrier Test Results"
+ ],
+ "The Use of Linked Markers": [
+  "The Use of Linked Markers"
+ ],
+ "Bayes’ Theorem and Prenatal Screening": [
+  "Bayes’ Theorem and Prenatal Screening"
+ ],
+ "Empiric Risks": [
+  "Empiric Risks",
+  "Multifactorial Disorders",
+  "Conditions Showing Causal Heterogeneity"
+ ],
+ "Fertilization and Gastrulation": [
+  "Fertilization and Gastrulation"
+ ],
+ "Developmental Gene Families": [
+  "Developmental Gene Families",
+  "Early Patterning",
+  "The TGF-β Superfamily in Development and Disease",
+  "Somatogenesis, Notch Signaling, and the Axial Skeleton",
+  "The Sonic Hedgehog–Patched Gli Pathway",
+  "Homeobox (HOX) Genes",
+  "Paired-Box (PAX) Genes | SRY-Type HMG Box (SOX) Genes | T-Box (TBX) Genes",
+  "Zinc Finger Genes",
+  "Signal Transduction (“Signaling”) Genes"
+ ],
+ "The Pharyngeal Arches": [
+  "The Pharyngeal Arches"
+ ],
+ "The Role of Cilia in Developmental Abnormalities": [
+  "The Role of Cilia in Developmental Abnormalities"
+ ],
+ "The Limb as a Developmental Model": [
+  "The Limb as a Developmental Model | Initiation and Specification",
+  "Tissue Differentiation and Growth"
+ ],
+ "Developmental Genes and Cancer": [
+  "Developmental Genes and Cancer | Gain-of-Function Versus Loss-of-Function Mutations | Somatic Rearrangements"
+ ],
+ "Positional Effects and Developmental Genes": [
+  "Positional Effects and Developmental Genes"
+ ],
+ "Hydatidiform Moles": [
+  "Hydatidiform Moles | Partial Hydatidiform Mole | Complete Hydatidiform Mole | Different Parental Expression in Trophoblasts and Embryoblasts"
+ ],
+ "Epigenetics and Development": [
+  "Epigenetics and Development",
+  "X-Chromosome Inactivation"
+ ],
+ "Sex Determination and Disorders of Sex Development": [
+  "Sex Determination and Disorders of Sex Development",
+  "Normal Development",
+  "Classification of Disorders of Sex Development"
+ ],
+ "Twinning": [
+  "Twinning",
+  "Monozygotic Twins | Dizygotic Twins",
+  "Determination of Zygosity"
+ ],
+ "SECTION B Genetics in Medicine and Genomic Medicine": [
+  "SECTION B Genetics in Medicine and Genomic Medicine | 10"
+ ],
+ "Common Disease, Polygenic, and Multifactorial Genetics": [
+  "Common Disease, Polygenic, and Multifactorial Genetics"
+ ],
+ "Types and Mechanisms of Genetic Susceptibility": [
+  "Types and Mechanisms of Genetic Susceptibility"
+ ],
+ "Approaches to Demonstrating Genetic Susceptibility to Common Diseases": [
+  "Approaches to Demonstrating Genetic Susceptibility to Common Diseases | Family and Twin Studies",
+  "Heritability | Polymorphism Association Studies"
+ ],
+ "Polygenic Inheritance and the Normal Distribution": [
+  "Polygenic Inheritance and the Normal Distribution"
+ ],
+ "Multifactorial Inheritance—the Liability/Threshold Model": [
+  "Multifactorial Inheritance—the Liability/Threshold Model | Consequences of the Liability/Threshold",
+  "Model"
+ ],
+ "Identifying Genes That Cause Multifactorial Disorders": [
+  "Identifying Genes That Cause Multifactorial Disorders",
+  "Association Studies (۱)",
+  "Association Studies (۲)"
+ ],
+ "Polygenic Risk Scores": [
+  "Polygenic Risk Scores"
+ ],
+ "Disease Models for Multifactorial Inheritance": [
+  "Disease Models for Multifactorial Inheritance",
+  "Diabetes Mellitus (۱)",
+  "Diabetes Mellitus (۲)",
+  "Crohn Disease",
+  "Coronary Artery Disease",
+  "Schizophrenia",
+  "Alzheimer Disease"
+ ],
+ "Screening Those at High Risk": [
+  "Screening Those at High Risk"
+ ],
+ "Carrier Testing for Autosomal Recessive and X-Linked Disorders": [
+  "Carrier Testing for Autosomal Recessive and X-Linked Disorders",
+  "Clinical Manifestations in Carriers",
+  "Biochemical Abnormalities in Carriers"
+ ],
+ "Presymptomatic Diagnosis of Autosomal Dominant Disorders": [
+  "Presymptomatic Diagnosis of Autosomal Dominant Disorders | Direct Genetic Testing | Clinical Examination | Specialist Investigation | Biochemical Tests"
+ ],
+ "Ethical Considerations in Carrier Detection and Predictive Testing": [
+  "Ethical Considerations in Carrier Detection and Predictive Testing"
+ ],
+ "Population Screening": [
+  "Population Screening"
+ ],
+ "Criteria for a Screening Program": [
+  "Criteria for a Screening Program | The Disease | The Test | The Program"
+ ],
+ "Prenatal and Postnatal Screening": [
+  "Prenatal and Postnatal Screening | Fetal Anomaly Screening",
+  "Newborn Screening | Phenylketonuria | Galactosemia | Congenital Hypothyroidism | Cystic Fibrosis | Sickle-Cell Disease and Thalassemia"
+ ],
+ "Population Carrier Screening": [
+  "Population Carrier Screening | Thalassemia | Sickle-Cell Disease | Cystic Fibrosis | Positive and Negative Aspects of Population Screening"
+ ],
+ "Genetic Registers": [
+  "Genetic Registers"
+ ],
+ "Websites": [
+  "Websites | 12",
+  "Websites | 13"
+ ],
+ "Structure of Hemoglobin": [
+  "Structure of Hemoglobin",
+  "Protein Analysis"
+ ],
+ "Developmental Expression of Hemoglobin": [
+  "Developmental Expression of Hemoglobin"
+ ],
+ "Globin Chain Structure": [
+  "Globin Chain Structure | Protein Studies",
+  "Globin Gene Mapping | Globin Gene Structure"
+ ],
+ "Synthesis and Control of Hemoglobin Expression": [
+  "Synthesis and Control of Hemoglobin Expression"
+ ],
+ "Disorders of Hemoglobin": [
+  "Disorders of Hemoglobin",
+  "Structural Variants/Disorders",
+  "Sickle-Cell Disease",
+  "Disorders of Hemoglobin Synthesis (۱)",
+  "Disorders of Hemoglobin Synthesis (۲)"
+ ],
+ "Clinical Variation of the Hemoglobinopathies": [
+  "Clinical Variation of the Hemoglobinopathies"
+ ],
+ "Antenatal and Newborn Hemoglobinopathy Screening": [
+  "Antenatal and Newborn Hemoglobinopathy Screening"
+ ],
+ "Immunity": [
+  "Immunity"
+ ],
+ "Innate Immunity": [
+  "Innate Immunity",
+  "Cell-Mediated Innate Immunity",
+  "Humoral Innate Immunity"
+ ],
+ "Specific Acquired Immunity": [
+  "Specific Acquired Immunity",
+  "Humoral Specific Acquired Immunity (۱)",
+  "Humoral Specific Acquired Immunity (۲)",
+  "Cell-Mediated Specific Acquired Immunity"
+ ],
+ "Inherited Immunodeficiency Disorders": [
+  "Inherited Immunodeficiency Disorders",
+  "Primary Inherited Disorders of Immunity (۱)",
+  "Primary Inherited Disorders of Immunity (۲)",
+  "Secondary or Associated Immunodeficiency | Carrier Tests for X-Linked Immunodeficiencies"
+ ],
+ "Blood Groups": [
+  "Blood Groups",
+  "The ABO Blood Groups",
+  "Rhesus Blood Group",
+  "Other Blood Groups"
+ ],
+ "Differentiation Between Genetic and Environmental Factors in Cancer": [
+  "Differentiation Between Genetic and Environmental Factors in Cancer",
+  "Epidemiology | Family and Twin Studies | Disease Associations",
+  "Viral Factors"
+ ],
+ "Oncogenes": [
+  "Oncogenes | Relationship Between c-onc and v-onc",
+  "Identification of Oncogenes (۱)",
+  "Identification of Oncogenes (۲) | Function of Oncogenes",
+  "Types of Oncogene"
+ ],
+ "Tumor Suppressor Genes": [
+  "Tumor Suppressor Genes",
+  "Retinoblastoma",
+  "TP53"
+ ],
+ "Epigenetics and Cancer": [
+  "Epigenetics and Cancer",
+  "DNA Methylation and Genomic Imprinting",
+  "Telomere Length and Cancer"
+ ],
+ "Genetics of Common Cancers": [
+  "Genetics of Common Cancers",
+  "Colorectal Cancer"
+ ],
+ "DNA Tumor Profiling, Mutational Signatures, and Tumor Mutational Burden": [
+  "DNA Tumor Profiling, Mutational Signatures, and Tumor Mutational Burden | Precision Medicine",
+  "Circulating Tumor DNA"
+ ],
+ "Inherited Cancer Syndromes": [
+  "Inherited Cancer Syndromes | Familial Adenomatous Polyposis",
+  "Lynch Syndrome",
+  "Other Polyposis Syndromes",
+  "Breast Cancer | Moderate Risk Breast Cancer Genes and | Polygenic Risk Scores | Ovarian Cancer",
+  "Prostate Cancer"
+ ],
+ "Genetic Counseling in Familial Cancer": [
+  "Genetic Counseling in Familial Cancer | Inherited Cancer-Predisposing Syndromes",
+  "Inherited Susceptibility for the Common Cancers"
+ ],
+ "Screening for Familial Cancer": [
+  "Screening for Familial Cancer | Who to Screen? | What Age and How Often?",
+  "Which Sites to Screen?"
+ ],
+ "What Treatment Is Appropriate?": [
+  "What Treatment Is Appropriate?"
+ ],
+ "Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease": [
+  "Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease"
+ ],
+ "Pharmacogenomics": [
+  "Pharmacogenomics"
+ ],
+ "Drug Metabolism": [
+  "Drug Metabolism | Biochemical Modification | Kinetics of Drug Metabolism"
+ ],
+ "Genetic Variations Revealed by the Effects of Drugs": [
+  "Genetic Variations Revealed by the Effects of Drugs",
+  "N-Acetyltransferase Activity | The Sodium Channel and Activation States | Glucose 6-Phosphate Dehydrogenase Variants | Coumarin Metabolism by CYP2C9 | Debrisoquine Metabolism by CYP2D6 | Malignant Hyperthermia | Thiopurine Methyltransferase | Dihydropyrimidine Dehydrogenase"
+ ],
+ "Precision Medicine": [
+  "Precision Medicine | Maturity-Onset Diabetes of the Young | Neonatal Diabetes | Adverse Events",
+  "Efficacy"
+ ],
+ "Treatment of Genetic Disease": [
+  "Treatment of Genetic Disease",
+  "Conventional Approaches to Treatment of Genetic Disease (۱)",
+  "Conventional Approaches to Treatment of Genetic Disease (۲)"
+ ],
+ "Therapeutic Applications of Recombinant DNA Technology": [
+  "Therapeutic Applications of Recombinant DNA Technology"
+ ],
+ "Gene Therapy": [
+  "Gene Therapy | Regulatory Requirements | Technical Aspects",
+  "Gene Transfer (۱)",
+  "Gene Transfer (۲)"
+ ],
+ "RNA Modification": [
+  "RNA Modification",
+  "Antisense Oligonucleotides",
+  "RNA Interference"
+ ],
+ "Targeted Gene Correction": [
+  "Targeted Gene Correction"
+ ],
+ "Stem Cell Therapy": [
+  "Stem Cell Therapy | Embryonic Stem Cell Therapy | Embryonic Stem Cells for Transplantation",
+  "Gene Therapy Using Embryonic Stem Cells | Induced Pluripotent Stem Cell Therapy | Mesenchymal Stem Cells",
+  "Limbal Stem Cells"
+ ],
+ "SECTION C Clinical Genetics, Counseling, and Ethics": [
+  "SECTION C Clinical Genetics, Counseling, and Ethics | 16"
+ ],
+ "Incidence": [
+  "Spontaneous First-Trimester Pregnancy Loss | Congenital Abnormalities and Perinatal Mortality",
+  "Newborn Infants | Childhood Mortality"
+ ],
+ "Definition and Classification of Birth Defects": [
+  "Definition and Classification of Birth Defects",
+  "Single Abnormalities",
+  "Multiple Abnormalities"
+ ],
+ "Genetic Causes of Malformations": [
+  "Genetic Causes of Malformations | Chromosome Abnormalities",
+  "Single-Gene Defects | Multifactorial Inheritance",
+  "Genetic Heterogeneity"
+ ],
+ "Environmental Agents (Teratogens)": [
+  "Environmental Agents (Teratogens)",
+  "Drugs and Chemicals",
+  "Maternal Infections | Physical Agents",
+  "Maternal Illness"
+ ],
+ "Malformations of Unknown Cause": [
+  "Malformations of Unknown Cause | Symmetry and Asymmetry"
+ ],
+ "Counseling": [
+  "Counseling"
+ ],
+ "Intellectual Disability": [
+  "Intellectual Disability | X-Linked Intellectual Disability",
+  "Autistic Spectrum Disorder | Some Classic and New Intellectual Disability",
+  "Syndromes (۱)",
+  "Syndromes (۲)"
+ ],
+ "Incidence of Chromosome Abnormalities": [
+  "Incidence of Chromosome Abnormalities",
+  "Down Syndrome (Trisomy 21) | Patau Syndrome (Trisomy 13) and Edwards Syndrome (Trisomy 18)",
+  "Triploidy"
+ ],
+ "Disorders of the Sex Chromosomes": [
+  "Klinefelter Syndrome (47,XXY)",
+  "Turner Syndrome (45,X) | XXX Females | XYY Males",
+  "Fragile-X Syndrome"
+ ],
+ "“Classic” Chromosome Deletion Syndromes": [
+  "Deletion 4p and 5p Syndromes | Wilms Tumor/WAGR syndrome | Angelman and Prader-Willi Syndromes",
+  "Contiguous Gene Syndromes"
+ ],
+ "Chromosome Microarray/Microarray- Comparative Genomic Hybridization": [
+  "Chromosome Microarray/Microarray- Comparative Genomic Hybridization",
+  "Microdeletion and Microduplication Syndromes: “Old” and “New” (۱)",
+  "Microdeletion and Microduplication Syndromes: “Old” and “New” (۲)"
+ ],
+ "Chromosome Disorders and Behavioral Phenotypes": [
+  "Chromosome Disorders and Behavioral Phenotypes"
+ ],
+ "Chromosome Breakage Syndromes": [
+  "Chromosome Breakage Syndromes | Ataxia Telangiectasia | Bloom Syndrome | Fanconi Anemia | Xeroderma Pigmentosum | Chromosome Breakage and Sister Chromatid | Exchange"
+ ],
+ "Indications for Chromosome Microarray Analysis": [
+  "Indications for Chromosome Microarray Analysis | Multiple Congenital Abnormalities | Unexplained Intellectual Disability and Neurodevelopmental Disorders | Sexual Ambiguity | Infertility and Recurrent Miscarriage | Unexplained Stillbirth/Neonatal Death",
+  "Malignancy and Chromosome Breakage Syndromes"
+ ],
+ "Disorders of Amino Acid and Peptide Metabolism": [
+  "Disorders of Amino Acid and Peptide Metabolism",
+  "Disorders of Phenylalanine or Tyrosine Metabolism | Urea Cycle Disorders | Disorders of the Metabolism of Sulphur Amino Acids",
+  "Organic Acidurias | Disorders of Branched-Chain Amino Acid Metabolism"
+ ],
+ "Disorders of Carbohydrate Metabolism": [
+  "Disorders of Carbohydrate Metabolism",
+  "Glycogen Storage Disorders"
+ ],
+ "Disorders of Steroid Metabolism": [
+  "Disorders of Steroid Metabolism",
+  "Congenital Adrenal Hyperplasia"
+ ],
+ "Disorders of Lipid and Lipoprotein Metabolism": [
+  "Disorders of Lipid and Lipoprotein Metabolism"
+ ],
+ "Lysosomal Storage Disorders": [
+  "Lysosomal Storage Disorders",
+  "Mucopolysaccharidoses",
+  "Sphingolipidoses"
+ ],
+ "Disorders in the Metabolism of Purines, Pyrimidines, and Nucleotides": [
+  "Disorders of Purine Metabolism | Disorders of Pyrimidine and Nucleotide Metabolism"
+ ],
+ "Disorders of Porphyrin and Heme Metabolism": [
+  "Disorders of Porphyrin and Heme Metabolism | Hepatic Porphyrias | Erythropoietic Porphyrias"
+ ],
+ "Disorders in the Metabolism of Trace Elements and Metals": [
+  "Disorders in the Metabolism of Trace Elements and Metals",
+  "Disorders of Copper Metabolism | Disorders of Iron Metabolism | Disorders of Zinc Metabolism"
+ ],
+ "Peroxisomal Disorders": [
+  "Peroxisomal Disorders"
+ ],
+ "Disorders of Fatty Acid and Ketone Body Metabolism": [
+  "Disorders of Fatty Acid and Ketone Body Metabolism | Disorders of Mitochondrial Fatty Acid Oxidation"
+ ],
+ "Disorders of Energy Metabolism": [
+  "Disorders of Energy Metabolism",
+  "Mitochondrial Respiratory Chain Disorders"
+ ],
+ "Prenatal Diagnosis of Inborn Errors of Metabolism": [
+  "Prenatal Diagnosis of Inborn Errors of Metabolism"
+ ],
+ "Neurological Disorders": [
+  "Neurological Disorders",
+  "Huntington Disease"
+ ],
+ "CADASIL and Early-Onset Dementia": [
+  "CADASIL and Early-Onset Dementia",
+  "CADASIL | Early-Onset Dementia | The Hereditary Ataxias | Spinocerebellar Ataxias | Episodic Ataxias | Friedreich Ataxia"
+ ],
+ "Inherited Peripheral Neuropathies": [
+  "Inherited Peripheral Neuropathies",
+  "Hereditary Motor and Sensory Neuropathies/Charcot-Marie-Tooth Disease | Hereditary Sensory and Autonomic | Neuropathies | Hereditary Spastic Paraparesis",
+  "Spinal Muscular Atrophy"
+ ],
+ "Motor Neurone Disease": [
+  "Motor Neurone Disease"
+ ],
+ "Neurocutaneous Disorders": [
+  "Neurocutaneous Disorders",
+  "Neurofibromatosis Type 1 | Legius Syndrome | Neurofibromatosis Type 2",
+  "Tuberous Sclerosis"
+ ],
+ "Muscular Dystrophies": [
+  "Muscular Dystrophies",
+  "Duchenne and Becker Muscular Dystrophies— Xp21",
+  "Limb-Girdle Muscular Dystrophies",
+  "Facioscapulohumeral Muscular Dystrophy",
+  "Myotonic Dystrophy Type 1 | Myotonic Dystrophy Type 2"
+ ],
+ "Respiratory Disorders": [
+  "Cystic Fibrosis (۱)",
+  "Cystic Fibrosis (۲)",
+  "Alpha-1 Antitrypsin Deficiency | Pulmonary Arterial Hypertension",
+  "Hereditary Hemorrhagic Telangiectasia"
+ ],
+ "Inherited Cardiac Conditions": [
+  "Inherited Cardiac Conditions",
+  "Inherited Arrhythmias",
+  "Inherited Cardiomyopathies"
+ ],
+ "Connective Tissue Disorders": [
+  "Connective Tissue Disorders",
+  "Marfan Syndrome | Congenital Contractural Arachnodactyly—Beal Syndrome | Loeys-Dietz Syndrome",
+  "Familial Thoracic Aortic Aneurysm Disease",
+  "Ehlers-Danlos Syndrome | Pseudoxanthoma Elasticum"
+ ],
+ "Renal Disorders": [
+  "Renal Disorders",
+  "Dysmorphic Syndromes and Renal Involvement",
+  "Autosomal Dominant Polycystic Kidney Disease | Autosomal Recessive Polycystic Kidney Disease | Nephronophthisis and Medullary Cystic Kidney Disease | Alport Syndrome",
+  "Renal Tubular Disorders"
+ ],
+ "Blood Disorders": [
+  "Blood Disorders",
+  "Hemophilia (۱)",
+  "Hemophilia (۲)"
+ ],
+ "Techniques Used in Prenatal Diagnosis": [
+  "Techniques Used in Prenatal Diagnosis",
+  "Ultrasonography",
+  "Amniocentesis | Chorionic Villus Sampling | Fetoscopy | Cordocentesis | Radiography"
+ ],
+ "Antenatal and Prenatal Screening": [
+  "Antenatal and Prenatal Screening | Maternal Serum Screening",
+  "Neural Tube Defects",
+  "Down Syndrome and Other Chromosome Abnormalities"
+ ],
+ "Indications for Prenatal Testing": [
+  "Indications for Prenatal Testing | Advanced Maternal Age | Previous Child With a Chromosome | Abnormality | Family History of a Chromosome Abnormality | Family History of a Single-Gene Disorder | Family History of, or Previous Child With, Congenital Structural Abnormalities | Family History of Undiagnosed Learning Difficulty | Abnormalities Identified in Pregnancy | Other High-Risk Factors"
+ ],
+ "Special Problems in Prenatal Diagnosis": [
+  "Special Problems in Prenatal Diagnosis | Failure to Obtain a Sample or Culture Failure",
+  "An Ambiguous Chromosome Result",
+  "An Unexpected Chromosome Result | Ultrasonographic “Soft” Markers"
+ ],
+ "Termination of Pregnancy": [
+  "Termination of Pregnancy"
+ ],
+ "Preimplantation Genetic Diagnosis": [
+  "Preimplantation Genetic Diagnosis"
+ ],
+ "Assisted Conception and Implications for Genetic Disease": [
+  "In Vitro Fertilization | Intracytoplasmic Sperm Injection | Donor Insemination | Assisted Conception and the Law",
+  "Non-invasive Prenatal Testing | Non-invasive Prenatal Diagnosis | Prenatal Rapid Exome Sequencing"
+ ],
+ "Prenatal Treatment": [
+  "Prenatal Treatment"
+ ],
+ "Definition": [
+  "Definition"
+ ],
+ "Establishing the Diagnosis": [
+  "Establishing the Diagnosis"
+ ],
+ "Calculating and Presenting the Risk": [
+  "Calculating and Presenting the Risk | Quantification—The Numerical Value of a Risk | Qualification—The Nature of a Risk | Placing Risks in Context"
+ ],
+ "Discussing the Options": [
+  "Discussing the Options"
+ ],
+ "Communication and Support": [
+  "Communication and Support | Patient Support Groups"
+ ],
+ "Genetic Counseling—Directive or Non- directive?": [
+  "Genetic Counseling—Directive or Non- directive?"
+ ],
+ "Outcomes in Genetic Counseling": [
+  "Outcomes in Genetic Counseling"
+ ],
+ "Special Issues in Genetic Counseling": [
+  "Special Issues in Genetic Counseling",
+  "Consanguinity | Incest",
+  "Adoption and Genetic Disorders",
+  "Nonpaternity"
+ ],
+ "General Principles": [
+  "General Principles | Autonomy | Informed Choice",
+  "Informed Consent | Confidentiality | Universality"
+ ],
+ "Ethical Dilemmas in the Genetics Clinic": [
+  "Prenatal Diagnosis",
+  "Predictive Testing in Childhood | Implications for the Immediate Family (Inadvertent Testing or Testing by “Proxy”)",
+  "Implications for the Extended Family | Informed Consent in Genetic Research",
+  "Secondary or Incidental Findings"
+ ],
+ "Ethical Dilemmas and the Public Interest": [
+  "Ethical Dilemmas and the Public Interest",
+  "Genetics and Insurance | Forensic Science and DNA Databases",
+  "Gene Patenting and the Human Genome Project | Gene Therapy",
+  "Newborn and Population Screening",
+  "Cloning and Stem Cell Research"
+ ],
+ "Glossary": [
+  "Glossary (۱) (۱) (۱) (۱)",
+  "Glossary (۱) (۱) (۱) (۲)",
+  "Glossary (۱) (۱) (۲) (۱)",
+  "Glossary (۱) (۱) (۲) (۲)",
+  "Glossary (۱) (۲) (۱) (۱)",
+  "Glossary (۱) (۲) (۱) (۲)",
+  "Glossary (۱) (۲) (۲) (۱)",
+  "Glossary (۱) (۲) (۲) (۲)",
+  "Glossary (۲) (۱) (۱) (۱)",
+  "Glossary (۲) (۱) (۱) (۲)",
+  "Glossary (۲) (۱) (۲) (۱)",
+  "Glossary (۲) (۱) (۲) (۲)",
+  "Glossary (۲) (۲) (۱) (۱)",
+  "Glossary (۲) (۲) (۱) (۲)",
+  "Glossary (۲) (۲) (۲) (۱)",
+  "Glossary (۲) (۲) (۲) (۲)"
+ ],
+ "Appendix: Websites and Clinical Databases": [
+  "Appendix: Websites and Clinical Databases"
+ ],
+ "General Genetic Websites": [
+  "General Genetic Websites"
+ ],
+ "Human Genome Websites": [
+  "Human Genome Websites"
+ ],
+ "Molecular Genetics Websites": [
+  "Molecular Genetics Websites"
+ ],
+ "Cytogenetics Websites": [
+  "Cytogenetics Websites"
+ ],
+ "Educational Human Genetics Websites": [
+  "Educational Human Genetics Websites"
+ ],
+ "Human Genetics Societies": [
+  "Human Genetics Societies"
+ ],
+ "Clinical Databases": [
+  "Clinical Databases"
+ ],
+ "Other Resources": [
+  "Other Resources"
+ ],
+ "Multiple-Choice Questions": [
+  "Multiple-Choice Questions"
+ ],
+ "CHAPTER 2: The Cellular and Molecular Basis of Inheritance": [
+  "CHAPTER 2: The Cellular and Molecular Basis of Inheritance"
+ ],
+ "CHAPTER 3: Chromosomes and Cell Division": [
+  "CHAPTER 3: Chromosomes and Cell Division"
+ ],
+ "CHAPTER 4: Finding the Cause of Monogenic Disorders by Identifying Disease Genes": [
+  "CHAPTER 4: Finding the Cause of Monogenic Disorders by Identifying Disease Genes"
+ ],
+ "CHAPTER 5: Laboratory Techniques for Diagnosis of Monogenic Disorders": [
+  "CHAPTER 5: Laboratory Techniques for Diagnosis of Monogenic Disorders"
+ ],
+ "CHAPTER 6: Patterns of Inheritance": [
+  "CHAPTER 6: Patterns of Inheritance",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 7: Population and Mathematical Genetics": [
+  "CHAPTER 7: Population and Mathematical Genetics",
+  "Case 1 | Case 2"
+ ],
+ "CHAPTER 8: Risk Calculation": [
+  "CHAPTER 8: Risk Calculation",
+  "Case 1 | Case 2"
+ ],
+ "CHAPTER 9: Developmental Genetics": [
+  "CHAPTER 9: Developmental Genetics",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics": [
+  "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics",
+  "Case 1 | Case 2 | Case 3 | Case 4"
+ ],
+ "CHAPTER 11: Screening for Genetic Disease": [
+  "CHAPTER 11: Screening for Genetic Disease",
+  "Case 1 | Case 2"
+ ],
+ "CHAPTER 12: Hemoglobin and the Hemoglobinopathies": [
+  "CHAPTER 12: Hemoglobin and the Hemoglobinopathies",
+  "Case 1 | Case 2"
+ ],
+ "CHAPTER 13: Immunogenetics": [
+  "CHAPTER 13: Immunogenetics",
+  "Case 1 | Case 2"
+ ],
+ "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics": [
+  "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 15: Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease": [
+  "CHAPTER 15: Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease"
+ ],
+ "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability": [
+  "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 17: Chromosome Disorders": [
+  "CHAPTER 17: Chromosome Disorders",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 18: Inborn Errors of Metabolism": [
+  "CHAPTER 18: Inborn Errors of Metabolism",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 19: Mainstream Monogenic Disorders": [
+  "CHAPTER 19: Mainstream Monogenic Disorders",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 20: Prenatal Testing and Reproductive Genetics": [
+  "CHAPTER 20: Prenatal Testing and Reproductive Genetics",
+  "Case 1 | Case 2 | Case 3"
+ ],
+ "CHAPTER 21: Genetic Counseling": [
+  "CHAPTER 21: Genetic Counseling",
+  "Case 1 | Case 2"
+ ],
+ "Chapter 6": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 8": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 9": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 11": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 12": [
+  "Clinical Scenario 1",
+  "Clinical Scenario 2"
+ ],
+ "Chapter 13": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 14": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 16": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 17": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 18": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 19": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 20": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 21": [
+  "Clinical Scenario 1 | Clinical Scenario 2"
+ ],
+ "Chapter 22": [
+  "Clinical Scenario 1",
+  "Clinical Scenario 2"
+ ],
+ "Index": [
+  "Index (۱) (۱) (۱) (۱)",
+  "Index (۱) (۱) (۱) (۲)",
+  "Index (۱) (۱) (۲) (۱)",
+  "Index (۱) (۱) (۲) (۲)",
+  "Index (۱) (۲) (۱) (۱)",
+  "Index (۱) (۲) (۱) (۲)",
+  "Index (۱) (۲) (۲) (۱)",
+  "Index (۱) (۲) (۲) (۲)",
+  "Index (۲) (۱) (۱) (۱)",
+  "Index (۲) (۱) (۱) (۲)",
+  "Index (۲) (۱) (۲) (۱)",
+  "Index (۲) (۱) (۲) (۲)",
+  "Index (۲) (۲) (۱) (۱)",
+  "Index (۲) (۲) (۱) (۲)",
+  "Index (۲) (۲) (۲) (۱)",
+  "Index (۲) (۲) (۲) (۲)"
+ ]
+}

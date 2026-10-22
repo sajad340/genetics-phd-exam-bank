@@ -1,0 +1,6 @@
+# temp/build artifacts
+_check_*.png
+check*.jpg
+*.pyc
+__pycache__/
+.DS_Store

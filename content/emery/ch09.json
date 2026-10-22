@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 9,
+  "chapter_title_en": "Developmental Genetics",
+  "chapter_title_fa": "فصل ۹: ژنتیک رشد", "exam_weight": 3,
+  "questions": [
+    {
+      "id": "em09-1", "topic": "ژن‌های Hox", "difficulty": "hard",
+      "stem": "ژن‌های Hox در رشد کدام ساختار نقش دارند و ترتیب قرارگیری آن‌ها بر کروموزوم‌ها چه خاصیتی است که با تظاهر بالینی جهش‌ها مرتبط می‌شود؟",
+      "options": ["تعیین محور عرضی اندام؛ نامرتب", "تعیین هویت قطعات در محور قدامی-خلفی؛ ترتیب کولینیر (colinear) با بیان از ۳′ به ۵′ منطبق بر سر به دم", "فقط رشد دستگاه عصبی؛ تصادفی", "تنظیم متابولیسم؛ بدون الگوی خاص"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. ژن‌های Hox هویت قطعات بدن در محور قدامی-خلفی (rostral-caudal) را تعیین می‌کنند و خاصیت colinearity دارند: ترتیب ژن‌ها روی کروموزوم با ترتیب بیان در محور بدن مطابق است (ژن‌های ۳′ جلویی‌تر). جهش‌ها در سندرم‌های اندام-دستی (synpolydactyly، HOXD13) و ناهنجاری‌های ستون فقرات دیده می‌شوند.",
+      "level2": "درسنامه: خانواده‌های ژنی رشد (موضوعات کلیدی آزمون): — Hox (Homeobox): ۴ کلاستر در انسان (HOXA در 7p15، B در 17q21، C در 12q13، D در 2q31)؛ duplication در تکامل؛ جهش‌ها: HOXD13 → synpolydactyly؛ HOXA13 → hand-foot-genital syndrome. نقش: هویت مهره/اندام در محور A-P. — Pax (Paired box): PAX6 → aniridia/WAGR (11p13)؛ PAX3 → Waardenburg نوع I (نقص سلول‌های عصبی-تاج: لب‌شقی رنگین، ناشنوایی)؛ PAX8 تیروئید. — Sox (SRY-box): SRY تعیین بیضه (Yp11.3)؛ SOX9 → campomelic dysplasia با sex reversal؛ SOX10 → Waardenburg IV + Hirschsprung. — T-Box: TBX5 → Holt-Oram (بازو+قلب)؛ TBX3 → ulnar-mammary. — Zinc finger: GLI3 → Greig/Pallister-Hall، Pallister-Hall با hypothalamic hamartoma و polydactyly. — بادازی signaling: SHH → holoprosencephaly (با ZIC2، SIX3)؛ limb: ZPA و SHH، AER-FGF، تنظیم طول اندام. — نکته آزمونی: «ناهنجاری چنداندامی با لب‌شقی رنگی/ناشنوایی؟» Waardenburg (PAX3/MITF/SOX10)؛ «آنیریذیا + ویلمز؟» WAGR/WT1+PAX2 del 11p13."
+    },
+    {
+      "id": "em09-2", "topic": "مسیر سیگنالینگ رشد", "difficulty": "hard",
+      "stem": "جهش سوماتیک فعال‌کننده در مؤلفه‌های مسیر WNT در سلول‌های سرطان روده بزرگ و در همان زمان جهش ژرم‌لاین همین مسیر در سندرم‌های رشدی، نقش دوگانه این مسیر را نشان می‌دهد. کدام ژن‌ها در دو حالت فوق شاخص‌اند؟",
+      "options": ["APC (سرکوب‌گر) و CTNNB1/β-catenin (آنکوژن)", "P53 و MDM2", "BRCA1 و RAD51", "Hox و Pax"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مسیر WNT/β-catenin: جهش ژرم‌لاین APC → FAP (پلیپ‌های صد-ها + سرطان روده) و جهش سوماتیک APC/CTNNB1 در اکثر CRCL‌های اسپورادیک؛ همچنین CTNNB1 در هیپاتوبلاستوما. β-catenin آندومک می‌شود و با TCF ژن‌های تکثیر (MYC, CCND1) را فعال می‌کند.",
+      "level2": "درسنامه: مسیرهای سیگنالی کلیدی رشد و پیوندشان با بیماری (جدول آزمونی): — SHH (sonic hedgehog): رشد لوله عصبی، قطب‌بندی اندام؛ جهش: holoprosencephaly (SHH, ZIC2, SIX3, TGIF)، Gorlin syndrome (PTCH1 → BCC، keratocysts، medulloblastoma)؛ فعال‌سازی سوماتیک در BCC و medulloblastoma. — Notch: تعیین سرنوشت جانبی؛ جهش: Alagille (JAG1/NOTCH2؛ bile duct paucity + قلب + مهره‌ها)؛ NOTCH1 در T-ALL (activating) و Adams-Oliver. — TGF-β/BMP: ضد-تکثیر؛ BMP4 در filari؟ نه: BMP مسیر در fibrodysplasia ossificans progressiva (ACVR1/ALK2 activating → استخوان‌سازی اکتوپیک)؛ TGFBR1/2 → Loeys-Dietz، SMAD3؛ Marfan-like با آنوریسم. — RTK/RAS/MAPK: RASopathies: NF1 (neurofibromin، GAP)، Noonan (PTPN11، SOS1، RAF1...)، Costello (HRAS)، cardio-facio-cutaneous (BRAF, MEK1/2)، Legius (SPRED1). — PI3K/AKT/mTOR: PTEN → Cowden؛ TSC1/2 → توبروز اسکلروزیس؛ mTOR در هیپرتروفی اندام (PROS/AKT3). — WNT: APC/β-catenin (بالا). — Retinoic acid: RARB/Stra6 در ناهنجاری‌ها؛ ایزوترتینوئین تراتوژن. — نکته ترکیبی محبوب: «یک مسیر، دو بیماری (سندرم رشدی + سرطان)» = SHH/PTCH، WNT/APC، Notch/Alagille-ALL، mTOR/TSC."
+    },
+    {
+      "id": "em09-3", "topic": "کریستالیسلولوم", "difficulty": "medium",
+      "stem": "نقش مژک‌های اولیه (primary cilia) در مسیر سیگنالی SHH و بیماری‌های ciliopathy کدام است؟",
+      "options": ["بی‌ارتباط با سیگنالینگ", "مژک اولیه محل تجمع و پردازش گیرنده‌های SHH است؛ نقص آن در سندرم‌هایی مثل Bardet-Biedl و Meckel-Gruber (پلی‌داکتیلی، سیست کلیوی، چشم) دیده می‌شود", "فقط در حرکت سلولی", "فقط در بافت تنفسی"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. مژک اولیه آنتن حسی سلول است و پردازش مسیرهای SHH، WNT و PDGFR را انجام می‌دهد؛ ژن‌های ciliopathy (BBS1-20، MKS1/3، CEP290، ...) با پلی‌داکتیلی، چاقی، retinal degeneration، سیست کلیه، اختلال عصبی تظاهر می‌کنند (BBS، Meckel-Gruber، Joubert، Senior-Loken، orofaciodigital).",
+      "level2": "درسنامه: ciliopathies (بازه جدید آزمون‌ها): — ساختار: axoneme 9+0 مژک اولیه؛ IFT (intraflagellar transport) قطب‌ها؛ گذردهی گیرنده‌ها (Smoothened/Patched در مژک). — چرا پلی‌داکتیلی؟ مدولاسیون SHH در مژک → الگوی اندام؛ به‌همین‌ها BBS/MKS با polydactyly. — اسم‌ها که باید شناسایی شوند: Bardet-Biedl (چاقی، RP، پلی‌داکتیلی، کلیه، hypogonadism؛ AR؛ BBS genes)، Meckel-Gruber (occipital encephalocele، پلی‌داکتیلی، cystic kidney؛ MKS1/TMEM67/CEP290؛ کشنده نوزادی)، Joubert (molar tooth sign؛ breathing)؛ Jeune asphyxiating thoracic dystrophy؛ Senior-Loken (nephronophthisis+RP)، ORKAN؟ Oro-facio-digital type 1 (XLD، OFD1). — نکته الگوی وراثت اکثر: AR؛ نکته تله: «بیماری با محور مرکز زتوسوم» — تشخیص با MRI. — ارتباط پزشکی: پیوند به PKD (بیماری کلیه پلی‌کیستیک AD، PKD1/2 در primary cilia/mechanosensor)."
+    },
+    {
+      "id": "em09-4", "topic": "تعیین جنسیت", "difficulty": "hard",
+      "stem": "نوزاد 46,XY با آلت مردی مبهم، هایپواسپادیاس و هیپرپلاشی آدرنال نرمال؛ سطح تستوسترون بالا و DHT پایین است. کدام نقص ژنی محتمل است؟",
+      "options": ["نقص 5α-ردوکتاز نوع ۲ (SRD5A2)", "نقص گیرنده آندروژن (AR؛ سندرم عدم‌حساسیت کامل)", "نقص 17β-HSD", "نقص SOX9"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ترفند بیوشیمیایی: T بالا + DHT پایین = بلوک تبدیل T→DHT = 5α-ردوکتاز۲. در AR مقاومت کامل: T بالا، LH بالا، ولی فنوتیپ زنانه با بیضه‌های درون‌شوی؛ 17β-HSD نقص: آندروستندیون بالا.",
+      "level2": "درسنامه: DSD (اختلالات تکوین جنسی) — دسته‌بندی آزمونی: — 46,XY DSD: (۱) بیوسنتز تستوسترون: LH receptor (Leydig hypoplasia)، 17β-HSD3 (HSD17B3)، STAR/CYP11A1 (CAH خلص lipoid)، CYP17A1، 3β-HSD. (۲) عملکرد آندروژن: AR (AIS کامل/جزئی؛ XLR؛ T↑، LH↑، نرمال Müllerian چون AMH هست)؛ SRD5A2 (T/DHT↑↓؛ پوبیس زنانه‌ای؛ virilization در بلوغ؛ AR؛ بهبود فنوتیپ در puberty — تاریخی: 'penis at 12'). (۳) AMH/SF1: persistance Müllerian syndrome (WNT4/AMH receptor). (۴) دیزژنزی گنادال: DHH، SF1/NR5A1، WT1 (Denys-Drash: ambiguous+ویلمز+نفروپاتی؛ Frasier). (۵) syndromic: SOX9 (campomelic)، WNT4 (SERKAL)، CHD7 (CHARGE)، MAMLD1. — 46,XX DSD با virilization: 21-OH نقص (CYP21A2؛ شایع‌ترین CAH؛ 17-OHP↑)؛ 11β-OH (CYP11B1؛ هیپرتانسیون)؛ 3β-HSD؛ AR exogen (آندروژنی مادرانه). — 46,XX بدون virilization + gonadal dysgenesis (Turner variants). — نکته‌های ترکیبی: Denys-Drash (WT1؛ 46,XY DSD + ویلمز + Denys)؛ Frasier (WT1 intronic؛ FSGS + gonadoblastoma)؛ SF1 با آدرنال insufficient؛ CAMATA؟. — ارزیابی: کاریوتایپ + هورمون‌ها (17-OHP، T/DHT، AMH، LH/FSH) + ژنتیک."
+    },
+    {
+      "id": "em09-5", "topic": "مولار بارداری", "difficulty": "medium",
+      "stem": "مول هیداتیدیفورم کامل معمولاً کدام ساختار کاریوتیپی دارد و چه ارتباطی با ایمپرینتینگ دارد؟",
+      "options": ["46,XX کاملاً پدری (اندروژنتیک؛ بدون DNA مادری)", "46,XX کاملاً مادری", "69,XXY تری‌پلوئید", "45,X"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مول کامل: تخمک بدون هسته/خالی با دو اسپرم یا تکرار اسپرم (46,XX یا XY تمام‌پدری) → دو برابر شدن ژنوم پدری و فقدان ژنوم مادری؛ چون برای رشد جفت، ژنوم پدری لازم است و برای جنین، مادری، در مول کامل بافت جفت پیش می‌رود اما جنین نیست؛ خطر choriocarcinoma. مول جزئی: تری‌پلوئید (دیپلوئید پدری+هاپلوئید مادری) با جنین ناقص.",
+      "level2": "درسنامه: بارداری‌های مولار و ایمپرینتینگ ژنومی: — مفهوم کلیدی آزمونی: ژنوم پدری عموماً برنامه‌ریز رشد جفت/extraembryonic؛ ژنوم مادری جنین — آزمایش موش با پرونوکلئوس جایگزینی (androgenetic vs parthenogenetic) و در انسان: مول کامل (اندروژنتیک) و تراتوما تخمدانی/اویست پارتنوژنز (مادری؛ بافت‌های نامنظم بدون جفت). — مول کامل: شایع‌تر؛ کیسه‌های پراکنده، hCG بسیار بالا، خطر تهاجمی/کوریوکارسینوما (~۱۵-۲۰٪ پس از کامل؛ پیگیری hCG)؛ DIAGNOSIS p57 immunostain (p57^KIP2 ایمپرنت‌شده مادری → در مول کامل منفی). — مول جزئی: تریپلوئید دی‌اسپرمی؛ جنین/جفت ناقص، کیسه‌های focal؛ خطر بدخیمی کمتر. — سندرم‌های مرتبط با ایمپرینتینگ و UPD را مرور کنید (PWS/AS؛ BWS؛ SRS؛ MLP سندرم؟). — نکته: hydatidiform mole + familial recurrent: NLRP7/KHDC3L (AR؛ نقص متیلاسیون ژنوم اووسیت)."
+    },
+    {
+      "id": "em09-6", "topic": "سلول‌های عصبی-تاج", "difficulty": "medium",
+      "stem": "سلول‌های کریست عصبی (neural crest) به کدام بافت‌ها مهاجرت می‌کنند و مثال بیماری با نقص آن‌ها که ناشنوایی، لب‌شقی رنگین و Hirschsprung دارد کدام است؟",
+      "options": ["فقط مغز؛ سندرم داون", "وجه، قلب-عروق، ملانوسیت‌ها، گانگلی‌های روده، عصب‌های حسی؛ Waardenburg نوع IV (SOX10/EDNRB/EDN3)", "فقط پوست؛ آلبینیسم", "کبد و طحال؛ ویلسون"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. سلول‌های عصبی‌تاج به ساختارهای صورت (استخوان/غضروف)، قلب‌رگ‌ها (سپتوم/تاجی)، ملانوسیت‌ها، گانگلی‌های پاراسمپاتیک روده و ریشه‌های عصبی حسی مهاجرت می‌کنند؛ نقص هم‌زمان ملانوسیت+گانگلیون = Waardenburg-Shah (WS4: SOX10/EDNRB/EDN3؛ Hirschsprung + رنگ مو/پوست).",
+      "level2": "درسنامه: neurocristopathies — فهرست آزمونی: — Waardenburg I (PAX3)؛ II (MITF؛ بدون dystopia canthorum)؛ III (PAX3؛ با ناهنجاری اندام= Klein-Waardenburg)؛ IV (SOX10/EDNRB/EDN3؛ + Hirschsprung). — Hirschsprung isolated: RET (شایع‌ترین؛ AD با penetrance ناقص/sex-limited)؛ GDNF، EDNRB؛ sindromic: RET+MEN2 (نکته: سابقه HSCR در خانواده → تست RET به‌دلیل MEN2A)؛ Waardenburg IV؛ Mowat-Wilson (ZEB2؛ HSCR + ناتوانی ذهنی + چهره). — CHARGE (CHD7؛ کریست عصبی/گیرنده‌ها)؛ DiGeorge/22q11.2 (ناقص مهاجرت/توسعه فاق‌های فارنژیال: قلب، تیموس، پاراتیروئید). — Treacher-Collins (TCOF1؛ کریست اول و دوم؛ mandibulofacial dysostosis)، Goldenhar (OAVS؛ hemifacial microsomia). — PIEBALDISM (KIT؛ ملانوسیت مهاجرت؛ لکه‌های مرکزی ثابت)؛ WaardenburgPiebald. — نکته ترکیبی: «ناشنوایی + چشم‌های آبی روشن + لب‌شقی؟» WS؛ «یبوست نوزادی + مو سفید جلو سر؟» WS4/HSCR."
+    },
+    {
+      "id": "em09-7", "topic": "تراتوژن‌ها", "difficulty": "easy",
+      "stem": "کدام جفت «تراتوژن–اثر شاخص» صحیح است؟",
+      "options": ["ایزوترتینوئین – ناهنجاری‌های عصبی لوله و قلبی", "الکل – سندرم الکل جنینی (FAS)", "والپروات – نقص لوله عصبی", "همه موارد"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ (همه موارد) صحیح است. رتینوئیک اسید (ایزوترتینوئین) ناهنجاری کraniofacial/قلبی/CNS (نقش مسیر RA در رشد)؛ الکل FAS (تأخیر رشد، چهره خاص، ناتوانی ذهنی — شایع‌ترین علت قابل‌پیشگیری ناتوانی ذهنی)؛ والپروات NTD و ناتوانی ذهنی/autism-مانند؛ همه تراتوژن‌های کلاسیک آزمون‌اند.",
+      "level2": "درسنامه: تراتوژن‌های پرتکرار آزمون (جدول حفظی): — داروها: والپروات (NTD ~۱-۲٪)، ایزوترتینوئین (شایع‌ترین تراتوژن دارویی дерما؛ ~۲۵-۳۵٪ ناهنجاری در معرض)، تالیدومید (فوکوملیا؛ تاریخچه)، ACEi/ARBs (OLIGOHYDRAMNIOS/renal dysgenesis سه‌ماهه۲-۳)، وارفارین (نفریت embryopathy؛ بین ۶-۱۲ هفتگی)، لیتیم (Ebstein anomaly ~۱/۱۰۰۰-۲۰۰۰)، آنتی‌تیروئیدها (hypothyroidism)، تتراسایکلین (دندان)، آنتی‌متابولیت‌ها (MTX، MMF → ear anomalies؛ aminopterin). — عفونت‌ها TORCH: CMV (شایع‌ترین عفونت مادرزادی؛ IUGR، پریونتال calcification، chorioretinitis)، توکسوپلاسما (کلسیمی داخل‌مغزی، chorioretinitis)، روبئولا، سیفیلیس، هرپس، Zika (microcephaly). — مواد: الکل، کوکائین، نیکوتین (IUGR)، مرکوری متیل، سرب. — بیماری مادر: دیابت بد کنترل (کادرینل anomalies؛ caudal dysgenesis؛ ~۲-۴ برابر ناهنجاری)، PKU مادر بدون رژیم (microcephaly/قلبی؛ آثار مستقل از ژنوتیپ جنین)، SLE (anti-Ro → block قلبی)، ICP؟. — اصل حساسیت زمانی: هفته ۳-۸ پست‌لقاح پنجره بحرانی ارگانوژنز (قبل از آن all-or-none؛ بعد از آن عمدتاً رشد/عملکرد)."
+    },
+    {
+      "id": "em09-8", "topic": "طبقه‌بندی ناهنجاری", "difficulty": "medium",
+      "stem": "شکست اندام نوزاد به‌دلیل نوار آمنیوتیک (amniotic band) نمونه‌ای از کدام دسته ناهنجاری مادرزادی است؟",
+      "options": ["Malformation", "Disruption", "Deformation", "Dysplasia"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. Disruption = تخریب بافتی که به‌طور طبیعی شکل گرفته (نوار آمنیوتیک، انسداد عروقی، عفونت)؛ Malformation = خطای ذاتی مورفوژنز (مثل شکاف کام)؛ Deformation = فشار مکانیکی بر اندام طبیعی (پوزیشن رحمی، اولیگوهیدرآمنیوس)؛ Dysplasia = سازمان‌دهی غیرطبیعی بافت (استخوان‌دیسپلازی).",
+      "level2": "درسنامه: سیستم طبقه‌بندی ناهنجاری‌ها (سوالات مفهومی-تعریفی): — Malformation (به‌دنيا: کام، قلب، مزرعه)؛ الگوی وراثت مندلی/چندعاملی دارد؛ مثال‌ها: CHD، cleft lip/palate، NTD. — Disruption: عامل خارجی روی بافت سالم؛ مثال‌ها: amniotic band sequence (لب/انگشت/جدار شکم)، limb-body wall،的双 twin disruption (TRAP). — Deformation: قابل برگشت پس از زایمان؛ مثال: ارتودکسی پای meta adductus، plagiocephaly پوزیشنال؛ علل: اولیگوهیدرآمنیوس، چندقلو، رحم مال‌فرم. — Dysplasia: ناهماهنگی بافتی؛ استخوان dysplasiaها (osteogenesis imperfecta=collagen؛ thanatophoric=FGFR3)، overgrowth syndromes. — Sequence/Cascade: یک عارضه اولیه → مجموعه ثانویه (Robin sequence: فک کوچک → گلوژز ← کام)؛ Potter sequence (اولیگوهیدرآمنیوس ← هیپوپلازی ریوی + چهره + اندام). — Association (VACTERL، CHARGE قبلاً؛ MURCS): تجمع غیرتصادفی بدون الگوی مندلی شفاف؛ برخلاف syndrome که الگوی واحد علت دارد (مثل Down). — کاربرد بالینی: برای ریسک تکرار: malformation ژنتیک؛ disruption ریسک ناچیز؛ deformation ریسک ناچیز."
+    },
+    {
+      "id": "em09-9", "topic": "اپی‌ژنتیک و رشد", "difficulty": "medium",
+      "stem": "بازنویسی اپی‌ژنومی (epigenetic reprogramming) در گامت‌زایی و پیش‌لانه‌ای چه زمانی و با چه اهمیتی رخ می‌دهد؟",
+      "options": ["فقط در بلوغ؛ بدون اهمیت بالینی", "دو موج پاک‌سازی-بازنویسی متیلاسیون: در گامت‌های در حال بلوغ و در پس‌لانه‌های اولیه (~E7-11 انسان)؛ برای بازنشانی ایمپرینت‌ها و پتانسیل تمام‌توان سلولی حیاتی است", "پس از تولد؛ فقط سرطان مرتبط", "مختص بافت مغز"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. دو موج reprogramming: (۱) در گامت‌زایی، ایمپرینت‌های والدین پاک و بر اساس جنس فرد بازنویسی می‌شوند؛ (۲) در زیگوت/پیش‌لانه‌ها، متیلاسیون سراسری پاک و دوباره برقرار می‌شود (به‌جز ایمپرینت‌های حفظ‌شده)؛ این پاک‌سازی پتانسیل پلوری‌پوتنسی را بازیابی می‌کند.",
+      "level2": "درسنامه: اپی‌ژنتیک رشد — نکات آزمونی: — Imprinting reset در هر نسل: خط ژرمی؛ خطاهای ART؟ (بحث Beckwith/Russell-Silver و imprinting مرکز؛ شواهد متناقض)؛ هایپرمتیلاسیون در ICSI؟. — Waves: پاک‌سازی پس از لقاح در پیش‌لانه (تقسیم‌های اولیه، به‌جز imprinted و برخی retroelements)؛ de novo methylation بعد از کاشت با DNMT3A/3B؛ این اساس تکنولوژی‌های کلونینگ/IPS است (چرا nuclear transfer سخت بود؛ چرا Yamanaka factors باید reprogramming بکنند). — بیماری‌های اپی‌ژنتیکی رشدی: BWS/RSS (11p15)، PWS/AS، transient neonatal diabetes (6q24 و LOM/GOM)، pseudohypoparathyroidism type 1A/GNAS imprinting. — ارتباط با سرطان: loss of imprinting (LOI) IGF2 در ویلسمز و کولورکتال؛ CIMP. — تله آزمونی: «میرایی صفات اکتسابی» — epimutations می‌توانند transgenerational به‌صورت نادر منتقل شوند اما معمولاً هر نسل reset می‌شود."
+    },
+    {
+      "id": "em09-10", "topic": "رشد اندام", "difficulty": "medium",
+      "stem": "در مدل رشد اندام (limb)، ناحیه ZPA با ترشح کدام مولکول، قطبیت قدامی-خلفی (شست تا خردشت) را تعیین می‌کند؟",
+      "options": ["FGF8", "Sonic hedgehog (SHH)", "WNT7a", "BMP4"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. ZPA (zone of polarizing activity) در لبه خلفی جوانه اندام SHH ترشح می‌کند و گرادیان آن قطبیت انگشتان (قدامی-خلفی) را می‌سازد؛ FGF در AER رشد پروگزیمودستال؛ WNT7a (لبه ظهری) قطبیت پشتی-شکمی و LMX1B. جهش‌ها: polydactyly و syndactyly.",
+      "level2": "درسنامه: مدل سه‌محوره رشد اندام (کلیشه سوالات رشد): — محور P-D (proximodistal): AER (apical ectodermal ridge) با FGF8/FGF4؛ حذف AER → اندام کوتاه؛ FGF قاعدگی نقش therapy در achondroplasia (vosoritib؟ نه؛ C-natriuretic peptide — vosoritib NPR2) — نکته تلفیقی دارویی. — محور A-P: ZPA/SHH؛ تکروداکتیلی گویی؟ triphalangeal thumb (ZRS جهش SHH enhancer؛ پیش‌آینده preaxial polydactyly). — محور D-V: WNT7a → LMX1B (نقچ: LMX1B → nail-patella syndrome). — پایان رشد/مرگ سلولی بین انگشتان: BMP (نقش‌ها)؛ مهار BMP → syndactyly. — کاربرد بالینی مشتق: از این محورها داروها: palovarotene (RARγ) برای FOP مهار HOX؟، meclofenamate؟ — مفاهیم مرتبط آزمون: polydactyly postaxial در BBS/MKS/GLI3؛ preaxial در Holt-Oram (TBX5) و ZRS. جمع‌بندی: حفظ نقشه سه‌محوره + ژن‌ها = پاسخ سریع سوالات اندام."
+    }
+  ]
+}

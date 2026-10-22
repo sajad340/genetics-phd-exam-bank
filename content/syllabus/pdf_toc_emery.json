@@ -1,0 +1,1737 @@
+[
+ [
+  1,
+  "Title page",
+  2
+ ],
+ [
+  1,
+  "Table of Contents",
+  4
+ ],
+ [
+  1,
+  "Copyright",
+  24
+ ],
+ [
+  1,
+  "Preface",
+  26
+ ],
+ [
+  1,
+  "Acknowledgments",
+  28
+ ],
+ [
+  1,
+  "Dedication",
+  29
+ ],
+ [
+  1,
+  "1. The History and Impact of Genetics in Medicine",
+  30
+ ],
+ [
+  2,
+  "Abstract",
+  31
+ ],
+ [
+  2,
+  "Gregor Mendel and the Laws of Inheritance",
+  33
+ ],
+ [
+  2,
+  "DNA as the Basis of Inheritance",
+  43
+ ],
+ [
+  2,
+  "The Fruit Fly",
+  45
+ ],
+ [
+  2,
+  "The Origins of Medical Genetics",
+  46
+ ],
+ [
+  2,
+  "Major New Developments",
+  56
+ ],
+ [
+  2,
+  "The Societal Impact of Advances in Genetics",
+  62
+ ],
+ [
+  2,
+  "Databases",
+  64
+ ],
+ [
+  2,
+  "Further Reading",
+  65
+ ],
+ [
+  1,
+  "Section A: The Scientific Basis of Human Genetics",
+  67
+ ],
+ [
+  2,
+  "2. The Cellular and Molecular Basis of Inheritance",
+  68
+ ],
+ [
+  3,
+  "Abstract",
+  69
+ ],
+ [
+  3,
+  "The Cell",
+  71
+ ],
+ [
+  3,
+  "DNA: The Hereditary Material",
+  73
+ ],
+ [
+  3,
+  "Chromosome Structure",
+  77
+ ],
+ [
+  3,
+  "Types of DNA Sequence",
+  78
+ ],
+ [
+  3,
+  "Transcription",
+  87
+ ],
+ [
+  3,
+  "Translation",
+  90
+ ],
+ [
+  3,
+  "The Genetic Code",
+  92
+ ],
+ [
+  3,
+  "Regulation of Gene Expression",
+  94
+ ],
+ [
+  3,
+  "RNA-Directed DNA Synthesis",
+  97
+ ],
+ [
+  3,
+  "Mutations",
+  98
+ ],
+ [
+  3,
+  "Mutations and Mutagenesis",
+  109
+ ],
+ [
+  3,
+  "Further Reading",
+  115
+ ],
+ [
+  2,
+  "3. Chromosomes and Cell Division",
+  117
+ ],
+ [
+  3,
+  "Abstract",
+  118
+ ],
+ [
+  3,
+  "Human Chromosomes",
+  121
+ ],
+ [
+  3,
+  "Methods of Chromosome Analysis",
+  127
+ ],
+ [
+  3,
+  "Molecular Cytogenetics",
+  132
+ ],
+ [
+  3,
+  "Chromosome Nomenclature",
+  135
+ ],
+ [
+  3,
+  "Cell Division",
+  139
+ ],
+ [
+  3,
+  "Gametogenesis",
+  149
+ ],
+ [
+  3,
+  "Chromosome Abnormalities",
+  152
+ ],
+ [
+  3,
+  "Further Reading",
+  182
+ ],
+ [
+  2,
+  "4. Finding the Cause of Monogenic Disorders by Identifying Disease Genes",
+  183
+ ],
+ [
+  3,
+  "Position-Independent Identification of Human Disease Genes",
+  186
+ ],
+ [
+  3,
+  "Positional Cloning",
+  188
+ ],
+ [
+  3,
+  "The Human Genome Project",
+  194
+ ],
+ [
+  3,
+  "Identifying the Genetic Etiology of Monogenic Disorders by Next-Generation Sequencing",
+  199
+ ],
+ [
+  3,
+  "Further Reading",
+  206
+ ],
+ [
+  2,
+  "5. Laboratory Techniques for Diagnosis of Monogenic Disorders",
+  208
+ ],
+ [
+  3,
+  "Abstract",
+  209
+ ],
+ [
+  3,
+  "Polymerase Chain Reaction",
+  211
+ ],
+ [
+  3,
+  "Application of DNA Sequence Polymorphisms",
+  214
+ ],
+ [
+  3,
+  "Nucleic Acid Hybridization Techniques",
+  221
+ ],
+ [
+  3,
+  "Mutation Detection",
+  227
+ ],
+ [
+  3,
+  "Sequencing-Based Methods",
+  233
+ ],
+ [
+  3,
+  "Dosage Analysis",
+  240
+ ],
+ [
+  3,
+  "Genome Sequencing as a Clinical Diagnostic Test",
+  248
+ ],
+ [
+  3,
+  "Further Reading",
+  251
+ ],
+ [
+  2,
+  "6. Patterns of Inheritance",
+  252
+ ],
+ [
+  3,
+  "Abstract",
+  253
+ ],
+ [
+  3,
+  "Family Studies",
+  254
+ ],
+ [
+  3,
+  "Mendelian Inheritance",
+  256
+ ],
+ [
+  3,
+  "Multiple Alleles and Complex Traits",
+  288
+ ],
+ [
+  3,
+  "Anticipation",
+  290
+ ],
+ [
+  3,
+  "Mosaicism",
+  293
+ ],
+ [
+  3,
+  "Uniparental Disomy",
+  295
+ ],
+ [
+  3,
+  "Genomic Imprinting",
+  297
+ ],
+ [
+  3,
+  "Mitochondrial Inheritance",
+  308
+ ],
+ [
+  3,
+  "Further Reading",
+  313
+ ],
+ [
+  2,
+  "7. Population and Mathematical Genetics",
+  315
+ ],
+ [
+  3,
+  "Abstract",
+  316
+ ],
+ [
+  3,
+  "Allele Frequencies in Populations",
+  318
+ ],
+ [
+  3,
+  "Genetic Polymorphism",
+  334
+ ],
+ [
+  3,
+  "Segregation Analysis",
+  335
+ ],
+ [
+  3,
+  "Genetic Linkage",
+  337
+ ],
+ [
+  3,
+  "Medical and Societal Intervention",
+  347
+ ],
+ [
+  3,
+  "Conclusion",
+  350
+ ],
+ [
+  3,
+  "Further Reading",
+  352
+ ],
+ [
+  2,
+  "8. Risk Calculation",
+  354
+ ],
+ [
+  3,
+  "Abstract",
+  355
+ ],
+ [
+  3,
+  "Probability Theory",
+  357
+ ],
+ [
+  3,
+  "Autosomal Dominant Inheritance",
+  361
+ ],
+ [
+  3,
+  "Autosomal Recessive Inheritance",
+  368
+ ],
+ [
+  3,
+  "X-Linked Recessive Inheritance",
+  373
+ ],
+ [
+  3,
+  "The Use of Linked Markers",
+  377
+ ],
+ [
+  3,
+  "Bayes’ Theorem and Prenatal Screening",
+  379
+ ],
+ [
+  3,
+  "Empiric Risks",
+  381
+ ],
+ [
+  3,
+  "Further Reading",
+  388
+ ],
+ [
+  2,
+  "9. Developmental Genetics",
+  389
+ ],
+ [
+  3,
+  "Abstract",
+  390
+ ],
+ [
+  3,
+  "Fertilization and Gastrulation",
+  394
+ ],
+ [
+  3,
+  "Developmental Gene Families",
+  397
+ ],
+ [
+  3,
+  "The Pharyngeal Arches",
+  432
+ ],
+ [
+  3,
+  "The Role of Cilia in Developmental Abnormalities",
+  437
+ ],
+ [
+  3,
+  "The Limb as a Developmental Model",
+  442
+ ],
+ [
+  3,
+  "Developmental Genes and Cancer",
+  445
+ ],
+ [
+  3,
+  "Positional Effects and Developmental Genes",
+  448
+ ],
+ [
+  3,
+  "Hydatidiform Moles",
+  449
+ ],
+ [
+  3,
+  "Epigenetics and Development",
+  451
+ ],
+ [
+  3,
+  "Sex Determination and Disorders of Sex Development",
+  459
+ ],
+ [
+  3,
+  "Twinning",
+  471
+ ],
+ [
+  3,
+  "Further Reading",
+  477
+ ],
+ [
+  1,
+  "Section B: Genetics in Medicine and Genomic Medicine",
+  479
+ ],
+ [
+  2,
+  "10. Common Disease, Polygenic, and Multifactorial Genetics",
+  480
+ ],
+ [
+  3,
+  "Types and Mechanisms of Genetic Susceptibility",
+  484
+ ],
+ [
+  3,
+  "Approaches to Demonstrating Genetic Susceptibility to Common Diseases",
+  486
+ ],
+ [
+  3,
+  "Polygenic Inheritance and the Normal Distribution",
+  490
+ ],
+ [
+  3,
+  "Multifactorial Inheritance—the Liability/Threshold Model",
+  495
+ ],
+ [
+  3,
+  "Identifying Genes That Cause Multifactorial Disorders",
+  500
+ ],
+ [
+  3,
+  "Polygenic Risk Scores",
+  508
+ ],
+ [
+  3,
+  "Disease Models for Multifactorial Inheritance",
+  512
+ ],
+ [
+  3,
+  "Further Reading",
+  529
+ ],
+ [
+  2,
+  "11. Screening for Genetic Disease",
+  531
+ ],
+ [
+  3,
+  "Abstract",
+  533
+ ],
+ [
+  3,
+  "Screening Those at High Risk",
+  535
+ ],
+ [
+  3,
+  "Carrier Testing for Autosomal Recessive and X-Linked Disorders",
+  536
+ ],
+ [
+  3,
+  "Presymptomatic Diagnosis of Autosomal Dominant Disorders",
+  541
+ ],
+ [
+  3,
+  "Ethical Considerations in Carrier Detection and Predictive Testing",
+  547
+ ],
+ [
+  3,
+  "Population Screening",
+  549
+ ],
+ [
+  3,
+  "Criteria for a Screening Program",
+  551
+ ],
+ [
+  3,
+  "Prenatal and Postnatal Screening",
+  555
+ ],
+ [
+  3,
+  "Population Carrier Screening",
+  563
+ ],
+ [
+  3,
+  "Genetic Registers",
+  567
+ ],
+ [
+  3,
+  "Further Reading",
+  571
+ ],
+ [
+  3,
+  "Websites",
+  572
+ ],
+ [
+  2,
+  "12. Hemoglobin and the Hemoglobinopathies",
+  573
+ ],
+ [
+  3,
+  "Abstract",
+  575
+ ],
+ [
+  3,
+  "Structure of Hemoglobin",
+  577
+ ],
+ [
+  3,
+  "Developmental Expression of Hemoglobin",
+  580
+ ],
+ [
+  3,
+  "Globin Chain Structure",
+  582
+ ],
+ [
+  3,
+  "Synthesis and Control of Hemoglobin Expression",
+  586
+ ],
+ [
+  3,
+  "Disorders of Hemoglobin",
+  587
+ ],
+ [
+  3,
+  "Clinical Variation of the Hemoglobinopathies",
+  604
+ ],
+ [
+  3,
+  "Antenatal and Newborn Hemoglobinopathy Screening",
+  606
+ ],
+ [
+  3,
+  "Further Reading",
+  609
+ ],
+ [
+  3,
+  "Websites",
+  610
+ ],
+ [
+  2,
+  "13. Immunogenetics",
+  611
+ ],
+ [
+  3,
+  "Abstract",
+  613
+ ],
+ [
+  3,
+  "Immunity",
+  614
+ ],
+ [
+  3,
+  "Innate Immunity",
+  615
+ ],
+ [
+  3,
+  "Specific Acquired Immunity",
+  624
+ ],
+ [
+  3,
+  "Inherited Immunodeficiency Disorders",
+  639
+ ],
+ [
+  3,
+  "Blood Groups",
+  651
+ ],
+ [
+  3,
+  "Further Reading",
+  657
+ ],
+ [
+  2,
+  "14. The Genetics of Cancer…and Cancer Genetics",
+  658
+ ],
+ [
+  3,
+  "Abstract",
+  660
+ ],
+ [
+  3,
+  "Differentiation Between Genetic and Environmental Factors in Cancer",
+  664
+ ],
+ [
+  3,
+  "Oncogenes",
+  670
+ ],
+ [
+  3,
+  "Tumor Suppressor Genes",
+  685
+ ],
+ [
+  3,
+  "Epigenetics and Cancer",
+  695
+ ],
+ [
+  3,
+  "Genetics of Common Cancers",
+  700
+ ],
+ [
+  3,
+  "DNA Tumor Profiling, Mutational Signatures, and Tumor Mutational Burden",
+  704
+ ],
+ [
+  3,
+  "Inherited Cancer Syndromes",
+  712
+ ],
+ [
+  3,
+  "Genetic Counseling in Familial Cancer",
+  725
+ ],
+ [
+  3,
+  "Screening for Familial Cancer",
+  731
+ ],
+ [
+  3,
+  "What Treatment Is Appropriate?",
+  738
+ ],
+ [
+  3,
+  "Further Reading",
+  742
+ ],
+ [
+  2,
+  "15. Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease",
+  745
+ ],
+ [
+  3,
+  "Pharmacogenomics",
+  747
+ ],
+ [
+  3,
+  "Drug Metabolism",
+  749
+ ],
+ [
+  3,
+  "Genetic Variations Revealed by the Effects of Drugs",
+  755
+ ],
+ [
+  3,
+  "Precision Medicine",
+  761
+ ],
+ [
+  3,
+  "Treatment of Genetic Disease",
+  769
+ ],
+ [
+  3,
+  "Therapeutic Applications of Recombinant DNA Technology",
+  777
+ ],
+ [
+  3,
+  "Gene Therapy",
+  779
+ ],
+ [
+  3,
+  "RNA Modification",
+  790
+ ],
+ [
+  3,
+  "Targeted Gene Correction",
+  794
+ ],
+ [
+  3,
+  "Stem Cell Therapy",
+  795
+ ],
+ [
+  3,
+  "Further Reading",
+  803
+ ],
+ [
+  1,
+  "Section C: Clinical Genetics, Counseling, and Ethics",
+  805
+ ],
+ [
+  2,
+  "16. Congenital Abnormalities, Dysmorphic Syndromes, and Intellectual Disability",
+  806
+ ],
+ [
+  3,
+  "Abstract",
+  808
+ ],
+ [
+  3,
+  "Incidence",
+  810
+ ],
+ [
+  3,
+  "Definition and Classification of Birth Defects",
+  814
+ ],
+ [
+  3,
+  "Genetic Causes of Malformations",
+  827
+ ],
+ [
+  3,
+  "Environmental Agents (Teratogens)",
+  847
+ ],
+ [
+  3,
+  "Malformations of Unknown Cause",
+  858
+ ],
+ [
+  3,
+  "Counseling",
+  861
+ ],
+ [
+  3,
+  "Intellectual Disability",
+  862
+ ],
+ [
+  3,
+  "Further Reading",
+  888
+ ],
+ [
+  2,
+  "17. Chromosome Disorders",
+  889
+ ],
+ [
+  3,
+  "Abstract",
+  891
+ ],
+ [
+  3,
+  "Incidence of Chromosome Abnormalities",
+  893
+ ],
+ [
+  3,
+  "Disorders of the Sex Chromosomes",
+  906
+ ],
+ [
+  3,
+  "“Classic” Chromosome Deletion Syndromes",
+  919
+ ],
+ [
+  3,
+  "Chromosome Microarray/Microarray-Comparative Genomic Hybridization",
+  929
+ ],
+ [
+  3,
+  "Chromosome Disorders and Behavioral Phenotypes",
+  952
+ ],
+ [
+  3,
+  "Chromosome Breakage Syndromes",
+  953
+ ],
+ [
+  3,
+  "Indications for Chromosome Microarray Analysis",
+  960
+ ],
+ [
+  3,
+  "Further Reading",
+  966
+ ],
+ [
+  2,
+  "18. Inborn Errors of Metabolism",
+  967
+ ],
+ [
+  3,
+  "Abstract",
+  969
+ ],
+ [
+  3,
+  "Disorders of Amino Acid and Peptide Metabolism",
+  974
+ ],
+ [
+  3,
+  "Disorders of Carbohydrate Metabolism",
+  985
+ ],
+ [
+  3,
+  "Disorders of Steroid Metabolism",
+  989
+ ],
+ [
+  3,
+  "Disorders of Lipid and Lipoprotein Metabolism",
+  993
+ ],
+ [
+  3,
+  "Lysosomal Storage Disorders",
+  996
+ ],
+ [
+  3,
+  "Disorders in the Metabolism of Purines, Pyrimidines, and Nucleotides",
+  1004
+ ],
+ [
+  3,
+  "Disorders of Porphyrin and Heme Metabolism",
+  1006
+ ],
+ [
+  3,
+  "Disorders in the Metabolism of Trace Elements and Metals",
+  1009
+ ],
+ [
+  3,
+  "Peroxisomal Disorders",
+  1012
+ ],
+ [
+  3,
+  "Disorders of Fatty Acid and Ketone Body Metabolism",
+  1016
+ ],
+ [
+  3,
+  "Disorders of Energy Metabolism",
+  1018
+ ],
+ [
+  3,
+  "Prenatal Diagnosis of Inborn Errors of Metabolism",
+  1023
+ ],
+ [
+  3,
+  "Further Reading",
+  1026
+ ],
+ [
+  2,
+  "19. Mainstream Monogenic Disorders",
+  1027
+ ],
+ [
+  3,
+  "Abstract",
+  1029
+ ],
+ [
+  3,
+  "Neurological Disorders",
+  1030
+ ],
+ [
+  3,
+  "CADASIL and Early-Onset Dementia",
+  1035
+ ],
+ [
+  3,
+  "Inherited Peripheral Neuropathies",
+  1041
+ ],
+ [
+  3,
+  "Motor Neurone Disease",
+  1052
+ ],
+ [
+  3,
+  "Neurocutaneous Disorders",
+  1054
+ ],
+ [
+  3,
+  "Muscular Dystrophies",
+  1065
+ ],
+ [
+  3,
+  "Respiratory Disorders",
+  1084
+ ],
+ [
+  3,
+  "Inherited Cardiac Conditions",
+  1095
+ ],
+ [
+  3,
+  "Connective Tissue Disorders",
+  1101
+ ],
+ [
+  3,
+  "Renal Disorders",
+  1117
+ ],
+ [
+  3,
+  "Blood Disorders",
+  1129
+ ],
+ [
+  3,
+  "Further Reading",
+  1140
+ ],
+ [
+  2,
+  "20. Prenatal Testing and Reproductive Genetics",
+  1142
+ ],
+ [
+  3,
+  "Abstract",
+  1144
+ ],
+ [
+  3,
+  "Techniques Used in Prenatal Diagnosis",
+  1145
+ ],
+ [
+  3,
+  "Antenatal and Prenatal Screening",
+  1155
+ ],
+ [
+  3,
+  "Indications for Prenatal Testing",
+  1168
+ ],
+ [
+  3,
+  "Special Problems in Prenatal Diagnosis",
+  1173
+ ],
+ [
+  3,
+  "Termination of Pregnancy",
+  1179
+ ],
+ [
+  3,
+  "Preimplantation Genetic Diagnosis",
+  1180
+ ],
+ [
+  3,
+  "Assisted Conception and Implications for Genetic Disease",
+  1184
+ ],
+ [
+  3,
+  "Prenatal Treatment",
+  1191
+ ],
+ [
+  3,
+  "Further Reading",
+  1195
+ ],
+ [
+  2,
+  "21. Genetic Counseling",
+  1198
+ ],
+ [
+  3,
+  "Abstract",
+  1200
+ ],
+ [
+  3,
+  "Definition",
+  1202
+ ],
+ [
+  3,
+  "Establishing the Diagnosis",
+  1203
+ ],
+ [
+  3,
+  "Calculating and Presenting the Risk",
+  1207
+ ],
+ [
+  3,
+  "Discussing the Options",
+  1209
+ ],
+ [
+  3,
+  "Communication and Support",
+  1210
+ ],
+ [
+  3,
+  "Genetic Counseling—Directive or Non-directive?",
+  1212
+ ],
+ [
+  3,
+  "Outcomes in Genetic Counseling",
+  1213
+ ],
+ [
+  3,
+  "Special Issues in Genetic Counseling",
+  1215
+ ],
+ [
+  3,
+  "Further Reading",
+  1224
+ ],
+ [
+  2,
+  "22. Ethical and Legal Issues in Medical Genetics",
+  1226
+ ],
+ [
+  3,
+  "Abstract",
+  1228
+ ],
+ [
+  3,
+  "General Principles",
+  1231
+ ],
+ [
+  3,
+  "Ethical Dilemmas in the Genetics Clinic",
+  1239
+ ],
+ [
+  3,
+  "Ethical Dilemmas and the Public Interest",
+  1250
+ ],
+ [
+  3,
+  "Conclusion",
+  1259
+ ],
+ [
+  3,
+  "Further Reading",
+  1262
+ ],
+ [
+  1,
+  "Glossary",
+  1267
+ ],
+ [
+  1,
+  "Appendix: Websites and Clinical Databases",
+  1341
+ ],
+ [
+  2,
+  "General Genetic Websites",
+  1342
+ ],
+ [
+  2,
+  "Human Genome Websites",
+  1344
+ ],
+ [
+  2,
+  "Molecular Genetics Websites",
+  1346
+ ],
+ [
+  2,
+  "Cytogenetics Websites",
+  1347
+ ],
+ [
+  2,
+  "Educational Human Genetics Websites",
+  1348
+ ],
+ [
+  2,
+  "Human Genetics Societies",
+  1349
+ ],
+ [
+  2,
+  "Clinical Databases",
+  1350
+ ],
+ [
+  2,
+  "Other Resources",
+  1351
+ ],
+ [
+  1,
+  "Multiple-Choice Questions",
+  1352
+ ],
+ [
+  2,
+  "CHAPTER 2: The Cellular and Molecular Basis of Inheritance",
+  1353
+ ],
+ [
+  2,
+  "CHAPTER 3: Chromosomes and Cell Division",
+  1354
+ ],
+ [
+  2,
+  "CHAPTER 4: Finding the Cause of Monogenic Disorders by Identifying Disease Genes",
+  1356
+ ],
+ [
+  2,
+  "CHAPTER 5: Laboratory Techniques for Diagnosis of Monogenic Disorders",
+  1357
+ ],
+ [
+  2,
+  "CHAPTER 6: Patterns of Inheritance",
+  1358
+ ],
+ [
+  2,
+  "CHAPTER 7: Population and Mathematical Genetics",
+  1360
+ ],
+ [
+  2,
+  "CHAPTER 8: Risk Calculation",
+  1362
+ ],
+ [
+  2,
+  "CHAPTER 9: Developmental Genetics",
+  1364
+ ],
+ [
+  2,
+  "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics",
+  1366
+ ],
+ [
+  2,
+  "CHAPTER 11: Screening for Genetic Disease",
+  1368
+ ],
+ [
+  2,
+  "CHAPTER 12: Hemoglobin and the Hemoglobinopathies",
+  1370
+ ],
+ [
+  2,
+  "CHAPTER 13: Immunogenetics",
+  1372
+ ],
+ [
+  2,
+  "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics",
+  1374
+ ],
+ [
+  2,
+  "CHAPTER 15: Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease",
+  1376
+ ],
+ [
+  2,
+  "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  1378
+ ],
+ [
+  2,
+  "CHAPTER 17: Chromosome Disorders",
+  1380
+ ],
+ [
+  2,
+  "CHAPTER 18: Inborn Errors of Metabolism",
+  1382
+ ],
+ [
+  2,
+  "CHAPTER 19: Mainstream Monogenic Disorders",
+  1384
+ ],
+ [
+  2,
+  "CHAPTER 20: Prenatal Testing and Reproductive Genetics",
+  1386
+ ],
+ [
+  2,
+  "CHAPTER 21: Genetic Counseling",
+  1388
+ ],
+ [
+  1,
+  "Case-Based Questions",
+  1390
+ ],
+ [
+  2,
+  "CHAPTER 6: Patterns of Inheritance",
+  1391
+ ],
+ [
+  2,
+  "CHAPTER 7: Population and Mathematical Genetics",
+  1393
+ ],
+ [
+  2,
+  "CHAPTER 8: Risk Calculation",
+  1394
+ ],
+ [
+  2,
+  "CHAPTER 9: Developmental Genetics",
+  1395
+ ],
+ [
+  2,
+  "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics",
+  1397
+ ],
+ [
+  2,
+  "CHAPTER 11: Screening for Genetic Disease",
+  1399
+ ],
+ [
+  2,
+  "CHAPTER 12: Hemoglobin and the Hemoglobinopathies",
+  1400
+ ],
+ [
+  2,
+  "CHAPTER 13: Immunogenetics",
+  1401
+ ],
+ [
+  2,
+  "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics",
+  1402
+ ],
+ [
+  2,
+  "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  1404
+ ],
+ [
+  2,
+  "CHAPTER 17: Chromosome Disorders",
+  1406
+ ],
+ [
+  2,
+  "CHAPTER 18: Inborn Errors of Metabolism",
+  1408
+ ],
+ [
+  2,
+  "CHAPTER 19: Mainstream Monogenic Disorders",
+  1410
+ ],
+ [
+  2,
+  "CHAPTER 20: Prenatal Testing and Reproductive Genetics",
+  1412
+ ],
+ [
+  2,
+  "CHAPTER 21: Genetic Counseling",
+  1414
+ ],
+ [
+  1,
+  "Multiple-Choice Answers",
+  1415
+ ],
+ [
+  2,
+  "CHAPTER 2: The Cellular and Molecular Basis of Inheritance",
+  1416
+ ],
+ [
+  2,
+  "CHAPTER 3: Chromosomes and Cell Division",
+  1418
+ ],
+ [
+  2,
+  "CHAPTER 4: Finding the Cause of Monogenic Disorders by Identifying Disease Genes",
+  1420
+ ],
+ [
+  2,
+  "CHAPTER 5: Laboratory Techniques for Diagnosis of Monogenic Disorders",
+  1422
+ ],
+ [
+  2,
+  "CHAPTER 6: Patterns of Inheritance",
+  1424
+ ],
+ [
+  2,
+  "CHAPTER 7: Population and Mathematical Genetics",
+  1426
+ ],
+ [
+  2,
+  "CHAPTER 8: Risk Calculation",
+  1428
+ ],
+ [
+  2,
+  "CHAPTER 9: Developmental Genetics",
+  1430
+ ],
+ [
+  2,
+  "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics",
+  1432
+ ],
+ [
+  2,
+  "CHAPTER 11: Screening for Genetic Disease",
+  1434
+ ],
+ [
+  2,
+  "CHAPTER 12: Hemoglobin and the Hemoglobinopathies",
+  1436
+ ],
+ [
+  2,
+  "CHAPTER 13: Immunogenetics",
+  1438
+ ],
+ [
+  2,
+  "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics",
+  1440
+ ],
+ [
+  2,
+  "CHAPTER 15: Pharmacogenomics, Precision Medicine, and the Treatment of Genetic Disease",
+  1442
+ ],
+ [
+  2,
+  "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  1445
+ ],
+ [
+  2,
+  "CHAPTER 17: Chromosome Disorders",
+  1447
+ ],
+ [
+  2,
+  "CHAPTER 18: Inborn Errors of Metabolism",
+  1449
+ ],
+ [
+  2,
+  "CHAPTER 19: Mainstream Monogenic Disorders",
+  1451
+ ],
+ [
+  2,
+  "CHAPTER 20: Prenatal Testing and Reproductive Genetics",
+  1453
+ ],
+ [
+  2,
+  "CHAPTER 21: Genetic Counseling",
+  1455
+ ],
+ [
+  1,
+  "Case-Based Answers and Discussion",
+  1457
+ ],
+ [
+  2,
+  "CHAPTER 6: Patterns of Inheritance",
+  1458
+ ],
+ [
+  2,
+  "CHAPTER 7: Population and Mathematical Genetics",
+  1460
+ ],
+ [
+  2,
+  "CHAPTER 8: Risk Calculation",
+  1461
+ ],
+ [
+  2,
+  "CHAPTER 9: Developmental Genetics",
+  1463
+ ],
+ [
+  2,
+  "CHAPTER 10: Common Disease, Polygenic, and Multifactorial Genetics",
+  1465
+ ],
+ [
+  2,
+  "CHAPTER 11: Screening for Genetic Disease",
+  1468
+ ],
+ [
+  2,
+  "CHAPTER 12: Hemoglobin and the Hemoglobinopathies",
+  1469
+ ],
+ [
+  2,
+  "CHAPTER 13: Immunogenetics",
+  1471
+ ],
+ [
+  2,
+  "CHAPTER 14: The Genetics of Cancer … and Cancer Genetics",
+  1472
+ ],
+ [
+  2,
+  "CHAPTER 16: Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  1474
+ ],
+ [
+  2,
+  "CHAPTER 17: Chromosome Disorders",
+  1476
+ ],
+ [
+  2,
+  "CHAPTER 18: Inborn Errors of Metabolism",
+  1478
+ ],
+ [
+  2,
+  "CHAPTER 19: Mainstream Monogenic Disorders",
+  1480
+ ],
+ [
+  2,
+  "CHAPTER 20: Prenatal Testing and Reproductive Genetics",
+  1482
+ ],
+ [
+  2,
+  "CHAPTER 21: Genetic Counseling",
+  1484
+ ],
+ [
+  1,
+  "Clinical Scenario Answers and Discussion",
+  1486
+ ],
+ [
+  2,
+  "Chapter 6",
+  1487
+ ],
+ [
+  2,
+  "Chapter 8",
+  1489
+ ],
+ [
+  2,
+  "Chapter 9",
+  1490
+ ],
+ [
+  2,
+  "Chapter 11",
+  1493
+ ],
+ [
+  2,
+  "Chapter 12",
+  1495
+ ],
+ [
+  2,
+  "Chapter 13",
+  1499
+ ],
+ [
+  2,
+  "Chapter 14",
+  1502
+ ],
+ [
+  2,
+  "Chapter 16",
+  1504
+ ],
+ [
+  2,
+  "Chapter 17",
+  1506
+ ],
+ [
+  2,
+  "Chapter 18",
+  1508
+ ],
+ [
+  2,
+  "Chapter 19",
+  1511
+ ],
+ [
+  2,
+  "Chapter 20",
+  1513
+ ],
+ [
+  2,
+  "Chapter 21",
+  1516
+ ],
+ [
+  2,
+  "Chapter 22",
+  1518
+ ],
+ [
+  1,
+  "Index",
+  1522
+ ]
+]

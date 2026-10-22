@@ -1,0 +1,332 @@
+{
+  "section_id": "english_readings_3",
+  "section_title_fa": "زبان تخصصی — بخش سوم: بیوپسی مایع، ژنومیکس جمعیتی، واکسن‌ها و هوش مصنوعی",
+  "readings": [
+    {
+      "id": "eng09",
+      "title": "Liquid Biopsy and Molecular Residual Disease",
+      "source": "بر اساس مقالات ۲۰۲۴-۲۰۲۶ درباره ctDNA و MRD",
+      "passage": "The term liquid biopsy refers to the analysis of tumor-derived molecules—most commonly circulating tumor DNA (ctDNA)—obtained from a simple blood draw rather than from an invasive tissue biopsy. ctDNA fragments, typically around 160 base pairs in length, enter the circulation through the apoptosis of tumor cells and can be detected by deeply sequencing plasma DNA. One of the most consequential applications is the assessment of molecular residual disease (MRD) after apparently curative surgery. Patients in whom ctDNA remains detectable postoperatively have a very high probability of radiographic relapse, often months before conventional imaging reveals any abnormality; conversely, patients who test negative have a substantially lower recurrence risk. This predictive window has encouraged adaptive treatment trials in which adjuvant chemotherapy is escalated for ctDNA-positive patients and de-escalated for ctDNA-negative patients, sparing many from unnecessary toxicity. Despite this promise, important constraints apply. Detection sensitivity depends on tumor burden, location, and shedding biology; certain tumors, notably some brain malignancies, release little DNA across the blood–brain barrier. Assays must be exquisitely specific, because clonal hematopoiesis of indeterminate potential (CHIP)—age-related expansion of mutated blood clones—frequently generates DNA variants in plasma that mimic tumor mutations and can cause false-positive results unless appropriately filtered. Standardization across laboratories remains incomplete, and guidelines accordingly recommend MRD testing within clinical trials or with careful counseling until prospective evidence matures.",
+      "vocab": [
+        ["liquid biopsy", "بیوپسی مایع؛ نمونه‌برداری خونی به‌جای بافت"],
+        ["circulating tumor DNA (ctDNA)", "DNA توموری گردان در پلاسما"],
+        ["apoptosis", "آپوپتوز؛ مرگ سلولی برنامه‌ریزی‌شده"],
+        ["molecular residual disease (MRD)", "بیماری باقیمانده مولکولی پس از درمان"],
+        ["adjuvant therapy", "درمان کمکی پس از جراحی"],
+        ["de-escalate", "کاهش‌دادن شدت درمان"],
+        ["clonal hematopoiesis (CHIP)", "خون‌سازی کلونال؛ کلون‌های جهش‌یافته خونی مرتبط با سن"],
+        ["false positive", "مثبت کاذب"]
+      ],
+      "questions": [
+        {
+          "q": "1. What is the typical length of ctDNA fragments mentioned in the passage?",
+          "options": ["about 60 base pairs", "about 160 base pairs", "about 1,600 base pairs", "about 16 base pairs"],
+          "answer_idx": 1,
+          "explanation": "«typically around 160 base pairs in length» — عدد مشخص؛ گزینه‌ها با جابه‌جایی اعشار طراحی شده‌اند.",
+          "tip": "اعداد را با دقت بخوانید؛ طراحان معمولاً ۰ اضافه یا کم می‌کنند (60/160/1600)."
+        },
+        {
+          "q": "2. Postoperative detection of ctDNA implies that:",
+          "options": [
+            "the patient is cured",
+            "relapse is very likely, often preceding radiographic evidence",
+            "imaging is no longer needed",
+            "the primary tumor was benign"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Patients in whom ctDNA remains detectable postoperatively have a very high probability of radiographic relapse, often months before conventional imaging reveals any abnormality» — MRD مثبت = پیش‌آگهی بد.",
+          "tip": "منطق MRD: ctDNA پس از جراحی = سلول توموری میکروسکوپی باقیمانده = عود آینده. این زنجیره را بدانید."
+        },
+        {
+          "q": "3. According to the passage, adaptive trials based on ctDNA results aim to:",
+          "options": [
+            "give the same chemotherapy to all patients",
+            "escalate treatment for ctDNA-positive and spare ctDNA-negative patients from unnecessary toxicity",
+            "replace surgery with sequencing",
+            "delay treatment until relapse appears on imaging"
+          ],
+          "answer_idx": 1,
+          "explanation": "«adjuvant chemotherapy is escalated for ctDNA-positive patients and de-escalated for ctDNA-negative patients, sparing many from unnecessary toxicity» — شخصی‌سازی درمان کمکی.",
+          "tip": "روان مطالب oncology دقیق: «adaptive/escalate/de-escalate» سه واژه کلیدی درمان شخصی‌شده‌اند."
+        },
+        {
+          "q": "4. Why does CHIP threaten the accuracy of liquid biopsy?",
+          "options": [
+            "it destroys ctDNA in the tube",
+            "it produces plasma variants that resemble tumor mutations, causing false positives",
+            "it lowers tumor shedding",
+            "it crosses the blood–brain barrier"
+          ],
+          "answer_idx": 1,
+          "explanation": "«clonal hematopoiesis ... frequently generates DNA variants in plasma that mimic tumor mutations and can cause false-positive results unless appropriately filtered» — تقلید از جهش تومور.",
+          "tip": "CHIP در سوالات اخیر همه‌جا هست: تعریف آن (کلون خونی جهش‌یافته وابسته سن) و مشکلش (مثبت کاذب) را یک‌جا حفظ کنید."
+        },
+        {
+          "q": "5. Which tumor type is noted as poorly suited to ctDNA detection?",
+          "options": ["breast cancer", "colorectal cancer", "some brain malignancies", "lung cancer"],
+          "answer_idx": 2,
+          "explanation": "«certain tumors, notably some brain malignancies, release little DNA across the blood–brain barrier» — سد خونی-مغزی مانع آزادسازی DNA است.",
+          "tip": "هرگز جواب‌ها را از دانش عمومی حدس نزنید؛ «brain/BBB» فقط به این دلیل در متن بود که سوژۀ سوال شود."
+        }
+      ]
+    },
+    {
+      "id": "eng10",
+      "title": "Polygenic Risk Scores in Population Screening",
+      "source": "بر اساس مقالات ۲۰۲۴-۲۰۲۶ درباره PRS و غربالگری ریسک‌محور",
+      "passage": "Genome-wide association studies have catalogued hundreds of common variants that individually exert tiny effects on disease susceptibility. A polygenic risk score (PRS) aggregates these effects into a single number that positions an individual along a continuum of inherited risk. For breast cancer, women in the top percentile of the score distribution face a several-fold higher lifetime risk than the population average, comparable in magnitude to some moderate-penetrance monogenic variants. This predictive capacity has fueled proposals for risk-stratified screening: women at high polygenic risk might begin mammography earlier or add annual magnetic resonance imaging, whereas women at low risk might safely delay the onset of screening, reducing overdiagnosis and conserving resources. Formidable obstacles, however, separate theory from implementation. The overwhelming majority of underlying association data derive from populations of European ancestry, and score performance degrades—sometimes dramatically—when applied to other ancestries, a problem known as reduced portability or transferability. Efforts to remedy this include multi-ancestry meta-analysis, larger local reference panels, and ancestry-specific score calibration, all of which require sustained international collaboration and data sharing. Additional concerns include limited communication of probabilistic results to patients, the potential for anxiety or false reassurance, and interactions with non-genetic risk factors such as mammographic density and hormonal exposures. Current guidelines therefore position PRS as an adjunct rather than a replacement for established risk models, pending evidence from prospective interventional studies that stratified screening improves outcomes without widening health inequities.",
+      "vocab": [
+        ["polygenic risk score (PRS)", "امتیاز ریسک پلی‌ژنیک"],
+        ["susceptibility", "حساسیت/مستعدبودن به بیماری"],
+        ["percentile", "صدک؛ موقعیت نسبی در توزیع"],
+        ["risk-stratified screening", "غربالگری طبقه‌بندی‌شده با ریسک"],
+        ["overdiagnosis", "تشخیص بیش‌ازحد بیماری‌های هرگز علامت‌دارنشدنی"],
+        ["portability/transferability", "انتقال‌پذیری؛ عملکرد مدل در جمعیت دیگر"],
+        ["calibration", "کالیبراسیون؛ تطبیق پیش‌بینی با ریسک واقعی"],
+        ["adjunct", "مکمل؛ ابزار کمکی در کنار روش اصلی"]
+      ],
+      "questions": [
+        {
+          "q": "1. A PRS is best described as:",
+          "options": [
+            "a diagnostic test for active disease",
+            "an aggregate of many small-effect variants summarizing inherited risk",
+            "a single gene sequencing result",
+            "a measurement of mammographic density"
+          ],
+          "answer_idx": 1,
+          "explanation": "«aggregates these effects into a single number that positions an individual along a continuum of inherited risk» — خلاصه‌ساز ریسک، نه تشخیص بیماری موجود.",
+          "tip": "PRS را با «رتبه‌بندی ریسک» ترجمه کنید نه «تشخیص» — گزینه‌های تشخیصی همیشه انحرافی‌اند."
+        },
+        {
+          "q": "2. In risk-stratified screening, women with low polygenic risk might:",
+          "options": [
+            "begin screening earlier than average",
+            "safely delay screening onset, reducing overdiagnosis",
+            "undergo annual MRI",
+            "receive prophylactic surgery"
+          ],
+          "answer_idx": 1,
+          "explanation": "«women at low risk might safely delay the onset of screening, reducing overdiagnosis and conserving resources» — منطق دو‌طرفه تخصیص منابع.",
+          "tip": "دو سمت طیف ریسک را جدول کنید: high → earlier/MRI؛ low → delay — سوال معمولاً یک سمت را می‌پرسد."
+        },
+        {
+          "q": "3. The term \"transferability\" refers to:",
+          "options": [
+            "the portability of laboratory equipment",
+            "how well a score performs when applied to ancestries other than those in which it was developed",
+            "the speed of sequencing",
+            "the ability to transfer patients between hospitals"
+          ],
+          "answer_idx": 1,
+          "explanation": "«score performance degrades ... when applied to other ancestries, a problem known as reduced portability or transferability» — تعریف داخل جمله.",
+          "tip": "مفاهیم bias/عدالت در ژنومیکس جمعیتی از موضوعات محبوب جدید است؛ تعریف transferability را حفظ کنید."
+        },
+        {
+          "q": "4. Which strategy is mentioned as a remedy for the ancestry problem?",
+          "options": [
+            "abandoning PRS entirely",
+            "multi-ancestry meta-analysis and ancestry-specific calibration",
+            "restricting PRS to men",
+            "ignoring non-genetic risk factors"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Efforts to remedy this include multi-ancestry meta-analysis, larger local reference panels, and ancestry-specific score calibration».",
+          "tip": "سوالات «solution/remedy»: جملات شامل Efforts to remedy/include را هدف بگیرید."
+        },
+        {
+          "q": "5. According to current guidelines mentioned in the passage, PRS should be regarded as:",
+          "options": ["a replacement for established risk models", "an adjunct to them", "a screening test for all newborns", "a tool only for researchers, never clinicians"],
+          "answer_idx": 1,
+          "explanation": "«position PRS as an adjunct rather than a replacement for established risk models» — همان ساختار X rather than Y.",
+          "tip": "adjunct = مکمل؛ در متون راهنمایی، وضعیت نوظهورها تقریباً همیشه «adjunct pending evidence» است."
+        }
+      ]
+    },
+    {
+      "id": "eng11",
+      "title": "Personalized Neoantigen Cancer Vaccines",
+      "source": "بر اساس فاز ۲b/۳ mRNA-4157 و پیشرفت‌های ۲۰۲۴-۲۰۲۶",
+      "passage": "Unlike infectious disease vaccines, which present identical antigens to an entire population, personalized cancer vaccines are manufactured for a single patient from the unique mutations of that patient's tumor. The workflow begins with whole-exome and RNA sequencing of tumor and normal tissue, followed by computational pipelines that nominate candidate neoantigens—mutated peptides predicted to bind the patient's human leukocyte antigen (HLA) molecules and to be recognized by T lymphocytes. Twenty to thirty-four selected epitopes are then encoded into a delivery vehicle, most prominently messenger RNA encapsulated in lipid nanoparticles, the same platform proven at global scale by COVID-19 vaccines. In randomized studies of resected high-risk melanoma, the combination of an individualized neoantigen vaccine with the immune checkpoint inhibitor pembrolizumab significantly prolonged recurrence-free survival compared with pembrolizumab alone, and similar strategies are advancing in pancreatic cancer, non-small cell lung cancer, and colorectal tumors. Formidable logistical hurdles nonetheless remain: manufacturing each patient's bespoke product takes weeks, requires deep tumor sequencing of sufficient quality, and depends on reliable algorithms whose predictions of immunogenicity remain imperfect. Tumors with low mutation burden furnish few candidate neoantigens, limiting applicability, and glucocorticoid use around infusion has been associated with diminished immune responses. Whether the approach will extend beyond mutation-rich tumors, and whether health systems can absorb its cost, are questions that ongoing Phase III trials are now positioned to answer.",
+      "vocab": [
+        ["neoantigen", "نئوآنتی‌ژن؛ پپتید نوظهور از جهش تومور"],
+        ["whole-exome sequencing", "توالی‌یابی کل اگزوم"],
+        ["epitope", "اپیتوپ؛ بخش آنتی‌ژن قابل شناسایی توسط ایمنی"],
+        ["lipid nanoparticle", "نانوذره لیپیدی؛ حامل mRNA"],
+        ["checkpoint inhibitor", "مهارکننده چک‌پوینت ایمنی"],
+        ["recurrence-free survival", "بقای بدون عود؛ نقطه پایانی کارآزمایی"],
+        ["mutation burden", "بار جهشی؛ تعداد جهش‌های سوماتیک"],
+        ["bespoke", "سفارشی‌دوز؛ ساخت اختصاصی برای یک فرد"]
+      ],
+      "questions": [
+        {
+          "q": "1. What distinguishes personalized cancer vaccines from conventional vaccines?",
+          "options": [
+            "they use killed whole tumor cells",
+            "each vaccine is built from the unique mutations of an individual patient's tumor",
+            "they target infectious agents",
+            "they are identical across the population"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Unlike infectious disease vaccines, which present identical antigens to an entire population, personalized cancer vaccines are manufactured for a single patient from the unique mutations...» — جمله اول تقابل را کامل می‌کند.",
+          "tip": "جمله اول پاساژ با Unlike شروع می‌شود → تفاوت دو مفهوم؛ در سوال تفاوت، همین جمله جواب است."
+        },
+        {
+          "q": "2. A candidate neoantigen must satisfy which prediction requirement?",
+          "options": [
+            "binding to the patient's HLA molecules and recognition by T lymphocytes",
+            "secretion into plasma",
+            "presence in the germline genome",
+            "inhibition of lipid nanoparticles"
+          ],
+          "answer_idx": 0,
+          "explanation": "«mutated peptides predicted to bind the patient's HLA molecules and to be recognized by T lymphocytes» — دو شرط: اتصال HLA و شناسایی T.",
+          "tip": "پپتید-اتصال HLA-شناسایی T لمفوسیت سه‌گانه ثابت ایمیونولوژی واکسن است."
+        },
+        {
+          "q": "3. The vaccine platform highlighted in the passage is:",
+          "options": ["inactivated virus", "mRNA in lipid nanoparticles", "live attenuated bacteria", "recombinant protein with alum"],
+          "answer_idx": 1,
+          "explanation": "«most prominently messenger RNA encapsulated in lipid nanoparticles, the same platform proven at global scale by COVID-19 vaccines».",
+          "tip": "پیوند فناوری واکسن کووید با واکسن سرطان نکته محبوب متن‌های جدید است."
+        },
+        {
+          "q": "4. Tumors with low mutation burden are a challenge because:",
+          "options": [
+            "they grow too fast to sequence",
+            "they provide few candidate neoantigens",
+            "they do not respond to pembrolizumab under any circumstances",
+            "their HLA molecules are absent"
+          ],
+          "answer_idx": 1,
+          "explanation": "«Tumors with low mutation burden furnish few candidate neoantigens, limiting applicability» — furnish = فراهم‌کردن.",
+          "tip": "furnish/provide/yield واژه‌های مترادف «فراهم‌آوردن»اند؛ در سوال علت، شرط کمبود ماده اولیه (neoantigen) را دنبال کنید."
+        },
+        {
+          "q": "5. The passage indicates that Phase III trials will primarily clarify:",
+          "options": [
+            "the mechanism of lipid nanoparticle formation",
+            "broader applicability, outcomes, and affordability for health systems",
+            "the history of vaccine platforms",
+            "methods of tumor resection"
+          ],
+          "answer_idx": 1,
+          "explanation": "جمله پایانی دو پرسش باز را نام می‌برد: تعمیم به تومورهای کم‌جهش و هزینه/جذب توسط نظام سلامت — دقیقاً محور فاز ۳.",
+          "tip": "جمله پایانی با Whether...or whether ساختار «پرسش‌های باز آینده» می‌سازد؛ سوالی درباره نقش فاز ۳ از همین می‌آید."
+        }
+      ]
+    },
+    {
+      "id": "eng12",
+      "title": "Artificial Intelligence in Structural Genomics",
+      "source": "بر اساس AlphaFold 2/3 و کاربردهای ۲۰۲۴-۲۰۲۶",
+      "passage": "For half a century, determining the three-dimensional structure of a protein required years of laboratory work using X-ray crystallography or nuclear magnetic resonance spectroscopy. Deep-learning systems have now largely overturned that bottleneck. AlphaFold, first demonstrated at an international structure-prediction contest, predicts protein structures from amino acid sequences with accuracy approaching experimental methods for a large fraction of targets, and its successor extends predictions to complexes of proteins with DNA, RNA, and small ligands. Structural biologists now routinely consult predicted models when designing experiments, docking studies, and mutagenesis strategies, and databases containing hundreds of millions of predicted structures have become public resources. The impact on rare disease genetics is particularly noteworthy: for variants of uncertain significance in genes lacking structural data, predicted models permit researchers to map substitutions onto three-dimensional space, distinguish those disrupting buried hydrophobic cores or catalytic residues from benign surface changes, and thereby prioritize variants for functional assays. Enthusiasm must nevertheless be tempered by genuine limitations. Predicted confidence varies across regions; intrinsically disordered segments, alternative conformations, and dynamic complexes remain difficult; and ligand-binding pockets—central to drug discovery—may be modeled with less reliability than protein backbones. Nor does a structure, predicted or experimental, by itself explain a biological mechanism; integration with biochemical, genetic, and clinical data remains indispensable. Within these boundaries, machine-learning structure prediction has shifted from a computational curiosity to an everyday instrument of molecular biology and medical genetics.",
+      "vocab": [
+        ["crystallography", "بلورشناسی پرتو ایکس؛ روش تعیین ساختار"],
+        ["deep learning", "یادگیری عمیق؛ شبکه‌های عصبی چندلایه"],
+        ["docking", "داکینگ؛ شبیه‌سازی اتصال لیگاند به پروتئین"],
+        ["mutagenesis", "جهش‌زایی هدفمند؛ طراحی جهش‌های آزمایشی"],
+        ["variant of uncertain significance (VUS)", "واریانت با اهمیت نامشخص"],
+        ["hydrophobic core", "هسته هیدروفوبیک داخل پروتئین"],
+        ["catalytic residue", "باقیمانده کاتالیزی؛ اسیدآمینه فعال آنزیم"],
+        ["intrinsically disordered", "در嫁给 بی‌نظم ذاتی؛ بخش‌های بدون ساختار ثابت"]
+      ],
+      "questions": [
+        {
+          "q": "1. The main contribution of AlphaFold described in the passage is:",
+          "options": [
+            "replacing all laboratory experiments",
+            "predicting protein structures from sequence at near-experimental accuracy for many targets",
+            "sequencing genomes faster",
+            "curing genetic diseases directly"
+          ],
+          "answer_idx": 1,
+          "explanation": "«predicts protein structures from amino acid sequences with accuracy approaching experimental methods for a large fraction of targets» — گزینه ۱ مطلق‌سازی غلط است؛ متن گزینه ۳/۴ را نمی‌گوید.",
+          "tip": "درباره AI همیشه مراقب گزینه‌های اغراق‌آمیز (replace all/cure/directly) باشید؛ متن‌های علمی محتاط‌اند."
+        },
+        {
+          "q": "2. How do predicted structures aid rare disease genetics?",
+          "options": [
+            "by replacing genetic testing",
+            "by mapping missense variants onto 3D space to distinguish structure-disrupting from benign changes",
+            "by increasing mutation rates",
+            "by automating patient interviews"
+          ],
+          "answer_idx": 1,
+          "explanation": "«permit researchers to map substitutions onto three-dimensional space, distinguish those disrupting buried hydrophobic cores or catalytic residues from benign surface changes, and thereby prioritize variants» — کاربرد VUS تفسیری.",
+          "tip": "پیوند AI-VUS یکی از داغ‌ترین موضوعات ژنتیک بالینی جدید است؛ جمله‌اش را در متن هدف بگیرید."
+        },
+        {
+          "q": "3. Which aspect is described as modeled less reliably?",
+          "options": ["protein backbones", "ligand-binding pockets", "amino acid sequences", "hydrogen atoms"],
+          "answer_idx": 1,
+          "explanation": "«ligand-binding pockets—central to drug discovery—may be modeled with less reliability than protein backbones».",
+          "tip": "مقایسه‌های less/more reliable را علامت بزنید؛ سوال مقایسه‌ای می‌آید."
+        },
+        {
+          "q": "4. The phrase \"tempered by genuine limitations\" indicates that the author:",
+          "options": [
+            "rejects the technology",
+            "presents a balanced view acknowledging both value and constraints",
+            "works for a competing company",
+            "doubts the existence of proteins"
+          ],
+          "answer_idx": 1,
+          "explanation": "temper = تعدیل‌کردن؛ نویسنده بعد از ستایش، محدودیت‌های واقعی را فهرست می‌کند → لحن متعادل علمی.",
+          "tip": "temper/moderate/qualify هم‌خانواده‌اند: «تعادل‌دهی به ادعا» — نشان لحن balanced."
+        },
+        {
+          "q": "5. The passage concludes that machine-learning prediction now functions as:",
+          "options": ["a computational curiosity", "an everyday instrument of molecular biology and medical genetics", "a substitute for clinical judgment", "an unproven hypothesis"],
+          "answer_idx": 1,
+          "explanation": "جمله آخر: «has shifted from a computational curiosity to an everyday instrument of molecular biology and medical genetics» — همان ساختار from X to Y.",
+          "tip": "جمله پایانی از X to Y تقابل گذشته/حاضر را می‌سازد؛ سوالی درباره وضعیت فعلی، بازتاب مستقیم Y است."
+        }
+      ]
+    }
+  ],
+  "final_vocabulary_table": {
+    "title_fa": "جدول واژگان پرتکرار زبان تخصصی ژنتیک در آزمون‌های دکتری",
+    "note": "این واژگان از تحلیل ریدینگ‌های آزمون‌های سال‌های قبل استخراج شده‌اند؛ مرور روز امتحان توصیه می‌شود.",
+    "groups": [
+      {"group": "ژنتیک مولکولی", "items": [
+        ["allele", "آلل"], ["locus/loci", "جایگاه ژنی"], ["heterozygous", "هتروزیگوت"],
+        ["penetrance", "نفوذپذیری (پره‌نفوذی)"], ["expressivity", "میزان بروز (اکسپرسیویتی)"],
+        ["autosomal", "اتوزومال"], ["X-linked", "وابسته به X"], ["germline", "خط جنسی/ژرم‌لاین"],
+        ["somatic", "سوماتیک (بدنی)"], ["de novo", "تازه‌پدید (جهش جدید)"]
+      ]},
+      {"group": "جهش و واریانت", "items": [
+        ["missense", "جهش معنادار (تغییر اسیدآمینه)"], ["nonsense", "جهش بی‌معنا (کدون خاتمه)"],
+        ["frameshift", "جابه‌جایی قاب خواندن"], ["splice site", "جایگاه اسپلایس"],
+        ["loss-of-function", "از‌دست‌دادن عملکرد"], ["gain-of-function", "کسب عملکرد"],
+        ["variant of uncertain significance (VUS)", "واریانت با اهمیت نامشخص"],
+        ["pathogenic/likely pathogenic", "بیماری‌زا/احتمالاً بیماری‌زا"]
+      ]},
+      {"group": "تکنیک‌های آزمایشگاهی", "items": [
+        ["polymerase chain reaction (PCR)", "واکنش زنجیره‌ای پلیمراز"],
+        ["gel electrophoresis", "الکتروفورز ژل"], ["hybridization", "هیبریدیزاسیون (دوگانه‌سازی)"],
+        ["sequencing", "توالی‌یابی"], ["next-generation sequencing (NGS)", "توالی‌یابی نسل بعدی"],
+        ["restriction enzyme", "آنزیم محدودکننده"], ["fluorescence in situ hybridization (FISH)", "فلورسنت درجا هیبرید"],
+        ["karyotype", "کاریوتایپ"]
+      ]},
+      {"group": "سرطان‌شناسی", "items": [
+        ["oncogene", "آنکوژن"], ["tumor suppressor gene", "ژن سرکوب‌گر تومور"],
+        ["metastasis", "متاستاز"], ["proliferation", "تکثیر"], ["apoptosis", "آپوپتوز"],
+        ["angiogenesis", "رگ‌زایی"], ["carcinogen", "سرطان‌زا"], ["malignant/benign", "بدخیم/خوش‌خیم"],
+        ["remission/relapse", "بهبودی/عود"], ["prognosis", "پیش‌آگهی"]
+      ]},
+      {"group": "اپیدمیولوژی و آمار", "items": [
+        ["prevalence", "شیوع"], ["incidence", "بروز (موارد جدید)"],
+        ["odds ratio", "نسبت شانس"], ["relative risk", "ریسک نسبی"],
+        ["sensitivity/specificity", "حساسیت/اختصاصیت"], ["screening", "غربالگری"],
+        ["carrier", "ناقل"], ["consanguinity", "خویشاوندی"]
+      ]},
+      {"group": "درمان و فناوری نو", "items": [
+        ["gene therapy", "ژن‌درمانی"], ["gene editing", "ویرایش ژن"],
+        ["vector", "وکتور (ناقل)"], ["vaccine", "واکسن"], ["monoclonal antibody", "آنتی‌بادی مونوکلونال"],
+        ["biomarker", "بیومارکر"], ["targeted therapy", "درمان هدفمند"],
+        ["precision/personalized medicine", "پزشکی دقیق/شخصی"]
+      ]}
+    ]
+  }
+}

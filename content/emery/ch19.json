@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 19,
+  "chapter_title_en": "Mainstream Monogenic Disorders",
+  "chapter_title_fa": "فصل ۱۹: بیماری‌های تک‌ژنی شایع و پرتکرار", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "em19-1", "topic": "CFTR و CF", "difficulty": "hard",
+      "stem": "کدام مورد درباره فیبروز سیستیک صحیح نیست؟",
+      "options": ["وراثت AR؛ ژن CFTR در 7q31.2؛ کانال کلراید ABC", "جهش F508del شایع‌ترین است (حذف فنیل‌آلانین در NBD1)", "پانکراتیت ارثی می‌تواند با جهش‌های CFTR مرتبط باشد", "ضایعات پوستی اولین علامت شایع بزرگسالی است"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ نادرست است. تظاهر شایع بزرگسال: ناباروری مردان (CBAVD؛ absence واز دفرانس)، پانکراتیت مزمن/عودکننده، برونشیکتازی، سینوزیت؛ پوست (acanthosis؟) علامت شاخص CF نیست. بقیه گزینه‌ها صحیح‌اند.",
+      "level2": "درسنامه: CF مدرن (کلیشه‌های آزمونی): — بیولوژی: CFTR = cAMP-regulated Cl⁻/HCO₃⁻ channel؛ dysfunction → Na⁺ hyperabsorption (ENaC)؛ تعریق Cl بالا؛ پانکراس اگزوکراین insufficient؛ male CBAVD؛ — تشخیص: کلراید عرق ≥۶۰ (دو بار؛ sweat test استاندارد)؛ IRT نوزادی → DNA؛ ژنتیک: >2000 واریانت؛ گروهبندی: I (نقص پردازش؛ F508del)، II (maturation/gating؛ G551D)، III (gating)، IV (conductance؛ R117H)، V (splicing/3849+10kb C>T؛ خفیف)؛ — درمان‌های مهارکننده (نکته روزآورد آزمونی): potentiator (ivacaftor؛ class III مثل G551D)، corrector (tezacaftor/elexacaftor؛ فولدینگ F508del)؛ triple: elexacaftor/tezacaftor/ivacaftor (Trikafta؛ هرچه حداقل یک F508del؛ بهبود FEV1 ~10-14pp؛ نوجوانان ۶+؛ عارضه: روانی/آزمون‌های کبدی)؛ — مدیریت: تنفسی (ACT، dornase alfa، hypertonic saline، azithro مزمن؛ TOBI/colistin inhalation)، پانکراس آنزیم/ویتامین‌های چرب‌محلول، دیابت CF، اوستئوپروز؛ هپاتوبیلی (UDCA)؛ انتقال عفونت (Burkholderia cepacia complex گروه‌بندی)؛ HSCT/ریو (فلوتیکا؟)؛ پیوند ریه؛ پیش‌آگهی امروزی median survival >50؛ — ناباروری: CBAVD → ICSI + آزمون حامل همسر؛ مادری؛ — سوالات ترکیبی: «مرد با CBAVD؛ کلراید عرق مرزی؛ ژنتیک؟» CFTR عمدتاً خفیف/5T allele؛ «مبتلای G551D؛ کدام دارو؟» ivacaftor."
+    },
+    {
+      "id": "em19-2", "topic": "DMD/BMD", "difficulty": "hard",
+      "stem": "پسر ۵ ساله با راه‌رفتن انتی‌داکتیو، علامت گاور مثبت، هیپرتروفifi ساق و CK ~15000؛ محتمل‌ترین تشخیص و الگوی ژنی شایع؟",
+      "options": ["DMD؛ حذف/تکرار اگزونی ژن DMD (out-of-frame؛ ~۷۰٪) روی Xp21", "BMD؛ در-frame", "SMA؛ SMN1", "لایم-گیدون؟ بیه؟"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. DMD: کودکی؛ گاور؛ ساق شبه-هیپرتروف؛ CK فوق‌العاده بالا؛ الگوی XLR؛ مکانیسم: حذف‌های out-of-frame → نقطه قطع دیستروفین؛ BMD (خفیف‌تر، دیرتر): in-frame؛ تشخیص: MLPA اول (حذف/تکرار) → توالی‌یابی؛ بیوپسی ایمونوهیستو در موارد خاص.",
+      "level2": "درسنامه: دیستروفینوپاتی — مرور کامل آزمونی: — ژن: DMD؛ بزرگ‌ترین ژن انسان (۷۹ اگزون؛ ۲.۴Mb) → نرخ جهش بالا (~۱/۳ de novo)؛ موزاییک ژرم‌لاین مادر مهم؛ قاعده reading frame برای تفاوت DMD/BMD؛ — مدیریت: کورتیکواستروئید (پردنیزولون/دفلازاکورت؛ استاندارد؛ عوارض)؛ آنژیوتنسین؟ قلب: اکو سالانه؛ ARVC غالب DMD زنان حامل هم بررسی؛ تنفسی (non-invasive ventilation؛ cough assist)؛ اسکولیوز؛ — درمان‌های نوین: Ataluren (nonsense read-through؛ اروپا؛ بحث اثربخشی)؛ اگزون-اسکیپینگ ASO: eteplirsen (51؛ آمریکا)، golodirsen/viltolarsen (53/51)، casimersen (45)؛ Elevidys (delandistrogene moxeparvovec؛ AAV micro-dystrophin؛ تأیید ۲۰۲۳؛ سن/ambulatory گسترش)؛ واجد شرایط = تأیید حذف در محدوده؛ PRG؟؛ قابل انتظار ژن‌درمانی‌های بیشتر؛ — مادران حامل: CK، اکو، بررسی skewed X؛ خواهران؛ PGT؛ — تفاوت با LGMD/سایر میوپاتی‌ها (امیوپاتی متابولیک؟)؛ — نکته: «دختر با CK بالا و میوپاتی خفیف» → حامل DMD (skewed) یا LGMD R؟؛ «دو پسر مبتلا مادر سالم» → گونادال موزاییک ~۷٪ ریسک."
+    },
+    {
+      "id": "em19-3", "topic": "نوروفیبروماتوزیس", "difficulty": "medium",
+      "stem": "معیار تشخیصی NF1 شامل کدام نیست؟",
+      "options": ["≥۶ لکه café-au-lait، ≥2 نوروفیبروما/1 plexiform، آکسیلاری/اینگوینال freckling", "دوپوریوم optic glioma، ≥2 iris Lisch nodules، ضایعات استخوانی خاص", "فرد درجه یک مبتلا؛ جهش معلوم NF1", "شنوایی عصبی دوطرفه (مربع NF2)"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ صحیح است. شنوایی دوطرفه/vestibular schwannoma معیار NF2 (merlin؛ 22q) است نه NF1. معیارهای NF1 (NIH 1987؛ به‌روزرسانی 2021 با پلی‌رنجیت واتی؟ اضافه: 2+ plexiform/سطف و هم‌بودی pigmented)؛ دو معیار برای تشخیص بالینی.",
+      "level2": "درسنامه: RASopathy نوروفیبروماتوزیس (تفکیک NF1/NF2/swchwannomatosis): — NF1 (17q11؛ neurofibromin؛ Ras-GAP؛ ~۵۰٪ de novo؛ نفوذ کامل تا بزرگسالی): CAL، freckling، neurofibromaها (cutaneous/dermal؛ plexiform درونی؛ خطر تبدیل MPNST ~۱۰٪ در عمر — پایش با PET)، axillary؛ optic glioma (کودکی؛ غربال اثر بینایی)، Lisch؛ سکلئوتال (sphenoid dysplasia؛ tibial pseudarthrosis)، یادگیری/ADHD؛ خطر سرطان (optic، plexiform→MPNST، GIST، pheo ~NA Leigh؛ JMML نوزادی)؛ مدیریت: سالانه معاینه+فشار خون (رنووسکولار؛ استنوز)؛ MRI موردی؛ سلوومتینب (MEKi؛ plexiform inoperable — اولین داروی NF1؛ 2020)؛ NOHE؟؛ — NF2 (22q12؛ merlin؛ bilateral vestibular schwannoma؛ مینینژیوما؛ ependymoma؛ juvenile cataract posterior subcapsular؛ AD ~50 de novo)؛ مدیریت: AVS؟ bevacizumab (VEGF؛ کوچک‌سازی vs شنوایی)، stereotactic؛ قطعی؟؛ — Schwannomatosis (SMARCB1/LZTR1؛ درد؛ بدون bilateral VS)؛ — Legius (SPRED1؛ CAL+freckling؛ بدون تومور) — تله بالینی؛ — سوالات: «خطر بدخیمی در NF1؟» MPNST؛ «داروی plexiform؟» selumetinib."
+    },
+    {
+      "id": "em19-4", "topic": "SMA", "difficulty": "medium",
+      "stem": "مبنای ژنتیکی SMA و دلیل تفاوت شدت انواع آن کدام است؟",
+      "options": ["حذف هموزیگ SMN1؛ تعداد کپی SMN2 (کپی بیشتر → HbF؟ نه؛ پروتئین SMN بیشتر → خفیف‌تر)", "جهش SOD1", "تکرار CAG", "نقص میتوکندری"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. SMA: حذف/جهش SMN1 (5q13)؛ SMN2 نسخه پشتیبان که با c.840C>T exon 7 را کمتر می‌گیرد؛ تعداد SMN2 (۲-۴+) با شدت عکس هم‌بستگی: نوع I (≤2 کپی؛ <۶ ماه نشستن؛ کشنده)، II (نشستن نه راه‌رفتن)، III (راه‌رفتن؛ دیر از دست)، IV (بزرگسال)؛ AR؛ غربالگری ناقل رایج (ACOG)؛ NBS + درمان پیش‌علامتی.",
+      "level2": "درسنامه: SMA-درمان نوین (مهم‌ترین مثال «یک بیماری-سه درمان»): — نوسینرزن (ASO؛ داخل‌نخاعی؛ طول‌عمری)، ریسدیپلام (خوراکی روزانه؛ هر نوع)، onasemnogene abeparvovec (Zolgensma؛ AAV9 IV دوز واحد؛ <2y در آمریکا؛ ملاحظات NAbs/کبد/ترومبوتیک؛ steroid پیش‌درمان)؛ شواهد: پیش‌علامتی (NBS؛ pre-symptomatic) → ۹۶٪ achievement independent milestones؛ در نوع I: طول عمر/ventilator-free بهبود چشمگیر؛ — انتخاب درمان: رهنمودها؛ هم‌پوشانی/ترتیب بحث دارد (مثلاً Zolgensma بعد nusinersen)؛ اعصاب؛ — ژنتیک: حامل ۱/۵۰؛ دو ناقل → هر بارداری ۲۵٪؛ تشخیص ناقل: کپی SMN1 (تله: 2+0 haplotype حامل بی‌علامت حذف جفت‌ژنی؛ +SMN2 تعداد)؛ PGT-M؛ — مراقبت استاندارد: تنفسی/تغذیه/اسکولیوز همراه دارو؛ — سوالات پرتکرار: «سیر بالینی بدون درمان نوع I» مرگ/تنفس <2y؛ «کدام درمان خوراکی است؟» risdiplam؛ «کپی SMN2 و شدت» عکس."
+    },
+    {
+      "id": "em19-5", "topic": "HD", "difficulty": "medium",
+      "stem": "کدام مورد درباره بیماری هانتینگتون نادرست است؟",
+      "options": ["تکرار CAG در exon1 HTT؛ ≥36 پاتولوژیک؛ 40+ شروع بزرگسالی معمول", "وراثت AD با anticipation به‌ویژه پدری", "pathway: پروتئین توکسین gain-of-function؛ تجهیز نقص؛ راه‌راه‌های striatal GABAergic", "درمان قطعی موجود است (marked)"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ نادرست است. درمان قطعی ندارد؛ درمان علامتی (تیترابنازین/دوتترابنازین chorea؛ ضدافسردگی/سم‌گومانی؟) و کارآزمایی‌ها (ASO tominersen؛ tuttabirasat؟؛ Roche withdrawal؛Wave؛ PTC518/NOVA-1 mRNA splicing — نسل جدید؛ راه‌های سلولی)؛ بقیه صحیح؛ juvenile با >60 CAG پدری.",
+      "level2": "درسنامه: تکرارهای سه‌تایی کدکننده-polyQ (خانواده آزمونی): — HD (HTT؛ CAG؛ >36؛ penetrance کامل 40+؛ intermediate 36-39؛ کاهش‌ناپذیری 27-35 خطر tombak؟)؛ — DRPLA؛ SBMA (XLR؛ اندروژن receptor؛ عضله-عصبی + گینه‌کاستی)؛ SCAها (SCA1/2/3/6/7/17؛ CAG در ژن‌های مختلف)؛ — noncoding repeats: fragile X (CGG)، DM1 (CTG DMPK 3′UTR؛ DM2 CCTG CNBP intron1؛的特点 myotonic + cataract + cardiac conduction — ADHD؟)، FXTAS؛ Friedreich (GAA intronic؛ frataxin؛ areflexia+cardiomyopathy+diabetes؛ کاهش؟ — وراثت AR با خیلی بزرگ expansion در homozygus)؛ — مکانیسم‌ها: gain-of-function aggregation؛ RNA toxic (DM، FXTAS)؛ loss (fragile X full؛ Friedreich)؛ anticipation والد-محدود (بالا)؛ — آزمون‌های ژنتیک: پیش‌علامتی (پیش‌بینی)؛ مشاوره HD protocol (خونستون 1993؛ نکات اخلاقی: تست بدون درمان، حق ندانستن، رژیمی؟)؛ اوراق تست‌های بالینی ایران؛ — نکته ترکیبی: «میوتونیک + کاتاراکت + block قلبی» DM1؛ «ataxia + ophthalmoplegia در SCA؟»؛ «juvenile HD از کدام والد؟» پدر."
+    },
+    {
+      "id": "em19-6", "topic": "کاردیوژنتیک", "difficulty": "hard",
+      "stem": "جوان ۲۰ ساله با سابقه سنکوپ و سابقه فوت ناگهانی خواهر؛ ECG: QTc 520ms؛ تشخیص و وراثت اصلی؟",
+      "options": ["سندرم QT طولانی نوع ۱-۳ (رومیو-وارانت؛ KCNQ1/KCNH2/SCN5A؛ AD اکثر)", "Brugada (SCN5A؛ AD)", "HCM (MYH7)", "ARVC (desmosomal)"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. LQTS: AD اغلب (رومیو-وارانت نوع‌ها؛ K_channels/Na)؛ تریگر نوع ۱: شنا (KCNQ1/Iks)؛ نوع ۲: احساسات/صدا (KCNH2/hERG)؛ نوع ۳: استراحت/خواب (SCN5A؛Na)؛ درمان: بتابلاکر (پروپرانولول/نادولول)؛ ICD در موارد ریسک بالا؛ پرهیز داروهای QT-افزا؛ ژنتیک: پنل کاردیو؛ Jervell-Lange-Nielsen (AR؛ KCNQ1/KCNE1؛ deafness).",
+      "level2": "درسنامه: کانالوپاتی‌ها و کاردیومیوپاتی‌ها (مرور آزمونی): — LQTS بالا؛ CPVT (RYR2؛ ادرنالین-تریگر؛ تست ورزش؛ Flecainide)؛ Brugada (SCN5A ~۲۰٪؛ فنیل‌این الگوی؛ ajmaline test؛ ICD؛ fever خطر)؛ SQTS؛ — HCM (AD؛ MYH7/MYBPC3 غالب؛ ASH+OBSTRUCTION؛ risk SCD مدل‌ها (HCM-RK؟)؛ ICD؛ mavacamten (myosin inhibitor؛ 2022؛ CAD؟ LVOT کاهش)؛ افیکیس؟)؛ — DCM (TTN و...؛ LMNA مهم (block+DCM؛ ICD زودهنگام)؛ دشت)؛ ARVC (PKP2/DSP/DSG2؛ exercise restriction؛ ICD)؛.Restrictive (TTR hereditary؛ patisiran/inotersen/tafamidis/vutrisiran+NTLA-2001)؛ —Restrictive RCM؛ noncompaction؛ — خانواده‌های SADS (sudden arrhythmic death syndrome)؛ autopsy-negative → ژنتیک مولد (molecular autopsy؛ WES پس از مرگ) — نکته روزآورد؛ — پرهیز دارویی در LQTS/Brugada (لیست CredibleMeds)؛ ورزش محدودیت HCM/ARVC/CPVT؛ — سوال طرح: «سنکوپ شنا → KCNQ1»؛ «flecainide در CPVT»؛ «mavacamten در HCM obstructive»؛ «LMNA+block → ICD زود»."
+    },
+    {
+      "id": "em19-7", "topic": "دیابت مونوژنیک", "difficulty": "medium",
+      "stem": "نوجوان ۱۶ ساله لاغر با گلوکز بالا بدون کتواسیدوز، سابقه خانوادگی سه نسل از جمله پدربزرگ لاغر؛ تشخیص محتمل؟",
+      "options": ["MODY2 (GCK؛ هایپرگلیسمی پایدار خفیف؛ بدون عوارض؛ اغلب بدون درمان)", "MODY3 (HNF1A؛ پیشرونده؛ سولفونیل‌واکنش)", "دیابت نوع ۱", "نوع ۲ نوجوان"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. سه نسل + شروع نوجوان + لاغر + پیشرونده = MODY3 (HNF1A؛ شایع‌ترین MODY؛ پنجره حساس سولفونیل — نکته درمانی)؛ MODY2 (GCK) هایپرگلیسمی خفیف ثابت از تولد (معمولاً 5.5-8) بدون عوارض؛ بدون نیاز درمان مگر بارداری (نظارت جنین رشد).",
+      "level2": "درسنامه: نئوناتال و MODY (آزمونی): — MODY: ~۱-۲٪ دیابت؛ انواع: HNF4A (MODY1؛ neonatal macrosomia/hypoglycemia sulfonylurea)؛ GCK (MODY2؛ set-point بالا؛ بدون درمان؛ بارداری: if fetal growth normal can off insulin)؛ HNF1A (3؛ glycosuria؛ sulfonylurea first؛ ~1% pen؟)؛ HNF1B (5؛ renal cysts+pancreatic hypoplasia؛ uterine anomalies؛ RCAD)؛ KCNJ11/ABCC8 (neonatal DM؛ SUR1/Kir6.2 → سولفونیل واکنش عالی — نکته درمانی به‌جای انسولین)؛ — نئوناتال DM (<6m): K-ATP، PDX1، EIF2AK3 (Wolcott-Rallison؛ اسفند؟ اسپوندیلو)؛ 6q24 imprinting (PLAGL1؛ transient؛ ZFP57)؛ — دیagnostik flow: autoantibodies (GAD...) منفی؛ C-پپتید حفظ؛ آزمون ژنی پنل؛ triggered: نوجوان لاغر بدون Ab → MODY؛ — پیامد درمانی: سوئیچ انسولین→سولفونیل در HNF؛ متفورمین بی‌اثر؛ — نکته آزمونی: «نوزاد DM با پاسخ خوراکی؟» KCNJ11؛ «هایپرگلیسمی خفیف فامیلی بدون عوارض؟» GCK؛ «دیابت + کیست کلیه؟» HNF1B."
+    },
+    {
+      "id": "em19-8", "topic": "هایپرکلسترولمی خانوادگی", "difficulty": "medium",
+      "stem": "مرد ۴۰ ساله با xanthoma تندون و LDL ~350؛ پدرش MI در ۴۵ سالگی؛ محتمل‌ترین ژن و درمان‌های جدید؟",
+      "options": ["LDLR (FH heterozygous)؛ statin高强度 + ezetimibe؛ و در نیاز: evolocumab/alirocumab (PCSK9 mAb)، inclisiran (siRNA)، evinacumab (ANGPTL3)؛ bempedoic", "PCSK9 gain فقط", "APOE2/E2", "CETP"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. FH heterozygote (AD؛ LDLR ~۸۵-۹۰٪ جهش‌ها؛APOB/PCSK9 gain)؛ DLCN criteria؛ درمان: استاتین بالا-شدت + ازتیمایب؛ PCSK9 mAb؛ inclisiran دوبار-سالانه؛ برای homozygote: lomitapide/mipomersen، evinacumab، LDL-apheresis؛ تشخیص‌های DLCN (tendinous xanthoma قوی‌ترین).",
+      "level2": "درسنامه: dyslipidemia ژنتیکی (مرور آزمونی): — FH: خطر CAD؛ cascade testing خانواده؛ (پلی‌ژنیک hypercholesterolemia شایع‌تر!)؛ جهش‌ها: LDLR null/defective؛ APOB (R3527Q)؛ PCSK9 GOF؛ LDLRAP1 (AR؛ homozygote-like)؛ — FDB؛ sitosterolemia (ABCG5/8؛ زانتوما با کلسترول نرمال-به-بالا؛ plant sterols؛ پاسخ به استاتین کم؛ ازتیمایب بهتر)؛ — cerebrotendinous xanthomatosis (CYP27A1؛ xanthoma+ataract+نورو؛ chenodeoxycholic acid)؛ — hypoalphalipo (ABCA1 Tangier؛ tonsil orange؛ HDL تقریباً صفر)؛ LCAT (fish-eye؛ FLD renal)؛ — hyperTG: LPL/APOC2/APOA5/GPIHBP1؛ Familial chylomicronemia (پانکراتیت؛ بدون CAD)؛ — نکته آزمونی: «زانتوما تندون + LDL بسیار بالا» FH؛ «زانتوما + کلسترول طبیعی + sterolهای گیاهی بالا» sitosterolemia؛ «HDL~0 + لوزه نارنجی» Tangier؛ درمان‌های نو: PCSK9i/inclisiran (حتی در FH HeZ؛ HoZ: evinacumab مؤثر مستقل از LDLR)."
+    },
+    {
+      "id": "em19-9", "topic": "نقص ترمیم DNA و سرطان", "difficulty": "hard",
+      "stem": "زن ۳۵ ساله با سرطان پستان سه‌منفی و سابقه ALL کودکی و سارکوم برادر؛ کدام سندرم مطرح و آزمون‌های پایش؟",
+      "options": ["Li-Fraumeni (TP53)؛ پایش جامع (اینتنسیو؟ annual MRI+exam؛ organ-specific؛ دقت در پرتو درمانی)", "Lynch", "FAP", "MEN1"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Li-Fraumeni (TP53؛ AD؛ سارکوما/پستان جوان/آدرنال/لوسمی-ALL/brain؛ classic criteria (LFS) یا Chompret؛ پایش: Toronto/ACS؟ protocol (MRI پستان سالانه از ۲۰-۲۵؛ brain MRI؛ سالانه اورولوژی؟؛ سونو آدرنال کودکی)؛ پرهیز پرتو؛ PRDM1؟؛ آزمون TP53 ژرم‌لاین در پستان جوان <35/триple-negative؟ در الگوریتم‌ها.",
+      "level2": "درسنامه: سندرم‌های سرطانی ژن‌های ترمیم/چک‌پوینت (مرور آزمونی): — TP53 LFS بالا؛ CHEK2 (متوسط؛ پستان/کولون)؛ ATM (متوسط؛ پستان؛ پرتو حساس)؛ BRIP1/PALB2/RAD51C/D (پستان/تخمدان؛ سطح متغیر)؛ — DNA repair syndromes با سرطان + مشخصات: XP (پوست)؛ Bloom (wide)؛ FA (AA/MDS/SCC)؛ AT (لنفوم/پستان حاملان زن)؛ Nijmegen؛ — نکته پرتکرار: «سرطان کودکی + سارکوم + پستان جوان در خانواده» → TP53؛ «زن beneath 31 پستان» تست TP53؛ «ریسک پرتو در AT/FA/LFS»؛ پایش cascade؛ PGT؛ — درمان‌های وابسته: PARPi در PALB2 (شبیه BRCA2)؛ پرتوسنستیوتیوity؛ — در آزمون‌های اخیر: صدور معیار Chompret (تومور LFS-spectrum <46y + حداقل یک فامیل؛ یا multi-primary؛ یا AD/Sarcoma any age family)؛ فراوانی germline TP53 در پستان<31 ~۳-۵٪."
+    },
+    {
+      "id": "em19-10", "topic": "بیماری‌های بافت همبند عروقی", "difficulty": "hard",
+      "stem": "نوجوان بلندقامت با لنزهای آویخته (ectopia lentis)، آئورت ریشه متسع و گزارش جهش FBN1؛ تشخیص و مدیریت؟",
+      "options": ["سندرم مارفان؛ معیارهای Ghent؛ LOSARTAN/بتابلاکر (اتنولول/نبیوولول) → کاهش سرعت اتساع؛ جراحی والو-اسپرینگینگ (David/Bentall) در >5cm/سریع؛ پایش چشم/اسکلوز؛ پرهیز ورزش رقابتی", "لویز-دیتز؛ TGFBR", "اهلرز-دانلوس عروقی", "پاه‌ها؟ OA"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مارفان (FBN1؛ AD؛ ~۲۵٪ de novo): ectopia lentis بالا-جانبی؛ aortic root aneurysm/dissection؛ پنوموتوراکس؛ dural ectasia؛ معیار Ghent revised (سیستم امتیاز + aortic+ectopia؛ تست FBN1/aorta family)؛ درمان: عوارض؛ بتابلاکر/لوزارتان (TGF-β antagonism)؛ surgical thresholds؛ پایش اکو سالانه؛ ورزش‌ها.",
+      "level2": "درسنامه: آنوریسم‌های ژنتیکی aortopathy (تفکیک آزمونی): — Marfan (FBN1)؛ Ghent nosology؛ مدیریت بالا؛ بارداری: ریسک dissection (aortic >4cm → مشاوره)؛ — Loeys-Dietz (TGFBR1/2؛ SMAD3/TGFB2/3): tortuous arteries؛ UV widening؛ پارگی زود (پایش MRI whole)؛ واسکولار EDS type IV تشابه؛ — vEDS (COL3A1): پارگی روده/عروق؛ celiprolol؛ پرهیز آنژیو؛ — HTAD (familial thoracic aneurysm): ACTA2 (living?)؛ MYH11؛ MYLK؛ PRKG1؛ bicuspid aortic valve associated؛ — Turner/Noonan/Shprintzen aorta؛ — نکات بالینی: باریش family history اول-degree <60y dissection → pan-screen (MRI aorta)؛ پرهیز سیگار/فشار؛ pregnancy planning؛ سوالات طرح: «نوجوان بلند + لنز → مارفان»؛ «پارگی روده جوان → COL3A1»؛ «tortuous + UV → LDS»؛ «بازوتینز عمر قلبی → ACTA2 اغلب + BAV+لکه‌های livedo»."
+    }
+  ]
+}

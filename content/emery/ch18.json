@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 18,
+  "chapter_title_en": "Inborn Errors of Metabolism",
+  "chapter_title_fa": "فصل ۱۸: خطاهای مادرزادی متابولیسم", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "em18-1", "topic": "هایپرآمونمی نوزادی", "difficulty": "hard",
+      "stem": "نوزاد ۳ روزه با خواب‌آلودگی پیشرونده، تغذیه‌نشدن، تشنج و هایپرآمونمی شدید با respiraالری آلکالوز؛ اسید اوروتیک ادرار بالا و گلوتامین بالا؛ محتمل‌ترین تشخیص؟",
+      "options": ["نقص کارباموئیل فسفات سنتتاز I (CPS1)", "نقص Ornithine Transcarbamylase (OTC؛ X-linked)", "سیترولینمی نوع ۱", "اسیدوز ارگانیک"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. OTC (شایع‌ترین نقص چرخه اوره؛ XLR): هایپرآمونمی + آلکالوز تنفسی + اسید اوروتیک ادراری بالا (بافقت کارباموئیل فسفات به مسیر پیریمیدین می‌رود)؛ CPS1: اسید اوروتیک پایین؛ سیترولینمی: سیترولین خیلی بالا؛ ارگانیک اسیدوری: اسیدوز+کتوز+آمونیا متوسط.",
+      "level2": "درسنامه: اورژانس هایپرآمونمی نوزادی — تفکیک آزمونی: — تابلوی مشترک: ۲۴-۷۲ ساعت پس از شروع پروتئین/شیر: که‌تگی، استفراغ، هیپوترمی، تشنج، کام؛ tachypnea → ریپیراتوری آلکالوز (تحریک مرکزی آمونیاک) — «آلکالوز» کلید افتراق از اسیدوزهای ارگانیک؛ — پله‌های آزمایش: آمونیاک؛ گاز خون؛ آنیون گپ؛ کتون؛ لاکتات؛ اسید اوروتیک ادرار؛ آمینواسید پلاسما (سیترولین/آرژینین)؛ آسیل‌کارنیتین؛ — الگوها: OTC/CPS1: آلکالوز، ارریتات↓؛ اسید اوروتیک: OTC↑↑/CPS1↓؛ سیترولینمی۱ (ASS1): سیترولین↑↑؛ آرژینینو سوکسینیک‌اسیدوری (ASL): ASA↑؛ آرژینین‌ deficiency (ARG1): آرژینین↑ + اسپاستیسیتی شبیه CP؛ NAGS: شبیه CPS1؛ — درمان اورژانس: قطع پروتئین؛ گلوکز-لیپید بالا (کاتابولیسم متوقف)؛ واسکولار: بنزوات سدیم/فنیل‌بوتیرات (سوبستریت‌های دفع نیتروژن جایگزین)؛ آرژینین (بجز ARG1؟ در OTC/CPS1 تجویز برای مکمل)؛ کارباتیل گلوتامین (برای NAGS)؛ دیالیزیس اگر NH3 خیلی بالا (>500-600) یا بی‌تحرک؛ — هایپرآمونمی خفیف‌تر در نقص‌های HHH، سیترینین deficiency بزرگسال (SLC25A13؛ CITRIN)؛ — نکته: هر نوزاد با سپسیس-مانند و آلکالوز → NH3 بفرست."
+    },
+    {
+      "id": "em18-2", "topic": "MCAD", "difficulty": "hard",
+      "stem": "شیرخوار ۱۴ ماهه پس از بیماری گوارشی با ناشتایی طولانی، هیپوگلیسمی hypocytotic (بدون کتون)، اسید خفیف و کوما؛ خون family history مثبت ناگهانی مرگ خواهر؛ محتمل‌ترین نقص؟",
+      "options": ["MCAD (Medium-chain acyl-CoA dehydrogenase deficiency)", "VLCAD", "CPT-I", "Glutaric aciduria I"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. MCAD: شایع‌ترین نقص β-اکسیداسیون (۱/۱۰۰۰۰ اروپا)؛ تابلوی کلاسیک: ناشتایی/استرس → هایپوکتوتیک hypoGlycemia + آزو-کالری؛ افکت‌ها: hepatic encephalopathy؛ بدون مالجور مالجور؛ غربالگری نوزادی (C8 octanoylcarnitine بالا)؛ درمان: پرهیز ناشتایی، کربوهیدرات سریع در بیماری (کورن‌استارچ)؛ L-کارنیتین در موارد منتخب.",
+      "level2": "درسنامه: نقص‌های FAO (تفکیک آزمونی): — MCAD (ACADM): بالا؛ g.985A>G بنیان‌گذار؛ SIDS ارتباط؛ — VLCAD/LCAD: بیشتر کاردیومیوپاتی/ریکابی رابدومیولیزیس؛ C14:1 بالا؛ — CPT-I: هایپوگلیسی hypoKet + کارنیتین آزاد بالا؛ CPT-II: نوبت‌های rhabdo در بزرگسال (S1100؟ p.Ser113Leu) یا نوزادی شدید؛ — LCHAD/TFP: retinopathy+نوروپاتی+کبد؛ RTL؛ مادر HELLP/ AFLP حمل جنین مبتلا (نکته آزمونی: مادر با HELLP → بررسی جنین LCHAD)؛ — Glutaric I (GCDH): macrocephaly + بایفرونتال widening؛ «گلوتاریک»، dystonia پس از کاتابولیزم؛ — MMA/PA: کتوتیک هایپوگلی؟ متابولیک اسیدوز شدید؛ درمان: L-کارنیتین، B12 (MMA responsive)، حذر از vals؟؛ — MTP (نقص β-oxidation سه‌گانه)؛ — اصول درمان FAO: never fast؛ KGC؛ MCT oil (VLCAD/LCHAD؛ نه MCAD با احتیاط)؛ کارنیتین؛ — غربالگری نوزادی: acylcarnitine profile؛ نکته: اسیدهای آلی ادرار ممکن نرمال بین نوبت‌ها؛ ACADM provocation؟ ژنتیک AR؛ ACADM."
+    },
+    {
+      "id": "em18-3", "topic": "لیزوزومی", "difficulty": "hard",
+      "stem": "کدام جفت «بیماری–آنزیم–ویژگی» صحیح است؟",
+      "options": ["گوشر – β-گلوکوسبروزیداز (GBA1) – فاگ‌سیت gala؟ Gaucher cells در مغز استخوان؛ نوع ۱ بدون CNS", "فابری – α-گالاکتوزیداز A – آنژیوکراتوما، پارستزی، کبد بزرگ", "پومپه – α-گلوکوزیداز اسید (GAA) – کاردیومیوپاتی هایپرتروفیک + میوپاتی؛ CRIM", "همه موارد"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ صحیح است. هر سه جفت صحیح‌اند: گوشر نوع ۱ (شایع‌ترین؛ یهودیان اشکنازی؛ پان‌سیتوپنی/اسپلنومگالی/بحرانی استخوان؛ بدون CNS؛ ERT/SRT)، فابری (XLR؛ GLA؛ آنژیوکراتوما/آکرپارستزی/کلیه/قلب/سکته؛ ERT+میگالاستات chaperone)، پومپه (AR؛ GAA؛ نوزادی: HCM شدید+هیپوتونی+CRIM status تعیین‌کننده ایمنی ERT؛ بزرگسالی: عضلانی-تنفسی).",
+      "level2": "درسنامه: مرور کامل لیزوزومی‌های پرتکرار آزمون: — MPS: Hurler (MPS I؛ α-L-iduronidase؛ dysostosis + ID؛ corneal clouding)، Hunter (II؛ iduronate sulfatase؛ XLR؛ بدون کورنیال؛ aggression)، Sanfilippo (III؛ heparan N-sulfatase...؛ ID شدید با محفوظ بودن early somatic)، Morquio (IV؛ N-acetylgalactosamine-6-sulfatase؛ اسکلتی شدید بدون ID؛ odontoid)، Maroteaux (VI)، Sly (VII؛ β-glucuronidase)؛ تشخیص: GAG ادرار → الکتروفورز؛ درمان: ERT (I، II، IV-A=elosulfase)، HSCT زودهنگام (I؛ II درخشی)؛ — Lipidoses: Tay-Sachs (HexA؛ آشکنازی؛ macular cherry-red؛ startle؛ اشتباه نشود با Sandhoff HexAB)، Niemann-Pick A/B (SMPD1؛ foam cells؛ cherry red متغیر؛ type C = NPC1/2 کلسترول ترافیکینگ؛ انسفالوپاتی عمودی gaze palsy؛ miglustat)، Krabbe (galactocerebrosidase؛ globoid cells؛ HSCT پیش‌علامتی)، Metachromatic leukodystrophy (arylsulfatase B؟ نه A؛ sulfatidosis؛ وارثه؛ EEG)، Fabry/Gaucher بالا؛ Wolman/CESD (LAL؛ adrenal calcification)؛ — پومپه →CK بالا؛ GAA در dried blood؛ — نکته‌های ترکیبی: «سکته جوان + آنژیوکراتوما» فابری؛ «فمور Erlenmeyer + پان‌سیتوپنی» گوشر؛ «بیمار HCM نوزاد + CK↑» پومپه؛ «gaze عمودی» NPC؛ «آدنوئید بدون عفونت + درشت‌سلی MPS»."
+    },
+    {
+      "id": "em18-4", "topic": "PKU", "difficulty": "medium",
+      "stem": "کدام مورد درباره PKU صحیست نیست؟",
+      "options": ["علت شایع نقص PAH است؛ BH4 نقص در ~۲٪", "بدون درمان: ID شدید، بوی موس، اگزما، رنگین کم", "درمان: رژیم محدود فنیل‌آلانین + تیروزین مکمل؛ ساپروپترین در BH4-responsive", "وراثت اتوزومال غالب با تمام نفوذ"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ نادرست است. PKU AR است (PAH؛ 12q23)؛ بقیه صحیح؛ درمان جدید: pegvaliase (آنزیم جایگزین Phe-degrading؛ بالغ)؛ مادر PKU بدکنترل: microcephaly/CHD/ID جنین — نکته بالینی مهم.",
+      "level2": "درسنامه: PKU کامل (کلیشه سوالات IEM): — بیوشیمی: PAH: Phe→Tyr؛ نقص → Phe↑↑، Tyr↓؛ مسیر جایگزین فنیل‌پیروات/استات (بوی موس)، فنیل‌لاکتات، فنیل‌استیل‌گلوتامین؛ مهار تیروزیناز (رنگ کم) و ترپتوفان هیدروکسیلاز (↓5HT)؛ — انواع: کلاسیک Phe>1200 µmol/L؛ خفیف/HPA؛ BH4-cofactor نقص: PAH سالم؛ BH4 biosynthesis (GTPCH/PTPS/PCD sepiapterin) یا بازاحتث (DHFR)؛ پترین‌ها/نوروترانسمیتر‌ها پایین (تست: CSF)؛ علائم اضافی: بروز نورولوژیک حتی با رژیم؛ درمان: BH4 + L-DOPA/5-HTP؛ — مدیریت رژیم: Phe-free formula + measured Phe؛ تایروسین essential؛ پایش Phe هدف 120-360؛ مادری PKU: کنترل قبل از لقاح (Phe<360) برای جنین؛ — غربالگری: نوزادی افزایش Phe؛ تکرار غلطت‌ها؛ تفکیک BH4: pterin panel + آزمون BH4 load؛ — نکته‌های آزمونی: «HPA با نورولوژیک پیش‌رونده → BH4 نقص»؛ «مادر با Phe بالا: چه عوارض جنین مستقل از ژنوتیپ؟»؛ «کدام ویتامین‌ها کوآنزیم PAH؟» BH4 (B6 نیست!)."
+    },
+    {
+      "id": "em18-5", "topic": "بیماری‌های peroxisomal", "difficulty": "hard",
+      "stem": "نوزاد با ناهنجاری صورت (بحرانی)، فلکس ناگهانی، تشنج، اختلال مادرزادی چشایی شنوایی، هپاتومگالی و روند کشنده؛ MRI مهاجرت نئورونال ناقص؛ آزمایش: VLFCA (C26 بالا، نسبت C26/C22 بالا) و phytanic acid بالا؛ تشخیص؟",
+      "options": ["Zellweger (سندرم زلوگر؛ نقص بیوژنز پراکسیزوم؛ PEX ژن‌ها)", "X-ALD (ABCD1)", "Refsum (PHYH/PEX7)", "نئوناتال adrenoleukodystrophy خفیف"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Zellweger spectrum (ZSD؛ PEX1 شایع‌ترین): نقص تشکیل پراکسیزوم → تجمع VLCFA + phytanic + plasmalogen↓؛ کraniofacial + poliodystrophy + seizures + hepatomegaly + cystic kidneys؛ MR: migration (پلی‌مایکروژیریاس)؛ کشنده نوزادی تا انواع خفیف‌تر بزرگسال.",
+      "level2": "درسنامه: پراکسیزومال‌ها (دسته‌بندی آزمونی): — گروه بیوژنز (ZSD): بالا؛ تست‌ها: VLFCA/plasmalogen/phytanic؛ PEX1/6/10...؛ انواع: زلوگر (شدید)، نئوناتال ALD، infantile Refsum (خفیف‌ترین) — طیف واحد؛ — گروه تک‌آنزیمی: X-ALD (ABCD1؛ XLR؛ فقط VLCFA؛ فنوتیپ‌ها: CCD childhood cerebral؛ adrenomyeloneuropathy؛ آدرنال insufficient؛ پسران + زنان حامل علامت‌دار AMN؛ درمان: لورنزو oil بحثی؛ HSCT در CCD زود (در حال Progress؛ MIOP؟)؛ آتiras?? elivaldogene (SKYSONA؛ lentiviral ABCD1؛ تأیید 2024 آمریکا)؛ NW؟)، Refsum بزرگسالی (phytanic فقط؛ retinitis/anosmia/ataxia؛ رژیم)؛ D-bifunctional؛ ACOX1؛ RCDP (PEX7؛ plasmalogen؛ condrodysplasia punctata)؛ — تله آزمونی: «VLCFA بالا + آدرنال → XALD»؛ «VLCFA + phytanic + plasmalogen↓ + ناهنجاری → ZSD»؛ «chondrodysplasia punctata → RCDP/Warfarin/матernal lupus؟»؛ تشخیص اولیه: plasma VLFCA؛ سپس پژوهشی."
+    },
+    {
+      "id": "em18-6", "topic": "بیماری‌های میتوکندریایی", "difficulty": "hard",
+      "stem": "کدام جفت در بیماری‌های میتوکندریایی صحیح است؟",
+      "options": ["MELAS – m.3243A>G (MT-TL1) – سکته‌مانند + اسیدوز لاکتیک", "MERRF – m.8344A>G (MT-TK) – میوکلونوس + رگه‌های ناخالی", "LHON – m.11778G>A – نابینایی جوانان مرد", "همه موارد"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ صحیح است. هر سه جهش‌های کلاسیک درست‌اند؛ درمان‌های حمایتی (کوآنزیم Q10، ریبوفلاوین؛ اجتناب از متفورمین/والپروات/استرپتومایسین)؛ درمان‌های در راه: elamipretide؛_SS-31؛ ژن‌درمانی LHON (lenadogenol？ GS010/RetroSense؛ رینوپاتی) — نکته روزآورد.",
+      "level2": "درسنامه: میتوکندریوپاتی‌ها — نقشه ذهنی آزمونی: — mtDNA: نقص‌های ساختاری: m.3243 MELAS (DM/دستگیری hearing؛ کاردیو)؛ m.8344 MERRF؛ m.8993 NARP/Leigh؛ LHON (11778/3460/14484؛ penetrance مرد جوان؛ سیگار/الکل محرک)؛ KSS (حذف بزرگ منفرد؛ علامت: retinitis+ophthalmoplegia+heart block → pacemaker)؛ Pearson ( marrow-pancreas)؛ — کاهش تعداد (depletion) و نوترکیبی‌های متعدد (mtDNA multi-deletion؛ POLG؛ دردوNU?; ANTI؛ twinkle) — AR/AD هسته‌ای؛ Leigh syndrome (زیرگروه‌های پرشمار: SURF1/COX؛ PDH؛ mtDNA mutationها)؛ MNGIE (TYMP؛ gut dysmotility + leukoencephalopathy؛ لنتوستئو؟)؛ Alpers (POLG؛ صرع+کبد با والپروات کاتاستروفیک — نکته دارویی حیاتی)؛ — تشخیص: لاکتات/پیراوات؛ CSF لاکتات؛ بیوپسی عضله (ragged red/COX-)؛ mtDNA sequencing (خون منفی در حذف‌ها → ادرار/عضله)؛ بیماری‌های هسته‌ای: WES؛ — مدیریت: کاکربوکسیلاز/CoQ10/ریبو/B1؛ elamipretide در MMACLE؛ اهدای کشی؟ MELAS stroke-like: آرژینین؛ ژن‌درمانی LHON؛ پرهیز دارویی؛ مشاوره: مادری/هتروپلاسمی؛ هسته‌ای AR؛ «بازآورد ریسک با درصدهای ادرار»."
+    },
+    {
+      "id": "em18-7", "topic": "اسیدوز ارگانیک", "difficulty": "hard",
+      "stem": "نوزاد با اسیدوز متابولیک شدید با آنیون گپ بالا، کتوز، هایپرآمونمی متوسط، نوتروپنی، بوی خاص «پای گربه»؛ آزمایش: متیل‌مالونیک اسید بالا؛ تشخیص تفکیکی اصلی؟",
+      "options": ["متیل‌مالونیک اسیدوری (MUT یا نقص B12/cbl) در برابر پروپیونیک اسیدمی (PCCB) — با سنجش متیل‌مالونیک/۳-هیدروکسی‌پروپیونات", "MSUD", "PKU", "تیروزینمی"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. MMA: اسیدوز+کتوز+آمونیاک متوسط+نوتروپنی؛ بوی MMA خاص؛ تفکیک با PA (بدون MMA)؛ درمان MMA: پروتئین محدود + کارنیتین + B12 (در cobalamin-responsive)؛ PA: رژیم + بیوتین نه؛ نتیجه:‌ هر دو AR؛ غربالگری نوزادی (C3 propionylcarnitine).",
+      "level2": "درسنامه: ارگانیک‌اسیدوری‌ها (مرور آزمونی): — MMA: mut0/mut− (MUT) یا cblA/B/C/D (کوبالامین متابولیزم: MMAA/MMAB/MMACHC/MCEE)؛ cblC هموسیستین هم بالا (combined)؛ مدیریت: کالری، کارنیتین، B12 IM test؛ HSCT بحثی؛ آنزیم توپوئی؟؛ خطر: метabis؟؛ — PA (PCCA/B): اسیدوز شدیدتر؛ pancytopenia؛ بافتما pancreatitis؛ درمان: رژیم ile/val/met/thr محدود + کارنیتین؛ nitisinone؟ نه؛ — IVA (isovaleryl-؛ IVD): بوی «سویا ساقه پا»؛ C5؛ درمان: leucine محدود + گلیسین/کارنیتین؛ — GA1: بالا؛ نکته پیشگیری سونو macrocephaly، «سکته‌مانند استریاتال» در بیماری؛ درمان: لیزین/تریپتوفان محدود + آرژینین؛ carnitine؛ — MSUD (BCKDH): بوی شیره افرا؛ leucine↑ → brain edema acute؛ درمان: dialysis در نوزادی؛ B1-responsive variant؛ — 3MGA؛ HMG؛ فوماراز/– سرطان (HLRCC hereditary leiomyomatosis+renal papillary؛ fumarate hydratase — پیوند سرطان-IEM آزمونی!)؛ — نکته غربالگری: abnormal acylcarnitine → urgency؛ false positive Extreme prematurity/TPN."
+    },
+    {
+      "id": "em18-8", "topic": "گالاکتوزمی", "difficulty": "medium",
+      "stem": "نوزاد پس از شروع شیر گاوی با استفراغ، زردی، آب‌مروارد، کبد بزرگ و سفاک چشم؛ ادرار کاهش گلوکز/کاهش گالاکتوز؛ محتمل‌ترین نقص و درمان فوری؟",
+      "options": ["کلاسیک گالاکتوزمی (GALT)؛ قطع گالاکتوز/لاکتوز (سویا) فوراً", "فرکتوزمی کلاسیک (ALDOB)؛ قطع فروکتوز", "تیروزینمی؛ NTBC", "VLCAD؛ مالتی"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. GALT نقص: گالاکتوز-۱-فسفات تجمع → کبد/لنز/مغز (E. coli سپسیس کلاسیک!؛ نکته بالینی)؛ آزمون Beutler در غربالگری؛ درمان: دیته فوری بدون گالاکتوز (سویا)؛ عوارض بلندمدت با وجود رژیم: OV failure، اسپیچ، tremor؛ گالاکتوزمی‌های دیگر: GALK (کاتارکت تنها)؛ GALE (epimerase).",
+      "level2": "درسنامه: قندهای متابولیزم-نقص (تفکیک): — Galactose pathway: Leloir (GALK→GALT→GALE→UDP-gal)؛ کلاسیک GALT (Q188R شایع اروپا): بالا؛ سفاک نوزادی + E. coli + cataract (galactitol) + ascites؛ درمان رژیم مادام‌العمر؛ OV insufficiency ذخیره؛ — HFI (ALDOB fructose-1-P aldolase B): شروع با میوه/شکر: استفراغ+هیپوگلی هیپرالانین+توبولوپاتی proximal + hepatomegaly؛ sucrose breath test نه؛ درمان: حذف فروکتوز/ساکارز؛ chronic: growth failure؛ «شیرخوار سالم تا شروع غذا»؛ — فرم‌های مایلتری؟ DM؟؛ وابسته PPP G6PD (فصل ۲۰ هارپر)؛ — Hereditary fruct intol vs galact: سوال تله «زردی+E.coli» گالاکتوزمی؛ «استفراغ با میوه» HFI؛ — نکته غربالگری: GALT enzyme در کارت گوتری؛ PA/HFI جزو نیستند."
+    },
+    {
+      "id": "em18-9", "topic": "بیماری‌های غدد و IEM", "difficulty": "medium",
+      "stem": "دختر نوجوان با تیرگی پوست، سندرم فقدان نمک، آندروژن بالا (DHEAS) و 17-OHP بسیار بالا؛ کاریو 46,XX؛ تشخیص و ژن؟",
+      "options": ["CAH نقص 21-هیدروکسیلاز (CYP21A2)؛ کلاسیک virilizing-salt wasting", "11β نقص؛ هایپرتانسیون", "5α نقص؛ 46,XY", "CRF?"],
+      "answer_idx": 0,
+      "level1": "گزینه ۲ صحیح... توجه: گزینه ۱ صحیح است. 21-OH (۹۰-۹۵٪ CAH): 17-OHP↑، آندروژن↑ → ویریلیزاسیون 46,XX و salt-wasting (کورتزول+آلدوسترون پایین؛ رنین↑)؛ درمان: هیدروکورتیزون+فلودروکورتیزون؛ نوجوان: پرهیز از over-treatment؛ غربالگری نوزادی 17-OHP؛ 11β: 11-deoxycortisol↑ و DOC→هایپرتانسیون.",
+      "level2": "درسنامه: CAH و IEM اندوکرین (آزمونی): — مسیر استروئید: کلیسترول→پرگننولون→...؛ آنزیم‌ها و نقص‌ها: 21-OH (CYP21A2؛ فعال‌ژن CYP21A1P pseudogene → ژن تبدیلی؛ شایع جهش‌ها: del، I2splice، Q318X...)؛ 11β (CYP11B1؛ HTN + virilize)؛ 3β-HSD (DHEA↑؛ خفیف virilize + salt loss)؛ 17α-هیدروکسیلاز (CYP17A1؛ HTN + DSD 46,XY + کاندیخت؟ absent second)؛ StAR (lipoid؛ salt+DSD هر دو)؛ POR (Antley-Bixler؛ skeletal + mothers virilization)؛ — مدیریت نوزادی بحران نمکی: نمک/گلوکز+هیدروکورتیزون IV؛ اورژانس تشخیصی؛ پایش: 17-OHP/آندروژن/رنین؛ جراحی تناسلی: بحث‌برانگیز (شخص‌محور)؛ نوجوان: transition؛ باروری؛ PGT خانواده؛ — تفاوت غرغره pseudo: GIP-dependent Cushing (McCune-Albright/ARMC5)؛ — نکته: «مادر virilized + نوزاد craniosynostosis → POR نقص»؛ «HTN + virilization → 11β»؛ «salt-waste + virilize → 21OH»."
+    },
+    {
+      "id": "em18-10", "topic": "پورفیری و IEM کلاسیک دیگر", "difficulty": "medium",
+      "stem": "جوان با دردهای شکمی شدید، یبوست، تشنج، ضعف و ادرار تیره در معرض استرس/دارو؛ سنجش PBG ادرار بالا؛ تشخیص و محرک‌ها؟",
+      "options": ["پورفیری حاد intermittent (AIP؛ PBG deaminase)؛ محرک‌ها: داروها (سیپروفلوکساسین، باربیچورات؟ CYP inducers)، الکل، ناشتایی، هورمون‌ها؛ درمان: هم‌آرژینات/گلوکز", "PCT؛ فلبوتومی", "EPP؛ نور", "Lead؛ BAL"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. AIP (AD با penetrance کم ~۱۰٪): حملات نوروویسرال (درد شکم بدون علائم پریتونی، سیاهرگ روانی)؛ نوروپاتی؛ تشخیص: PBG ادراری↑ (سریع در حملات)؛ محرک‌ها: CYP450 inducerها (فهرست داروهای ناامن)، پروژسترون، الکل، کم‌کالری، استرس، عفونت؛ درمان حمله: همن (hemin/panhematin)، کربوهیدرات؛ پیشگیری: اجتناب محرک‌ها.",
+      "level2": "درسنامه: پورفیری‌ها — خلاصه چهارگانه آزمونی: — حاد: AIP (PBGD؛ پوست-)، VP (پروتوپورفیرینوژن اکسیداز؛ پوست+حاد)، HCP (کوپرو؛ +)؛ مشترک: ALA-synthase القایی؛ آزمون غربال حمله: PBG ادرار (rapid)؛ — پوستی: PCT (UROD؛ شایع‌ترین؛ تاول‌های hand dorsal؛ محرک: آهن/الکل/HCV/استروژن؛ درمان: فلبوتومی/کلروکین کم‌دوز)؛ EPP (ferrochelatase؛ کودک؛ درد نور بدون بلISTER؛ پروتوپورفرین RBC؛ خطر صفراوی)؛ XLP (ALAS2 gain)؛ CEP (Congenital؛ CEP؛ دندان قرمز fluorescence؛ Důle)؛ — سرب: هر دو مسیر مهار (ALA dehydratase) → آگهی؛ آب‌های؟؛ — نکته آزمونی: «درد شکم+ادرار تیره پس از جراحی/دارو» → PBG سریع؛ «تاول+ضایعات پوستی در دست‌های کارگر» PCT؛ «کودک گریان بعد از آفتاب» EPP؛ «نوروترانسمیتر حملات حمله: درمان؟» hemin."
+    }
+  ]
+}

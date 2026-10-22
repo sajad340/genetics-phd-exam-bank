@@ -1,0 +1,87 @@
+{
+  "book_id": "emery", "chapter_no": 16,
+  "chapter_title_en": "Congenital Abnormalities, Dysmorphic Syndromes, and Learning Disability",
+  "chapter_title_fa": "فصل ۱۶: ناهنجاری‌های مادرزادی، سندرم‌های دیسمورفیک و ناتوانی یادگیری", "exam_weight": 3,
+  "questions": [
+    {
+      "id": "em16-1", "topic": "سندرم‌های میکرودیلیشن", "difficulty": "hard",
+      "stem": "کدام جفت «سندرم–ناحیه–ویژگی شاخص» صحیح است؟",
+      "options": ["ویلیامز – 7q11.23 – چهره الفین، هایپرکلسمی نوزادی، CVAS", "دی‌جورج – 22q13 – Rett?", "پرادرویلی – 15q11 مادری", "SOTOS – 16p11"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ویلیامز (حذف 7q11.23 شامل ELN): چهره Elf-like، شخصیت فوق‌العاده اجتماعی (cocktail party)، هایپرکلسمی/سندرم هایپرکلسمی-آرتزی نوزادی، تنگی سوپراوالولار آئورت (ELN). دی‌جورج = 22q11.2؛ پرادرویلی = فقدان سهم پدری 15q11؛ سوتوس = NSD1/5q35.",
+      "level2": "درسنامه: میکرودیلیشن‌های کلاسیک (جدول حفظی): — 22q11.2 (DiGeorge/Velocardiofacial؛ TBX1): قلب مخروطی-تناسلی، هیپوپلازی تیموس/پاراتیروئید (هیپوکلسم)، شکاف کام-VEL، سایکوز؛ — 7q11.23 (Williams؛ ELN): بالا؛ — 15q11-q13: پدری حذف/UPD مادری/ID = PWS؛ مادری حذف/UPD پدری/UBE3A = AS؛ — 5p15 (cri-du-chat؛ CTNND2): گریه گربه‌ای، microcephaly؛ — 4p16.3 (Wolf-Hirschhorn؛ WHSC1): «کلاهخود یونانی»؛ — 1p36: تشنج/کاردیومیوپاتی؛ — 17p11.2 (SMS؛ RAI1): Smith-Magenis (خودآسیبی، خواب معکوس) و dup17p11.2 Potocki-Lupski؛ — 16p11.2 del/dup: اوتیسم/چاقی متغیر؛ — 3q29، 15q13.3، 16p13.11 (صرع/ID)؛ — 17q21.31 (Koolen-de Vries؛ KANSL1)؛ — 2q23.1 (MBD5)؛ — نکته روش آزمونی: تشخیص با آرایه-CGH (نه کاریوتایپ)؛ «سندرم‌های چندگانه ناهنجاری + کاریوتایپ نرمال» → آرایه؛ اکثر AD de novo با ریسک تکرار کم (<۱٪) اما ناقلان متوازن والدین باید رد شوند (~۵-۱۰٪ یک والد حامل ترانس‌لوکیشن سالم)."
+    },
+    {
+      "id": "em16-2", "topic": "Fragile X", "difficulty": "hard",
+      "stem": "درباره سندرم X شکننده کدام نادرست است؟",
+      "options": ["جهش تکرار CGG در 5′UTR ژن FMR1 (>۲۰۰ تکرار + متیلاسیون → خاموشی)", "پسران مبتلا چهره طولانی، گوش‌های بزرگ، ماکرواورکیسم، ناتوانی ذهنی", "Premutation (۵۵-۲۰۰) بی‌خطر و همیشه بدون پیامد", "خطر تبدیل premutation به full mutation فقط در انتقال مادری است"],
+      "answer_idx": 2,
+      "level1": "گزینه ۳ نادرست است (پاسخ). Premutation خودش دو فنوتیپ می‌سازد: FXTAS (لرزش/آتاکسی/شناخت در مردان و برخی زنان مسن) و FXPOI (نارسایی زودرس تخمدان در زنان). بقیه گزینه‌ها صحیح‌اند.",
+      "level2": "درسنامه: Fragile X spectrum (آزمونی‌ترین بیماری تکراری X): — ژنتیک: FMR1 در Xq27.3؛ نرمال <45؛ خاکستری 45-54؛ premutation 55-200 (بدون متیلاسیون؛ RNA toxic gain؛ انتقال پایدار-به‌پیش؟ بزرگ‌شدن در مادری)؛ full >200 (متیلاسیون؛ FMRP↓؛ translational regulator)؛ AGG interruptions محافظ — کم‌بودن AGG → خطر گسترش بیشتر (نکته مشاوره دقیق)؛ — فنوتیپ‌ها: full در پسر: ID متوسط-شدید، چهره، رفتار اوتیسمی/ADHD، تشنج ~۱۵-۲۰٪، MVP؛ دختران full (فعال‌سازی X): ID خفیف-مرزی/اضطراب؛ premutation: FXTAS (FXTAS علامت MRI مایکل‌شلوی sign MCP)، FXPOI (زنان ~۲۰٪)؛ — تشخیص: PCR تکرار (sizing) + Southern blot برای متیلاسیون/موزاییک؛ TP-PCR غربال؛ آزمون‌های جدید NGS特殊 — تله: WES استاندارد تکرارها را نمی‌بیند؛ «آزمون خون منفی؟» در زن هترو Full از دست رفته؛ — مدیریت: رفتاری-آموزشی؛ medication (stimulants)؛ مشاوره: خواهر حامل پسران؛ ارجاعات؛ سطح‌بندی: آزمون فراجیل X در هر ID/XLD نامشخص؛ ریسک گسترش بر اساس تعداد تکرار مادر (مثلاً 70-90 بدون AGG → بالا)."
+    },
+    {
+      "id": "em16-3", "topic": "RASopathies", "difficulty": "medium",
+      "stem": "کدام سندرم جزء RASopathies نیست؟",
+      "options": ["Noonan", "Costello", "Cardio-facio-cutaneous", "Cornelia de Lange"],
+      "answer_idx": 3,
+      "level1": "گزینه ۴ صحیح است. Cornelia de Lange (NIPBL/SMC1A/SMC3/HDAC8؛ cohesion pathway) جزء RASopathies نیست؛ RAS/MAPK family: Noonan (PTPN11 و...)، Noonan-with-lentigines/LEOPARD، Costello (HRAS)، CFC (BRAF/MEK1/2/KRAS)، Legius (SPRED1)، NF1، و یک submenu: Noonan-like RIT1/SOS2.",
+      "level2": "درسنامه: RASopathies (جدول تفکیکی ظریف): — Noonan: کوتاه‌قدی، pectus، گردن پتریژیوم، چهره، پتوز،出血خواندی (factor XI↓)، PS قلبی (ولو پولمونار هپرپلازی؛ HCM 20٪)؛ AD؛ PTPN11 ~۵۰٪ (و افزایش JMML-خطر کودکی با PTPN11)؛ SOS1، RAF1 (HCM)؛ RIT1؛ — LEOPARD/NS-ML: لنتيجینز، deafness؛ PTPN11/RAF1؛ — Costello (HRAS G12S): پوست شل، کاردیومیوپاتی HCM، ریسک بالا rhabdomyosarcoma/neuroblastoma، پالیلال؛ — CFC: چهره شدیدتر، اکترومری؟ no: skin/neuro شدید؛ BRAF؛ — Legius (SPRED1): café-au-lait بدون نوروفیبروما — تله با NF1؛ — NF1: نوروفیبروما، لیش نودول Lisch، آکسیلاری freckling؛ خطر MPNST/جوانی؛ — بالینی: استاندارد مراقبت قلبی-رشد-هماتولوژی (JMML watch در نوزاد PTPN11)؛ MEK inhibitor (trametinib) در آزمون‌ها؛ نکته آزمونی: «پسر با پتوز/قد کوتاه/PS قلبی و فاکتور XI پایین؛ ژن؟» PTPN11."
+    },
+    {
+      "id": "em16-4", "topic": "ناتوانی ذهنی و آزمون", "difficulty": "medium",
+      "stem": "اولین تست ژنتیکی منطقی در کودک پسر با ناتوانی ذهنی غیرسندرمی و آنامی مثبت خانوادگی برادران مبتلا کدام است؟",
+      "options": ["کاریوتایپ استاندارد", "آزمون Fragile X (تکرار CGG)", "آرایه-CGH", "FISH سانترمر X"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. الگوی برادران-مبتلا (بدون انتقال مرد-به-مدر) XLR را مطرح می‌کند و در XLR-ID، فراجیل X شایع‌ترین علت شناخته‌شده است → آزمون تکرار FMR1 اول؛ آرایه-CGH برای موارد بدون الگوی خانوادگی/ناهنجاری‌ها خط اول است.",
+      "level2": "درسنامه: الگوریتم ارزیابی ID/GDD (چک‌لیست آزمونی): — بالینی: HPO-based dysmorphology؛ exam = skin/eye/ear/گوسطونی؛ croissance (micro/macrocephaly)؛ — تست‌های اول خط بر اساس سناریو: دختر با رگرسیون → MECP2/سندرم رت؛ پسر + برادران → FMR1؛ ناهنجاری‌های متعدد/رفیال آرایه → aCGH؛ صرع شدید نوزادی → کریوتیپ/آرایه + پنل صرع؛ سندرم بالینی مشخص → تست هدفمند؛ همه نامشخص → WES ترجو (dx yield ~30-40٪)؛ — XLR-ID ژن‌های شاخص: FMR1، IL1RAPL1، OPHN1، ATRX (آلفا-تالاسمی MR؛ HbH inclusion)، Rett-like CDKL5، SLC6A8 (creatine transporter؛ قابل‌درمان!)، DMD (بخش مغزی)، MECP2-duplication پسر (شدید)؛ — نکته قابل‌درمانی‌ها: creatine synthesis (GAMT/GATM)، CTD (SLC6A8)، CP۵؟؛ biotinidase؛ homocystinuria؛ MTHFR؛ Sandhoff؟؛ — پشتیبانی: غربالگری شنوایی/بینایی، رشدی، ژنتیک-مشاوره تکرار (de novo vs وراثتی؛ gonadal mosaicism 1-7٪)."
+    },
+    {
+      "id": "em16-5", "topic": "کرانیوسینوستوزیس", "difficulty": "medium",
+      "stem": "جفت «سندرم–ژن–وراثت» در کرانیوسینوستوزیس کدام صحیح است؟",
+      "options": ["آپرت – FGFR2 – AD", "کروزون – FGFR3 – AR", "میونک – TWIST – XL", "کارپنتر – FGFR1 – AR"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Apert (FGFR2؛ AD اکثراً de novo؛ synostosis coronal + syndactyly میانی)؛ Crouzon هم FGFR2 (نه 3)؛ Muenke (FGFR3؛ uni/bi-coronal؛ AD)؛ Saethre-Chotzen (TWIST1؛ AD)؛ Carpenter (RAB23 یا MEGF8؛ AR؛ polydactyly)؛ Pfeiffer (FGFR1/2).",
+      "level2": "درسنامه: کرانیوسینوستوزیس‌ها (نکات آزمونی): — شایع‌ترین تک‌خوره: sagittal (دولیکوسفالی) اکثراً غیرسندرمی؛ — FGFR سه‌گانه: Apert (FGFR2 Ser252Trp/Pro253Arg؛ midface + syndactyly کامل دست-پا؛ CHD risk؛ de novo پدر مسن)، Crouzon (بدون اندام؛ FGFR2)، Pfeiffer (پهن‌شست/انگشت + FGFR1 P252R یا FGFR2)، Muenke (FGFR3 P250R؛ شایع‌ترین سندرم AD coronal؛ شنوایی)؛ Beare-Stevenson (FGFR2؛ cutis gyrata)؛ — TWIST1 Saethre-Chotzen (پتوز/low hairline)؛ RAB23 Carpenter (AR؛ polydactyly؛ چاقی؟)؛ TCF12؛ ERF؛ — درمان: جراحی چندمرحله‌ای (cranial vault؛ midface)؛ تیم‌محور؛ مشاوره: AD؛ de novo در Apert/Pfeiffer پدر-سن؛ MGX؛ هایپوپلازی؟ — تشخیص افتراقی microcephaly true vs positional plagiocephaly (بدون ریج)؛ — آزمون ترکیبی: «کرانیوسینوستوز + سینداکتیلی؟» Apert؛ «+ پهن‌انگشتی؟» Pfeiffer؛ «+ شبه‌مارفان بلند؟» Shprintzen-Goldberg (SKI)؟ Loeys-Dietz (TGFBR؛ دوترین)."
+    },
+    {
+      "id": "em16-6", "topic": "HPO و فنوتیپینگ", "difficulty": "easy",
+      "stem": "استاندارد بین‌المللی فعلی برای توصیف ساختاریافته فنوتیپ‌های انسانی به‌منظور تطبیق با ژن‌ها/بیماری‌ها کدام است؟",
+      "options": ["ICD-11", "HPO (Human Phenotype Ontology)", "SNOMED فقط", "OMIM فقط"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. HPO واژگان کنترل‌شده فنوتیپی است؛ ابزارها: Phenomizer/Exomiser برای رتبه‌بندی ژن‌های کاندید WES بر اساس شباهت فنوتیپ؛ Monarch Initiative؛ LIRICAL؛ در گزینه‌های آزمونی «matching فنوتیپ به ژن» → HPO.",
+      "level2": "درسنامه: فنوتیپینگ دیجیتال (مفاهیم نوظهور آزمونی): — ساختار: termهای DAG (is-a)؛ ~۱۶k term؛ HPO annotation به OMIM/Orphanet/genes؛ — کاربرد تشخیصی: Exomiser/Phevor ranking؛ Face2Gene (DeepGestalt؛ تشخیص چهره سندرمی با دپ‌لرنینگ؛ ethical issues)؛ — ارزیابی دوخت فنوتیپ: negative findings مهم؛ — چالش: telBASH؟ کیفیت داده؛ privacy (چهره)؛ نکته آزمونی: گاهی درباره «ابزار رتبه‌بندی کاندید ژن بر اساس فنوتیپ HPO» سوال می‌شود (Exomiser)."
+    },
+    {
+      "id": "em16-7", "topic": "تراتوژن‌های عفونی", "difficulty": "easy",
+      "stem": "میکروسفالی شدید با کلسیمی داخل‌مغزی و چریوریتینیت کلاسیک کدام عفونت مادرزادی است و کدام یکی جدیدتر با همین تابلوست؟",
+      "options": ["سیتومگالوویروس؛ زیکا", "رابولا؛ HIV", "توکسوپلاسما؛ هپاتیت B", "روبلا؛ واریسلا"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. CMV شایع‌ترین عفونت مادرزادی (periventricular calcification، microcephaly، SNHL، petechiae؛ گام‌ما؟)؛ زیکا (۲۰۱۵-۲۰۱۶؛ میکروسفالی با کلسیمی زیر‌مغزی)؛ توکسوپلاسما: کلسیمی پراکنده + چریوریتینیت + هیدروسفالی؛ روبلا بيم： cataract/PDA/deaf؛ سیفلیس: notchia؟ اوسیتیت.",
+      "level2": "درسنامه: TORCH باز (جدول آزمونی): — CMV: شایع‌ترین؛ SNHL متأخر در عفونت مقاوم‌دار (اسیومپتوماتیک newborn → تست شنوایی؛ گان‌سیکلوویر والگان‌سیکلوویر در علامت‌دار CNS)؛ — توکسوپلاسما: سیکلو سپورین؟ no: پیریمتامین+سولفا (اسپیرامایسین بارداری)؛ — زیکا: Aedes؛ محدود به اپیدمی؛ تست IgM/PCR در بارداری مبتلا؛ — روبلا: واکسیناسیون پیش‌بارداری (MMR live؛ یک ماه فاصله)؛ — VZV: varicella zoster immune globulin؛ — HSV: acyclovir deliver؛ — پاروو B19: هایdrop؛ — LCMV؛ — تشخیص: PCR urine/saliva (CMV <3wk)، توکسو IgM/avidity؛ سونوگرافی یافته‌ها؛ — پیشگیری: بهداشت/واکسن/آزمون ایمنی؛ کارآزمایش واکسن CMV (mRNA)؛ نکته آزمونی: «شایع‌ترین عفونت مادرزادی علت اکتسابی SNHL؟» CMV."
+    },
+    {
+      "id": "em16-8", "topic": "سندرم‌های تشخیص‌های افتراقی ID", "difficulty": "medium",
+      "stem": "دختر ۲ ساله با رگرسیون رشدی، دست‌لباس‌زنی (hand wringing)، از دست دادن گفتار و ریتم تنفسی آشفته؛ تشخیص محتمل و ژن آن؟",
+      "options": ["رت – MECP2 (XLD؛ اکثراً de novo)", "انجلمان – UBE3A", "رینگ – FOXG1", "لاندو-کلنر – ایمنی"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. سندرم رت کلاسیک: دختران ظاهراً طبیعی تا ۶-۱۸ ماه → رگرسیون با دست‌وریجینگ استریوتیپیک، از‌دست‌دادن زبانی، آپنه/هیپرونتیلاسیون، اسکولیوز، میکروسفالی اکتسابی؛ MECP2؛ مراحل چهارگانه؛ FOXG1 نوع مادرزادی شدید؛ CDKL5 با صرع زودرس.",
+      "level2": "درسنامه: سه‌گانه «دختر + رگرسیون» (تفکیک آزمونی): — رت (MECP2): کلاسیک بالا؛ مراحل؛ تشخیص بالینی+ژن؛ مدیریت: فیزیوتراپی/تغذیه (EFR-سکولیوز)، آنتی‌کانوولزانت؛ پیش‌آگهی بلندمدت پایدار بعد از رگرسیون؛ پسران با MECP2 dup: ID+صرع+عفونت تنفسی مکرر (خانوادگی XLR یا de novo)؛ — Rett-like CDKL5: صرع نوزادی-شیرخوارگی شدید (infantile spasms)؛ — Angelman (UBE3A مادری): پسر/دختر؛ ataxia پابرت، خنده مداوم، میکروسفالی، صرع؛ همان ناحیه 15q11 مادری (تقابل با PWS)؛ — سرتیک؟ Landau-Kleffner: اکتسابی (ادرنو؟)؛ — نکته: MECP2 در دختران مozzaic می‌تواند خفیف («رت فرم آتیپیک»، حفظ دست)؛ پسران با MECP2 جهش نوترکیب (نه dup): مهلک نوزادی encephalopathy؛ — آزمون طرح: «چهار گزینه دختر با رگرسیون» → ترتیب تشخیصی: MECP2/CDKL5/FOXG1/سندرم‌های رت-مانند"
+    },
+    {
+      "id": "em16-9", "topic": "بیماری‌های کلاژن", "difficulty": "medium",
+      "stem": "پسر بلندقد با اسکلروزی سفید چشم (blue sclera)، شکستگی‌های مکرر با ترومای خفیف و شنوایی هایپرلاکسیتی؛ محتمل‌ترین تشخیص و ژن؟",
+      "options": ["Osteogenesis imperfecta type I – COL1A1 (AD؛ haploinsufficiency؛.blue sclera + شنوایی)", "اهلرز-دانلوس کلاسیک – COL5A1", "مارفان – FBN1", "استئوپتروز – TCIRG1"],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. OI نوع I: خفیف‌ترین AD؛ شکستگی کم-تعداد، اسکلرای آبی، شنوایی انتقالی-میکس زودرس، قد نرمال-کمی‌کوتاه؛ COL1A1 null → نصف کلاژن (quantitative). نوع‌های II-IV: progressive deforming؛ V-XX+ (non-COL1): به‌تازگی ژن‌های متعدد (IFITM5، SERPINF1، WNT1، CREB3L1، PLOD؟).",
+      "level2": "درسنامه: OI و کلاژنوپاتی‌ها — نکات آزمونی: — OI: AD COL1A1/A2 (غالب glycine substitution در انواع متوسط-شدید؛ نوع I null)؛ AR نادر: SERPINF1، CRTAP، LEPRE1، PPIB (پروفیل هیدروکسیلاز complex)، WNT1 (همچمان ID)؛ IFITM5/BRISK نوع V (hyperplastic callus؛ mesh bone)؛ بالینی: DI dentinogenesis (دندان‌های خاکستری)، شکستگی-های healed wormian bones rx؛ — تشخیص افتراقی سوءرفتار کودک (multiple fractures در مراحل مختلف بهبود + عدم مطابقت آنامی) — نکته اخلاقی-بالینی؛ — درمان: بیس‌فسفونات (پامیدرونات IV دوره‌ای؛ دنوزوماب/تیریپاراتید انتخابی)، روده؟ فیزیوتراپی، رادیوتراپی؟ rod surgery؛ داروهای جدید: setrusumab (anti-sclerostin؛ فاز 3 Orbit)؛ — EDS: کلاسیک (COL5A1/2؛ hypermobile + atrophic scars + velvet)؛ hypermobile (به‌تازگی به‌طور بحث‌برانگیز HSD؛ بدون مارکر ژنتیکی)؛ vascular (COL3A1؛ EDS type IV — خطر عروقی/روده؛ پروفیلاکتیک celiprolol؛ سونوگرافی)، kyphoscoliotic (PLOD1)، arthrochalasia (COL1A1/A2 N-terminal)، classical-like (TNXB)، periodontitis، musculocontractural؛ راهنمای 2017 Villefranche nosology جدید؛ — مارفان (FBN1؛ معیارهای Ghent: aortic root + ectopia lentis + متاآنیک)؛ Loeys-Dietz (TGFBR1/2؛ tortuous vessels؛ UV باز)؛ Beals (FBN2؛ contractural arachnodactyly)؛ ACTA2 myopathy؛ — VACTERL برای فرم‌های متعدد؛ همونوئی؟; — طراحی سوال: «شنوایی+اسکلر آبی+شکستگاه خفیف؟» OI-I؛ «بزرگ‌شدن آئورت + عدسی؟» مارفان؛ «پارگی روده/عروق جوان؟» EDS-vascular (COL3A1)."
+    },
+    {
+      "id": "em16-10", "topic": "غربالگری و پیشگیری ناهنجاری", "difficulty": "easy",
+      "stem": "مؤثرترین مداخله پیشگیرانه شناخته‌شده برای کاهش نقص لوله عصبی کدام است؟",
+      "options": ["ویتامین A دوز بالا", "اسید فولیک ۰.۴ میلی‌گرم روزانه پیش از لقاح (و ۴ میلی‌گرم در سابقه مبتلا)", "آهن وریدی", "استراحت مطلق"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. مکمل فولیک پیش از بارداری (حداقل ۱ ماه قبل تا ۱۲ هفته اول) شیوع NTD اولیه را ~۷۰٪ کاهش می‌دهد؛ در سابقه NTD/داروی ضدمتادول (والپروات/متوترکسات)/دیابت: ۴-۵mg؛ غذاهای غنی‌سازی‌شده؛ نکته: ویتامین A تراتوژن است.",
+      "level2": "درسنامه: پیشگیری ناهنجاری‌ها (جمع‌بندی عملی آزمونی): — پری‌کانسپشن: فولات (MTHFR 677T/T بحثی — پاسخ متغیر؛ فرم 5-MTHF)، کنترل دیابت (HbA1c<6.5٪)، تیروکسین، قطع تراتوژن‌ها (والپروات→لوتیریژین/لوموتریژین؛ رتینوئید→تجویز بارداری iPLEDGE)، واکسیناسیون (MMR قبل؛ HBV/Tdap در حین)، بهداشت غذایی (لیستریا/توکسوپلاسما)، ید؛ — غربالگری سونو: 11-13+6 NT+nasal؛ 18-22 آناتومی؛ — مکمل‌های جدید بحثی: myo-inositol در NTD مقاوم؛ — سیاست‌ها: غنی‌سازی آرد (ایران از ۱۳۹۰ها در آرد گندم)؛ — نکته طرح سوال ترکیبی: «زن با سابقه یک فرزند NTD، دوز توصیه؟» 4mg؛ «ویتامین A دوز بالای تراتوژن است» گزینه انحرافی رایج."
+    }
+  ]
+}
