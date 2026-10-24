@@ -1,0 +1,137 @@
+{
+  "book_id": "harper", "chapter_no": 42,
+  "chapter_title_en": "Hormone Action & Signal Transduction",
+  "chapter_title_fa": "فصل ۴۲ هارپر: عملکرد هورمون‌ها و انتقال پیام", "exam_weight": 4,
+  "questions": [
+    {
+      "id": "hp42-1", "topic": "طبقه‌بندی هورمون‌ها", "difficulty": "medium",
+      "stem": "کدام دسته هورمونی با گیرنده‌های غشایی سرفصل مشترک دارند؟",
+      "options": [
+        "پپتیدی/پروتئینی (انسولین، GH، PTH) و آمینی (اپی‌نفرین؛ کاتکولامین‌ها) — غشایی؛ استروئیدی (کورتیزول/آلدوسترون/سکس/ویتD) — داخل‌سلولی (cytosolic/nuclear)؛ تیروئیدی — nuclear (T3/T4 عبور غشا با حمل‌کننده)",
+        "همه غشایی",
+        "همه داخل‌سلولی",
+        "تیروئیدی غشایی"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. دو منطق: (۱) لیپوفیل (استروئید/تیروئید): عبور غشا؛ گیرنده‌های HRE (Hormone Response Element)؛ اثر رونویسی کند ساعت‌ها (Genomic)؛ (۲) آب‌دوست (پپتید/آمین): گیرنده غشایی؛ ثانیه‌ها-دقایق؛ استثنای مهم: تیروئید آمینی‌مانند ولی nucleus-اffect.",
+      "level2": "درسنامه: هورمون-حس‌آفرینی (مرور آزمونی): — مسیرهای غشایی: GPCR (Gs/Gi/Gq/G12)؛ RTK (انسولین/EGF/IGF/FGF)؛ JAK-STAT (cytokine/GH/leptin)؛ گیرنده سرفصل آنزیمی (ANP-GC؛ NO-sGC)؛ — ثانیه‌پیام‌ها: cAMP، cGMP، DAG/IP₃/Ca²⁺، PIP₃، Ca²⁺/CaM؛ — استروئیدی: HSP90-گیرنده؛ GRE/PRE؛ VDRE؛_TRA — thyroid receptor در هسته bound به DNA (aporepressor؛ T3 → activator)؛ — داروها: پره‌دنیزولون (Global immunosuppress؛ HRE)؛ — سوال طرح: «T3 گیرنده کجا؟» هسته (همیشه-bound)؛ «GH کدام مسیر؟» JAK2-STAT5."
+    },
+    {
+      "id": "hp42-2", "topic": "GPCR و G-پروتئین", "difficulty": "hard",
+      "stem": "ویبران کولر، اسهال آبکی شدید ایجاد می‌کند. کدام مکانیسم علت است؟",
+      "options": [
+        "سم A/B در پیش‌سنجاق: A-subunit ریبوزیله ADP نمی‌شود — سم B اتصال GM1؛ A1 گانگلیوزید→ADP-ریبوزیلاسیون Gsα → مهار GTPase → AC دائمی فعال → cAMP↑↑ → CFTR Cl⁻ خروج → آب/الکترولیت",
+        "مهار Gi",
+        "فعال PLC",
+        "مهار cGMP"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. کولرا: Gs قفل-روشن (GTPase مهار)؛ عکس آن سیاه‌سرفه pertussis (Gi قفل-خاموش؛ ADP-ریبوزیله αi → AC آزاد می‌شود → whooping: cAMP ↑ در واکنش‌های ریه)؛ اسهال: ORS (SGLT1 به‌کار — Na/glucose cotransport سالم → جذب آب)؛ دارو: ازیتراسایکلین.",
+      "level2": "درسنامه: GPCR-سم‌ها و داروها (مرور آزمونی): — سم‌ها: کولرا (Gs)؛ pertussis (Gi)؛ — داروها: β-blo (بروآد، پروپرنولول — آنتاگونیست)؛ آلبوتیرول (β2 agonist)؛ آتروپین (mACh آنتاگ)؛ سوماتوستاتین (Gi- coupled)؛ — اغلتش: β-arrestin؛ desensitization؛ — غشایی: Gq (αq→PLCβ→IP₃+DAG؛ مثال: اکسی‌توسین، M1، H1، V1)؛ Gs (β1/2، D1، GHRH...)؛ Gi (M2، α2، D2...)؛ — بالینی: pseudohypoaldosteronism؟؛ McCune-Albright (Gs GOF mosaic → precocious)؛ testotoxicosis (LH receptor GOF)؛ — سوال طرح: «کولرا آنزیم هدف؟» Gsα (ADP-ribosylation مهار GTPase)."
+    },
+    {
+      "id": "hp42-3", "topic": "مسیر انسولین", "difficulty": "hard",
+      "stem": "مسیر PI3K-AKT انسولین چه اثرات متابولیک سریع دارد؟",
+      "options": [
+        "Akt→ (۱) مهار GSK3 → گلیکوژن سنتاز فعال (گلیکوژن‌سازی)؛ (۲) AS160/Rab→GLUT4 ترانسلوکیشن (گلوکزورود عضله/چربی)؛ (۳) مهار FOXO → مهار گلوکونئوژنز (PEPCK/G6Pase بیان پایین)؛ (۴) mTORC1 فعال (سنتز پروتئین)؛ (۵) مهار لیپولیز (در چربی)",
+        "افزایش cAMP",
+        "فعال PKA",
+        "مهار گیرنده"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. انسولین: RTK → IRS-1/2 → PI3K (PIP₃) → PDK1 → Akt؛ شاخه MAPK (گرشدش؛ raf) → تکثیر؛ اثرات متابولیک Akt (بالا)؛ در دیابت نوع ۲: مقاومت (سروین فسفریلاسیون IRS؛ PKCθ؛ ER استرس)؛ metformin: AMPK (بالا)؛ thiazolidinedione: PPARγ.",
+      "level2": "درسنامه: انسولین و پیام‌ها (مرور آزمونی): — مستقیم: آلیف؟؛ سوبسترا: آنزیم‌ها (مهار HSL/دگر)؛ — سریع (ثانیه): GLUT4؛ متوسط (دقیقه): فسفوریلاسیون آنزیم‌ها (پیرووات دهیدروژناز فعال از طریق PDP)؛ کند (ساعت): بیان (SREBP1c؛ PEPCK پایین)؛ — نقطه شکست: type 1 ( destruction β)؛ type 2 (مقاومت+نقص ترشح؛ amylin؛ GLP-1 کاهش)؛ — درمان‌ها: metformin (AMPK؛ مهار گلوکونئوژنز کبدی)؛ sulfonylurea (K-ATP)؛ GLP-1RA/DPP4i؛ SGLT2i؛ amylin analog؛ — سوال طرح: «Akt چه چیزی را در گلیکوژن مسیر مهار می‌کند؟» GSK3؛ «mTORC1 با چه سنسور AA فعال؟» (leucine/Rag)."
+    },
+    {
+      "id": "hp42-4", "topic": "JAK-STAT", "difficulty": "medium",
+      "stem": "گیرنده‌های سیتوکینی کلاس II (مانند گیرنده انترفرون) از کدام مسیر علامت می‌دهند؟",
+      "options": [
+        "JAK (Janus kinase؛ JAK1/TYK2...) فسفریل گیرنده → STAT (دیمر؛ انتقال هسته؛ ISGF3 برای IFN) → ژن‌های antiviral (MxA؛ OAS؛ PKR)",
+        "به‌طور مستقیم DNA",
+        "مسیر cAMP",
+        "گیرنده استروئیدی"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. JAK-STAT: GH (JAK2-STAT5)، erythropoietin، IFN (JAK1/TYK2؛ STAT1/2)، IL-6 (STAT3)؛ تنظیم منفی SOCS؛ مهار دارویی: ruxolitinib (JAK1/2؛ MF؛ GVHD)، tofacitinib (JAK1/3؛ RA)، baricitinib (RA؛ COVID بحث)؛ نقص‌های ارثی: STAT1/STAT3 (Hyper-IgE/Job — نکته ایمونولوژیک آزمونی).",
+      "level2": "درسنامه: JAK-STAT بالینی (مرور آزمونی): — STAT3 dominant-negative → Job syndrome (eczema، cold abscess، retained teeth)؛ STAT1 GOF → candidiasis؛ STAT3 GOF → autoimmunity/lymphoproliferation؛ — MPN: JAK2 V617F (PV/ET/MF)؛ exon 12؛ CALR/MPL؛ درمان: ruxolitinib؛ fedratinib؛ pacritinib؛ momelotinib؛ — سوال طرح: «Job سندروم مسیر؟» STAT3؛ «PV جهش؟» JAK2 V617F (~95٪)."
+    },
+    {
+      "id": "hp42-5", "topic": "NO/cGMP", "difficulty": "medium",
+      "stem": "سیلدنافیل چگونه عمل می‌کند؟",
+      "options": [
+        "مهار PDE5 → cGMP پایدار → PKG → relaxation عضله صاف corpora cavernosa (NO-ergic مسیر)؛ عوارض: flushing/سردرد؛ تداخل با نیتروات (افزایش خطر افت فشار)",
+        "آگونیست NO مستقیم",
+        "مهار PDE3",
+        "مهار گیرنده α"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. PDE5 در باستر/ریه؛ اثر سیلدنافیل/تادالافیل (طولانی‌تر)؛ تفاوت: PDE3 (میقرس/سرسا؛ heart — milrinone inotrope)؛ PDE4 (روفلومیلاست؛ COPD)؛ تداخل نیترات ممنوعیت مطلق؛ اثر آپ-رگوله خطر NAION بحث.",
+      "level2": "درسنامه: cGMP و داروها (مرور آزمونی): — مسیر: NO (eNOS/parasymp) → sGC → cGMP؛ ANP/BNP → pGC (ریسپندر之心)؛ — اهداف: PDE5 (PAH سیلدنافیل)، riociguat (sGC stimulator؛ PAH/CTEPH)، nesiritide/serelaxin (NP analogue)؛ vericiguat (sGC؛ HFrEF)؛ — اثر فشار: ANP ترشح atrial stretch → natriuresis؛ BNP مارکر HF؛ — سوال طرح: «تداخل مطلق سیلدنافیل؟» نیترات؛ «BNP چه منشأ؟» بطنی/atrial stretch."
+    },
+    {
+      "id": "hp42-6", "topic": "گیرنده استروئیدی", "difficulty": "hard",
+      "stem": "کدام مکانیسم مقاومت گلوکوکورتیکوئیدی را توضیح می‌دهد؟",
+      "options": [
+        "بیان بالای 11β-HSD1 (تبدیل غیرفعال→فعال)، افزایش β-isoform گیرنده (مهاری)، جهش‌های NR3C1، فعال‌سازی مسیرهای جایگزین (NF-κB/STAT3) در التهاب مزمن؛ افزایش MDR1",
+        "افزایش cAMP",
+        "مهار PDE",
+        "حساس‌گیری گیرنده مینرالوکورتیکوئید"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مقاومت GC: مکانیسم‌های GR-β (دومین اتصال DNA ندارد؛ dominant)؛ چپ‌کننده‌ها؛ التهابی bypass؛ بالینی: درمان‌های زیاد (RA/UC)؛ سندروم مقاومت خانوادگی (NR3C1 جهش؛ hypercortisolism بدون Cushingoid)؛",
+      "level2": "درسنامه: GR-مسیر و دارو (مرور آزمونی): — GR: cytosolic HSP90؛ دیمر؛ GRE؛ transactivation (metabolic) vs transrepression (anti-inflammatory via AP-1/NF-κB) — نکته: داروهای selective (deflazacort؟ مبتنی بر ترجیح repress؛ در نمونه DMD)؛ — اصطکاک: 11β-HSD2 (پلاسنتا/کلیه؛ کورتیزول→cortisone؛ مهار با licorice → pseudo-hyperaldosteronism)؛ — اگرminister: dexamethasone suppression (Cushing)؛ — سوال طرح: «11β-HSD2 نقص/مهار؟» pseudoaldosteronism (licorice)؛ «GR-β چه می‌کند؟» مقاومت (مخالف)."
+    },
+    {
+      "id": "hp42-7", "topic": "Ca²⁺ سیگنال", "difficulty": "medium",
+      "stem": "IP₃ چگونه سیگنال کلسیمی ایجاد می‌کند؟",
+      "options": [
+        "IP₃ (از PIP₂ با PLC) → گیرنده IP₃R روی ER → آزادسازی Ca²⁺ → اثرات (PKC، CaM-kinase، توپو II؟)؛ DAG → PKC؛ بازگشت: SERCA/PMCA؛ مخزن-عملی gated (SOC؛ STIM1/Orai1؛ نقص=免疫deficiency)",
+        "مسیر cAMP",
+        "مسیر متیلاسیون",
+        "مستقیم DNA"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. PLC-γ (RTK) یا PLCβ (Gq)؛ IP₃R/RyR؛ CaM (هدف: MLCK، CaMKII، calcineurin؛ NOS)؛ Ca²⁺ نوسانی (فرکانس-کد)؛ نقص STIM1/Orai1 → CRAC channelopathy (Combined immunodeficiency + autoimmunity؛ نکته روزآورد).",
+      "level2": "درسنامه: کلسیم (مرور آزمونی): — هومئوستاز: PTH/1,25(OH)₂D/FGF23؛ CaSR (پاراسترومات؟ غدد؛ مهار PTH؛ CASR نقص → FHH)؛ — درون‌سلولی: ۱۰⁻⁷ vs خارج ۱۰⁻³؛ بافرها (میتو؛ ER؛ کالسکوئسترین)؛ — داروها: CCB (دییلتیازم؛ SVT/HCM)؛ بیس‌فسفونات/denosumab (RANKL Ab؛ استئوپروز)؛ — سوال طرح: «نقص Orai1 چه می‌دهد؟» immunodeficiency؛ «CASR فعال‌کننده؟» نوع ۵ Bartter؛ «CaSR مهار در کلیه؟» loop diuretic-like (hypercalciuria)."
+    },
+    {
+      "id": "hp42-8", "topic": "Eicosanoid", "difficulty": "hard",
+      "stem": "آسپیرین چگونه اثر ضدالتهاب و ضدانعقادی متفاوتی دارد؟",
+      "options": [
+        "استیلاسیون کووالانت COX: در پلاکت (بدون هسته؛ COX-1 irreversibly مهار → TXA₂ کم عمر تمام عمر پلاکت → ضدانعقاد)؛ در اندوتلیال (با هسته؛ COX-2 بازتولید → PGI₂ حفظ نسبی)؛ مقاومت: باید دوز قبل از انقضای پلاکت‌ها (۷-۱۰ روز) مصرف شود",
+        "مهار پلاکت مستقیم",
+        "مهار ترومبین",
+        "مهار فاکتور Xa"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آسپیرین irreversible؛ platelet COX-1 (TXA₂) سرکوب؛ endothelial بازسازی؛ low-dose (~۸۱mg) بهینه؛ سایر NSAID (رقابتی برگشت‌پذیر؛ کاردیو-ریسک variable)؛ COX-2 selective (کوکس‌ایب؛ روfekoxib withdraw — نکته تاریخی CV)؛",
+      "level2": "درسنامه: ایکوزانوئیدها (مرور آزمونی): — منشأ: آراشیدونات (PLA₂؛ غشا)؛ مسیرها: COX (PG/TX)؛ LOX (5-LOX→LT؛ 15-LOX؛ lipoxins anti)؛ CYP450 EET؛ — گیرنده‌ها؛ عملکردها: التهاب (PGE₂/LTB₄)، انعقاد (TXA₂)، واکنش (PGI₂)، محافظ معده (PGE₂)، رحم (PGF₂α؛ misoprostol)؛ — داروها: آسپیرین/NSAID؛ مونتلوکاست (LTRA)؛ زیلوتون (5-LOX)؛ پروستاگلاندین‌های درمانی: misoprostol (gastric؛ abortifacient hazard)، latanoprost (گلوکوم)، alprostadil (ED)؛ — سوال طرح: «مکانیسم آسپیرین در پلاکت؟» استیلاسیون COX-1 برگشت‌ناپذیر؛ «کوکس‌ایب چرا ریسک CV؟» PGI₂/TXA₂ عدم توازن."
+    },
+    {
+      "id": "hp42-9", "topic": "Thyroid پیام", "difficulty": "medium",
+      "stem": "T3 چگونه بر بیان ژن اثر می‌گذارد؟",
+      "options": [
+        "T3 (فعال؛ از تبدیل T4 با 5'-دی‌یودیناز) → گیرنده TR (نوع α/β؛ nuclear؛ TR معمولاً با RXR heterodimer روی TRE) → در نبود T3 corepressors (NCoR/HDAC) → با T3 coactivators (SRC-1؛ histone acetyl) → رونویسی",
+        "T4 مستقیم به غشا",
+        "مسیر cAMP",
+        "گیرنده غشایی TM"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. TR: apo (سرکوب) → holo (فعال)؛ اثرات: BMR، Na/K-ATPase، β-adrenergic حساسیت، کلسترول (LDLR↑)، استخوان (دستگاه عمیق)؛ رابطه:reverse T3 (غیرفعال؛ بیماری)؛ point: بدون T4 هم TR هسته bound — «اپو-رسپرسور».",
+      "level2": "درسنامه: تیروئید-سیگنال و بالینی (مرور آزمونی): — سنتز/ترشح (فصل ۳۰)؛ — داروها: methimazole (TPO)؛ propranolol (symptom)؛ levothyroxine؛ liothyronine؛ — مقاومت سندرومی THRB (Refetoff؛ goiter+ADHD-مانند؛ بالا fT4 با TSH غیرسرکوب)؛ — گیرنده‌های subtype: TRα1 قلب؛ TRβ1 کبد؛ TRβ2 هیپوفیز (آگونیست‌های β-selective: eprotirome sobetirome آزمایشی؛ AKL-T2؟)؛ — سوال طرح: «TR در نبود T3 چه نقشی؟» corepressor (سرکوب)؛ «سندروم مقاومت تیروئیدی ژن؟» THRB."
+    },
+    {
+      "id": "hp42-10", "topic": "مقاومت هورمونی", "difficulty": "hard",
+      "stem": "کدام مجموعه، نمونه‌های مقاومت هورمونی-گیرنده‌ای است؟",
+      "options": [
+        "Androgen insensitivity (AR؛ 46,XY فنوتیپ زن؛ Campomelic SOX9 نه)؛ Laron (GHR نقص؛ IGF-1 پایین بالا GH)؛ nephrogenic DI (AVPR2/X یا AQP2/AR)؛ pseudohypoaldosteronism (MR/ENaC)؛ TSH resistance (TSHR)",
+        "همه حساسیت‌ها GOF",
+        "انسولین فقط GOF",
+        "فولات"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مقاومت = نقص گیرنده/پس-گیرنده: Laron (GHR؛ بدون IGF-1 پاسخ؛ درمان rhIGF-1)؛ NDI (AVPR2؛ آب‌نشانده‌نشدن؛ درمان: هیدروکلروتیازید+amiloride+آلودوسترون؟)؛ AIS کامل/جزئی؛PHA1 (ENaC/MR؛ نمک‌فقدان)؛ TSHR مقاومت (هایپرپلازی بدون بالا T4)؛",
+      "level2": "درسنامه: مقاومت‌ها در برابر دارو (مرور آزمونی): — الگوی آزمونی: هورمون بالا + اثر پایین؛ — مقایسه‌ها: Laron vs کمبود GH؛ NDI مرکزی (desmopressin پاسخ) vs nephrogenic (بدون پاسخ)؛ AIS vs 5α نقص؛ — پس-گیرنده: pseudohypoparathyroidism type 1A (GNAS؛ Albright hereditary osteodystrophy؛ PTH مقاومت + جثه؛ علامت Gs)؛ type 1B (متیلاسیون GNAS)؛ — سوال طرح: «ادرار رقیق با desmopressin بدون پاسخ؟» NDI (AVPR2)؛ «AHO ژن؟» GNAS."
+    }
+  ]
+}

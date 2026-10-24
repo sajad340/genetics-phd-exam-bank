@@ -1,0 +1,137 @@
+{
+  "book_id": "harper", "chapter_no": 38,
+  "chapter_title_en": "Regulation of Gene Expression",
+  "chapter_title_fa": "فصل ۳۸ هارپر: تنظیم بیان ژن", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "hp38-1", "topic": "اپرون لاک", "difficulty": "hard",
+      "stem": "در اپرون لاک، هنگام حضور لاکتوز و گلوکز کم، چه وضعیت رونویسی برقرار است؟",
+      "options": [
+        "مهارکننده با آلولاکتوز غیرفعال + cAMP بالا → کمپلکس CAP-cAMP به DNA می‌بندد → رونویسی حداکثر؛ (لاکتوز به‌تنهایی با گلوکز بالا: cAMP کم → CAP نمی‌بندد → رونویسی پایین ( Diauxic)",
+        "مهارکننده فعال و CAP فعال",
+        "هر دو خاموش",
+        "رونویسی مستقل از لاکتوز"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. لاکتوز (آلولاکتوز): مهارگر را از operator جدا؛ گلوکز کم: adenylate cyclase فعال → cAMP↑ → CAP(CRP) به promoter-مجاور → RNA pol جذب؛ نتیجه دوگانه مثبت؛ IPTG آنالوگ القایی آزمایشگاهی؛ diauxie رشد دو-فازی.",
+      "level2": "درسنامه: تنظیم پروکاریوتی (مرور آزمونی): — لاک: مثبت/منفی (بالا)؛ — تریپتوفان اپرون: repressor (Trp-کورپرسور) + attenuation (leader peptide؛ 3-4 stem loop terminator؛ ضدترمیناتور 2-3 در کم) — نکته آزمونی: attenuation ویژه پروکاریوت (هم‌زمانی رونویسی/ترجمه)؛ — سارکوزین؟ — نظام‌های دو-جزئی (sensor kinase/response regulator)؛ quorum sensing (lux)؛ — کاربرد بالینی: آنتی‌بیوتیک-مقاومت القایی (ampC induction؛ diauxie در بیوفیلم)؛ — سوال طرح: «attenuation در کدام؟» trp (و his/phe/ilv...)؛ «CAP نیاز به چه؟» cAMP."
+    },
+    {
+      "id": "hp38-2", "topic": "متیلاسیون و اپی‌ژنتیک", "difficulty": "hard",
+      "stem": "کدام واژه با متیلاسیون DNA در پروموتر به‌طور کلاسیک همراه است؟",
+      "options": [
+        "فعال‌سازی رونویسی",
+        "سرکوب رونویسی (CpG island hypermethylation؛ جذب MeCP2/HDAC → کروماتین بسته؛ توالی CpG جزیره‌ها در پروموتر)",
+        "افزایش جهش به‌دلیل 5mC→T (نقطه‌های داغ جهش) — این هم درست اما 'همراه کلاسیک' گزینه ۲",
+        "هیچ"
+      ],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. متیلاسیون CpG پروموتر: خاموشی (MLH1 در sporadic MSI؛ MGMT در گلیوما — پیش‌بینی پاسخ TMZ؛ BRCA1 در triple-negative)؛ DNMT1 حفظ (hemi-methyl)؛ DNMT3A/B de novo؛ TET demethylation (اکسی‌5mC؛ IDH mutation → 2HG مهار → G-CIMP؛ نکته روزآورد آزمونی!)؛",
+      "level2": "درسنامه: متیلاسیون (مرور آزمونی): — الگوها: imprinting (DMR؛ H19/IGF2؛ PWS/AS)؛ X-inactivation (شراکت XIST)؛ global demethylation در رشد (zygote؛ germ cells)؛ — داروها: 5-azacytidine/decitabine (DNMTi؛ MDS)؛ — سنجش: bisulfite (تفکیک C/U)؛ MS-MLPA؛ methylation array (EPIC؛ EpiSign диагностика سندرومی)؛ — سرطان: global hypo (ناپایداری) + focal hyper (TSG)؛ CIMP؛ — سوال طرح: «IDH mutation چه اپی‌اثری؟» هایپرمتیلاسیون (2HG مهار TET)."
+    },
+    {
+      "id": "hp38-3", "topic": "هیستون کد", "difficulty": "hard",
+      "stem": "کدام جفت «اصلاح هیستون–اثر» صحیح است؟",
+      "options": [
+        "H3K4me3 (پروموتر فعال)؛ H3K27ac (enhancer فعال)؛ H3K27me3 (Polycomb سرکوب)؛ H3K9me3 (هتروکروماتین؛ HP1)؛ H3K36me3 (بدنه ژن فعال/el)؛ H4K16ac (شل شدن؛ پیری)",
+        "استیلاسیون = خاموشی همیشه",
+        "متیلاسیون = فعال‌سازی همیشه",
+        "فسفوریلاسیون = ترمیم فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. هیستون کد: خواننده/نویسنده/پاک‌کننده (bromodomain=استیل خوان؛ chromodomain=متیل خوان)؛ آنزیم‌ها: HAT (p300/CBP)؛ HDAC؛ EZH2 (PRC2؛ H3K27me3؛ مهار: tazemetostat — لنفوم؛ نکته روزآورد)؛ LSD1؛ JmjC؛ SWI/SNF بازسازی (ARID1A/SMARCB1 تومور-سرکوب).",
+      "level2": "درسنامه: اپی‌درمانی (مرور روزآورد آزمونی): — DNMTi (MDS)؛ HDACi (vorinostat/romidepsin؛ CTCL؛ belinostat)؛ EZH2i (tazemetostat؛ epithelioid sarcoma/FL)؛ IDH1/2i (ivosidenib/enasidenib؛ AML — برگرداندن تمایز)؛ BETi (پیش-بالینی/فاز)؛ — ترکیب ICI+epidrug بحث؛ — بیماری‌های اپی‌ژنتیکی: ICF (DNMT3B)؛ Rubinstein-Taybi (CBP)؛ Sotos (NSD1)؛ Kabuki (KMT2D/MLL2؛ KDM6A)؛ — سوال طرح: «tazemetostat هدف؟» EZH2؛ «Kabuki ژن؟» KMT2D."
+    },
+    {
+      "id": "hp38-4", "topic": "تنظیم پس از رونویسی", "difficulty": "medium",
+      "stem": "عناصر 3′UTR mRNA و پروتئین‌های متصل شونده چه نقشی در تنظیم دارند؟",
+      "options": [
+        "miRNA هدف‌گیری؛ AU-rich elements (ARE؛ PUF/AUF1/TTP → تجزیه/ترجمه در التهاب)؛ Zipcode (زیپ-کد) محلی‌سازی؛ iron-رesponsive element (IRE/IRP؛ ترانسفرین ریceptor/فرّیتین — نمونه کلاسیک)",
+        "فقط polyadenylation",
+        "بدون نقش",
+        "کد ژنی پروتئین"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. 3′UTR: مرکز تنظیم پایداری/ترجمه/محل؛ IRE: آهن کم → IRP می‌بندد به TfR mRNA (پایدار؛ جذب آهن) و Ferritin mRNA (مهار ترجمه؛ ذخیره نکند)؛ آلوئه؛ ARE: TNF/IL-2...؛ TTP ضد-التهابی؛",
+      "level2": "درسنامه: پس-رونویسی (مرور آزمونی): — تجزیه‌ها: deadenylation (CCR4-NOT)؛ decapping (DCP)؛ exosome؛ — سنجش: actinomycin chase (نیمه‌عمر)؛ — بالینی: TfR/ferritin در آنمی مزمن؛ TMPRSS6 (matriptase-2؛ hepcidin رگولاتور)؛ — دارویی/ابزار: morpholino (توسعه)؛ — سوال طرح: «IRE در آهن کم چه برای TfR می‌کند؟» پایداری mRNA (expression)."
+    },
+    {
+      "id": "hp38-5", "topic": "Lyonization", "difficulty": "hard",
+      "stem": "X-inactivation چه زمانی رخ می‌دهد و کدام ویژگی‌ها را دارد؟",
+      "options": [
+        "اوایل رشد جنینی (بلاستوسیست ~روز ۵؛ اپی‌ژنتیک فرا-تقسیمی)؛ تصادفی در هر سلول بنیادی (به‌جز سلول‌های زایا: بازفعال)؛ کلیونال در دخترها؛ فرار ژن‌های pseudoautosomal و ~۱۵-۲۰٪ فرارگاه؛ skew در بیماری (ناقل DMD علامت‌دار)",
+        "در بلوغ",
+        "فقط در مردان",
+        "برگشت‌پذیر در همه بافت‌ها"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. XCI: XIST پوشش؛ coated → متیلاسیون/هیستون تغییر/macroH2A؛ کپی‌شدن در میتوز؛ reverting در germ cells؛ ناقل زن: موزائیک (~۵۰/۵۰؛ skew → علامت‌دار در DMD/رتینیت)؛ گربه کالیکو نمونه دیدنی؛ Klinefelter: یک X خاموش؛ 47,XXX: دو.",
+      "level2": "درسنامه: XCI — عمق (مرور آزمونی): — شمارش: XIST/Xic؛ translocation X-A: X نرمال خاموش می‌شود (مکانیسم انتخاب؛ سالم‌ترین ژنوم)؛ — فرار: STS، KAL1 بخشی؛ SHOX (PAR1)؛ MAOA؛ — بالینی: MCPH2؟؛ Rett در دختر (موزائیک)؛ پسران MECP2 dup؛ skew سنجش (HUMARA)؛ پلازنتاها اضافی X (placental)؛ — سوال طرح: «چرا دختر رت موزائیک است؟» XCI تصادفی؛ «Klinefelter barr body؟» ۱."
+    },
+    {
+      "id": "hp38-6", "topic": "فاکتورهای رونویسی", "difficulty": "medium",
+      "stem": "کدام خانواده فاکتور رونویسی نمونه کلاسیک «زنک فینگر» است و کدام مهارکننده دارویی آن را هدف می‌گیرد؟",
+      "options": [
+        "Sp1/GATA/KRAB-ZNF (C2H2)؛ glucocorticoid receptor (نوکلئآر؛ C4 zinc finger)؛ مهار: glitazone برای PPAR؟ (آگونیست)؛ نمونه دارویی مؤثر: tamoxifen (ER؛ استروئید-گیرنده خانواده)",
+        "helix-turn-helix انسانی",
+        "leucine zipper فقط",
+        "HLH فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. گروه‌های DNA-binding: zinc finger (C2H2؛ nuclear receptors C4)، HTH (homeobox/HOX)، bZIP (CREB/AP-1/c-Fos-Jun)، HLH (MyoD/E2A)، β-sheet (TBP)، winged HTH (Ets)؛ نمونه‌های دارویی: تاموکسیفن (ERα)، آگونیست‌های PPAR (پیوگلیتازون)، retinoids (RAR؛ APL ATRA!)، vitamin D (VDR).",
+      "level2": "درسنامه: TF-دارو (مرور آزمونی): — ATRA در APL: PML-RARA مهار-گر تمایز → تمایز؛ arsenic هم؛ نتیجه cured؛ — HDACi در CTCL؛ — anti-ER در پستان (سری‌های: SERM/AI/SERD فولوسترانت)؛ — ANDrogen/AR: prostate (enzalutamide؛ AR antagonist)؛ — immune TF: NF-κB (پروتئازوم در میلوما)، STAT (JAK inhibitors: ruxolitinib MF؛ tofacitinib RA)؛ — سوال طرح: «ATRA کدام TF هدف؟» PML-RARα؛ «JAKi چه بیماری‌ها؟» MF/PV؛ RA."
+    },
+    {
+      "id": "hp38-7", "topic": "imprinting", "difficulty": "hard",
+      "stem": "چرا دو تخم‌های بارور شده بدون ژنوم پدری (پارتنوژنتیک) به جنین کامل تبدیل نمی‌شوند؟",
+      "options": [
+        "به‌دلیل imprinting: برای رشد جنینی، بیان ژنوم پدری (مثلا IGF2) و مادری (H19/CDKN1C) هر دو لازم است؛ فقط مادری → جفت/جنین ناقص (teratoma)؛ فقط پدری → مول (HYdatidiform)",
+        "به‌دلیل تعداد کروموزوم",
+        "میتوکندری مفقود",
+        "X-inactivation"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آزمایش‌های موش (androgenetic/parthenogenetic) و انسان: مول کامل = آندروژنتیک (46,XX یا XY همه پدری؛ STGC...)؛ تراتوما تخمدان = پارتنوژنتیک؛ ایمپرینتینگ parental conflict theory (IGF2 رشد-ترویج پدری؛ H19/IGF2R مهار مادری).",
+      "level2": "درسنامه: ایمپرینتینگ بیماری‌ها (مرور آزمونی): — PWS/AS (15q11)؛ BWS/SRS (11p15؛ IGF2/H19/CDKN1C/KCNQ1OT1)؛ TEMPI؟؛ — مول: خانوادگی NLRP7 (نقص متیلاسیون اووسیت)؛ — تک-ژنی imprinting: MKRN3 (بلوغ زودرس)؛ MAGEL2 (Schaaf-Yang)؛ — ART و imprinting بحث؛ — سوال طرح: «مول کامل پلاسنت؟» آندروژنتیک؛ «مول خانوادگی ژن؟» NLRP7."
+    },
+    {
+      "id": "hp38-8", "topic": "سیستم‌های inducible", "difficulty": "medium",
+      "stem": "سیستم Tet-On/Tet-Off در بیوتکنولوژی چه کاربردی دارد؟",
+      "options": [
+        "تنظیم بیان ژن تجربی با تتراسایکلین/doxycycline: Tet-On (rtTA؛ افزودن داکسی → بیان)؛ Tet-Off (tTA؛ حذف → بیان)؛ در مدل‌های حیوانی conditional و تولید پروتئین",
+        "مهار ریبوزوم",
+        "ویرایش ژنوم",
+        "رنگ‌آمیزی بافتی"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Tet system: اتصال TRE حداقل-پروموتر؛ rtTA mutant (reverse)؛ کاربرد: mouse conditional expression؛ induction درمانی؟ (داروهای هم‌نام: تتراسایکلین مکانیسم مسیر دیگر)؛ سایر سیستم‌ها: GAL4/UAS (دروفیلا)؛ CRE-lox (نوع‌اومر)؛ tamoxifen-CreERT.",
+      "level2": "درسنامه: ابزارهای تنظیم (مرور آزمونی): — Tet؛ CRE/loxP (شرطی knockout؛ tissue-specific؛ temporal با CreERT+tamoxifen)؛ FLP-FRT؛ — در آزمون ممکن: «برای knockout شرطی کبد چه؟» Alb-Cre؛ «CreERT چه می‌کند؟» Cre با گیرنده استروژن قابل-فعال با تاموکسیفن؛ — آینده: conditional AAV-Cre؛ — سوال طرح: «Tet-On یعنی؟» داکسی → فعال."
+    },
+    {
+      "id": "hp38-9", "topic": "RNA-واسطه توارث", "difficulty": "medium",
+      "stem": "paramutation و epigenetic transgenerational inheritance چه مفاهیمی‌اند؟",
+      "options": [
+        "paramutation: آلل خاموش، آلل دیگر همان لوکوس را اپی‌ژنتیکی تغییر می‌دهد (گیاه/موش کیت؛ سنتز RNA-واسطه)؛ transgenerational: تغییرات اپی (دیده در دار‌تغذیه/سموم) عبور به نسل بدون تغییر DNA — بحث برانگیز در پستانداران (بیشتر دیده در C. elegans/piRNA)",
+        "جهش ژنی کلاسیک",
+        "انتخاب طبیعی",
+        "ژیان‌شناسی میتوکندری"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. paramutation (نمونه Kit^ mascot موش؛ RNA اسپرم انتقال)؛ transgenerational: نمونه اپیدمی голلند هلند ۱۹۴۴ (F2 متابولیک)؛ توضیح‌های جایگزین (بیوس')؛ piRNA در گامت‌های C. elegans واقعی‌تر؛ در انسان شواهد ضعیف/تاریخی؛ اصولاً reprogramming هر نسل پاک می‌کند.",
+      "level2": "درسنامه: مرزهای توارث اپی (مرور مفهومی آزمونی): — reprogramming موج‌ها (zygote/germ) و «بقای»؛ استثنائات: imprinting (بازتنظیم والد-اختصاصی)؛ برخی retrotransposon methylation؛ — Epidemiology: Dutch Hunger Winter؛ Överkalix؛ ASCO?؛ — مکانیسم‌های نامزد: ncRNA اسپرم؛ متابولیت‌ها؛ میکروبیوم؛ — نتیجه‌گیری آزمونی: «وراثت اپی انسان اثبات‌نشده قطعی؛ اما در ایمپرینتینگ و برخی خطوط RNA در حیوانات مستند»؛ — سوال طرح: «paramutation چه موجود؟» گیاه/موش؛ «reprogramming چه زمانی؟» زیگوت+گامت‌زایی."
+    },
+    {
+      "id": "hp38-10", "topic": "تنظیم بالینی-پزشکی", "difficulty": "hard",
+      "stem": "سندرم ICF چه نقص اپی‌ژنتیکی دارد؟",
+      "options": [
+        "Immunodeficiency, Centromeric instability, Facial anomalies؛ DNMT3B نقص (AR) → متیلاسیون ناقص هتروکروماتین pericentromeric؛ کمبود ایمنی (کم‌گاماگلوبولینمی)",
+        "DNMT1 نقص؛ HSAN",
+        "TET2؛ سرطان",
+        "HDAC؛ CTCL"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ICF: نقص متیلاسیون سانترومر (1,9,16؛ شعله‌ای در کاریوتایپ)؛ DNMT3B (و ICF2 ZBTB24)؛ بیماری: عفونت مکرر (B-cell)، فتق/آنومالی صورت؛ درمان: IVIG؛ بنیادی نمونه «بیماری ناشی از نقص نویسنده متیلاسیون».",
+      "level2": "درسنامه: سندرم‌های اپی‌ژنتیکی مادرزادی (مرور آزمونی): — ICF (DNMT3B/ZBTB24)؛ Rett (MeCP2 خواننده؛ دختر؛ regression دست)؛ Rubinstein-Taybi (CBP/p300 HAT)؛ Coffin-Siris (ARID1B؛ SWI/SNF)؛ Kabuki (KMT2D/KDM6A)؛ Sotos (NSD1)؛ CHARGE (CHD7 — chromodomain helicase)؛ ATR-X (helicase؛ α-thal avec MR)؛ — همه: نمونه‌های نقص نویسنده/خواننده/بازساز کروماتین — سوال‌های جدید مرتبط می‌کنند؛ — سوال طرح: «CHARGE ژن؟» CHD7؛ «Rett خواننده متیل؟» MeCP2."
+    }
+  ]
+}

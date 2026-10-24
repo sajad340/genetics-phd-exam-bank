@@ -1,0 +1,132 @@
+{
+  "book_id": "harper", "chapter_no": 35,
+  "chapter_title_en": "DNA Organization, Replication, & Repair",
+  "chapter_title_fa": "فصل ۳۵ هارپر: سازمان‌دهی، همانندسازی و ترمیم DNA", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "hp35-1", "topic": "پلیمرازها", "difficulty": "hard",
+      "stem": "کدام DNA پلیمراز یوکاریوتی برای سنتز استراند تأخیری (lagging) و ترمیم شکاف‌ها مسئول است و فاقد proofreading ۳′→۵′ است؟",
+      "options": ["Pol δ", "Pol α-پرایماز (شروع؛ بدون proofreading)", "Pol ε", "Pol γ"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. Pol α-پرایماز: آغاز (پرایمر RNA-DNA؛ بدون exonuclease)؛ Pol δ: lagging (با PCNA؛ proofreading)؛ Pol ε: leading؛ Pol γ: میتوکندری؛ مشابه پروکاریوت: Pol I (نیک-ترنسلشن؛ 5'→3' exonuclease + proofreading)، Pol III (اصلی؛ proofreading).",
+      "level2": "درسنامه: آنزیم‌های همانندسازی (جدول آزمونی): — پیش‌آهنگ: helicase (CMC؛ MCM2-7)؛ SSB/RPA؛ topoiso II (gyrase؛ هدف کوینولون)؛ پیش‌فورک: primase (RNA 10nt)؛ پلیمرازها (بالا)؛ ligase I (پیوند فسفودی‌استر؛ ATP در یوکار)؛ RNase H؛ FEN1/okazaki maturation؛ PCNA (clamp)؛ RFC (clamp loader)؛ — نوترکیب/بازسازی خطا: MMR (MutSα MSH2/6؛ MutLα MLH1/PMS2؛ G-T و …؛ ریبوط: سه‌رشته؛ 3' nick directing)؛ — آنالوگ دارویی: aciclovir؛ — سوال طرح: «کدام یوکاریوتی proofreading ندارد؟» Pol α؛ «PCNA چه می‌کند؟» processivity clamp."
+    },
+    {
+      "id": "hp35-2", "topic": "تلومراز", "difficulty": "hard",
+      "stem": "تلومراز چه ساختاری دارد و در کدام سلول‌ها فعال است؟",
+      "options": [
+        "ریبو‌نوکلئوپروتئین با قالب RNA داخلی (TERC) و ترانس‌کریپتاز معکوس (TERT)؛ فعال در سلول‌های بنیادی/جنین/germ/خون‌ساز فعال و ~۸۵-۹۰٪ تومورها؛ خاموش در سلول‌های سوماتیک بزرگسال",
+        "DNA پلیمراز وابسته RNA",
+        "RNA pol III",
+        "هلیکاز"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. تلومراز: TERT+TERC (و dyskerin) → افزودن تکرار TTAGGG به انتهای 3′؛ حل مسئله پایان همانندسازی (end replication problem)؛ خاموشی سوماتیک → کوتاه‌شدن تدریجی (senescence؛ Hayflick)؛ بیماری telomeropathy (DC: TERC/TERT/DKC1)؛ تومورها: بازفعال‌سازی یا ALT.",
+      "level2": "درسنامه: تلومر/تلومراز — عمق (مرور آزمونی): — ساختار telomere: TTAGGG×چند هزار + تک‌رشته‌ای 3' overhang → حلقه T (shelterin: TRF1/2، POT1، TPP1، TIN2، RAP1)؛ فسفر؛ — پیری/بیماری: DC (ناخن دیستروفی؛ leukoplakia؛ AA؛ IPs pulmonar)، aplastic anemia، فیبروز ریوی فامیلی؛ متوسط طول telomere سنجش؛ — سرطان: immortalization؛ ALT (~۱۰-۱۵٪؛ سارکوما؛ recombination-based)؛ استراتژی‌های درمانی: imetelstat (oligonucleotide تلومراز مهار؛ myelofibrosis؛ نکته روزآورد)؛ — مدل mouse telomere؛ — سوال طرح: «قالب RNA کدام؟» TERC؛ «شلترین»؛ «ALT چیست؟» بازسازی recombination-mediated."
+    },
+    {
+      "id": "hp35-3", "topic": "MMR و Lynch", "difficulty": "hard",
+      "stem": "کدام پروتئین در تشخیص عدم‌تطابق بازها (mismatch) نقش اولیه را دارد و چه سرطانی با نقص آن مرتبط است؟",
+      "options": [
+        "MutSα (MSH2-MSH6) شناسایی؛ MutLα (MLH1-PMS2) حلقه/برش؛ نقص → MSI-H → سندرم لینش (CRC/آندومتر)",
+        "MutSβ فقط",
+        "FEN1",
+        "Ligase IV"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. MMR: هترو‌دايمر MutSα (تک‌بیس-انطباق؛ MSH2/MSH6) یا MutSβ (indel؛ MSH2/MSH3)؛ MutLα (MLH1/PMS2) با EXO1؛ برش بر اساس نیک الگو (استراند جدید)؛ نتیجه نقص: MSI (microsatellite instability؛ BAT25/26)؛ IHC: فقدان پروتئین (MLH1 loss → بررسی متیلاسیون/BRAF برای sporadic)؛ سرطان‌های MSI-H به ایمونوتراپی پاسخ عالی.",
+      "level2": "درسنامه: ترمیم MMR — ابعاد (مرور آزمونی): — بالینی: الگوریتم CRC (IHC/MSI → germline MMR یا sporadic MLH1-meth)؛ dMMR و پاسخ ICI (pembrolizumab tissue-agnostic اول)؛ — سایر نقص‌ها: MSH6 (آندومتر dominant؛ penetrating کمتر)؛ PMS2 تنها (ریسک کمتر)؛ EPCAM deletion (MSH2 silencing)؛ — آزمایشگاه: MSI-H → دارو‌رایانه لا؛ MSI PCR/NGS؛ — داروها: temozolomide TMZ و MMR (مقاومت در نقص)؛ — سوال طرح: «MSH6 loss در IHC یعنی چه مسیر؟» MSH6 germline/هم MSH2؛ «فقدان MLH1 اول چه بررسی؟» BRAF V600E/MLH1 promoter methylation."
+    },
+    {
+      "id": "hp35-4", "topic": "NER و XP", "difficulty": "hard",
+      "stem": "کدام مسیر ترمیم دیمرهای پیریمیدین ناشی از UV را برطرف می‌کند و نقص آن چه سندرومی می‌دهد؟",
+      "options": [
+        "NER (نوکلئوتید excision repair؛ XPA-G؛ XPC تشخیص جهانی)؛ نقص = Xeroderma pigmentosum (+XP-V: پلیمراز η خطای-گذر)؛ تلاقی‌نقص CS/TTD",
+        "BER فقط",
+        "HR",
+        "NHEJ"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. NER دومسیره: GG-NER (سراسری؛ XPC-RAD23B تشخیص؛ XPA تأیید؛ TFIIH بازکننده؛ XPF/ERCC1+XPG برش دوطرفه ~۲۴-۳۲nt؛ پلیمراز δ/ε/κ پرکردن؛ ligase)؛ TC-NER (CSA/CSB تشخیص استال RNApol)؛ نقص XP: پوست-سرطان (>۱۰۰۰×)؛ neuro در XPA/XP-D؛ CS: پروگرئوئید؛ TTD؛ تست: unscheduled DNA synthesis؛",
+      "level2": "درسنامه: ترمیم‌های نوکلئوتید-برشی (مرور آزمونی): — BER: بازهای کوچک آسیب (اکسیداسیون/آلکیلاسیون/دآمیناسیون)؛ glycosylase (OGG1/MUTYH/UNG) → AP site → APE1 → Pol β → ligase III؛ MUTYH نقص → MAP (adenoma CRC؛ AR؛ نکته پلیپوزیس)؛ — NER بالا؛ — جایگاه MMR/BER اتصال سرطان: MUTYH-associated polyposis؛ — دارویی: پلاتین‌ها adduct → NER و MMR (ERCC1/XPF و پاسخ cisplatin؛ SNP‌های پروگوستیک بحث)؛ — سوال طرح: «دیمر TT چه مسیر؟» NER؛ «MUTYH چه می‌دهد؟» MAP polyposis."
+    },
+    {
+      "id": "hp35-5", "topic": "DSB ترمیم", "difficulty": "hard",
+      "stem": "ترمیم شکست دو‌رشته‌ای DNA در فاز G1 عمدتاً با کدام مسیر و کدام پروتئین کلیدی؟",
+      "options": [
+        "NHEJ (غیرهمولوگ؛ Ku70/80 → DNA-PKcs → Artemis → XRCC4-Ligase IV-XLF)؛ سریع اما خطاپذیر؛ HR در S/G2 (BRCA1/2، RAD51) دقیق",
+        "HR فقط",
+        "BER",
+        "MMR"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. DSB حساس‌ترین آسیب؛ NHEJ: G1 (نیاز به الگو ندارد؛ کمی حذف/درج)؛ HR: S/G2 با کروماتید خواهر (MRN-CtIP resection؛ BRCA1؛ RPA→RAD51 با BRCA2؛ invade/polymerize؛ resolve)؛ حسگر: MRN+ATM (فسفوریلاسیون H2AX؛ 53BP1 تنظیم انتخاب مسیر)؛ نقص HR → PARP حساسیت (synthetic lethality).",
+      "level2": "درسنامه: پاسخ آسیب DNA (DDR) — نقشه (مرور آزمونی): — سنسورها: ATM (DSB؛ نقص=AT)؛ ATR (SSB/stall؛ نقص=Seckel)؛ DNA-PK (NHEJ)؛ CHK1/CHK2 → p53/CDC25 → arrest؛ — بیماری‌ها: AT (رادیو حساس؛ IgA↓؛ AFP↑؛ لنفوم)؛ Nijmegen (NBN)؛ Bloom (BLM؛ SCE)؛ فانکونی (ICL؛ HR؛ DEB تست)؛ ligase IV syndrome؛ — بالینی: رادیوتراپی/شیمی مکانیسم؛ PARPi در HRD؛ platin در HRD؛ ATR inhibitors در ژنومی پریش (نوظهور)؛ — سوال طرح: «مسیر G1؟» NHEJ؛ «کدام ژن TRENT؟»؛ «خطر لنفوم در AT به‌دلیل؟» نقص ترمیم DSB + چرخه."
+    },
+    {
+      "id": "hp35-6", "topic": "نوکلئوزوم", "difficulty": "easy",
+      "stem": "نوکلئوزوم شامل چه چیزی است؟",
+      "options": [
+        "۱۴۷ جفت‌باز DNA دور اکتامر هیستون (H2A×2، H2B×2، H3×2، H4×2) + H1 برای سطح بالاتر؛ دم‌های N-ترمینال هیستون محل اصلاح (استیل/متیل/فسفور)",
+        "DNA خطی بدون پروتئین",
+        "RNA و ریبوزوم",
+        "پروتئین‌های غشایی"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. نوکلئوزوم: واحد پایه کروماتین؛ ۱۴۷bp دور هشت‌تایی هیستون (~۱.۷ دور)؛ H1 (linker)؛ «beads-on-a-string» 10nm → فیبر 30nm؛ لوپ‌ها در TADs؛ اصلاح دم‌ها: acetylation (فعال؛ HAT/HDAC)، methylation (H3K4me3 فعال؛ H3K27me3/ H3K9me3 سرکوب)، phosphorylation (H2AX γ در DSB؛ نکته آزمونی).",
+      "level2": "درسنامه: سازمان‌دهی ژنوم (مرور آزمونی): — سطوح فشرده‌سازی (~۱۰٬۰۰۰×): نوکلئوزوم → فیبر → لوپ → دامنه (TAD؛ CTCF/cohesin) → کمپارتمنت A/B → کروموزوم قلمرو → میتوز؛ — Hi-C نقشه؛ — اهمیت: تنظیم (enhancer-promoter درون TAD؛ واریانت‌های ساختاری disruption → بیماری)؛ — کپی‌شماری: C-value paradox؛ ژنوم انسان ~۳.۲Gb؛ ~۲۰٬۰۰۰ پروتئین‌کدکننده؛ ~۱.۵٪ کدکننده؛ >۵۰٪ تکراری؛ — سوال طرح: «H2AX فسفوریله نشانگر چه؟» DSB؛ «TAD با کدام تکنیک؟» Hi-C."
+    },
+    {
+      "id": "hp35-7", "topic": "مبدأ همانندسازی", "difficulty": "medium",
+      "stem": "در یوکاریوت‌ها همانندسازی چگونه آغاز و محدود می‌شود؟",
+      "options": [
+        "چندین مبدأ (origins؛ ~۳۰-۵۰kb فاصله)؛ در G1، pre-RC: ORC+CDC6+CDT1+MCM2-7 بارگذاری (licensing)؛ در S با S-CDK/DBF4-CDC7 فعال؛ geminin مهار CDT1 (جلوگیری re-replication)",
+        "یک مبدأ خطی",
+        "شروع رونویسی-اتصالی",
+        "تصادفی بدون کنترل"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۲... تصحیح: گزینه ۱ صحیح است.licensing فقط G1 (بدون S-CDK)؛ در S: MCM فسفریل → helicase فعال؛ دو‌جهت رشد؛终止 مشکل linear؛ firing timing (early/late replicons؛ تومورهای late/کمپارتمنت)؛ geminin (در S/G2 CDT1 را می‌گیرد؛ نقص → re-replication)؛",
+      "level2": "درسنامه: چرخه سلولی-همانندسازی اتصال (مرور آزمونی): — CDKها: G1/S (CDK4/6-cyclin D؛ Rb فسفریل → E2F آزاد؛ CDK2-cyclin E/A)؛ S-CDK؛ M-CDK (CDK1-cyclin B)؛ — مهارگرها: p21 (p53-القا)؛ p27؛ — داروها: CDK4/6 inhibitors (palbociclib؛ HR+/HER2− پستان؛ نکته روزآورد)؛ — ORC نقص؟ نادر؛ MCM2 تومور مارکر؛ CDC6/CDT1 up در سرطان (re-replication استرس)؛ — سوال طرح: «licensing چه زمانی؟» G1؛ «geminin چه می‌کند؟» CDT1 را مهار."
+    },
+    {
+      "id": "hp35-8", "topic": "ترانسپوزون و LINE", "difficulty": "medium",
+      "stem": "کدام عنصر تکراری فعال‌ترین رتروترانسپوزون انسان است و چه پیامد بالینی دارد؟",
+      "options": [
+        "LINE-1 (L1؛ ~17٪ ژنوم؛ ORF1p/ORF2p با endonuclease و reverse transcriptase؛ درج در ژن‌ها → بیماری (هموفیلی A نمونه کلاسیک)؛ موزائیک سوماتیک مغز/تومور",
+        "Alu فعال‌ترین",
+        "DNA transposon اصلی",
+        "SVA غیرفعال"
+      ],
+      "answer_idx": 0,
+      "level1": "gزینه ۱ صحیح است. LINE-1 خودبسنده (~۱۰۰ کپی فعال)؛ Alu/SVA از ماشین L1 استفاده می‌کنند؛ اثرات: insertional mutagenesis؛ نوترکیبی ناهم‌آلایی بین Aluها (حذف‌های ژنی؛ BRCA1/گلوبین)؛ در آزمون: «کدام بیشترین سهم تکراری؟» LINE (~17-20٪)؛ Alu (~10-11٪).",
+      "level2": "درسنامه: عناصر متحرک (مرور آزمونی): — طبقه‌بندی: retrotransposon (L1، SINE/Alu، SVA؛ «copy-paste») vs DNA transposon (~۳٪؛ «cut-paste»؛ غیرفعال عمدتاً)؛ — بیماری‌زا: L1 درج → DMD، FKTN؟؛ hemophilia؛ Alu-mediated recombination deletions؛ ACTIVE L1 در 53٪ تومورها (epithelial)؛ — ابزار: L1-seq؛ retrotransposition assay؛ — فایده تکاملی: exaptation (syncytin؛ placenta!)؛ تنظیم شبکه؛ — سوال طرح: «Alu چه نوعی؟» SINE (non-autonomous)؛ «syncytin از چه؟» retroviral envelope."
+    },
+    {
+      "id": "hp35-9", "topic": "کوینولون و ژیروز", "difficulty": "easy",
+      "stem": "کوینولون‌ها (مثل سیپروفلوکساسین) با چه مکانیسمی عمل می‌کنند؟",
+      "options": [
+        "مهار DNA gyrase (توپوایزومراز II باکتری) و توپوایزومراز IV → مهار همانندسازی/جداشدن",
+        "مهار پپتیدوگلیکان",
+        "مهار ریبوزوم 30S",
+        "مهار RNA pol"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. کوینولون‌ها کمپلکس DNA-gyrase را پایدار می‌کنند (شکست دو‌رشته‌ای بسته)؛ مقاومت: mutation gyrA/parC؛ نو fluoroquinolone؛ اثرات جانبی: تاندون (سیپرو)، QT، گلوکوز، aortic (نکته دارویی آزمونی).",
+      "level2": "درسنامه: مهارکننده‌های همانندسازی (مرور آزمونی): — آنتی‌بیوتیک: کوینولون (gyrase)؛ نووبیوسین (GyrB)؛ مترونیدازول (DNA break آزاد رادیکال)؛ — ضدسرطان: anthracycline (intercalate؛ topo II poison؛ کاردیوتوکسیسیتی)؛ etoposide (topo II)؛ irinotecan/topotecan (topo I؛ S-phase)؛ — ضدهرپس: بالا؛ — سوال طرح: «توپو I سمی کدام؟» کمپتوتسین‌ها؛ «تندون‌آسیب با کدام؟» فلوئوروکینولون."
+    },
+    {
+      "id": "hp35-10", "topic": "برچسب‌گذاری و سنجش", "difficulty": "medium",
+      "stem": "در آزمایش Meselson-Stahl، پس از دو نسل رشد در محیط ¹⁴N، نسبت باندهای DNA چه بود؟",
+      "options": [
+        "همه سنگین (15N/15N)",
+        "یک باند سبک (14N/14N) و یک باند هیبرید (15N/14N) — تأیید همانندسازی نیم‌حفظ‌شده",
+        "همه هیبرید",
+        "سه باند سنگین"
+      ],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. نیم‌حفظ‌شده (semi-conservative): نسل ۱: همه هیبرید؛ نسل ۲: نیم هیبرید/نیم سبک؛ اثبات با چگالی گرادیان CsCl؛ مدل‌های رقیب: conservative (دو باند از نسل۱)؛ dispersive (پیوسته).",
+      "level2": "درسنامه: کلاسیک‌های همانندسازی (مرور آزمونی): — Meselson-Stahl (1958؛ E. coli 15N→14N)؛ — Cairns autoradiography (θ چرخه E. coli)؛ — okazaki fragments (پس از ³H-thymidine pulse؛ directionality)؛ — Harvey؟ Taylor-Woods-Hughes (میوز/میتوز کروموزوم)؛ — کاربرد برچسب: BrdU (سلول‌چرخه؛ sister chromatid exchange در Bloom)؛ EdU (click chemistry؛ modern)؛ — سوال طرح: «نسل دوم نیم‌حفظ‌شده؟» ۵۰٪ هیبرید + ۵۰٪ سبک."
+    }
+  ]
+}

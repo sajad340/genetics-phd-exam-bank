@@ -1,0 +1,137 @@
+{
+  "book_id": "harper", "chapter_no": 33,
+  "chapter_title_en": "Metabolism of Purine & Pyrimidine Nucleotides",
+  "chapter_title_fa": "فصل ۳۳ هارپر: متابولیسم نوکلئوتیدهای پورین و پیریمیدین", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "hp33-1", "topic": "سنتز پوریم de novo", "difficulty": "hard",
+      "stem": "اولین واکنش اختصاصی سنتز de novo پورین کدام است و کدام آنزیم نرخ-تعیین‌کننده محسوب می‌شود؟",
+      "options": [
+        "PRPP آمیدوترانسفراز (PRPP+گلوتامین→5-phosphoribosyl-1-amine؛ آنزیم تعیین‌کننده؛ مهار با AMP/GMP/IMP)",
+        "TIMP سنتتاز",
+        "آدیلوسوکسینات لیاز",
+        "PRPP سنتتاز فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. PRPP amidotransferase: آنزیم آلوستریک (مهار با محصولات AMP/GMP/IMP؛ فعال با PRPP)؛ مرحله committed؛ سپس ۹ گام به IMP؛ گلایسین، N¹⁰-فرمیل‌THF (×2)، گلوتامین (×2)، آسپارتات، CO₂؛ اوروتات مسیر پیریمیدین جدا.",
+      "level2": "درسنامه: سنتز پورین de novo (مرور آزمونی): — واحدها: PRPP (ساخته از ریبوز-5P+ATP؛ PRPS)؛ نیتروژن‌ها: Gln(N9,N3), Asp(N1), Gly(N7)؛ کربن‌ها: Gly(C4,C5), CO₂(C6), فرمیل-THF(C2,C8)؛ — IMP→AMP: adenylosuccinate (GTP مصرف)؛ IMP→GMP: IMP-DH (XMP؛ ATP+Gln+aspartate؟) → cross-regulation: AMP نیاز GTP؛ GMP نیاز ATP (نکته تنظیم متقابل حفظی)؛ — دارویی: azaserine (Gln آنالوگ؛ آزمایشگاه)؛ میکوفنولات (IMPDH غیررقابتی؛ ایمنی‌سپرسانت)؛ ribavirin هم IMPDH؛ — سوال طرح: «آنزیم تعیین‌کننده پوریم؟» PRPP amidotransferase؛ «C2,C8 از چه؟» فرمیل-THF (فولات)."
+    },
+    {
+      "id": "hp33-2", "topic": "Salvage و Lesch-Nyhan", "difficulty": "hard",
+      "stem": "پسر با خودزنی اجباری، کری‌رقص‌مانند، ناتوانی ذهنی و اورات/گوت شدید؛ کدام نقص آنزیمی؟",
+      "options": [
+        "HGPRT (hypoxanthine-guanine phosphoribosyltransferase؛ XLR؛ Lesch-Nyhan؛ полное از دست دادن <1.5٪)",
+        "APRT",
+        "PRPP سنتتاز (activating)",
+        "ADA"
+      ],
+      "answer_idx": 0,
+      "level1": "gزینه ۱ صحیح است. HGPRT نقص کامل: بازیافت hypo/guanine مختل → PRPP تجمع + AMP/GMP کم (بازخورد برداشته) → de novo overdrive → اورات شدید؛ نوروبیولوژی: خودزنی pathognomonic؛ dystonia/choreo؛ درمان: آلوپورینول (نشت اورات؛ عوارض xanthine)؛ رفتاری؛ rakiglu؟ no — rasburicase در بحران؛",
+      "level2": "درسنامه: مسیر بازیافت (مرور آزمونی): — آنزیم‌ها: HGPRT (HPRT1؛ Xq26؛ پایین→LNS؛ جزئی→Kelly-Seegmiller variant با گوت/نورو خفیف)؛ APRT (2,8-dihydroxyadenine سنگ؛ adenine)؛ AK (adenosine kinase)؛ — سلول‌های اعصاب/بیضه به salvage وابسته‌تر (de novo کمتر) → توضیح نوروپاتی؛ DA baseline (گربه‌ها HPRT KO نورو نرمال — تناقض گونه)؛ — تشخیص: HPRT آنزیم RBC؛ ژنتیک؛ مادران حامل (skew)؛ — پرهیز: آلوپورینول دوز کافی؛ تب/دهانی حمله‌ها؛ Febuxostat؛ — سوال طرح: «ریشه خودزنی کدام نقص؟» HGPRT کامل؛ «جزئی چه می‌دهد؟» گوت زودرس/نورو خفیف."
+    },
+    {
+      "id": "hp33-3", "topic": "ADA-SCID", "difficulty": "hard",
+      "stem": "نقص ADA (آدنوزین دآمیناز) چه اثر تجمعی-سمی روی لنفوسیت‌ها دارد؟",
+      "options": [
+        "تجمع دATP/Ado (dATP مهار ریبونوکلئوتید ردوکتاز → سنتز DNA متوقف؛ S-مرحله سم‌زدایی) + متیل‌ donate rai؟؛ عمدتاً T/B (thymus اثر)؛ SCID T−B−NK−",
+        "تجمع اورات",
+        "تجمع PRPP",
+        "تجمع IMP فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ADA: adenosine/deoxyadenosine→inosine/dInosine (و NH₃)؛ نقص: dAdo تجمع → dATP (فسفوریلاسیون) → مهار RNR (dNTPs متوازن برای DNA) → مرگ سلول‌های لنفوسیت (تیموسیت حساس)؛ S-adenosylhomocysteine hydrolase هم مهار (SAH→متيل مهار)؛ SCID (~۱۵-۲۰٪؛ AR؛ 20q)؛ درمان: ERT پگ-ADA؛ HSCT؛ ژن‌درمانی (Strimvelis/Orchard OTL-101؛ اولین 2016).",
+      "level2": "درسنامه: نقص‌های purine-مرتبط ایمنی (مرور تفکیکی آزمونی): — ADA (T−B−NK−؛ ребฌ ریشه‌costal؛ dATP)؛ — PNP (purine nucleoside phosphorylase؛ T− فقط؛ عفونت مکرر + autoimmunity؛ توالی بدون B)؛ — تخمین بالینی: lymphopenia/عفونت؛ غربالگری TREC نرمال ممکن گمراه؛ dATP/SAH سنجش؛ — درمان ADA-SCID: پگ-ADA هفتگی SC (نیازمند lifelong)؛ HSCT منبع سibs؛ ژن‌درمانی ex vivo γ-retro (خود ۰۱؛ درział: نتایج >95٪ بقای)؛ — PNP: ERT ندارد؛ HSCT؛ — سوال طرح: «dATP چه مهار می‌کند؟» ریبونوکلئوتید ردوکتاز؛ «اولین ژن‌درمانی اروپا؟» Strimvelis (ADA-SCID)."
+    },
+    {
+      "id": "hp33-4", "topic": "گوت و درمان", "difficulty": "medium",
+      "stem": "آلوپورینول چگونه اورات را کاهش می‌دهد و محصول جانبی آن چیست؟",
+      "options": [
+        "مهار گزانتین اکسیداز (آنالوگ ساختاری هیپوگزانتین؛ به oxypurinol تبدیل می‌شود) → تجمع گزانتین/هیپوگزانتین (حل‌پذیری کمتر → نادر سنگ) + salvage مجدد (HGPRT) → کاهش de novo؛ استفاده در LNS/تومور-لیزیس پیشگیری",
+        "اوریکاز، تبدیل مستقیم",
+        "مهار OAT",
+        "افزایش دفع کلیوی"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آلوپورینول (hipoxanthine آنالوگ؛ خود سوبسترای XO → oxypurinol مهارگر قوی)؛ اثرات: اورات پایین؛ xanthine بالا (سنگ نادر)؛ در LNS: کرستالوپاتی xanthine با دوز بالا؛ interactions: آزاتیوپرین (مهار XO → سمیت؛ دوز ۲۵٪)؛ فبوکسوستات (غیرپورین XO)؛ راس‌بوریکاز (اوریکاز recombinant؛ تومور لیزیس؛ G6PD خطر مت‌هیموگلوبین).",
+      "level2": "درسنامه: هایپراوریسمی و درمان (مرور آزمونی): — تولید-بالا: هر tipo turnover (همولیز/لوسمی/شیمی/PSN)، HGPRT نقص، PRPS GOF، ورزش؛ — دفع-کم (~۹۰٪ گوت اولیه): CKD؛ داروها (دیورتیک کم‌دوز تیازید/لوپ؛ نیاسین؛ پیرازینامید/اتامبوتول؛ سیکلوسپورین؛ LDH?)؛ آسپرین کم‌دوز (دوز بالا اوراتوریک؟ متغیر)؛ — کریستال: MSU (سوزنی؛ منفی birefringence)؛ CPPD (غلط؛ chondrocalcinosis)؛ — حمله: NSAID/کولشیسین/استروئید؛ ULT (uratelowering) شروع پس از فروکش ( guideline)؛ هدف <6 (توفي)؛ زیر-هدف <5 برای توفي؛ febuxostat FDA warning CV (CARES؛ نکته بالینی آزمونی)؛ — سوال طرح: «آلوپورینول با آزاتیوپرین؟» دوز را ۷۵٪ کم کنید؛ «سنگ xanthine با چه؟» آلوپورینول دوز بالا/LNS."
+    },
+    {
+      "id": "hp33-5", "topic": "پیریمیدین سنتز", "difficulty": "hard",
+      "stem": "کدام آنزیم‌های پیریمیدین de novo توسط UTP/CTP تنظیم می‌شوند و کدام فرم تنظیم می‌کند CPS II؟",
+      "options": [
+        "CPS II (نقطه کنترل؛ مهار UTP؛ فعال PRPP/ATP؛ در پستانداران CAD کمپلکس سه‌گانه) و OMP decarboxylase",
+        "تیmidylate synthase",
+        "dihydrofolate reductase",
+        "UMP/CMP kinase"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. پیریمیدین: CPS II (سیتوزول؛ Gln+CO₂+2ATP→carbamoyl-P) نقطه کنترل (مهار UTP؛ فعال ATP/PRPP — نکته: orotate در OTC نقص از کارباموئیل-فسفات میتوکندری می‌آید؛ CPS II متفاوت)؛ CAD کمپلکس (CPSII/ATCase/DHOase)؛ OMP decarboxylase (UMPS؛ نقص = orotic aciduria با/بدون آنمی)؛",
+      "level2": "درسنامه: پیریمیدین — نقشه کامل (مرور آزمونی): — مراحل: CPS II → carbamoyl aspartate (ATCase) → DHO → orotate → OMP (OPRT؛ PRPP) → UMP (OMP-D) → UTP → CTP (CTP synthetase؛ Gln)؛ — dTMP: dUMP + N⁵,N¹⁰-methylene-THF (TS؛ مهار 5-FU→FdUMP)؛ dUTPase (جلوگیری dU در DNA؛ هدف دارویی نئو)؛ — نقص‌ها: Orotic aciduria نوع I (UMPS؛ مگالوبلاستیک بدون افزایش متیاً؟ با uridine درمان)؛ II (OPRT آزاد؛ نادر)؛ HHH نبود؛ نقص CAD نادر؛ molybdenum cofactor (سولفیت اکسیداز + XO با هم)؛ — آنالوگ‌ها: 5-FU (TS)؛ gemcitabine (dCK؛ RRM1)؛ cytarabine؛ leflunomide (DHO-DH؛ RA)؛ — سوال طرح: «کارباموئیل‌فسفات سیتوزولی؟» CPS II (UTP مهار)؛ «اوروتیک اسیدوری نوع I آنزیم؟» UMPS (OMP-D)."
+    },
+    {
+      "id": "hp33-6", "topic": "dTMP و فولات", "difficulty": "hard",
+      "stem": "تیمیدیلات سنتتاز (TS) چه واکنشی را انجام می‌دهد و چرا آنالوگ‌های آنالوگ‌های آنتی‌فولات مؤثرند؟",
+      "options": [
+        "dUMP + N⁵,N¹⁰-methylene-THF → dTMP + DHF؛ TS آنالوگ 5-FU (FdUMP) پیوند کووالانت موقت (ternary complex)؛ متوترکسات با مهار DHFR → کمبود THF → کمبود dTMP و پورین (اثر دوگانه)",
+        "dUMP→dUMP مستقیم",
+        "dCTP→dTMP",
+        "dTTP→dUMP"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. TS: انتقال متیلن و کاهش به متیل (منبع یک‌کربنه)؛ 5-FU→FdUMP (با dUMP رقابت، مهار خودمحدود)؛ MTX: DHFR مهار (DHF→THF) → کمبود dTMP/پورین (هم هر دو THF-وابسته)؛ leucovorin rescue (THF فرم‌دار بای‌پس MTX، نه 5-FU — نکته: leucovorin با 5-FU تقویت اثر (پایدارسازی ternary) در CRC — تله آزمونی محبوب!)؛",
+      "level2": "درسنامه: آنتی‌متابولیت‌های نوکلئوتیدی (مرور دارویی آزمونی): — 5-FU (پیش‌دارو؛ DPD تجزیه؛ نقص DPYD → سمیت شدید؛ فارماکوژنومیک الزامی اروپا — نکته روزآورد)؛ کاپسیتابین (پرو-دارو خوراکی؛ سه‌مرحله)؛ — MTX (DHFR؛ polyglutamation سلولی؛ leucovorin نجات؛ IT استفاده؛ مقاومت: RFC/polyglut)؛ pemetrexed (TS+DHFR+GARFT؛ با B12/فولات supplementation)؛ — gemcitabine (dCK فعال؛ RRM1/Ribonucleotide reductase؛ chain termination)؛ cytarabine (S-phase؛ ALL/AML)؛ 6-MP/azathioprine (HGPRT→TIMP؛ مهار de novo + DNA؛ TMPT/NUDT15 فارماکوژنومیک دوز)؛ — hudroxyurea (RNR؛ د_CMP کم)؛ — سوال طرح: «DPD نقص با کدام دارو؟» 5-FU/capecitabine؛ «TMPT با چه داروها؟» تيوپورین‌ها."
+    },
+    {
+      "id": "hp33-7", "topic": "کتابخانه تخریب پورین", "difficulty": "easy",
+      "stem": "نهایی‌ترین محصول کاتابولیسم پورین در انسان چیست و چرا؟",
+      "options": [
+        "اوریک اسید (به‌دلیل فقدان اوریکاز؛ حل‌پذیری کم → کریستال)؛ در بیشتر پستانداران → آلانتوین",
+        "آلانتوین",
+        "CO₂+NH₃",
+        "کسانتین"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. انسان (و پریمات‌ها/دل‌فیان) اوریکاز ندارد → اورات پایانی؛ حل‌پذیری پایین (~6.8mg/dL near) → هایپراوریسمی/MSU crystals؛ در鸟类/خزندگان: اورات (سم‌زدایی آمونیاک نه اوره)؛ در باقی: آلانتوین محلول؛ نکته: اورات آنتی‌اکسیدان سرم (~نیمی ظرفیت آنتی‌اکسیدان پلاسما — نظریه تکاملی).",
+      "level2": "درسنامه: مسیر تخریب پورین (مرور آزمونی): — ناکلوئوتید→نوکلئوزید (5'-nucleotidase) → بیس آزاد؛ — آدنین/گوانین→هیپوگزانتین/گزانتین→اسید اوریک (XO)؛ — در سایر جانداران: آلانتویناز/آلانتوئیکاز → اوره (خاک‌باکتری)؛ — داروها: راس‌بوریکاز (پریمات-آنالوگ درمانی در TLS)؛ — سنجش: اورات سرم (اوریکاز روش؛ رنگ‌سنج)؛ ۲۴h ادرار (تولید vs دفع)؛ — تناقض: آنتی‌اکسیدان neuroprotective فرضی در طول عمر پستانداران (Urate & Parkinson — نکته بحث روزآورد)؛ — سوال طرح: «کدام آنزیم در انسان نیست؟» اوریکاز؛ «اورات در مغز چه نقشی؟» آنتی‌اکسیدان (بحثی)."
+    },
+    {
+      "id": "hp33-8", "topic": "ریبونوکلئوتید ردوکتاز", "difficulty": "medium",
+      "stem": "ریبونوکلئوتید ردوکتاز (RNR) چه نقشی دارد و تنظیم آن چگونه است؟",
+      "options": [
+        "احیای NDP→dNDP (تیروزیل رادیکال؛ B12-مرتبط نه! — پروتئین R1/R2؛ مهار با هیدروکسی‌اوره)؛ تنظیم دوتایی: سایت ویژه‌سوبسترا + سایت آلوستریک کلی (ATP فعال/dATP مهار)؛ سهم‌گذاری dNTP متعادل",
+        "dNDP→NDP",
+        "متیلاسیون dUMP",
+        "سنتز PRPP"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. RNR (RRM1/RRM2 یا RRM2B): آنزیم کلید سنتز داکسی‌ریبو؛ رادیکال پایدار؛ مهار: hydroxyurea (کشیدن رادیکال؛ سلول S-گلوکوکسی؟ سرطان/سکل)؛ gemcitabine (میان‌diphosphate؛ «masked chain terminator»)؛ clofarabine؛ کلوسیت؟؛ تنظیم دقیق نسبت dNTP (نامتعادل → جهش‌زایی)؛",
+      "level2": "درسنامه: RNR و بالینی (مرور آزمونی): — مهارگرها: hydroxyurea (MPN؛ سکل؛ مایلوپروسنیشن؛ teratogenic)؛ gemcitabine؛ didox/trimidox تجربی؛ — dNTP pools و ویروس: HIV بازال-های (RT حساس)؛ — SAMHD1 (dNTP hydrolase؛ محدودکننده HIV در سلول resting؛ جهش → Aicardi-Goutières سندرم interferonopathy — نکته ایمنی-ژنتیک آزمونی)؛ — thymidine phosphorylase/SAMHD؛ — سوال طرح: «مهارگر RNR قدیمی؟» هیدروکسی‌اوره؛ «SAMHD1 چه می‌کند؟» dGTP hydrolysis (آنتی-HIV)."
+    },
+    {
+      "id": "hp33-9", "topic": "متبولیت‌های خاص", "difficulty": "medium",
+      "stem": "پس از خوردن پنیر کهنه با مهارکننده MAO، بحران فشار بالای چه مکانیسمی است؟",
+      "options": [
+        "تیرامین (تیروزین-مشتق؛ محرک آزادسازی کاتکول‌آمین‌ها)؛ مهار MAO → تجمع؛ اثر شبه‌سیمپاتیک (cheese reaction)",
+        "هیستامین از پنیر",
+        "اورات",
+        "GABA مهار"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. «Cheese reaction»: تیرامین (روده/کبد MAO معمولاً تخریب) با MAOI سیستمیک → عبور → آزادسازی NE (و اثر غیرمستقیم) → HTN بحرانی؛ MAOI مدرن (selegiline selective B؛ patch) ریسک کمتر؛ داروهای سیمپاتومیمتیک مستقیم هم ممنوع؛ آموزش بیمار.",
+      "level2": "درسنامه: مشتقات AA-آمین و دارو (مرور آزمونی): — تیرامین/اوکتوپامین (false transmitter؛ در HE هم افزایش)؛ — سینفرین (مکمل‌ها؛ بحث)؛ — تریپتامین؛ فن‌ایل‌اتیل‌امین (شکلات؛ MAO)؛ — MAOI: قدیمی (phenelzine؛ tranylcypromine) vs new (moclobemide RIMA؛ selegiline)؛ سروتونین سندروم (MAOI+SSRI)؛ — سوال طرح: «تیرامین با مهار چه آنزیمی خطرناک؟» MAO؛ «false transmitter در HE؟» اکتوپامین."
+    },
+    {
+      "id": "hp33-10", "topic": "آنالوگ‌های ضدویروسی", "difficulty": "hard",
+      "stem": "آسیکلوویر چگونه انتخاب‌ویروسی عمل می‌کند؟",
+      "options": [
+        "پیش‌دارو؛ فسفوریلاسیس اول توسط تیمیدین کیناز ویروسی (ویژه HSV/VZV) → acyclo-GMP → کیناز سلولی → تری‌فسفات مهار پلیمراز ویروسی (درج زنجیره‌خاتعه)",
+        "مهار نورآمینیداز",
+        "شکستن کپسید",
+        "مهار پروتئاز"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آسیکلوویر: گوانین آنالوگ بدون شکر (acyclic)؛ اولین فسفوریلاسین فقط با thymidine kinase ویروسی (سلولی نمی‌تواند monophosphorylate کند به‌طور مؤثر) → ویژه‌ویروس؛ DNA pol ویروسی (IC50 خیلی کم‌تر از cellular)؛ chain terminator (نبود 3'-OH)؛ مقاومت: TK-deficient؛ valacyclovir (پرو-دارو خوراکی bioavailability)؛",
+      "level2": "درسنامه: آنالوگ‌های نوکلئوزیدی ضدویروسی (مرور دارویی آزمونی): — herpes: acyclovir/val/famciclovir (penciclovir pro)؛ ganciclovir (CMV؛ UL97 کیناز؛ سمیت مغز‌استخوان)؛ cidofovir (CMV؛ nephrotoxic؛ probe؟)؛ foscarnet (مهار pol مستقیم؛ بدون کیناز؛ مقاوم TK)؛ — HIV NRTI: ZDV/3TC/FTC/TAF/TDF (TDF نوتروپنی؟ nephro؛ TAF امن‌تر)؛ Abacavir (HLA-B*57:01!)؛ — HBV: entecavir/tenofovir؛ — رباویرین (IMPDH + RNA mutagenesis)؛ — سوال طرح: «اولین فعال‌سازی آسیکلوویر با چه آنزیمی؟» TK ویروسی؛ «اباکاویر تست چه؟» HLA-B*57:01."
+    }
+  ]
+}

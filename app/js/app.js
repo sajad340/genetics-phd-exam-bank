@@ -20,7 +20,9 @@ function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<":
 function vHome() {
   setTitle("ژنتیک‌یار | بانک سوالات دکتری تخصصی ژنتیک پزشکی");
   const nTopics = BANK.books.reduce((a, b) => a + b.chapters.reduce((x, c) => x + c.topics.length, 0), 0);
-  const nQ = BANK.emery_bank.reduce((a, c) => a + c.questions.length, 0);
+  const nQ = (BANK.emery_bank||[]).reduce((a, c) => a + c.questions.length, 0)
+           + (BANK.harper_bank||[]).reduce((a, c) => a + c.questions.length, 0);
+  const nH = (BANK.harper_bank||[]).reduce((a, c) => a + c.questions.length, 0);
   const nR = BANK.english.reduce((a, p) => a + p.readings.length, 0);
   const read = store.get("read_q", []);
   view.innerHTML = `
@@ -29,7 +31,7 @@ function vHome() {
     <p>سیلابس جامع ۲۰ موضوعی + سوالات پیش‌بینی‌شده با پاسخنامه دو سطحی + زبان تخصصی — بر اساس تحلیل آزمون‌های سال‌های قبل</p>
     <div class="stats">
       <div class="stat"><b>${nTopics.toLocaleString("fa-ir")}</b><span>موضوع آزمونی</span></div>
-      <div class="stat"><b>${nQ.toLocaleString("fa-ir")}</b><span>سوال امری</span></div>
+      <div class="stat"><b>${nQ.toLocaleString("fa-ir")}</b><span>سوال دو سطحی</span></div>
       <div class="stat"><b>${nR.toLocaleString("fa-ir")}</b><span>ریدینگ زبان</span></div>
       <div class="stat"><b>${read.length.toLocaleString("fa-ir")}</b><span>مطالعه‌شده</span></div>
     </div>
@@ -37,15 +39,17 @@ function vHome() {
   <h2 class="sec">بخش‌های بانک</h2>
   <div class="grid2">
     <div class="tile" onclick="nav('syllabus')"><div class="ic">📚</div><b>سیلابس جامع</b><span>۵ منبع × ۹۴ فصل × ۲۰ موضوع با وزن آزمونی</span></div>
-    <div class="tile" onclick="nav('emery')"><div class="ic">❓</div><b>سوالات کتاب امری</b><span>۲۱ فصل × ۱۰ سوال با پاسخ دو سطحی</span></div>
+    <div class="tile" onclick="nav('emery')"><div class="ic">❓</div><b>سوالات امری</b><span>۲۱ فصل × ۱۰ سوال با پاسخ دو سطحی</span></div>
+    <div class="tile" onclick="nav('harper')"><div class="ic">🧪</div><b>بیوشیمی هارپر</b><span>۲۴ فصل پرتکرار × ${nH} سوال</span></div>
     <div class="tile" onclick="nav('english')"><div class="ic">🇬🇧</div><b>زبان تخصصی</b><span>۱۲ ریدینگ + واژگان + استراتژی</span></div>
-    <div class="tile" onclick="nav('quiz')"><div class="ic">🎯</div><b>حالت آزمون</b><span>آزمون تصادفی با نمره‌دهی</span></div>
+    <div class="tile" onclick="startQuiz(10,'emery')"><div class="ic">🎯</div><b>آزمون امری</b><span>۱۰ سوال تصادفی با نمره</span></div>
+    <div class="tile" onclick="startQuiz(10,'harper')"><div class="ic">⚗️</div><b>آزمون بیوشیمی</b><span>۱۰ سوال تصادفی با نمره</span></div>
   </div>
   <h2 class="sec">درباره این بانک</h2>
   <div class="card" style="font-size:13px">
     این بانک بر اساس منابع رسمی آزمون (امری ۱۶، استراچن HMG۵ و GGM۲، براون، هارپر ۲۰۲۲) و مقالات پوشه Breast cancer + پیشرفت‌های ۲۰۲۴–۲۰۲۶ طراحی شده است.
     <b>پاسخنامه دو سطحی:</b> سطح ۱ پاسخ سریع و رد گزینه‌ها؛ سطح ۲ درسنامه کامل برای پاسخ به سوالات مشابه.
-    <div style="margin-top:8px;color:#6b7688">فازهای بعدی: بانک کامل استراچن‌ها، براون و هارپر به همین ساختار اضافه می‌شود.</div>
+    <div style="margin-top:8px;color:#6b7688">فازهای بعدی: بانک کامل استراچن‌ها و براون به همین ساختار اضافه می‌شود.</div>
   </div>`;
 }
 
@@ -129,8 +133,9 @@ function revealAnswer(qid) {
   if (sel && +sel.dataset.i !== q.answer_idx) sel.classList.add("wrong");
 }
 function findQ(id) {
-  for (const c of BANK.emery_bank) { const q = c.questions.find(x => x.id === id); if (q) return q; }
-  for (const p of BANK.english) for (const r of p.readings) { const q = r.questions.find(x => id.endsWith(x.q.slice(0, 3)) && false); }
+  for (const c of (BANK.emery_bank||[]).concat(BANK.harper_bank||[])) {
+    const q = c.questions.find(x => x.id === id); if (q) return q;
+  }
   return null;
 }
 function vEmery(chNo) {
@@ -155,6 +160,37 @@ function vEmery(chNo) {
   <div style="display:flex;justify-content:space-between;gap:8px">
     ${prev ? `<button class="btn ghost" onclick="nav('emery',${prev.chapter_no})">فصل ${prev.chapter_no} ←</button>` : ""}
     ${next ? `<button class="btn ghost" onclick="nav('emery',${next.chapter_no})">→ فصل ${next.chapter_no}</button>` : ""}
+  </div>`;
+}
+
+/* ---------------- HARPER (Biochemistry) ---------------- */
+function vHarper(chNo) {
+  setTitle("بیوشیمی هارپر — ۲۴ فصل پرتکرار با پاسخنامه دو سطحی");
+  const BK = BANK.harper_bank || [];
+  if (chNo === undefined) {
+    view.innerHTML = `<div class="card" style="font-size:13px">۲۴ فصل پرتکرار کتاب <b>Harper's Illustrated Biochemistry</b> — هر فصل ۱۰ سوال پیش‌بینی‌شده با پاسخ دو سطحی. برای شروع، فصل را انتخاب کنید.</div>` +
+      `<div class="grid2">` +
+      `<div class="tile" onclick="startQuiz(10,'harper')"><div class="ic">🎯</div><b>آزمون تصادفی بیوشیمی</b><span>۱۰ سوال از ۲۴۰ سوال هارپر</span></div>` +
+      `<div class="tile" onclick="startQuiz(20,'harper')"><div class="ic">🏆</div><b>آزمون بزرگ</b><span>۲۰ سوال تصادفی</span></div></div>` +
+      BK.map(c => `
+      <div class="ch-item card" style="display:flex" onclick="nav('harper',${c.chapter_no})">
+        <span class="ch-no">${c.chapter_no}</span>
+        <span class="ch-name">${esc(c.chapter_title_fa.split(":").pop().trim())}</span>
+        <span class="weight">${STARS(c.exam_weight)}</span>
+      </div>`).join("");
+    return;
+  }
+  const c = BK.find(x => x.chapter_no === chNo);
+  if (!c) { nav("harper"); return; }
+  const idx = BK.indexOf(c), next = BK[idx + 1], prev = BK[idx - 1];
+  view.innerHTML = `
+  <button class="back-btn" onclick="nav('harper')">→ همه فصل‌ها</button>
+  <div class="card"><b>${esc(c.chapter_title_fa)}</b><div class="book-sub">${esc(c.chapter_title_en)}</div>
+  <span class="weight">${STARS(c.exam_weight)}</span></div>
+  ${c.questions.map(q => questionCard(q)).join("")}
+  <div style="display:flex;justify-content:space-between;gap:8px">
+    ${prev ? `<button class="btn ghost" onclick="nav('harper',${prev.chapter_no})">فصل ${prev.chapter_no} ←</button>` : ""}
+    ${next ? `<button class="btn ghost" onclick="nav('harper',${next.chapter_no})">→ فصل ${next.chapter_no}</button>` : ""}
   </div>`;
 }
 
@@ -220,10 +256,11 @@ function vQuiz() {
   if (!quiz) {
     view.innerHTML = `<div class="card quizbox" style="text-align:center">
       <div style="font-size:34px">🎯</div>
-      <div class="stem">آزمون تصادفی از بانک سوالات امری</div>
-      <p style="font-size:13px;color:#6b7688">۱۰ سوال تصادفی؛ بعد از پاسخ به هر سوال، پاسخ صحیح و سطح ۱ نمایش داده می‌شود.</p>
-      <button class="btn" onclick="startQuiz(10)">شروع آزمون (۱۰ سوال)</button>
-      <button class="btn gold" onclick="startQuiz(20)">آزمون بزرگ (۲۰ سوال)</button>
+      <div class="stem">آزمون تصادفی از بانک سوالات</div>
+      <p style="font-size:13px;color:#6b7688">۱۰ یا ۲۰ سوال تصادفی؛ بعد از پاسخ، پاسخ صحیح و توضیح سطح ۱ نمایش داده می‌شود.</p>
+      <button class="btn" onclick="startQuiz(10,'emery')">امری (۱۰ سوال)</button>
+      <button class="btn gold" onclick="startQuiz(10,'harper')">بیوشیمی هارپر (۱۰ سوال)</button>
+      <button class="btn ghost" onclick="startQuiz(20,'harper')">هارپر بزرگ (۲۰)</button>
     </div>`;
     return;
   }
@@ -232,7 +269,7 @@ function vQuiz() {
     view.innerHTML = `<div class="card result-hero quizbox">
       <div class="big">${pct >= 80 ? "🏆" : pct >= 50 ? "👏" : "📚"}</div>
       <div class="stem">نتیجه: ${quiz.score} از ${quiz.qs.length} (${pct}٪)</div>
-      <button class="btn" onclick="startQuiz(${quiz.qs.length})">آزمون مجدد</button>
+      <button class="btn" onclick="startQuiz(${quiz.qs.length},'${quiz.src}')">آزمون مجدد</button>
       <button class="btn ghost" onclick="quiz=null;nav('quiz')">بازگشت</button>
     </div>`;
     return;
@@ -254,10 +291,10 @@ function vQuiz() {
       <button class="btn gold hidden" id="qz_next" onclick="quizNext()">${quiz.i + 1 === quiz.qs.length ? "دیدن نتیجه" : "سوال بعدی"}</button>
     </div></div>`;
 }
-function startQuiz(n) {
-  const all = BANK.emery_bank.flatMap(c => c.questions);
+function startQuiz(n, src) {
+  const all = (src === "harper" ? (BANK.harper_bank || []) : BANK.emery_bank).flatMap(c => c.questions);
   for (let i = all.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [all[i], all[j]] = [all[j], all[i]]; }
-  quiz = { qs: all.slice(0, n), i: 0, score: 0, done: false };
+  quiz = { qs: all.slice(0, n), i: 0, score: 0, done: false, src: src || "emery" };
   nav("quiz");
 }
 function quizPick(i) {
@@ -279,9 +316,11 @@ function doSearch(term) {
     if (s.includes(t)) out.push({ txt: `<b>[سیلابس ${b.book_id} — فصل ${ch.no}]</b> ${esc(s)}`, act: `nav('syllabus',${BANK.books.indexOf(b)},${ch.no})` });
     if (out.length > 60) break;
   }
-  for (const c of BANK.emery_bank) for (const q of c.questions) {
-    if ((q.stem + q.topic + q.level1 + q.level2).includes(t))
-      out.push({ txt: `<b>[${q.id} — ${esc(q.topic)}]</b> ${esc(q.stem.slice(0, 90))}…`, act: `nav('emery',${c.chapter_no});setTimeout(()=>document.getElementById('q_${q.id}')?.scrollIntoView({behavior:'smooth'}),300)` });
+  for (const [key, label] of [["emery_bank","emery"],["harper_bank","harper"]]) {
+    for (const c of (BANK[key]||[])) for (const q of c.questions) {
+      if ((q.stem + q.topic + q.level1 + q.level2).includes(t))
+        out.push({ txt: `<b>[${q.id} — ${esc(q.topic)}]</b> ${esc(q.stem.slice(0, 90))}…`, act: `nav('${label}',${c.chapter_no});setTimeout(()=>document.getElementById('q_${q.id}')?.scrollIntoView({behavior:'smooth'}),300)` });
+    }
   }
   $("#searchResults").innerHTML = out.slice(0, 40).map(o => `<div class="sr-item" onclick="closeSearch();${o.act}">${o.txt}</div>`).join("") || '<div class="sr-item">نتیجه‌ای یافت نشد</div>';
 }
@@ -294,6 +333,7 @@ function nav(page, a, b) {
   if (page === "home") vHome();
   else if (page === "syllabus") vSyllabus(a !== undefined ? Number(a) : undefined, b);
   else if (page === "emery") vEmery(a !== undefined ? Number(a) : undefined);
+  else if (page === "harper") vHarper(a !== undefined ? Number(a) : undefined);
   else if (page === "english") vEnglish(a);
   else if (page === "quiz") vQuiz();
 }

@@ -1,0 +1,137 @@
+{
+  "book_id": "harper", "chapter_no": 37,
+  "chapter_title_en": "Protein Synthesis & the Genetic Code",
+  "chapter_title_fa": "فصل ۳۷ هارپر: سنتز پروتئین و کد ژنتیکی", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "hp37-1", "topic": "کد ژنتیکی", "difficulty": "medium",
+      "stem": "کدام اسید آمینه تنها یک کدون دارد و کدام کدون‌ها خاتمه‌دهنده‌اند؟",
+      "options": [
+        "متionین (AUG؛ هم آغاز) و تریپتوفان (UGG) تک‌کدون؛ خاتمه: UAA، UAG، UGA",
+        "لوسین تک‌کدون",
+        "آلانین تک‌کدون",
+        "خاتمه AUG فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. AUG (Met/آغاز) و UGG (Trp) تنها تک‌کدون‌ها؛ UAA/UAG/UGA خاتمه؛ کد: سه‌تایی، بی‌هم‌پوشان، با واو (degenerate؛ اغلب در جایگاه سوم)، (تقریباً) جهانی (استثنای میتوکندری انسانی: UGA=Trp؛ AGA/AGG=Stop)، خطاپذیری با میسنس/نونسنس/فریم‌شیفت.",
+      "level2": "درسنامه: کد ژنتیکی (مرور آزمونی): — چیدمان: ساختار کدون (خوانش ۵→۳ mRNA؛ آنتی‌کدون antiparallel)؛ کمربند wobble (جایگاه سوم؛ G-U مجاز؛ I با U/C/A)؛ tRNA تعداد (~۴۱-۴۶؛ کمتر از ۶۱ کدون به‌دلیل wobbling)؛ — suppresor tRNA (نونسنس read-through؛ بیماری)؛ — کاربرد آزمونی: از DNA به پروتئین محاسبه (الگوی برعکس؛ کارکردی: mutagenesis سایت-جهت‌دار)؛ — آنتی‌بیوتیک-کد: پورومایسین (شبیه آمینواسیل-tRNA 3′؛ ترلوال زنجیره در همه)؛ — سوال طرح: «کدون آغاز؟» AUG؛ «استثنای mtDNA؟» UGA=Trp."
+    },
+    {
+      "id": "hp37-2", "topic": "مراحل ترجمه", "difficulty": "hard",
+      "stem": "کدام فاکتور آغاز یوکاریوتی مسئول شناسایی کپ و تجمع کمپلکس آغاز ۴۸S است و با GTP عمل می‌کند؟",
+      "options": [
+        "eIF4E (کپ-اتصال) + eIF4G (اسکافولد) + eIF2-GTP-Met-tRNAi (اجماع 43S)؛ scanning تا AUG با Kozak (GCCAUGG)",
+        "eEF1α",
+        "eRF1",
+        "peptidyl transferase"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. آغاز یوکاریوت: 43S (40S+eIF1/1A/3+eIF2-GTP-Met-tRNAi) → با eIF4F (4E کپ/4G/4A) اتصال → scan → AUG در Kozak → eIF5-GTP hydrolysis → 60S join (eIF5B)؛ تنظیم نقطه کلیدی: فسفوریلاسیون eIF2α (stress/IFN؛ جهش در HSV)؛ mTOR→4E-BP؛",
+      "level2": "درسنامه: ترجمه — تنظیم (مرور آزمونی): — eIF2α kinases: HRI (هِم)، PKR (dsRNA/viral)، PERK (ER stress)، GCN2 (AA کم)؛ فسفوریلاسیون → ترجمه جهانی کم (و ATF4 خاص)؛ — mTORC1: 4E-BP1 فسفریل→آزاد 4E؛ S6K1؛ رگولاتور رشد؛ مهار: rapamycin/everolimus؛ — IRES (کپ-مستقل؛ poliovirus؛ بعضی سلولی stress)؛ — بالینی: EVER؟؛ — سوال طرح: «کدام کمپلکس eIF2α فسفریله می‌کند در ویروس؟» PKR؛ «IRES چه؟» آغاز کپ-مستقل."
+    },
+    {
+      "id": "hp37-3", "topic": "طویل‌شدن", "difficulty": "medium",
+      "stem": "در فاز طویل‌شدن، کدام فاکتور با هیدرولیز GTP وارد کردن aminoacyl-tRNA به سایت A را تسهیل می‌کند؟",
+      "options": [
+        "eEF1A-GTP (اتصال aa-tRNA؛ در پروکاریوت EF-Tu)؛ eEF2-GTP جای‌جایی (translocation؛ مهار با دیفتریا toxin ADP-ریبوزیله)",
+        "eIF2",
+        "eRF3 تنها",
+        "پپتیدیل ترانسفراز خودش"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. چرخه: aa-tRNA+eEF1A-GTP→سایت A (دقت: proofreading غیرریبوزومی با GTP)؛ پپتیدیل ترانسفراز (مرکز ریبوزوم؛ 28S rRNA ریبوزیم!)→جای‌جایی با eEF2-GTP؛ دیفتری toxin: ADP-ریبوزیلاسیون eEF2 (diphthamide) → ترجمه صفر؛ Pseudomonas exotoxin A همان‌طور.",
+      "level2": "درسنامه: آنزیم مرکزی و داروها (مرور آزمونی): — پپتیدیل ترانسفراز = rRNA (23S/28S؛ آلفا-آمانیتین حساس نیست)؛ مهار: کلرامفنیکل (50S؛ peptidyl transferase؛ آپلاستیک آنمی نادر)؛ لینزولید (50S؛ oxazolidinone؛ MAO-I خطر)؛ ماکرولید (exit tunnel؛ 50S)؛ آمینوگلیکوزید (30S؛ misreading؛ قدرت باکتوله؛ ototox/nephrotox)؛ تتراسایکلین (30S aa-tRNA A-site)؛ سایکلهگزیمید (60S یوکار)؛ — توکسین‌ها: دیفتری؛ شیگا (60S depurination N-glycosidase: ricin همان)؛ — سوال طرح: «دیفتری هدف؟» eEF2؛ «کلرامفنیکل مکان؟» پپتیدیل ترانسفراز 50S."
+    },
+    {
+      "id": "hp37-4", "topic": "خاتمه", "difficulty": "medium",
+      "stem": "پروتئین‌های آزادسازی ترجمه یوکاریوتی کدام‌اند و کدام به‌صورت مستقیم کدون خاتمه را می‌شناسند؟",
+      "options": [
+        "eRF1 (شناسایی هر سه stop؛ ساختار mimic tRNA) + eRF3-GTP (هیدرولیز؛ آبشار)؛ پروکاریوت: RF1 (UAA/UAG)، RF2 (UAA/UGA)، RF3",
+        "eEF2",
+        "Release factor در ریبوزوم جا ندارد",
+        "پپتیداز مستقل"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. eRF1: mimic tRNA شکل؛ همکاری ABCE1 (ATPase؛ recycling)؛ پس از آزادسازی: ریبوزوم جداشدگی؛ نونسنس read-through در جهش‌های نادر (فتن؟ آتالورن داده متوسط)؛",
+      "level2": "درسنامه: خاتمه و کیفیت (مرور آزمونی): — NMD (nonsense-mediated decay): exon junction complex downstream از stop نابجا → UPF؛ ژن‌های همکار؛ اهمیت بالینی: PTC جهش‌ها (DMD؛ β-thal) → تخریب mRNA → severity؛ — nonsense suppression درمانی: آتالورن (DMD؛ بحث اثربخشی)؛ گنتامایسن (تجربی)؛ — NGD/NSD (no-go/nonstop)؛ — سوال طرح: «eRF1 شبیه چه؟» tRNA؛ «NMD کجا stop نابجا را می‌شناسد؟» EJC بعد از کدون خاتمه عادی (>50-55nt)."
+    },
+    {
+      "id": "hp37-5", "topic": "آمینواسیل-tRNA سنتتاز", "difficulty": "hard",
+      "stem": "آمینواسیل-tRNA سنتتازها چگونه دقت (fidelity) را تضمین می‌کنند؟",
+      "options": [
+        "دو مرحله: آدنیلاسیون (AA+ATP) + انتقال به tRNA (3′-CCA)؛ + ویرایش (editing) در سینتیتازهای خاص (hydrolytic pocket؛ مثلا IleRS valine را می‌شمارد و اصلاح می‌کند ~۱۰⁻⁴ خطا)؛ identity elements tRNA (آنتی‌کدون/acceptor)",
+        "با proofreading ریبوزوم",
+        "با RNA pol",
+        "تصادف"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. aaRS: ۲۰ آنزیم (دسته I/II)؛ accuracy خطای ~۱۰⁻⁴؛ editing site (double-sieve؛ IleRS/ThrRS/ValRS/AlaRS/ProRS)؛ غیر ریبوزومی دقت — اولین لایه؛ خیلی‌ها هم مسیرهای غیر-استاندارد (Gln/Gly از مسیر غیرمستقیم در ارگانیسم‌های خاص).",
+      "level2": "درسنامه: aaRS و بالینی (مرور آزمونی): — آنتی‌بیوتیک: mupirocin (IleRS؛ استاف)؛ borrelidin (ThrRS)؛ indolmycin (TrpRS)؛ — بیماری‌های ژنی: Charcot-Marie-Tooth (GARS/AARS/YARS...؛ dominant نئو-مورفین)؛ لکودیستروفی میتوکندریال (DARS2؛ LBSL)؛ — سازوکار: سرعت پاسخ vaccination؛ اتصال به EF؛ — سوال طرح: «آنتال؟»؛ «mupirocin مهار کدام؟» IleRS استافیلوکوک."
+    },
+    {
+      "id": "hp37-6", "topic": "سیگنال پپتید", "difficulty": "medium",
+      "stem": "پروتئین ترشحی نو-ساخته چگونه به ER هدایت می‌شود؟",
+      "options": [
+        "سیگنال پپتید N-ترمینال (هیدروفوبیک core؛ SRP شناسایی → گیرنده SR در ER → translocon Sec61 → پپتیداز سیگنال برش)؛ هم‌ترجمه‌ای (co-translational)",
+        "پس از ترجمه کامل با Hsp90",
+        "از راه هسته",
+        "با لیزوزوم"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. مسیر کلاسیک: SRP (7SL RNA+6 پروتئین؛ شناسایی hydrophobic در exit site؛ توقف موقت)؛ SRP receptor؛ Sec61؛ سیگنال برش؛ گلیکوزیلاسیون N-متصل (اسپاراژین در NexT/S)؛ folding با BiP؛ misfolded→ERAD (retrotranslocation؛ ubiquitin؛ proteasome).",
+      "level2": "درسنامه: هدف‌گیری پروتئین (مرور آزمونی): — مسیرها: ER-secratory (سیگنال)؛ میتوکندری (presequence/TOM-TIM؛ Hsp70)؛ پراکسیزوم (PTS1-SKL/PTS2؛ PEX5/7)؛ هسته (NLS؛ importin؛ ران-گستگی)؛ لیزوزوم آنزیم‌ها (M6P؛ کلیز؛ نقص=I-cell)؛ — بالینی: α1-antitrypsin Z (ER retention؛ emphysema/hepatitis)؛ CFTR ΔF508 (ERAD)؛ — داروها: ERAD modulator (corrector elexacaftor)؛ — سوال طرح: «SRP از چه RNA؟» 7SL؛ «M6P برچسب کدام بیماری را می‌سازد؟» I-cell (GNPTAB)."
+    },
+    {
+      "id": "hp37-7", "topic": "پس-ترجمه‌ای چaperone", "difficulty": "easy",
+      "stem": "Hsp70 چگونه به تاخوردگی کمک می‌کند؟",
+      "options": [
+        "چرخه ATP: اتصال به رشته نو-ساخته (هیدروفوبیک) → ATP هیدرولیز (Hsp40 co-chaperone) → جابه‌جایی → NEF آزادسازی؛ ضد-تجمیع (پیش‌گیری از aggregation)",
+        "برش پروتئین",
+        "گلیکوزیلاسیون",
+        "فسفوریلاسیون پروتئین نو"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Hsp70 (DnaK؛ BiP در ER) — انرژی-مصرف؛ Hsp60/GroEL «قفس» (ISCAT؟ 7×2 حلقه؛ ATP)؛ Hsp90 (گیرنده‌ها/کینازها؛ geldanamycin مهار آزمایشی آنتی‌سرطان)؛ small Hsp (αB-crystallin؛ بدون ATP)؛ بیماری‌های تاخوردگی: amyloid/CF/Parkinson.",
+      "level2": "درسنامه: پروتئوستازیس (مرور آزمونی): — UPS (فصل ۹) + اتوفاژی (لیزوزوم؛ LC3؛ p62؛ مهار با mTOR؛ starvation)؛ — ER stress/UPR (BiP/GRP78؛ PERK/eIF2α؛ IRE1/XBP1؛ ATF6) → دیابت/تومور/ neurodegeneration؛ — داروها/مواد: تاسیس؟؛ proteostasis ضعیف سالمندی؛ — سوال طرح: «BiP کجاست؟» ER lumen؛ «UPR سنسور PERK چه مهار می‌کند؟» eIF2α (ترجمه کم)."
+    },
+    {
+      "id": "hp37-8", "topic": "مهارکننده‌های ترجمه بالینی", "difficulty": "hard",
+      "stem": "کدام مهارکننده ترجمه به‌طور ویژه ریبوزوم یوکاریوتی را هدف می‌گیرد و در تحقیق بسیار استفاده می‌شود؟",
+      "options": [
+        "سیکلوهگزیمید (60S؛ translocation/eEF2 مشابه)؛ پورومایسین (هر دو؛ زنجیره‌خاتحه شبه-aa-tRNA)؛ آنیسومایسن (شبیه)",
+        "کلرامفنیکل (یوکار)",
+        "تتراسایکلین (یوکار)",
+        "استرپتومایسن (یوکار)"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. یوکار-اختصاصی آزمایشگاهی: سایکلهگزیمید/انیسومایسن (پروتئین‌سنتز study؛ runoff assay)؛ پروکاریوت-اختصاصی: کلرامفنیکل/تتراسایکلین/آمینوگلیکوزید/ماکرولید/لینزولید؛ فراگیر: پورومایسین؛ ضدتومور همیشه؟ homoharringtonine (CML؛ 60S)؛",
+      "level2": "درسنامه: آنتی‌بیوتیک‌های ضدریبوزوم (جدول حفظی آزمونی): — 30S: آمینوگلیکوزید (جهش‌خوانی؛ استرپتو/ژنتا؛ کشنده هوازی؛ کاهش جذب در بی‌هوازی/اسید)؛ تتراسایکلین (tRNA A-site؛ داکسی)؛ — 50S: ماکرولید (azithro؛ exit)؛ کلرامفنیکل (PTase)؛ لینزولید (PTase/initiation؛ VRE/MRSA)؛ کولیستین غشا (نه ریبوزوم)؛ — انتخابی‌بودن مبنای درمان؛ میتوکندری سمیت مشابه یوکار (کلرامفنیکل آپلاستیک آنمی؛ لینزولید میلوپرسیون طولانی)؛ — سوال طرح: «کدام یوکار-اختصاصی؟» سایکلهگزیمید؛ «آمینوگلیکوزید اثر؟» misreading (کشنده)."
+    },
+    {
+      "id": "hp37-9", "topic": "جهش‌ها و ترجمه", "difficulty": "hard",
+      "stem": "جهش نقطه‌ای که کدون (حاوی Glu) را به stop تبدیل می‌کند چه نوعی است و پیامد mRNA آن؟",
+      "options": [
+        "Nonsense → PTC → NMD (اگر EJC بالادست) → پروتئین ناتمام/بدون؛ بیماری‌ها: β-thal، DMD (خفیف‌تر از frameshift چون نقطه‌ای)؛ درمان‌های read-through",
+        "Missense",
+        "Silent",
+        "Frameshift"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. Nonsense: جانشینی به یکی از سه stop؛ NMD در بیشتر ( exon آخر/۵۰nt فرار)؛ امیب؟؛ PTC-near-start → NMD کمتر → پروتئین کوتاه dominant-negative گاهی؛ آتالورن تجربی (DMD nonsense؛ اروپا)؛ گنتامایسن.",
+      "level2": "درسنامه: انواع جهش در پروتئین (مرور آزمونی): — missense (conservative/non)؛ nonsense؛ frameshift (ins/del غیر مضرب ۳؛ به‌طور کلی شدید)؛ in-frame ins/del (خفیف‌تر؛ DMD Becker)؛ splice؛ start-loss؛ stop-loss (C-terminal extension؛ سرطان CTNNB1)؛ — یافته بیانی: NMD «مدیریت‌کننده شدت» (β-thal: nonsense → no β؛ mild اگر NMD-فرار؟)؛ — مهندسی: nonsense suppression amber؛ — سوال طرح: «کدام شدیدتر: frameshift یا nonsense؟» وابسته؛ «NMD شرط چیست؟» EJC >50-55nt بالادست از stop."
+    },
+    {
+      "id": "hp37-10", "topic": "اتحاد-پروتئین-مقصد", "difficulty": "medium",
+      "stem": "پروتئین‌های تومور-سرکوب‌گر وابسته به ترجمه؟ (نمونه ارتباط ترجمه-سرطان)",
+      "options": [
+        "eIF4E overexpression (تومورهای متاستاتیک؛ نکته آزمونی)؛ mTORC1 فعال (TSC/PTEN نقص)؛ MYC-افزایش ریبوزوم‌سازی؛ مهار: everolimus (TSC-SEGA)، ribociclib (نه — CDK4/6)",
+        "فقط p53",
+        "Rb تنها",
+        "BRCA فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "gزینه ۱ صحیح است. ترجمه-تنظیم در سرطان: eIF4E (کپ-محدود؛ MYC/Cyclin D1 mRNA-های پیچیده benefiting)؛ mTOR فعال (جهش PTEN/TSC1/2 → رشد؛ درمان mTORi)؛药剂: everolimus (TSC؛ RCC؛ ER+ پستان ترکیب)؛ omacetaxine (CML؛ 60S)؛ نو: eIF4E مهار (ribavirin بحث)؛",
+      "level2": "درسنامه: سوخت-ساز-ترجمه-سرطان (مرور روزآورد آزمونی): — MYC → nucleolus/rRNA؛ — inducible translation (uORF/IRES)؛ — stress granule؛ — selenoprotein (SECIS؛ uORF)؛ — کاربرد: puromycin assay (SUnSET)؛ polysome profiling؛ Ribo-seq؛ — سوال طرح: «کدام فاکتور کپ را می‌گیرد؟» eIF4E؛ «mTOR مهارکننده تأیید TSC؟» everolimus."
+    }
+  ]
+}

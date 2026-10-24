@@ -42,8 +42,8 @@ def syllabus_html():
         out.append(f'<h2 class="book-title">{esc(d["book_title_fa"])}</h2>')
         out.append(f'<p class="book-sub">{esc(d["book_title"])}</p>')
         for ch in d["chapters"]:
-            has_bank = (bid == "emery" and os.path.exists(os.path.join(CONTENT, "emery", f"ch{ch['no']:02d}.json")))
-            tick = ' <span class="tick">✔ بانک سوالات کامل در بخش دوم</span>' if has_bank else ""
+            has_bank = (bid in ("emery", "harper") and os.path.exists(os.path.join(CONTENT, bid, f"ch{ch['no']:02d}.json")))
+            tick = ' <span class="tick">✔ بانک سوالات کامل در بخش‌های دوم/سوم</span>' if has_bank else ""
             out.append(f'<div class="chapter-card"><h3 class="ch-title">فصل {ch["no"]}: {esc(ch["fa"])} <span class="en-small">{esc(ch["en"])}</span>{tick}</h3>')
             out.append('<table class="topics"><tr><th class="w30">موضوع</th><th class="w70">عنوان موضوع (اصطلاح کلیدی انگلیسی)</th><th>وزن آزمونی</th></tr>')
             for i, t in enumerate(ch["topics"], 1):
@@ -54,14 +54,14 @@ def syllabus_html():
     out.append("</section>")
     return "\n".join(out)
 
-# ---------- emery bank ----------
-def emery_html():
-    out = ['<section class="part" id="emery"><h1 class="part-title">بخش دوم: بانک سوالات پیش‌بینی‌شده — کتاب امری (۲۱ فصل، ۲۱۰ سوال با پاسخنامه دو سطحی)</h1>']
-    out.append('<p class="intro">هر سوال در سبک آزمون‌های سال‌های قبل طراحی شده است. پاسخنامه دو سطحی دارد: <b>سطح ۱</b> = پاسخ سریع به همراه دلیل رد سایر گزینه‌ها؛ <b>سطح ۲ = درسنامه</b> = مطالب کلیدی فصل به‌گونه‌ای که هر سوال مشابه‌ای که در آزمون مطرح شود قابل پاسخ‌گویی باشد.</p>')
-    files = sorted(glob.glob(os.path.join(CONTENT, "emery", "ch*.json")))
+# ---------- generic question bank ----------
+def bank_html(key, part_title, intro, ch_prefix):
+    out = [f'<section class="part" id="{key}"><h1 class="part-title">{part_title}</h1>']
+    out.append(f'<p class="intro">{intro}</p>')
+    files = sorted(glob.glob(os.path.join(CONTENT, key, "ch*.json")))
     for fp in files:
         d = load(fp)
-        out.append(f'<div class="q-chapter" id="em{d["chapter_no"]:02d}">')
+        out.append(f'<div class="q-chapter" id="{ch_prefix}{d["chapter_no"]:02d}">')
         out.append(f'<h2 class="book-title">فصل {d["chapter_no"]}: {esc(d["chapter_title_fa"].split(":",1)[-1].strip())}</h2>')
         out.append(f'<p class="book-sub">{esc(d["chapter_title_en"])} — وزن آزمونی فصل: {star(d["exam_weight"])}</p>')
         for q in d["questions"]:
@@ -83,9 +83,21 @@ def emery_html():
     out.append("</section>")
     return "\n".join(out)
 
+def emery_html():
+    return bank_html("emery",
+        "بخش دوم: بانک سوالات پیش‌بینی‌شده — کتاب امری (۲۱ فصل، ۲۱۰ سوال با پاسخنامه دو سطحی)",
+        "هر سوال در سبک آزمون‌های سال‌های قبل طراحی شده است. پاسخنامه دو سطحی دارد: <b>سطح ۱</b> = پاسخ سریع به همراه دلیل رد سایر گزینه‌ها؛ <b>سطح ۲ = درسنامه</b> = مطالب کلیدی فصل به‌گونه‌ای که هر سوال مشابه‌ای که در آزمون مطرح شود قابل پاسخ‌گویی باشد.",
+        "em")
+
+def harper_html():
+    return bank_html("harper",
+        "بخش سوم: بانک سوالات پیش‌بینی‌شده — بیوشیمی هارپر (۲۴ فصل پرتکرار، ۲۴۰ سوال با پاسخنامه دو سطحی)",
+        "فصل‌های پرتکرار بخش بیوشیمی آزمون دکتری تخصصی ژنتیک پزشکی از کتاب Harper's Illustrated Biochemistry — متابولیسم، آنزیم‌ها، بیوشیمی مولکولی، ویتامین‌ها، هورمون‌ها و بیوشیمی سرطان. پاسخنامه دو سطحی: <b>سطح ۱</b> = پاسخ سریع + رد گزینه‌ها؛ <b>سطح ۲</b> = درسنامه کامل شامل محاسبات و نکات دارویی-بالینی.",
+        "hp")
+
 # ---------- english ----------
 def english_html():
-    out = ['<section class="part ltr-wrap" id="english"><h1 class="part-title">بخش سوم: زبان تخصصی — ۱۲ ریدینگ استاندارد آزمون با پاسخ تشریحی و استراتژی</h1>']
+    out = ['<section class="part ltr-wrap" id="english"><h1 class="part-title">بخش چهارم: زبان تخصصی — ۱۲ ریدینگ استاندارد آزمون با پاسخ تشریحی و استراتژی</h1>']
     out.append('<p class="intro">پاساژها بر اساس مقالات موجود در پوشه Breast cancer سیستم شما و جدیدترین پیشرفت‌های ژنتیک/آنکولوژی (۲۰۲۴–۲۰۲۶) به سبک ریدینگ‌های آزمون دکتری تخصصی بازنویسی شده‌اند. پاساژ انگلیسی چپ‌به‌راست و توضیحات فارسی راست‌به‌چپ است.</p>')
     for part in sorted(glob.glob(os.path.join(CONTENT, "english", "readings_part*.json"))):
         d = load(part)
@@ -191,7 +203,8 @@ def main():
   <div class="box">
     <div>بخش اول: سیلابس ۲۰ موضوعی × ۹۴ فصل از ۵ منبع اصلی (۱٬۸۸۰ موضوع)</div>
     <div>بخش دوم: کتاب امری — ۲۱ فصل، ۲۱۰ سوال چهارگزینه‌ای + پاسخنامه دو سطحی</div>
-    <div>بخش سوم: زبان تخصصی — ۱۲ ریدینگ + ۶۰ سوال + استراتژی پاسخ‌دهی + واژگان</div>
+    <div>بخش سوم: بیوشیمی هارپر — ۲۴ فصل پرتکرار، ۲۴۰ سوال + پاسخنامه دو سطحی</div>
+    <div>بخش چهارم: زبان تخصصی — ۱۲ ریدینگ + ۶۰ سوال + استراتژی پاسخ‌دهی + واژگان</div>
   </div>
   <div class="meta">
     منابع: امری ۱۶ | استراچن HMG ۵ | استراچن GGM ۲ | براون | هارپر ۲۰۲۲<br>
@@ -203,7 +216,7 @@ def main():
     doc = ["<!DOCTYPE html><html lang='fa' dir='rtl'><head><meta charset='utf-8'>",
            "<title>بانک سوالات پیش‌بینی آزمون دکتری ژنتیک پزشکی</title>",
            f"<style>{CSS}</style></head><body>", toc,
-           syllabus_html(), emery_html(), english_html(), "</body></html>"]
+           syllabus_html(), emery_html(), harper_html(), english_html(), "</body></html>"]
     with open(OUT_HTML, "w", encoding="utf-8") as f:
         f.write("\n".join(doc))
     print("HTML written:", OUT_HTML, os.path.getsize(OUT_HTML)//1024, "KB")

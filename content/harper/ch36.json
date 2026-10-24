@@ -1,0 +1,132 @@
+{
+  "book_id": "harper", "chapter_no": 36,
+  "chapter_title_en": "RNA Synthesis, Processing, & Modification",
+  "chapter_title_fa": "فصل ۳۶ هارپر: سنتز، پردازش و اصلاح RNA", "exam_weight": 5,
+  "questions": [
+    {
+      "id": "hp36-1", "topic": "RNA پلیمرازها", "difficulty": "medium",
+      "stem": "کدام RNA پلیمراز یوکاریوتی مسئول رونویسی mRNA پیش‌ساز و هدف مهار اختصاصی α-amanitin است؟",
+      "options": ["Pol I", "Pol II (مهار با α-amanitin غلظت کم)", "Pol III", "mitochondrial polymerase"],
+      "answer_idx": 1,
+      "level1": "گزینه ۲ صحیح است. Pol II: mRNA/miRNA/snRNA؛ حساس α-amanitin (قارچ Amanita؛ LD مهار کامل)؛ Pol I: rRNA 45S (غیرحساس)؛ Pol III: tRNA/5S (حساس غلظت بالا)؛ mito POLRMT. پروکاریوت: یک RNA pol (ریفامپین-حساس؛ نکته دارویی).",
+      "level2": "درسنامه: آنزیم‌های رونویسی (جدول آزمونی): — Pol II ساختار: ۱۲ زیر واحد؛ CTD (Ser2/Ser5 فسفوریلاسیون: Ser5 آغاز/کپینگ؛ Ser2 طویل‌شدن/پردازش — نکته ظریف آزمونی)؛ — مهارگرها: α-amanitin (Pol II)؛ ریفامپین (باکتری β-subunit؛ تبرکلوز)؛ actinomycin D (intercalate؛ Pol I/II ترجیح؛ تومور)؛ — فاکتورهای عمومی: TFIIH (helicase/CDK7؛ هم NER!)؛ TBP/TFIID؛ TFIIB؛ — مسیر گفتگو: تا rRNA ساخت؛ — سوال طرح: «ریفامپین هدف؟» RNA pol باکتری β؛ «α-amanitin؟» Pol II."
+    },
+    {
+      "id": "hp36-2", "topic": "پروموترها", "difficulty": "hard",
+      "stem": "کدام عنصر پروموتری یوکاریوتی در ~۲۵ نوکلئوتید بالادست جایگاه آغاز (TATAAT پستانداران؟ نه: TATA) قرار دارد و به TBP متصل می‌شود؟",
+      "options": [
+        "TATA box (TATAAA؛ ~-25؛ TBP of TFIID؛ ISK)؛ خانه‌keeperها اغلب CpG island با GC box/Sp1",
+        "CAAT فقط",
+        "enhancer",
+        "insulator"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. TATA box: اتصال TBP (خم‌کردن DNA)؛ نشانه آغاز دقیق؛ GC box (Sp1) و CAAT (NF1/CTF) عناصر بالادستی معمول؛ در پروکاریوت: -10 Pribnow (TATAAT) و -35 (TTGACA؛ سیگما فاکتور شناسایی).",
+      "level2": "درسنامه: عناصر cis رونویسی (مرور آزمونی): — هسته پروموتر: TATA/Inr/DPE/BRE؛ — proximal: GC/CAAT/Oct؛ — enhancer/silencer: دور/جهت‌مستقل؛ LCR؛ insulator/CTCF؛ ریسپانسیو (HRE؛ PRE؛ E-box بای-helix-LOOP-helix)؛ — فاکتورهای trans: мотив‌های DNA-binding (zinc finger؛ helix-turn-helix؛ leucine zipper/bZIP؛ HLH؛ β-sheet TBP)؛ — تنظیم رونویسی درد در سرطان: ER/AR/VDR (nuclear receptors؛ HRE)؛ c-Myc/E2F؛ NF-κB؛ — سوال طرح: «-10 باکتری؟» Pribnow؛ «motif پروتئین-پروتئین dimerization؟» zipper/HLH."
+    },
+    {
+      "id": "hp36-3", "topic": "کپ و poly-A", "difficulty": "medium",
+      "stem": "کپ ۵′ mRNA یوکاریوتی چه ساختار و کارکردی دارد؟",
+      "options": [
+        "۷-متیل‌گوانوزین با پیوند ۵′→۵′ تری‌فسفاتی؛ کارکردها: حفاظت از اگزونوکلئاز، اتصال ریبوزوم (eIF4E)، خروج هسته، splicing اولین اینترون",
+        "پلی‌A در ۵′",
+        "پیوند دی‌سولفید",
+        "کدون آغاز"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. کپینگ هم‌زمان شروع رونویسی (پس از ~۲۵-۳۰nt؛ Ser5-CTD):磷酸تریesterase؟ مهندسی‌وار؛ capping enzyme (triphosphatase+guanylyltransferase)؛ methyltransferase (SAM)؛ mRNAهای پولیوم ویروس کپ ندارند (الگو)؛ mRNA واکسن‌ها: cap-1 (anti-RIG-I) — نکته روزآورد.",
+      "level2": "درسنامه: پردازش ۵′/۳′ (مرور آزمونی): — پلی‌آدنیلاسیون: سیگنال AAUAAA (~۱۰-۳۰nt قبل برش) + GU-rich downstream؛ CPSF برش؛ PAP ~۲۵۰A؛ PABP (پایداری/ترجمه)؛ جایگزینی poly-A در ترجمه (mRNA واکسن؛ PABPC)؛ — موتور خروج: TREX/NXF1؛ — بیماری: thalassemia جهش polyA سیگنال → β-thal؛ — دارویی: oligo-dT پرایمر (RT)؛ — سوال طرح: «پیوند کپ؟» ۵′-۵′ triphosphate؛ «سیگنال پلی‌آدنیلاسیون؟» AAUAAA."
+    },
+    {
+      "id": "hp36-4", "topic": "اسپلایسوزوم", "difficulty": "hard",
+      "stem": "کدام snRNP اول به سایت دهنده ۵′ (GU) متصل می‌شود و مسیر اسپلایسوزومی U2 به برنچ‌پوینت چه نوکلئوتییدی را ایجاد می‌کند؟",
+      "options": [
+        "U1 به 5′ donor؛ U2 به برنچ A؛ سپس U4/U5/U6 (tri-snRNP) → لایگاز-مانند دو ترانسترستریفیکاسیون؛ لاریات (lariat) اینترون",
+        "U2 اول؛ U1 به برنچ",
+        "U6 تنها",
+        "polyA polymerase"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. دو واکنش ترانس‌استریفیکاسیون: (۱) ۲′OH آدنین برنچ → سایت ۵′ → لاریات؛ (۲) ۳′OH اگزون ۱ → سایت ۳′ اگزون ۲ → اتصال + آزاد شدن لاریات؛ توالی‌ها: 5′ GU...AG 3′؛ polypyrimidine tract؛ برنچ‌پوینت؛ snRNPها + پروتئین‌های SR (E-site؛ splicing enhancers)؛",
+      "level2": "درسنامه: اسپلایسینگ (مرور آزمونی): — انواع: constitutive vs alternative (اکزون skipping/ mutually exclusive/ 5′ or 3′ alternative site/retained intron؛ سهم ~۹۵٪ ژن‌های چنداگزونی → پروتئین‌های isoform؛ سرطان: SF3B1/SRSF2 mutations — نکته روزآورد myelodysplasia)؛ — اسپلایس خارج‌هسته‌ای فرعی: minor U12؛ — مهارگر: spliceostatin/FR901464؛ pladienolide (E7107)؛ — داروهای اسپلایس-محور: nusinersen/risdiplam (SMA؛ SMN2 exon 7)؛ — بیماری: β-thal IVS جهش‌ها؛ CF splicing؛ retinitis (CERKL؟)؛ — سوال طرح: «لاریات از چه ساخته؟» اینترون؛ «جهش SF3B1 در چه؟» MDS/CMML (ring sideroblasts!)."
+    },
+    {
+      "id": "hp36-5", "topic": "RNA editing و اصلاح", "difficulty": "hard",
+      "stem": "ویرایش RNA (A-to-I) توسط کدام آنزیم خانواده و چه پیامدی دارد؟",
+      "options": [
+        "ADAR (adenosine deaminase acting on RNA؛ dsRNA-محور)؛ بازخوانی رونوشت (recoding؛ مثلاً گیرنده‌های گلوتامات/سرotonin؛ متنوع)؛ ناشناخته در تومور تغییرات؛ + ویرایش C-to-U (APOBEC؛ ApoB mRNA CAA→UAA stop در روده — نمونه کلاسیک)",
+        "DNA methyltransferase",
+        "RNase P",
+        "ligase"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ADAR: دآمیناسیون آدنوزین→اینوزین (خوانده‌شده به‌عنوان G)؛ در ژنوم برای مقایسه RNA-DNA mismatch؛ APOBEC1: ApoB C→U (کبد ApoB100 → روده ApoB48)؛ APOBEC3: DNA سوماتیک (برای آنتی‌ویروس)؛ signature SBS2/13 در سرطان — اتصال ژنومیک-سرطان آزمونی.",
+      "level2": "درسنامه: اصلاحات RNA (مرور آزمونی): — کپ/پلی‌A (بالا)؛ — متیلاسیون: m⁶A (نوشتن METTL3/خواندن YTHDF؛ پایداری/ترجمه؛ نکته روزآورد سرطان)؛ m⁵C؛ 2′-O-Me (rRNA؛ fibrillarin)؛ — pseudouridine (H/ACA؛ رRNA/tRNA؛ در واکسن mRNA N1-methylpseudouridine برای کاهش ایمنی‌زایی — نکته واکسن آزمونی!)؛ — tRNA اصلاحات (wobble درونوسیون؛ queuosine؛ نقص‌ها → mitochondrial disease)؛ — RNA editing بالینی: ApoB؛ GLI1؛ AZIN1؛ سرطان ADAR overactivity؛ — سوال طرح: «ApoB48 چگونه؟» C-to-U editing (APOBEC1)؛ «m⁶A writer؟» METTL3."
+    },
+    {
+      "id": "hp36-6", "topic": "miRNA بیوژنز", "difficulty": "hard",
+      "stem": "مسیر بیوژنز miRNA شامل چه مراحل آنزیمی است؟",
+      "options": [
+        "pri-miRNA (Pol II) → Drosha/DGCR8 (هسته؛ pre-miRNA حلقه‌سنجاقی) → Exportin-5 → Dicer (سیتوپلاسم؛ ~22nt دوباندی) → RISC/Ago2 (استراند راهنما) → هدف‌گیری 3′UTR mRNA",
+        "Drosha در سیتوپلاسم",
+        "بدون Dicer",
+        "RNA pol III همیشه"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. miRNA: ۵′UTR-هدف (معمولا ۳′UTR؛ جفت‌شدن ناقص seed)؛ مهار ترجمه/پایداری؛mirtrons (بypass Drosha)؛ Ago2 slicer در جفت‌شدن کامل؛ کاربرد بالینی: miRNA signatures تومور؛ داروها: RG-101 (HCV؛ این دوز؛ retinal بحث)؛",
+      "level2": "درسنامه: RNAi و کاربردها (مرور آزمونی): — siRNA (exogenous؛ RISC cleavage)؛ miRNA (endogenous؛ ~۲۶۰۰ انسان؛ هر یک صدها هدف؛ شبکه‌ها)؛ — ابزار: shRNA/CRISPRi؛ داروهای siRNA (patisiraninclisiran؛ GalNAc)؛ ASO (نوسینرزن؛ mipomersen قدیم)؛ — بالینی: oncomiR (miR-21؛ miR-155)؛ tumor suppressor (miR-15/16 در CLL del13q — نکته کلاسیک)؛ let-7/RAS؛ miR-34a (p53)؛ — سوال طرح: «Dicer کجا؟» سیتوپلاسم؛ «miR-15/16 در CLL؟» del 13q14 (tumor suppressor)."
+    },
+    {
+      "id": "hp36-7", "topic": "tRNA پردازش", "difficulty": "medium",
+      "stem": "RNase P چه ویژگی منحصربه‌فردی دارد؟",
+      "options": [
+        "ریبوزیم (RNA کاتالیزور)؛ برش 5′ pre-tRNA (M1 RNA + پروتئین)؛ نمونه کلاسیک RNA world",
+        "پروتئین فقط",
+        "فعالیت ligase",
+        "در میتوکندری فقط"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. RNase P: ribozyme (زیرواحد RNA کاتالیزور)؛ پردازش tRNA؛ همچنین RNase MRP (rRNA). tRNA ماتورها: برش 5′/3′ (RNase P/ELAC2)؛ افزودن CCA؛ اصلاحات (~۱۰٪ نوکلئوتید)؛ splicing اینترون‌دار؛ آمینواسیلاسیون (aaRS؛ اثبات خطا)؛",
+      "level2": "درسنامه: tRNA و ترجمه-اتصال (مرور آزمونی): — ساختتا: cloverleaf/L؛ آنتی‌کدون؛ CCA 3′؛ — isoacceptor؛ wobbling (I درونوسیون؛ متیلاسیون)؛ — aaRS دسته I/II؛ editing site؛ درگیری DRAMA؟؛ — بالینی: نقص‌های mitochondrial aaRS (AR؛ میوپاتی/لکودیستروفی — مثال: DARS2 LBSL)؛ آنتی‌بیوتیک: mupirocin (IleRS)؛ borrelidin؛ furanomycin؛ — سوال طرح: «RNase P ماهیت؟» ریبوزیم؛ «mupirocin هدف؟» IleRS."
+    },
+    {
+      "id": "hp36-8", "topic": "rRNA و نوکلئولوس", "difficulty": "easy",
+      "stem": "rRNA ها در یوکاریوت از کدام پلیمراز و کدام مکان ساخته می‌شوند؟",
+      "options": [
+        "Pol I در نوکلئولوس (45S→28S+18S+5.8S)؛ 5S با Pol III خارج نوکلئولوس؛ snoRNA راهنمای 2′-O-Me/pseudouridine",
+        "Pol II؛ سیتوزول",
+        "همه Pol III در ER",
+        "میتوکندری"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. 45S pre-rRNA در نوکلئولوس (ORC قلمرو rDNA؛acrocentric 13-15,21,22)؛ پردازش با snoRNP (C/D box 2′-O-Me؛ H/ACA pseudouridine)؛ U3؛ 5S جدا؛ assembly 40S/60S با ریبوزومال پروتئین‌ها؛ نوکلئولوس=حالت کروماتین فعال (در میتوز محو/بازساخت).",
+      "level2": "درسنامه: ribosome بیوژنز و بالینی (مرور آزمونی): — بیماری‌های ribosomopathy (DBA/RPS19؛ Treacher-Collins/TCOF1؛ Shwachman-Diamond/SBDS؛ 5q- del RPS14) — نکته آزمونی: آنمی + نقص جمجمه‌ای/پانکراتیک؛ — دارویی: aktinomycin D (Pol I مهار؛ ترجیح rRNA)؛ CX-5461 (Pol I مهار؛ فاز سرطان)؛ — ربوستوم: اویکاریوت 80S (40/60)؛ باکتری 70S (30/50) — آنتی‌بیوتیک انتخابی (آمینوگلیکوزید/ماکرولید/تتراسایکلین/کلرامفنیکل)؛ — سوال طرح: «snoRNA چه می‌کند؟» راهنمای اصلاح rRNA؛ «TCOF1؟» Treacher-Collins."
+    },
+    {
+      "id": "hp36-9", "topic": "lncRNA", "difficulty": "hard",
+      "stem": "XIST چه نوع RNA و چه عملکردی دارد؟",
+      "options": [
+        "lncRNA (17kb؛ فقط از X خاموش‌شونده رونویسی؛ پوشش در cis؛ جذب PRC2/HDAC → کروماتین خاموش؛ مبنای Lyonization)",
+        "mRNA کدکننده پروتئین",
+        "tRNA",
+        "rRNA"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. XIST: نقاشی X غیرفعال (REP-A/REP-C؛ SHARP/SPEN → HDAC3؛ خم‌مصرف)؛ TSIX آنتی‌Sense (مهار در X فعال)؛ XIC مرکز کنترل؛ شمارش: X:A؛ کاندید انتخاب؛ lncRNA های شاخص دیگر: HOTAIR (PRC2招募؛ trans-سرکوب)؛ AIRN (ایمپرینت IGF2R)؛ NEAT1 (paraspeckle)؛ MALAT1.",
+      "level2": "درسنامه: lncRNA-ها (مرور روزآورد آزمونی): — طبقه: antisense/intronic/intergenic/enhancer-RNA (eRNA)؛ circular RNA (ciRS-7 miRNA sponge)؛ — کارکردها: scaffold/ guide/ decoy/ نقطه‌نمای؛ XIST نمونه؛ H19 (ایمپرینت؛ miR-675)؛ — بالینی: MALAT1 در متاستاز؛ HOTAIR در پستان؛ RNA-FISH تکنیک؛ — ابزار: antisense oligo گپمر؛ — سوال طرح: «XIST جهت؟» در cis؛ «TSIX چه می‌کند؟» مهار XIST (X فعال)."
+    },
+    {
+      "id": "hp36-10", "topic": "مقاومت دارویی رونویسی", "difficulty": "medium",
+      "stem": "ریفامپین و ریفابوتین در درمان چه عفونتی و با کدام هدف عمل می‌کنند؟",
+      "options": [
+        "توبرکلوز (و سفتریکس؟ لپروسی؛ H. influenzae prophylaxis)؛ مهار RNA پلیمراز وابسته DNA باکتری (β-subunit؛ مهار آغاز)",
+        "مهار DNA gyrase",
+        "مهار ریبوزوم",
+        "مهار فولات"
+      ],
+      "answer_idx": 0,
+      "level1": "گزینه ۱ صحیح است. ریفامپین: باکتری RNA pol β-subunit؛ استریل‌کننده سریع TB (کشتن نیمه‌آرام)؛ ترکیب (تک‌درمانی ممنوع؛ مقاومت rpoB سریع)؛ اثرات: اورانژ‌سازی ترشحات؛ القای قوی CYP3A4 (تداخل مهارکننده‌های پروتئاز/OCP)؛ ریفابوتین (کمتر القا؛ در HIV co-therapy)؛ ریفاپنتین دوز هفتگی.",
+      "level2": "درسنامه: داروهای رونویسی (مرور آزمونی): — ضدباکتری: rifamycins (بالا)؛ — ضدتومور: actinomycin D (intercalation؛ ویلمس/رابدومیوسارکوما)؛ ترانس‌کریپشن مهارکننده‌های جدید: CDK9 (dinaciclib)؛ BRD4 (JQ1؛ نمونه باکت BET)؛ — تحریک‌کننده: PMA (PKC؛ ابزار)؛ — سوال طرح: «رنگ نارنجی ادرار؟» ریفامپین؛ «القا CYP3A4؟» ریفامپین (تداخل AZT/PI)."
+    }
+  ]
+}

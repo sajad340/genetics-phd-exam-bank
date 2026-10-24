@@ -6,7 +6,7 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(BASE, "content")
 OUT = os.path.join(BASE, "app", "data", "bank.json")
 
-bank = {"version": "1.0.0", "generated": "2026-10-22", "books": [], "emery_bank": [], "english": []}
+bank = {"version": "2.0.0", "generated": "2026-10-24", "books": [], "emery_bank": [], "harper_bank": [], "english": []}
 
 BOOK_ORDER = ["emery", "hmg5", "strachan_ggm", "brown", "harper"]
 for bid in BOOK_ORDER:
@@ -15,9 +15,10 @@ for bid in BOOK_ORDER:
         with open(p, encoding="utf-8") as f:
             bank["books"].append(json.load(f))
 
-for p in sorted(glob.glob(os.path.join(CONTENT, "emery", "ch*.json"))):
-    with open(p, encoding="utf-8") as f:
-        bank["emery_bank"].append(json.load(f))
+for folder, key in [("emery", "emery_bank"), ("harper", "harper_bank")]:
+    for p in sorted(glob.glob(os.path.join(CONTENT, folder, "ch*.json"))):
+        with open(p, encoding="utf-8") as f:
+            bank[key].append(json.load(f))
 
 for p in sorted(glob.glob(os.path.join(CONTENT, "english", "readings_part*.json"))):
     with open(p, encoding="utf-8") as f:
@@ -27,5 +28,6 @@ os.makedirs(os.path.dirname(OUT), exist_ok=True)
 with open(OUT, "w", encoding="utf-8") as f:
     json.dump(bank, f, ensure_ascii=False)
 print("bank.json:", os.path.getsize(OUT)//1024, "KB |",
-      "books:", len(bank["books"]), "| emery chapters:", len(bank["emery_bank"]),
+      "books:", len(bank["books"]), "| emery:", len(bank["emery_bank"]),
+      "| harper:", len(bank["harper_bank"]),
       "| english parts:", len(bank["english"]))
