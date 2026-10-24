@@ -15,7 +15,7 @@ body{font-family:'Vazirmatn',Tahoma,sans-serif;background:var(--bg);color:var(--
 .view{padding:68px 12px 84px;max-width:860px;margin:0 auto}
 .tabbar{position:fixed;bottom:0;inset-inline:0;display:flex;background:#fff;border-top:1px solid #dfe5ef;box-shadow:0 -2px 10px rgba(0,0,0,.06);z-index:50;padding-bottom:env(safe-area-inset-bottom)}
 .tabbar button{flex:1;border:none;background:none;padding:7px 2px 6px;font-family:inherit;font-size:15px;color:var(--muted);display:flex;flex-direction:column;align-items:center;gap:1px;cursor:pointer}
-.tabbar button span{font-size:9.5px}
+.tabbar button span{font-size:9px}
 .tabbar button.active{color:var(--navy)}
 .tabbar button.active span{font-weight:700}
 .card{background:var(--card);border-radius:14px;padding:14px 16px;margin:10px 0;box-shadow:var(--shadow)}

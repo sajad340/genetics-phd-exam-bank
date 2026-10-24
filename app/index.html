@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#123c6b">
+<title>ژنتیک‌یار — بانک سوالات دکتری ژنتیک پزشکی</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="topbar">
+  <button class="menu-btn" id="btnHome" title="خانه">🧬</button>
+  <div class="title" id="topTitle">ژنتیک‌یار | بانک سوالات دکتری تخصصی ژنتیک پزشکی</div>
+  <button class="menu-btn" id="btnSearch" title="جستجو">🔍</button>
+</header>
+
+<main id="view" class="view"></main>
+
+<nav class="tabbar">
+  <button data-nav="home" class="active">🏠<span>خانه</span></button>
+  <button data-nav="syllabus">📚<span>سیلابس</span></button>
+  <button data-nav="emery">❓<span>امری</span></button>
+  <button data-nav="harper">🧪<span>بیوشیمی</span></button>
+  <button data-nav="english">🇬🇧<span>زبان</span></button>
+  <button data-nav="quiz">🎯<span>آزمون</span></button>
+</nav>
+
+<div id="searchModal" class="modal hidden">
+  <div class="modal-card">
+    <input id="searchInput" type="search" placeholder="جستجو در موضوعات، سوالات و پاسخ‌ها..." autocomplete="off">
+    <div id="searchResults" class="search-results"></div>
+    <button class="close-modal" onclick="document.getElementById('searchModal').classList.add('hidden')">بستن</button>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+<script src="js/app.js"></script>
+</body>
+</html>
