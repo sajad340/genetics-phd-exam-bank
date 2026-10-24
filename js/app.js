@@ -44,6 +44,7 @@ function vHome() {
     <div class="tile" onclick="nav('english')"><div class="ic">🇬🇧</div><b>زبان تخصصی</b><span>۱۲ ریدینگ + واژگان + استراتژی</span></div>
     <div class="tile" onclick="startQuiz(10,'emery')"><div class="ic">🎯</div><b>آزمون امری</b><span>۱۰ سوال تصادفی با نمره</span></div>
     <div class="tile" onclick="startQuiz(10,'harper')"><div class="ic">⚗️</div><b>آزمون بیوشیمی</b><span>۱۰ سوال تصادفی با نمره</span></div>
+    <div class="tile" onclick="window.open('Genetics-PhD-Exam-Bank.pdf','_blank')"><div class="ic">📄</div><b>فایل PDF کامل</b><span>نسخه ۵۲۵ صفحه‌ای — باز/دانلود</span></div>
   </div>
   <h2 class="sec">درباره این بانک</h2>
   <div class="card" style="font-size:13px">
@@ -342,7 +343,12 @@ $("#btnHome").onclick = () => nav("home");
 $("#btnSearch").onclick = () => { $("#searchModal").classList.remove("hidden"); $("#searchInput").focus(); };
 $("#searchInput").oninput = e => doSearch(e.target.value);
 
-fetch("data/bank.json").then(r => r.json()).then(d => { BANK = d; vHome(); }).catch(e => {
+fetch("data/bank.json").then(r => r.json()).then(d => {
+  BANK = d; vHome();
+  // پشتیبانی لینک مستقیم: #harper / #emery / #syllabus / #english / #quiz
+  const h = (location.hash || "").replace("#", "").split("/")[0];
+  if (["harper", "emery", "syllabus", "english", "quiz"].includes(h)) nav(h);
+}).catch(e => {
   view.innerHTML = '<div class="card">خطا در بارگذاری داده‌ها. اگر از file:// باز کرده‌اید، اپ را با یک سرور محلی (مثلاً <code>python -m http.server</code>) اجرا کنید یا نسخه آنلاین گیت‌هاب پیجز را باز کنید.</div>';
 });
 if ("serviceWorker" in navigator && location.protocol !== "file:") navigator.serviceWorker.register("sw.js").catch(() => {});
